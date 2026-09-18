@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-PMGSY",
+  "references": [
+    {
+      "act": "PMGSY guidelines (MoRD)",
+      "rule": "PMGSY operational manual",
+      "authority": "Ministry of Rural Development"
+    }
+  ]
+}

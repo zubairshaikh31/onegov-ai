@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-PMJAY",
+  "references": [
+    {
+      "act": "National Health Agency Act, 2018",
+      "rule": "PM-JAY guidelines",
+      "authority": "NHA"
+    }
+  ]
+}

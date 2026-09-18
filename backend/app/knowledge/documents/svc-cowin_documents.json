@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Aadhaar/ID",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

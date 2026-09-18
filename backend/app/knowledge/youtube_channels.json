@@ -1,0 +1,107 @@
+[
+  {
+    "id": "MEA",
+    "name": "Ministry of External Affairs, Govt of India",
+    "url": "https://www.youtube.com/@MEAIndia",
+    "official": true,
+    "department": "MEA"
+  },
+  {
+    "id": "PIB",
+    "name": "PIB India",
+    "url": "https://www.youtube.com/@PIBIndia",
+    "official": true,
+    "department": "Press Information Bureau"
+  },
+  {
+    "id": "MyGov",
+    "name": "MyGov India",
+    "url": "https://www.youtube.com/@mygovindia",
+    "official": true,
+    "department": "MyGov"
+  },
+  {
+    "id": "DigitalIndia",
+    "name": "Digital India",
+    "url": "https://www.youtube.com/@DigitalIndiaGov",
+    "official": true,
+    "department": "MeitY"
+  },
+  {
+    "id": "UMANG",
+    "name": "UMANG App",
+    "url": "https://www.youtube.com/@UMANGApp",
+    "official": true,
+    "department": "MeitY"
+  },
+  {
+    "id": "DigiLocker",
+    "name": "DigiLocker",
+    "url": "https://www.youtube.com/@digilocker_goi",
+    "official": true,
+    "department": "MeitY"
+  },
+  {
+    "id": "NIC",
+    "name": "National Informatics Centre",
+    "url": "https://www.youtube.com/@nicindia",
+    "official": true,
+    "department": "NIC"
+  },
+  {
+    "id": "NIELIT",
+    "name": "NIELIT India",
+    "url": "https://www.youtube.com/@nielitindia",
+    "official": true,
+    "department": "MeitY"
+  },
+  {
+    "id": "MoHFW",
+    "name": "Ministry of Health and Family Welfare",
+    "url": "https://www.youtube.com/@MoHFWIndia",
+    "official": true,
+    "department": "Health"
+  },
+  {
+    "id": "EPFO",
+    "name": "EPFO Social Media",
+    "url": "https://www.youtube.com/@EPFOIndia",
+    "official": true,
+    "department": "Labour"
+  },
+  {
+    "id": "MahaDBT",
+    "name": "Government of Maharashtra",
+    "url": "https://www.youtube.com/@maharashtragovt",
+    "official": true,
+    "department": "Maharashtra"
+  },
+  {
+    "id": "MoPR",
+    "name": "Ministry of Panchayati Raj",
+    "url": "https://www.youtube.com/@moPRIndia",
+    "official": true,
+    "department": "Panchayati Raj"
+  },
+  {
+    "id": "AgriMin",
+    "name": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://www.youtube.com/@AgriMinistry",
+    "official": true,
+    "department": "Agriculture"
+  },
+  {
+    "id": "MSDE",
+    "name": "Ministry of Skill Development",
+    "url": "https://www.youtube.com/@MSDEIndia",
+    "official": true,
+    "department": "Skill"
+  },
+  {
+    "id": "GSTN",
+    "name": "GSTN / CBIC",
+    "url": "https://www.youtube.com/@GSTNIndia",
+    "official": true,
+    "department": "Finance"
+  }
+]

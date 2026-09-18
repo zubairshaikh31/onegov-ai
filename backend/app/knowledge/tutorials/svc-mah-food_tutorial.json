@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "guide_md": "tutorials/md/svc-mah-food_guide.md",
+  "guide_html": "tutorials/html/svc-mah-food_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mah-food_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://mahafood.gov.in"
+  ]
+}

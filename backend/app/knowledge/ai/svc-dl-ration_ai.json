@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-DL-RATION",
+  "ai_summary": "Delhi e-District provides online ration cards and certificates for Delhi residents.",
+  "ai_explanation": "Delhi e-District portal for ration cards, certificates, and citizen services.",
+  "eligibility_summary": "Delhi residents as per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Delhi Ration Card / e-District",
+      "bot": "Delhi e-District provides online ration cards and certificates for Delhi residents. Apply: https://edistrict.delhigovt.nic.in. Helpline: 1076."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Delhi Ration Card / e-District. Use only official info from https://edistrict.delhigovt.nic.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-dl-ration",
+    "status_svc-dl-ration",
+    "eligibility_svc-dl-ration"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "DOB proof"
+  ],
+  "suggested_responses": [
+    "Visit https://edistrict.delhigovt.nic.in",
+    "Call 1076"
+  ],
+  "recommendation_weight": 1.0
+}

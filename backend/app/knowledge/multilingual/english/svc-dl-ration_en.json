@@ -1,0 +1,28 @@
+{
+  "name": "Delhi Ration Card / e-District",
+  "description": "Delhi e-District portal for ration cards, certificates, and citizen services.",
+  "benefits": "Online certificates, ration card, and department services.",
+  "eligibility": "Delhi residents as per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "DOB proof"
+  ],
+  "steps": [
+    "Register on edistrict.delhigovt.nic.in.",
+    "Apply for service; upload docs.",
+    "Track and download certificate."
+  ],
+  "faqs": [
+    "What is Delhi Ration Card / e-District?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "delhi edistrict",
+    "delhi ration",
+    "delhi certificate"
+  ]
+}

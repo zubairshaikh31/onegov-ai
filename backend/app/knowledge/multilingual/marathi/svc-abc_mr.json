@@ -1,0 +1,24 @@
+{
+  "name": "अकॅडमिक क्रेडिट बँक",
+  "description": "National digital storehouse of academic credits earned from HEIs, enabling transfer and accumulation.",
+  "benefits": "Store credits, transfer across institutions, flexible degree pathways.",
+  "eligibility": "Students of participating Higher Education Institutions.",
+  "documents": [
+    "Aadhaar / ABC ID",
+    "Student HEI enrollment"
+  ],
+  "steps": [
+    "Create ABC ID via abc.gov.in / institutional link.",
+    "HEI deposits earned credits.",
+    "View and manage credit stack.",
+    "Transfer/redeem per framework."
+  ],
+  "faqs": [],
+  "keywords": [
+    "abc",
+    "academic bank of credits",
+    "ugc",
+    "credit transfer",
+    "higher education"
+  ]
+}

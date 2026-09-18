@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-APPREN",
+  "keywords": [
+    "apprenticeship",
+    "nats",
+    "skill training",
+    "stipend"
+  ],
+  "search_keywords": [
+    "apprenticeship",
+    "nats",
+    "skill training",
+    "stipend"
+  ],
+  "aliases": [
+    "apprenticeship",
+    "nats",
+    "skill training",
+    "stipend"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want National Apprenticeship (Apprenticeship India)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply National Apprenticeship (Apprenticeship India)"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "name": "Aadhaar Enrolment & Update",
+  "category_id": "CAT-IDENTITY",
+  "sub_category": "Unique Identification",
+  "department_id": "DEP-MEITY",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+  "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+  "benefits": "Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+  "required_documents": [
+    "Proof of Identity (PoI)",
+    "Proof of Address (PoA)",
+    "Date of Birth proof"
+  ],
+  "optional_documents": [
+    "Introducer / Head of Family based enrolment where documents unavailable"
+  ],
+  "application_mode": "Offline (Enrolment Centre) and Online update (SSUP / mAadhaar)",
+  "application_steps": [
+    "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+    "Fill enrolment/update form and submit supporting documents.",
+    "Provide biometric (fingerprints, iris) and photograph.",
+    "Collect acknowledgement slip with Enrolment ID (EID).",
+    "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+  ],
+  "processing_time": "Enrolment: up to 90 days for UID generation (typically sooner). Update: up to 30 days.",
+  "fees": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule.",
+  "validity": "Lifelong (subject to deactivation for residents who acquire foreign citizenship).",
+  "official_portal": "https://uidai.gov.in",
+  "official_apply_link": "https://myaadhaar.uidai.gov.in",
+  "download_forms": "https://uidai.gov.in/enrolment-update/aadhaar-enrolment.html",
+  "helpline_number": "1947",
+  "email": "help@uidai.gov.in",
+  "office_locator_info": "Aadhaar Seva Kendra locator at https://bhuvan.uidai.gov.in/locator",
+  "faq": [
+    {
+      "q": "Is Aadhaar mandatory for all schemes?",
+      "a": "Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned."
+    },
+    {
+      "q": "How do I lock/unlock biometrics?",
+      "a": "Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app."
+    }
+  ],
+  "related_services": [
+    "SVC-DIGILOCKER",
+    "SVC-ESHRAM",
+    "SVC-PMKISAN"
+  ],
+  "keywords": [
+    "aadhaar",
+    "uidai",
+    "uid",
+    "enrolment",
+    "ekyc",
+    "biometric",
+    "identity"
+  ],
+  "languages_available": "Hindi, English and 21 scheduled languages on portal/app",
+  "last_updated": "2024-01-01",
+  "collection_method": "manual",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "source_url": "https://uidai.gov.in",
+  "ai_summary": "Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery.",
+  "ai_explanation": "Aadhaar links a resident's identity to demographic and biometric data. It is the foundational ID for Direct Benefit Transfer, opening bank accounts, filing taxes, and availing schemes. Enrolment is free; updates may carry a fee. It is not proof of citizenship.",
+  "common_questions": [
+    "How do I enrol for Aadhaar?",
+    "How do I update my address in Aadhaar?",
+    "Is Aadhaar mandatory for subsidies?",
+    "How do I download e-Aadhaar?",
+    "How do I apply for Aadhaar Enrolment / Update?",
+    "What documents are required for Aadhaar Enrolment / Update?",
+    "What is the fee for Aadhaar Enrolment / Update?",
+    "Who is eligible for Aadhaar Enrolment / Update?",
+    "How long does Aadhaar Enrolment / Update take to process?",
+    "What is the official website for Aadhaar Enrolment / Update?"
+  ],
+  "common_mistakes": [
+    "Assuming Aadhaar is proof of citizenship",
+    "Using unofficial paid agents instead of authorised centres",
+    "Not updating mobile number for OTP-based services"
+  ],
+  "search_keywords": [
+    "aadhaar enrolment near me",
+    "update aadhaar address",
+    "e aadhaar download",
+    "aadhaar status check"
+  ],
+  "suggested_followups": [
+    "How do I link Aadhaar to my bank account for DBT?",
+    "What documents are valid as Aadhaar PoA/PoI?"
+  ],
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Aadhaar Enrolment / Update?",
+      "What documents are required for Aadhaar Enrolment / Update?",
+      "What is the fee for Aadhaar Enrolment / Update?",
+      "Who is eligible for Aadhaar Enrolment / Update?",
+      "How long does Aadhaar Enrolment / Update take to process?",
+      "What is the official website for Aadhaar Enrolment / Update?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Aadhaar Enrolment / Update?",
+      "Can I track my Aadhaar Enrolment / Update application status online?",
+      "What should I do if my Aadhaar Enrolment / Update application is rejected?",
+      "Are there any state-specific rules for Aadhaar Enrolment / Update in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "aadhaar",
+      "enrolment",
+      "identity",
+      "kyc",
+      "uid",
+      "update"
+    ],
+    "content_hash": "e8491a29c81fd3e643fa0401932bf8f1f6c0a5678a0e0e015b87a861ec91d2a5",
+    "source_type": "html",
+    "version": 1
+  }
+}

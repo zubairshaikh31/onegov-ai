@@ -1,0 +1,24 @@
+{
+  "name": "राष्ट्रीय करिअर सेवा",
+  "description": "Online platform for job seekers and employers with job matching, career counselling, and training listings.",
+  "benefits": "Free job search, resume builder, career counselling, vacancy posting.",
+  "eligibility": "Any job seeker (citizen) or employer in India.",
+  "documents": [
+    "Mobile / email for registration",
+    "Aadhaar (optional for verification)"
+  ],
+  "steps": [
+    "Register as Job Seeker on ncs.gov.in.",
+    "Build profile / resume.",
+    "Search and apply to vacancies.",
+    "Attend counselling / interviews scheduled."
+  ],
+  "faqs": [],
+  "keywords": [
+    "ncs",
+    "national career service",
+    "job search",
+    "employment",
+    "career"
+  ]
+}

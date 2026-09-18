@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-RAKSHABANDHAN",
+  "guide_md": "tutorials/md/svc-rakshabandhan_guide.md",
+  "guide_html": "tutorials/html/svc-rakshabandhan_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-rakshabandhan_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.mygov.in"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "service_id": "SVC-BHIM",
+  "name": "BHIM / UPI (NPCI)",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Digital Payments",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Unified Payments Interface enabling instant bank-to-bank mobile payments.",
+  "eligibility": "Any Indian with a bank account and smartphone.",
+  "benefits": "Instant, low-cost digital payments.",
+  "required_documents": [
+    "Bank account",
+    "Mobile"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Install BHIM app.",
+    "Link bank + UPI PIN.",
+    "Send/receive money."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.bhimupi.org.in",
+  "official_apply_link": "https://www.bhimupi.org.in",
+  "download_forms": "https://www.bhimupi.org.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.bhimupi.org.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "BHIM/UPI is the government-backed instant mobile payment system.",
+  "ai_explanation": "Unified Payments Interface enabling instant bank-to-bank mobile payments.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

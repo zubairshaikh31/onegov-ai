@@ -1,0 +1,26 @@
+{
+  "name": "आयुष्मान भारत पीएम-जेएवाई",
+  "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+  "benefits": "Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+  "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+  "documents": [
+    "Ayushman card / ABHA",
+    "Eligibility confirmation (SECC/Rural-Urban)",
+    "ID proof (Aadhaar/Voter/ration)"
+  ],
+  "steps": [
+    "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+    "Visit Ayushman Bharat / CSC kendra with ID.",
+    "Create Ayushman card / e-card.",
+    "Visit empanelled hospital; show card at helpdesk.",
+    "Cashless admission and treatment; claim settled directly."
+  ],
+  "faqs": [],
+  "keywords": [
+    "pmjay",
+    "ayushman bharat",
+    "health insurance",
+    "cashless treatment",
+    "nha"
+  ]
+}

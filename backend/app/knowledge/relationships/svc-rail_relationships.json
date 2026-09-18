@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-RAIL",
+  "prerequisite": [
+    "SVC-AADHAAR"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-AADHAAR"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-RAIL -> SVC-AADHAAR"
+}

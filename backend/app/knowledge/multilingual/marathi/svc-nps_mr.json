@@ -1,0 +1,20 @@
+{
+  "name": "राष्ट्रीय पेन्शन व्यवस्था",
+  "description": "Voluntary pension system for all citizens.",
+  "benefits": "Market-linked retirement corpus.",
+  "eligibility": "Citizens 18-70.",
+  "documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "steps": [
+    "Open NPS account.",
+    "Contribute.",
+    "Withdraw at 60."
+  ],
+  "faqs": [],
+  "keywords": [
+    "nps",
+    "national pension"
+  ]
+}

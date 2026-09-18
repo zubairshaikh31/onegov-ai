@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-LADKI",
+  "guide_md": "tutorials/md/svc-mah-ladki_guide.md",
+  "guide_html": "tutorials/html/svc-mah-ladki_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mah-ladki_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2025-01-01",
+  "official_sources": [
+    "https://ladakibahin.maharashtra.gov.in"
+  ]
+}

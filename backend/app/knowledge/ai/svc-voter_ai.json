@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-VOTER",
+  "ai_summary": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP.",
+  "ai_explanation": "Any Indian citizen aged 18 can enrol in the electoral roll using Form 6 on NVSP. After BLO verification the name is added and an e-EPIC can be downloaded. The Voter ID also works as ID/address proof.",
+  "eligibility_summary": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+  "conversation_examples": [
+    {
+      "user": "I want Voter ID / Electoral Roll Enrolment (Form 6)",
+      "bot": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. Apply: https://nvsp.in. Helpline: 1950."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Voter ID / Electoral Roll Enrolment (Form 6). Use only official info from https://voterportal.eci.gov.in.",
+  "follow_up_questions": [
+    "How do I correct my address in the voter roll?",
+    "What is the difference between EPIC and e-EPIC?"
+  ],
+  "intent_examples": [
+    "apply_svc-voter",
+    "status_svc-voter",
+    "eligibility_svc-voter"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Age proof (birth certificate / class 10 cert)",
+    "Address proof",
+    "Passport-size photo (online)",
+    "Declaration of ordinary residence"
+  ],
+  "suggested_responses": [
+    "Visit https://voterportal.eci.gov.in",
+    "Call 1950"
+  ],
+  "recommendation_weight": 1.0
+}

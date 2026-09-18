@@ -1,0 +1,24 @@
+{
+  "name": "POSHAN Abhiyaan",
+  "description": "National Nutrition Mission to reduce malnutrition.",
+  "benefits": "Nutrition awareness, monitoring.",
+  "eligibility": "Children, pregnant/lactating women.",
+  "documents": [
+    "ID proof"
+  ],
+  "steps": [
+    "Register via Anganwadi/portal.",
+    "Track nutrition."
+  ],
+  "faqs": [
+    "What is POSHAN Abhiyaan?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "poshan",
+    "nutrition mission"
+  ]
+}

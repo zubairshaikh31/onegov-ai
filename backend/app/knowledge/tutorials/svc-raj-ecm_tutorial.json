@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-RAJ-ECM",
+  "guide_md": "tutorials/md/svc-raj-ecm_guide.md",
+  "guide_html": "tutorials/html/svc-raj-ecm_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-raj-ecm_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://sso.rajasthan.gov.in"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-GEM",
+  "name": "GeM (Government e-Marketplace)",
+  "category": "CAT-BUSINESS",
+  "sub_category": "Public Procurement",
+  "department": "DEP-GEM",
+  "ministry": "MIN-GOI",
+  "central_state": "Central",
+  "state": null,
+  "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+  "benefits": "Transparent public procurement, direct market access, MSE preference, timely payment.",
+  "eligibility": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+  "required_documents": [
+    "Business registration / Udyam",
+    "Bank account",
+    "PAN/GSTIN",
+    "Product catalogue"
+  ],
+  "optional_documents": [
+    "Brand authorization"
+  ],
+  "fees": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy.",
+  "processing_time": "Registration quick; transaction per bid cycle.",
+  "validity": "Account active while KYC valid.",
+  "application_mode": "Online (gem.gov.in)",
+  "official_website": "https://gem.gov.in",
+  "official_apply_link": "https://gem.gov.in/registration",
+  "download_forms": "https://gem.gov.in",
+  "helpline": "1800-419-3436 / 1800-102-3436",
+  "email": "helpdesk-gem@gem.gov.in",
+  "office_locator": "GeM regional outreach; buyer organisations.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://gem.gov.in",
+  "collection_method": "official_portal"
+}

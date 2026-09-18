@@ -1,0 +1,85 @@
+{
+  "service_id": "SVC-MAH-AAPLE",
+  "name": "Aaple Sarkar / MahaOnline Citizen Services",
+  "category_id": "CAT-STATE",
+  "sub_category": "State Citizen Services (Maharashtra)",
+  "department_id": "DEP-MAH-ONLINE",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+  "eligibility": "Residents of Maharashtra; service-specific criteria.",
+  "benefits": "Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Service-specific documents"
+  ],
+  "optional_documents": [
+    "Earlier certificates"
+  ],
+  "application_mode": "Online (aaplesarkar.mahaonline.gov.in) and CSC / SETU centres",
+  "application_steps": [
+    "Register on Aaple Sarkar portal.",
+    "Select department/service (certificate/scheme).",
+    "Fill form and upload documents.",
+    "Submit; track application.",
+    "Collect certificate (online download / SETU centre)."
+  ],
+  "processing_time": "Per service SLA (certificates usually 7-30 days).",
+  "fees": "As per state fee schedule per service.",
+  "validity": "Per certificate/service.",
+  "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+  "official_apply_link": "https://aaplesarkar.mahaonline.gov.in/en",
+  "download_forms": "https://aaplesarkar.mahaonline.gov.in",
+  "helpline_number": "1800-120-8040 (MahaOnline)",
+  "email": "support@mahaonline.gov.in",
+  "office_locator_info": "SETU / CSC centres across Maharashtra districts.",
+  "faq": [
+    {
+      "q": "What certificates can I get here?",
+      "a": "Caste, income, residence, birth/death, and many scheme applications."
+    }
+  ],
+  "related_services": [
+    "SVC-MAH-REV",
+    "SVC-MAH-DBT",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "aaple sarkar",
+    "mahaonline",
+    "maharashtra certificate",
+    "caste certificate",
+    "income certificate"
+  ],
+  "languages_available": "Marathi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://aaplesarkar.mahaonline.gov.in",
+  "ai_summary": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes.",
+  "ai_explanation": "Maharashtra's Aaple Sarkar / MahaOnline portal lets residents apply for caste, income, residence, and other certificates plus state schemes from one place, with online tracking and SETU centre support. It is the gateway to most Maharashtra e-services.",
+  "common_questions": [
+    "How do I apply for a caste certificate in Maharashtra?",
+    "What is Aaple Sarkar?",
+    "How do I track my certificate application?",
+    "Where are SETU centres?"
+  ],
+  "common_mistakes": [
+    "Wrong district selection",
+    "Incomplete address proof",
+    "Not tracking SLA status"
+  ],
+  "search_keywords": [
+    "aaple sarkar login",
+    "maharashtra income certificate",
+    "mahaonline caste certificate",
+    "setu centre near me"
+  ],
+  "suggested_followups": [
+    "How do I get a Maharashtra domicile certificate?",
+    "What is the caste certificate processing time in Maharashtra?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

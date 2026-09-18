@@ -1,0 +1,29 @@
+{
+  "name": "NIELIT Certification & Services",
+  "description": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses.",
+  "benefits": "Govt-recognized IT/electronics certifications; employment readiness.",
+  "eligibility": "Candidates per course (schooling/diploma as applicable).",
+  "documents": [
+    "Educational certificates",
+    "Aadhaar",
+    "Photo"
+  ],
+  "steps": [
+    "Choose course on nielit.gov.in.",
+    "Apply online / at centre.",
+    "Complete training and examination; get certificate."
+  ],
+  "faqs": [
+    "What is NIELIT Certification & Services?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "nielit",
+    "digital literacy",
+    "o level",
+    "it certification"
+  ]
+}

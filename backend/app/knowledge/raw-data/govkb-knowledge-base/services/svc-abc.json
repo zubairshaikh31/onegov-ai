@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-ABC",
+  "name": "Academic Bank of Credits (ABC)",
+  "category": "CAT-EDUCATION",
+  "sub_category": "Credit Banking",
+  "department": "DEP-NSP",
+  "ministry": "MIN-EDU",
+  "central_state": "Central",
+  "state": null,
+  "description": "National digital storehouse of academic credits earned from HEIs, enabling transfer and accumulation.",
+  "benefits": "Store credits, transfer across institutions, flexible degree pathways.",
+  "eligibility": "Students of participating Higher Education Institutions.",
+  "required_documents": [
+    "Aadhaar / ABC ID",
+    "Student HEI enrollment"
+  ],
+  "optional_documents": [
+    "Previous credit records"
+  ],
+  "fees": "Free.",
+  "processing_time": "Credits deposited per academic cycle.",
+  "validity": "Credits valid per UGC framework duration.",
+  "application_mode": "Online (abc.gov.in)",
+  "official_website": "https://abc.gov.in",
+  "official_apply_link": "https://abc.gov.in",
+  "download_forms": "https://abc.gov.in",
+  "helpline": "1800-111-550 (via ABC/HEI)",
+  "email": "abc@ugc.gov.in",
+  "office_locator": "Participating HEIs.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://abc.gov.in",
+  "collection_method": "official_portal"
+}

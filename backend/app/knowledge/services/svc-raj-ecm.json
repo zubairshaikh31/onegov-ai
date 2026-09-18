@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-RAJ-ECM",
+  "name": "Rajasthan e-Mitra / SSO",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (Rajasthan)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "RJ",
+  "description": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates.",
+  "eligibility": "Rajasthan residents; SSO ID registration.",
+  "benefits": "Unified access to hundreds of state services via e-Mitra kiosks.",
+  "required_documents": [
+    "Aadhaar",
+    "Mobile",
+    "Address proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Create SSO ID on sso.rajasthan.gov.in.",
+    "Use e-Mitra for services.",
+    "Track and download."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://sso.rajasthan.gov.in",
+  "official_apply_link": "https://sso.rajasthan.gov.in",
+  "download_forms": "https://sso.rajasthan.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://sso.rajasthan.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Rajasthan SSO/e-Mitra is the single-sign-on gateway to state citizen services.",
+  "ai_explanation": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "rajasthan sso",
+    "emitra",
+    "rajasthan services"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

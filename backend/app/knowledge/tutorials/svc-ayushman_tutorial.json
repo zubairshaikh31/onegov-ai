@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-AYUSHMAN",
+  "guide_md": "tutorials/md/svc-ayushman_guide.md",
+  "guide_html": "tutorials/html/svc-ayushman_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-ayushman_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://abdm.gov.in"
+  ]
+}

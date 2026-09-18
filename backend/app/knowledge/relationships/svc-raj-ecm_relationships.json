@@ -1,0 +1,8 @@
+{
+  "service_id": "SVC-RAJ-ECM",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [],
+  "alternative": [],
+  "chain_example": "SVC-RAJ-ECM"
+}

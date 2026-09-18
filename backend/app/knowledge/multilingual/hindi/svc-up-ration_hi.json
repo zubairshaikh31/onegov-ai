@@ -1,0 +1,18 @@
+{
+  "name": "उत्तर प्रदेश ई-डिस्ट्रिक्ट",
+  "description": "UP e-District portal for caste/income/residence certificates and ration services.",
+  "benefits": "Online certificates and scheme applications.",
+  "eligibility": "Uttar Pradesh residents per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "steps": [
+    "Register on edistrict.up.gov.in.",
+    "Apply and upload documents.",
+    "Verify and collect certificate."
+  ],
+  "faqs": [],
+  "keywords": []
+}

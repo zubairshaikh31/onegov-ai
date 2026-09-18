@@ -1,0 +1,50 @@
+{
+  "service_id": "SVC-DIGIYATRA",
+  "name": "DigiYatra (Airport Biometric)",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Aviation",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Biometric-based seamless airport entry using a facial recognition ecosystem.",
+  "eligibility": "Domestic air travellers with valid ID and ticket.",
+  "benefits": "Paperless, contactless airport check-in.",
+  "required_documents": [
+    "ID proof",
+    "Ticket",
+    "Aadhaar/ID for enrollment"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Enroll on DigiYatra app.",
+    "Link ID + ticket.",
+    "Use biometric at airport."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://digiyatra.gov.in",
+  "official_apply_link": "https://digiyatra.gov.in",
+  "download_forms": "https://digiyatra.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://digiyatra.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "DigiYatra enables biometric, paperless airport travel.",
+  "ai_explanation": "Biometric-based seamless airport entry using a facial recognition ecosystem.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "digiyatra",
+    "airport biometric"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

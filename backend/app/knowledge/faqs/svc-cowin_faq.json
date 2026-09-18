@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is CoWIN (Vaccination)?",
+    "answer": "Platform for COVID vaccination registration and certificates.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "https://www.cowin.gov.in",
+    "official": false,
+    "note": "Generated."
+  },
+  {
+    "question": "Helpline?",
+    "answer": "1075 / support@cowin.gov.in",
+    "official": false,
+    "note": "Generated."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required",
+    "official": false,
+    "note": "Generated."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Verification Required",
+    "official": false,
+    "note": "Generated."
+  }
+]

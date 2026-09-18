@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Incorporation certificate",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "PAN",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Description of innovation",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Director/Promoter details",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Pitch deck",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "IPR details",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

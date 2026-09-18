@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-pmjay_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-pmjay_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-pmjay_guide.pdf"
+  }
+]

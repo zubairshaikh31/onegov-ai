@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-MAH-SHETKARI",
+  "ai_summary": "Maharashtra farmer welfare schemes offer subsidies, crop insurance, and loan support via mahaagri.gov.in.",
+  "ai_explanation": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+  "eligibility_summary": "Maharashtra farmers with land records; scheme-specific criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Maharashtra Farmer Welfare Schemes",
+      "bot": "Maharashtra farmer welfare schemes offer subsidies, crop insurance, and loan support via mahaagri.gov.in. Apply: https://mahaagri.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maharashtra Farmer Welfare Schemes. Use only official info from https://mahaagri.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-mah-shetkari",
+    "status_svc-mah-shetkari",
+    "eligibility_svc-mah-shetkari"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "7/12 land record",
+    "Aadhaar",
+    "Bank account",
+    "Caste/category cert (if applicable)"
+  ],
+  "suggested_responses": [
+    "Visit https://mahaagri.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,22 @@
+{
+  "service_id": "SVC-DL",
+  "ai_summary": "Driving Licence (Sarathi / Parivahan) is a central government service under Ministry of Road Transport and Highways in the Transport category, available both.",
+  "common_questions": [
+    "How do I apply for Driving Licence (Sarathi / Parivahan)?",
+    "What documents are required for Driving Licence (Sarathi / Parivahan)?",
+    "What is the fee for Driving Licence (Sarathi / Parivahan)?",
+    "Who is eligible for Driving Licence (Sarathi / Parivahan)?",
+    "How long does Driving Licence (Sarathi / Parivahan) take to process?",
+    "What is the official website for Driving Licence (Sarathi / Parivahan)?"
+  ],
+  "user_utterances": [
+    "driving",
+    "driving licence",
+    "learner licence",
+    "licence",
+    "parivahan",
+    "rto",
+    "sarathi",
+    "transport"
+  ]
+}

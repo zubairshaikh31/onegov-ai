@@ -1,0 +1,27 @@
+{
+  "name": "ई-नाम (राष्ट्रीय कृषि बाजार)",
+  "description": "Online trading platform integrating APMC mandis to create a unified national market for agricultural commodities.",
+  "benefits": "Better price discovery, transparent bidding, wider buyer reach, reduced intermediaries.",
+  "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+  "documents": [
+    "Bank account",
+    "Aadhaar",
+    "Trader licence (for traders)",
+    "GST (traders if applicable)"
+  ],
+  "steps": [
+    "Register on enam.gov.in as farmer/trader.",
+    "Link APMC mandi and bank account.",
+    "List produce with quality/grade.",
+    "Participate in e-auction; buyer bids.",
+    "Payment settled to farmer account post-trade."
+  ],
+  "faqs": [],
+  "keywords": [
+    "enam",
+    "e nam",
+    "agri market",
+    "mandi",
+    "farmers trading"
+  ]
+}

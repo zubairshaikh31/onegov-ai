@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aadhaar",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Educational proof",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-MAH-ANNA",
+  "ai_summary": "Maha Anna is Maharashtra's NFSA ration system providing subsidised foodgrains through PDS.",
+  "ai_explanation": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+  "eligibility_summary": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Maha Anna (Maharashtra Ration / NFSA)",
+      "bot": "Maha Anna is Maharashtra's NFSA ration system providing subsidised foodgrains through PDS. Apply: https://mahafood.gov.in. Helpline: 1800-222-362."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maha Anna (Maharashtra Ration / NFSA). Use only official info from https://mahafood.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-mah-anna",
+    "status_svc-mah-anna",
+    "eligibility_svc-mah-anna"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "suggested_responses": [
+    "Visit https://mahafood.gov.in",
+    "Call 1800-222-362"
+  ],
+  "recommendation_weight": 1.0
+}

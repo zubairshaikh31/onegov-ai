@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-KERALA-EK",
+  "ai_summary": "Kerala e-District citizen portal.",
+  "ai_explanation": "Kerala e-District for certificates and services.",
+  "eligibility_summary": "Kerala residents.",
+  "conversation_examples": [
+    {
+      "user": "I want Kerala e-District / KSWD",
+      "bot": "Kerala e-District citizen portal. Apply: https://edistrict.kerala.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Kerala e-District / KSWD. Use only https://edistrict.kerala.gov.in.",
+  "follow_up_questions": [
+    "What documents for Kerala e-District / KSWD?",
+    "How long for Kerala e-District / KSWD?"
+  ],
+  "intent_examples": [
+    "apply_svc-kerala-ek",
+    "status_svc-kerala-ek"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://edistrict.kerala.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

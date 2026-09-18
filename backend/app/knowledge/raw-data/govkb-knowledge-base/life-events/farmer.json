@@ -1,0 +1,16 @@
+{
+  "services": [
+    "SVC-PMKISAN",
+    "SVC-ENAM",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Land records",
+    "Bank account"
+  ],
+  "schemes": [
+    "PM-KISAN",
+    "eNAM"
+  ]
+}

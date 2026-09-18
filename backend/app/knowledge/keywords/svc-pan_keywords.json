@@ -1,0 +1,48 @@
+{
+  "service_id": "SVC-PAN",
+  "keywords": [
+    "account",
+    "card",
+    "e-pan",
+    "finance",
+    "financial id",
+    "income tax",
+    "number",
+    "pan",
+    "permanent",
+    "tax"
+  ],
+  "search_keywords": [
+    "account",
+    "card",
+    "e-pan",
+    "finance",
+    "financial id",
+    "income tax",
+    "number",
+    "pan",
+    "permanent",
+    "tax"
+  ],
+  "aliases": [
+    "account",
+    "card",
+    "e-pan",
+    "finance",
+    "financial id",
+    "income tax",
+    "number",
+    "pan",
+    "permanent",
+    "tax"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want PAN Card (Permanent Account Number)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply PAN Card (Permanent Account Number)"
+  ]
+}

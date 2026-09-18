@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-GJ-DIGITAL",
+  "name": "Digital Gujarat Portal",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (Gujarat)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "GJ",
+  "description": "Gujarat's integrated portal for certificates, scholarships, and citizen services.",
+  "eligibility": "Gujarat residents per service criteria.",
+  "benefits": "Single-window certificates, scholarships, and schemes.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income/caste proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Register on digitalgujarat.gov.in.",
+    "Select service; apply.",
+    "Track and download."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://digitalgujarat.gov.in",
+  "official_apply_link": "https://digitalgujarat.gov.in",
+  "download_forms": "https://digitalgujarat.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://digitalgujarat.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Digital Gujarat is the state single-window portal for certificates, scholarships, and services.",
+  "ai_explanation": "Gujarat's integrated portal for certificates, scholarships, and citizen services.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "digital gujarat",
+    "gujarat services",
+    "gujarat scholarship"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

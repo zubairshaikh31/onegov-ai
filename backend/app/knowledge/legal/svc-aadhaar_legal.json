@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "references": [
+    {
+      "act": "Aadhaar (Targeted Delivery of Financial and Other Subsidies) Act, 2016",
+      "rule": "Aadhaar Regulations, 2016",
+      "authority": "UIDAI"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "ai_summary": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes.",
+  "ai_explanation": "The Maharashtra Food, Civil Supplies department issues ration cards classifying households (Priority/APL/BPL) for subsidised foodgrains through Fair Price Shops under NFSA and state schemes. Aadhaar-seeded cards enable DBT/portability.",
+  "common_questions": [
+    "How do I apply for a ration card in Maharashtra?",
+    "What are NFSA ration card types?",
+    "How do I add a member to my ration card?",
+    "Where is my nearest ration shop?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for a ration card in Maharashtra?",
+      "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+    },
+    {
+      "user": "What are NFSA ration card types?",
+      "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+    },
+    {
+      "user": "How do I add a member to my ration card?",
+      "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-mah-food",
+    "status_svc-mah-food",
+    "eligibility_svc-mah-food"
+  ],
+  "user_utterances": [
+    "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+    "Need Maharashtra Ration Card / Food Supply (MahaFood)",
+    "Maharashtra Ration Card / Food Supply (MahaFood) help"
+  ],
+  "follow_up_questions": [
+    "How do I transfer my ration card to another district?",
+    "What is One Nation One Ration Card in Maharashtra?"
+  ],
+  "recommended_responses": [
+    "Visit https://mahafood.gov.in",
+    "Call helpline 1800-222-362 (Toll-free, MahaFood)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://mahafood.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-222-362 (Toll-free, MahaFood)"
+    }
+  ]
+}

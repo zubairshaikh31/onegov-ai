@@ -1,0 +1,213 @@
+{
+  "project": "OneGov AI — Intelligent Public Access to Digital Government Services",
+  "kb_version": "2.0.0",
+  "generated_at": "2026-08-02T09:15:16Z",
+  "totals": {
+    "services": 28,
+    "documents": 126,
+    "faqs": 282,
+    "guides": 28,
+    "pdfs": 28,
+    "videos": 28,
+    "office_locations": 28,
+    "downloads": 34,
+    "tutorials": 28,
+    "life_events": 11
+  },
+  "missing_information_by_service": {
+    "SVC-AADHAAR": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-PASSPORT": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-VOTER": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-PMKISAN": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ENAM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-PMJAY": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ABDM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ESHRAM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-EPFO": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ESIC": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-NCS": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-UDYAM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-STARTUP": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-GEM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ITR": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-GST": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-DIGILOCKER": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-UMANG": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-PMAYU": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-NSP": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-SWAYAM": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-ABC": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-PARIVAHAN": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-MAH-AAPLE": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-MAH-REV": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-MAH-FOOD": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-MAH-DBT": [
+      "working_hours",
+      "faq<15"
+    ],
+    "SVC-MAH-RTO": [
+      "working_hours",
+      "faq<15"
+    ]
+  },
+  "source_datasets": {
+    "services": {
+      "source_url": "official .gov.in portals (per record source_url)",
+      "retrieved": "2026-08-02T09:15:16Z"
+    },
+    "faqs": {
+      "source_url": "official portals + generated explanatory FAQs",
+      "retrieved": "2026-08-02T09:15:16Z"
+    },
+    "documents": {
+      "source_url": "official portals",
+      "retrieved": "2026-08-02T09:15:16Z"
+    },
+    "downloads_verified": {
+      "SVC-PMKISAN": [
+        {
+          "title": "PM-KISAN Frequently Asked Questions (FAQ)",
+          "url": "https://pmkisan.gov.in/Documents/FAQPMKISAN.PDF",
+          "type": "faq",
+          "source": "pmkisan.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "PM-KISAN Revised Operational Guidelines (English)",
+          "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+          "type": "guideline",
+          "source": "pmkisan.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "PM-KISAN Scheme Document",
+          "url": "https://pmkisan.gov.in/Documents/PMKisanSamanNidhi.PDF",
+          "type": "scheme_doc",
+          "source": "pmkisan.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "PM-Kisan Maandhan Yojana FAQs",
+          "url": "https://pmkisan.gov.in/Documents/PM-KMY - FAQs.pdf",
+          "type": "faq",
+          "source": "pmkisan.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "PM-Kisan Maandhan Yojana Operational Guidelines",
+          "url": "https://pmkisan.gov.in/Documents/PM-KMY - Operational Guidelines.pdf",
+          "type": "guideline",
+          "source": "pmkisan.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        }
+      ],
+      "SVC-NSP": [
+        {
+          "title": "NSP Institute KYC Registration User Manual",
+          "url": "https://scholarships.gov.in/public/userManual/NSPInstituteKYCRegistrationUserManualV1.2.pdf",
+          "type": "manual",
+          "source": "scholarships.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "NSP DNO/SNO FAQs (updated)",
+          "url": "https://scholarships.gov.in/public/FAQ/DNO_SNO_FAQs_21122023_updated.pdf",
+          "type": "faq",
+          "source": "scholarships.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        },
+        {
+          "title": "NSP Operational Steps - Institute Registration",
+          "url": "https://nsp.gov.in/public/manual/Operational_Steps_Involved_In_Filling_Institute_Registration_Form.pdf",
+          "type": "manual",
+          "source": "nsp.gov.in",
+          "retrieved": "2026-08-02T09:15:16Z"
+        }
+      ]
+    }
+  },
+  "compliance": {
+    "official_sources_only": true,
+    "no_personal_data": true,
+    "uidai_robots_disallow": true,
+    "generated_assets_noted": "PDF/MD/HTML guides are unofficial explanatory guides based on verified official information."
+  }
+}

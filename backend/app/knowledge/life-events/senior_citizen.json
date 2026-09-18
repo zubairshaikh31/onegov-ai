@@ -1,0 +1,23 @@
+{
+  "event": "senior_citizen",
+  "services": [
+    "SVC-PMJAY",
+    "SVC-EPFO",
+    "SVC-JDY"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PMJAY",
+    "SVC-EPFO",
+    "SVC-JDY"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-pmjay_guide.md",
+    "tutorials/md/svc-epfo_guide.md",
+    "tutorials/md/svc-jdy_guide.md"
+  ]
+}

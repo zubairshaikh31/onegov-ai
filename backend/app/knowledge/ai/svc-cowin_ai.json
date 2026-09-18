@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-COWIN",
+  "ai_summary": "CoWIN manages vaccination registration and certificates.",
+  "ai_explanation": "Platform for COVID vaccination registration and certificates.",
+  "eligibility_summary": "All eligible citizens.",
+  "conversation_examples": [
+    {
+      "user": "I want CoWIN (Vaccination)",
+      "bot": "CoWIN manages vaccination registration and certificates. Apply: https://www.cowin.gov.in. Helpline: 1075."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with CoWIN (Vaccination). Use only https://www.cowin.gov.in.",
+  "follow_up_questions": [
+    "What documents for CoWIN (Vaccination)?",
+    "How long for CoWIN (Vaccination)?"
+  ],
+  "intent_examples": [
+    "apply_svc-cowin",
+    "status_svc-cowin"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar/ID"
+  ],
+  "suggested_responses": [
+    "Visit https://www.cowin.gov.in",
+    "Call 1075"
+  ],
+  "recommendation_weight": 1.0
+}

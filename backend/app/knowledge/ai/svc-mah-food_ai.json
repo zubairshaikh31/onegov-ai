@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "ai_summary": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes.",
+  "ai_explanation": "The Maharashtra Food, Civil Supplies department issues ration cards classifying households (Priority/APL/BPL) for subsidised foodgrains through Fair Price Shops under NFSA and state schemes. Aadhaar-seeded cards enable DBT/portability.",
+  "eligibility_summary": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+      "bot": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. Apply: https://mahafood.gov.in. Helpline: 1800-222-362 (Toll-free, MahaFood)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maharashtra Ration Card / Food Supply (MahaFood). Use only official info from https://mahafood.gov.in.",
+  "follow_up_questions": [
+    "How do I transfer my ration card to another district?",
+    "What is One Nation One Ration Card in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-food",
+    "status_svc-mah-food",
+    "eligibility_svc-mah-food"
+  ],
+  "recommended_services": [
+    "SVC-MAH-AAPLE",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "suggested_responses": [
+    "Visit https://mahafood.gov.in",
+    "Call 1800-222-362 (Toll-free, MahaFood)"
+  ],
+  "recommendation_weight": 1.0
+}

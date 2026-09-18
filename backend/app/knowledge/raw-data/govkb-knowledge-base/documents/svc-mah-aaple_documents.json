@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aadhaar",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Address proof",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Service-specific documents",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Earlier certificates",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

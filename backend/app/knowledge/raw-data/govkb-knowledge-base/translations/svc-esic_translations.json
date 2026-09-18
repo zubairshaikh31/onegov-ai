@@ -1,0 +1,84 @@
+{
+  "en": {
+    "name": "ESIC (Employees' State Insurance)",
+    "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+    "eligibility": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+    "benefits": "Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+    "application_steps": [
+      "Employer registers establishment and enrols employees (Form 1).",
+      "Employee gets Insurance/Pehchan card.",
+      "Avail treatment at ESIC dispensary/hospital with card.",
+      "File claims (sickness/maternity) online if applicable."
+    ],
+    "faqs": [
+      "What is the wage ceiling for ESIC?",
+      "What is the ESIC wage limit?",
+      "How do I get a Pehchan card?",
+      "What does ESIC cover?",
+      "How do I claim ESIC sickness benefit?"
+    ],
+    "keywords": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit"
+    ]
+  },
+  "hi": {
+    "name": "ESIC (Employees' State Insurance)",
+    "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+    "eligibility": "पात्रता: Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+    "benefits": "लाभ: Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+    "application_steps": [
+      "Employer registers establishment and enrols employees (Form 1).",
+      "Employee gets Insurance/Pehchan card.",
+      "Avail treatment at ESIC dispensary/hospital with card.",
+      "File claims (sickness/maternity) online if applicable."
+    ],
+    "faqs": [
+      "What is the wage ceiling for ESIC?",
+      "What is the ESIC wage limit?",
+      "How do I get a Pehchan card?",
+      "What does ESIC cover?",
+      "How do I claim ESIC sickness benefit?"
+    ],
+    "keywords": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit",
+      "esic",
+      "employee state insurance"
+    ]
+  },
+  "mr": {
+    "name": "ESIC (Employees' State Insurance)",
+    "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+    "eligibility": "पात्रता: Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+    "benefits": "फायदे: Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+    "application_steps": [
+      "Employer registers establishment and enrols employees (Form 1).",
+      "Employee gets Insurance/Pehchan card.",
+      "Avail treatment at ESIC dispensary/hospital with card.",
+      "File claims (sickness/maternity) online if applicable."
+    ],
+    "faqs": [
+      "What is the wage ceiling for ESIC?",
+      "What is the ESIC wage limit?",
+      "How do I get a Pehchan card?",
+      "What does ESIC cover?",
+      "How do I claim ESIC sickness benefit?"
+    ],
+    "keywords": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit",
+      "esic",
+      "employee state insurance"
+    ]
+  }
+}

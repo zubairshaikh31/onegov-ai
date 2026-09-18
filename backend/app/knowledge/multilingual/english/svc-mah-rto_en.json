@@ -1,0 +1,36 @@
+{
+  "name": "Maharashtra Transport (RTO) Services",
+  "description": "Maharashtra State Transport Department services for DL, RC, permits via state RTOs (integrated with Parivahan).",
+  "eligibility": "Maharashtra residents / vehicle owners / licence applicants.",
+  "benefits": "State-specific DL/RC, permits, tax, and faceless services.",
+  "application_steps": [
+    "Use Parivahan/Sarathi or state portal.",
+    "Apply for DL/RC/permit; pay fees.",
+    "Book RTO slot; visit for test.",
+    "Receive documents (digital via DigiLocker)."
+  ],
+  "faqs": [
+    "Are Maharashtra RTO services on Parivahan?",
+    "How do I apply for DL in Maharashtra?",
+    "What are Maharashtra RTO fees?",
+    "How do I renew my DL in Mumbai/Pune?",
+    "Where is my RTO?"
+  ],
+  "keywords": [
+    "maharashtra rto",
+    "driving licence maharashtra",
+    "transport department",
+    "rc maharashtra"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address/age proof",
+    "Vehicle docs (RC)"
+  ],
+  "steps": [
+    "Use Parivahan/Sarathi or state portal.",
+    "Apply for DL/RC/permit; pay fees.",
+    "Book RTO slot; visit for test.",
+    "Receive documents (digital via DigiLocker)."
+  ]
+}

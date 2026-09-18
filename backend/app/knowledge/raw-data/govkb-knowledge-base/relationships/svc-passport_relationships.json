@@ -1,0 +1,14 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "prerequisite": [
+    "SVC-AADHAAR",
+    "SVC-VOTER"
+  ],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-AADHAAR",
+    "SVC-VOTER"
+  ],
+  "chain_example": "SVC-PASSPORT -> SVC-AADHAAR -> SVC-VOTER"
+}

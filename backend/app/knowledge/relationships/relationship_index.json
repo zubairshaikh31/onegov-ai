@@ -1,0 +1,838 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "node": "SVC-AADHAAR",
+    "prerequisite": [],
+    "dependent": [
+      "SVC-DIGILOCKER",
+      "SVC-PMKISAN",
+      "SVC-EPFO",
+      "SVC-ESIC"
+    ],
+    "complementary": [
+      "SVC-DIGILOCKER",
+      "SVC-DIGILOCKER",
+      "SVC-ESHRAM",
+      "SVC-PMKISAN"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "node": "SVC-PASSPORT",
+    "prerequisite": [
+      "SVC-AADHAAR",
+      "SVC-VOTER"
+    ],
+    "dependent": [
+      "SVC-DIGILOCKER"
+    ],
+    "complementary": [
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR",
+      "SVC-VOTER"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "node": "SVC-VOTER",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "node": "SVC-PMKISAN",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [
+      "SVC-AADHAAR"
+    ],
+    "complementary": [
+      "SVC-ENAM",
+      "SVC-AADHAAR",
+      "SVC-ENAM"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "node": "SVC-ENAM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-PMKISAN"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "node": "SVC-PMJAY",
+    "prerequisite": [
+      "SVC-AADHAAR",
+      "SVC-ABDM"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-ABDM",
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "node": "SVC-ABDM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-PMJAY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "node": "SVC-ESHRAM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "node": "SVC-EPFO",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-ESIC",
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ],
+    "alternative": [
+      "SVC-ESIC"
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "node": "SVC-ESIC",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-EPFO",
+      "SVC-EPFO",
+      "SVC-ESHRAM"
+    ],
+    "alternative": [
+      "SVC-EPFO"
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "node": "SVC-NCS",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-ESHRAM"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "node": "SVC-UDYAM",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [
+      "SVC-GST",
+      "SVC-GEM"
+    ],
+    "complementary": [
+      "SVC-STARTUP",
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "node": "SVC-STARTUP",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-UDYAM",
+      "SVC-GEM"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-GEM",
+    "node": "SVC-GEM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-UDYAM",
+      "SVC-STARTUP"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ITR",
+    "node": "SVC-ITR",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [
+      "SVC-GST"
+    ],
+    "complementary": [
+      "SVC-GST",
+      "SVC-GST",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-GST",
+    "node": "SVC-GST",
+    "prerequisite": [
+      "SVC-ITR",
+      "SVC-UDYAM"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-ITR",
+      "SVC-ITR",
+      "SVC-UDYAM"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "node": "SVC-DIGILOCKER",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR",
+      "SVC-UMANG"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "node": "SVC-UMANG",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-DIGILOCKER",
+      "SVC-EPFO",
+      "SVC-ITR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "node": "SVC-PMAYU",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-NSP",
+    "node": "SVC-NSP",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR",
+      "SVC-ABC"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "node": "SVC-SWAYAM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-NSP",
+      "SVC-ABC"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ABC",
+    "node": "SVC-ABC",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-SWAYAM",
+      "SVC-NSP"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "node": "SVC-PARIVAHAN",
+    "prerequisite": [
+      "SVC-DL"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-DL",
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "node": "SVC-MAH-AAPLE",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-MAH-REV",
+      "SVC-MAH-DBT",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "node": "SVC-MAH-REV",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-MAH-AAPLE"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "node": "SVC-MAH-FOOD",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-MAH-AAPLE",
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "node": "SVC-MAH-DBT",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-NSP",
+      "SVC-MAH-AAPLE"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "node": "SVC-MAH-RTO",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DL",
+    "node": "SVC-DL",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-PARIVAHAN"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PAN",
+    "node": "SVC-PAN",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "node": "SVC-MAH-INCOME",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "node": "SVC-MAH-DOMICILE",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "node": "SVC-MAH-LADKI",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "node": "SVC-PMUY",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "node": "SVC-NGDR",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "node": "SVC-INDIAPOST",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "node": "SVC-APPREN",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "node": "SVC-MSDE",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "node": "SVC-NIELIT",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "node": "SVC-AYUSHMAN",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "node": "SVC-RAKSHABANDHAN",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-JDY",
+    "node": "SVC-JDY",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "node": "SVC-SUKANYA",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "node": "SVC-MAH-ANNA",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "node": "SVC-MAH-CMRELIEF",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "node": "SVC-MAH-SHETKARI",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "node": "SVC-DL-RATION",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "node": "SVC-UP-RATION",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "node": "SVC-GJ-DIGITAL",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "node": "SVC-KA-EDISTRICT",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "node": "SVC-TN-ESEVAI",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "node": "SVC-WB-DUARE",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "node": "SVC-RAJ-ECM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-CSC",
+    "node": "SVC-CSC",
+    "prerequisite": [
+      "SVC-DIGILOCKER"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-DIGILOCKER"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "node": "SVC-BHIM",
+    "prerequisite": [
+      "SVC-JDY"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-JDY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "node": "SVC-DIGIYATRA",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAA",
+    "node": "SVC-MAA",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "node": "SVC-AP-ESEVA",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "node": "SVC-TELANGANA-TS",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "node": "SVC-KERALA-EK",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "node": "SVC-COWIN",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "node": "SVC-AYUSH",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "node": "SVC-ICDS",
+    "prerequisite": [
+      "SVC-POSHAN"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-POSHAN"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "node": "SVC-POSHAN",
+    "prerequisite": [
+      "SVC-ICDS"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-ICDS"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-SBM",
+    "node": "SVC-SBM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "node": "SVC-AMRUT",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "node": "SVC-PMGSY",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "node": "SVC-MGNREGA",
+    "prerequisite": [
+      "SVC-EShramCard"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-EShramCard"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "node": "SVC-DAYNULM",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "node": "SVC-PMKVY4",
+    "prerequisite": [
+      "SVC-NAPS"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-NAPS"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "node": "SVC-DISHA",
+    "prerequisite": [
+      "SVC-CSC"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-CSC"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "node": "SVC-MAH-JAL",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "node": "SVC-MAH-AAROGYA",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "node": "SVC-PMSBY",
+    "prerequisite": [
+      "SVC-JDY"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-JDY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "node": "SVC-PMSVM",
+    "prerequisite": [
+      "SVC-JDY"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-JDY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "node": "SVC-ATAL",
+    "prerequisite": [
+      "SVC-JDY"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-JDY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-NPS",
+    "node": "SVC-NPS",
+    "prerequisite": [
+      "SVC-JDY"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-JDY"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "node": "SVC-RAIL",
+    "prerequisite": [
+      "SVC-AADHAAR"
+    ],
+    "dependent": [],
+    "complementary": [
+      "SVC-AADHAAR"
+    ],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-AAI",
+    "node": "SVC-AAI",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "node": "SVC-PASSPORT-SEVA",
+    "prerequisite": [],
+    "dependent": [],
+    "complementary": [],
+    "alternative": []
+  }
+]

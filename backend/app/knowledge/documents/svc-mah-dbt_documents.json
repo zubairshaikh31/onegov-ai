@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aadhaar",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Bank account",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Income/caste certificate",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Marksheets",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Disability/category certificates",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

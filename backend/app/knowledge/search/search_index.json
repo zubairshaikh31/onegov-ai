@@ -1,0 +1,3316 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "name": "Aadhaar Enrolment & Update",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity"
+    ],
+    "aliases": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Aadhaar Enrolment & Update",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Is Aadhaar mandatory for all schemes?",
+      "How do I lock/unlock biometrics?",
+      "How do I enrol for Aadhaar?",
+      "How do I update my address in Aadhaar?",
+      "Is Aadhaar mandatory for subsidies?",
+      "How do I download e-Aadhaar?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-ESHRAM",
+      "SVC-PMKISAN"
+    ],
+    "official_portal": "https://uidai.gov.in"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "name": "Passport Issuance (Passport Seva)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "passport",
+      "passport seva",
+      "psk",
+      "tatkaal",
+      "travel document",
+      "mea"
+    ],
+    "aliases": [
+      "passport",
+      "passport seva",
+      "psk",
+      "tatkaal",
+      "travel document",
+      "mea"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Passport Issuance (Passport Seva)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Can I apply from a different state than my address?",
+      "What is the difference between Normal and Tatkaal?",
+      "How do I apply for a passport?",
+      "What are the passport fees?",
+      "How long does a passport take?",
+      "How do I renew my passport?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-VOTER"
+    ],
+    "official_portal": "https://passportindia.gov.in"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci"
+    ],
+    "aliases": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Voter ID / Electoral Roll Enrolment (Form 6)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Can NRI citizens enrol?",
+      "Is Aadhaar mandatory for voter enrolment?",
+      "How do I apply for a Voter ID?",
+      "How do I correct my name in the voter list?",
+      "What is Form 6?",
+      "How do I download e-EPIC?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://voterportal.eci.gov.in"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "name": "PM-KISAN Samman Nidhi",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture"
+    ],
+    "aliases": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want PM-KISAN Samman Nidhi",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Why is my instalment pending?",
+      "Are tenant farmers eligible?",
+      "How do I register for PM-KISAN?",
+      "Why is my PM-KISAN payment pending?",
+      "How do I do PM-KISAN e-KYC?",
+      "Am I eligible for PM-KISAN?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-ENAM"
+    ],
+    "official_portal": "https://pmkisan.gov.in"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "name": "eNAM (National Agriculture Market)",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "enam",
+      "e nam",
+      "agri market",
+      "mandi",
+      "farmers trading"
+    ],
+    "aliases": [
+      "enam",
+      "e nam",
+      "agri market",
+      "mandi",
+      "farmers trading"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want eNAM (National Agriculture Market)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Which states are covered?",
+      "What is eNAM?",
+      "How do I sell on eNAM?",
+      "Which mandis are on eNAM?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website?"
+    ],
+    "related_services": [
+      "SVC-PMKISAN"
+    ],
+    "official_portal": "https://enam.gov.in"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman Bharat PM-JAY",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha"
+    ],
+    "aliases": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Ayushman Bharat PM-JAY",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I know if I am eligible?",
+      "Is there a premium to pay?",
+      "Am I eligible for Ayushman Bharat?",
+      "How do I make an Ayushman card?",
+      "Which hospitals accept PM-JAY?",
+      "What is covered under PM-JAY?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://pmjay.gov.in"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "name": "Ayushman Bharat Digital Mission (ABHA)",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "abdm",
+      "abha",
+      "health id",
+      "digital health",
+      "phr"
+    ],
+    "aliases": [
+      "abdm",
+      "abha",
+      "health id",
+      "digital health",
+      "phr"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Ayushman Bharat Digital Mission (ABHA)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Is ABHA mandatory?",
+      "Is my health data safe?",
+      "What is ABHA ID?",
+      "How do I create a Health ID?",
+      "How is my data protected?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-PMJAY"
+    ],
+    "official_portal": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security"
+    ],
+    "aliases": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want e-Shram (National Database of Unorganised Workers)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Who should register on e-Shram?",
+      "Who can register on e-Shram?",
+      "How do I download my e-Shram card?",
+      "Is e-Shram for EPFO members?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website?"
+    ],
+    "related_services": [
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://eshram.gov.in"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension"
+    ],
+    "aliases": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want EPF / UAN Services (Employees' Provident Fund)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I check my PF balance?",
+      "How do I check PF balance?",
+      "How do I transfer PF on job change?",
+      "How do I withdraw PF?",
+      "What is UAN?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ],
+    "official_portal": "https://www.epfindia.gov.in"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "name": "ESIC (Employees' State Insurance)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit"
+    ],
+    "aliases": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want ESIC (Employees' State Insurance)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is the wage ceiling for ESIC?",
+      "What is the ESIC wage limit?",
+      "How do I get a Pehchan card?",
+      "What does ESIC cover?",
+      "How do I claim ESIC sickness benefit?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-EPFO",
+      "SVC-ESHRAM"
+    ],
+    "official_portal": "https://www.esic.gov.in"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "name": "National Career Service (NCS)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "ncs",
+      "national career service",
+      "job search",
+      "employment",
+      "career"
+    ],
+    "aliases": [
+      "ncs",
+      "national career service",
+      "job search",
+      "employment",
+      "career"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want National Career Service (NCS)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Is NCS free?",
+      "How do I register on NCS?",
+      "How do I find jobs on NCS?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website?",
+      "Is there a fee?"
+    ],
+    "related_services": [
+      "SVC-ESHRAM"
+    ],
+    "official_portal": "https://ncs.gov.in"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "name": "Udyam Registration (MSME)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "udyam",
+      "msme",
+      "udyog aadhaar",
+      "business registration",
+      "enterprise"
+    ],
+    "aliases": [
+      "udyam",
+      "msme",
+      "udyog aadhaar",
+      "business registration",
+      "enterprise"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Udyam Registration (MSME)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Is Aadhaar mandatory for Udyam?",
+      "Is there a fee?",
+      "How do I register my MSME on Udyam?",
+      "Is Udyam free?",
+      "What documents are needed for Udyam?",
+      "What are MSME limits?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "official_portal": "https://udyamregistration.gov.in"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "name": "Startup India Recognition",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "startup india",
+      "dpiit",
+      "startup recognition",
+      "entrepreneur",
+      "tax exemption"
+    ],
+    "aliases": [
+      "startup india",
+      "dpiit",
+      "startup recognition",
+      "entrepreneur",
+      "tax exemption"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Startup India Recognition",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is the age/turnover limit for a startup?",
+      "Am I eligible for Startup India?",
+      "How do I get DPIIT recognition?",
+      "What tax benefits do startups get?",
+      "How do I apply for Startup India?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-UDYAM",
+      "SVC-GEM"
+    ],
+    "official_portal": "https://www.startupindia.gov.in"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "name": "GeM (Government e-Marketplace)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender"
+    ],
+    "aliases": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want GeM (Government e-Marketplace)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Is GeM only for government buyers?",
+      "How do I sell on GeM?",
+      "Who can buy on GeM?",
+      "What are GeM seller charges?",
+      "How do I register on GeM?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-UDYAM",
+      "SVC-STARTUP"
+    ],
+    "official_portal": "https://gem.gov.in"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "name": "Income Tax e-Filing & Return (ITR)",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "income tax",
+      "itr",
+      "efiling",
+      "tax return",
+      "pan",
+      "cbdt"
+    ],
+    "aliases": [
+      "income tax",
+      "itr",
+      "efiling",
+      "tax return",
+      "pan",
+      "cbdt"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Income Tax e-Filing & Return (ITR)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Which ITR form do I use?",
+      "Is Aadhaar-PAN linking mandatory?",
+      "Which ITR form should I file?",
+      "How do I file ITR online?",
+      "How do I check refund status?",
+      "Is PAN-Aadhaar linking mandatory?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-GST",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-GST",
+    "name": "GST Registration & Returns",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "gst",
+      "gst registration",
+      "gstin",
+      "returns",
+      "gst portal",
+      "indirect tax"
+    ],
+    "aliases": [
+      "gst",
+      "gst registration",
+      "gstin",
+      "returns",
+      "gst portal",
+      "indirect tax"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want GST Registration & Returns",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is the GST turnover threshold?",
+      "Do I need GST registration?",
+      "How do I register for GST?",
+      "What is the GST threshold?",
+      "How do I file GSTR-3B?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-ITR",
+      "SVC-UDYAM"
+    ],
+    "official_portal": "https://www.gst.gov.in"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "name": "DigiLocker",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "digilocker",
+      "digital locker",
+      "e documents",
+      "meity",
+      "paperless"
+    ],
+    "aliases": [
+      "digilocker",
+      "digital locker",
+      "e documents",
+      "meity",
+      "paperless"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want DigiLocker",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Are DigiLocker documents legally valid?",
+      "What is DigiLocker?",
+      "How do I sign up for DigiLocker?",
+      "Are DigiLocker documents valid?",
+      "How do I share a DigiLocker document?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-UMANG"
+    ],
+    "official_portal": "https://www.digilocker.gov.in"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator"
+    ],
+    "aliases": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want UMANG (Unified Mobile App for New-age Governance)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Which services are on UMANG?",
+      "What is UMANG app?",
+      "How do I register on UMANG?",
+      "Is UMANG free?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website?"
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-EPFO",
+      "SVC-ITR"
+    ],
+    "official_portal": "https://umang.gov.in"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "category_id": "CAT-HOUSING",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmay",
+      "pm awas yojana",
+      "housing",
+      "clss",
+      "subsidy"
+    ],
+    "aliases": [
+      "pmay",
+      "pm awas yojana",
+      "housing",
+      "clss",
+      "subsidy"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Awas Yojana (Urban)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Who is eligible for PMAY-U?",
+      "Am I eligible for PMAY?",
+      "How do I apply for PMAY subsidy?",
+      "What is CLSS?",
+      "What are PMAY income limits?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://pmaymis.gov.in"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "name": "National Scholarship Portal (NSP)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "nsp",
+      "national scholarship portal",
+      "scholarship",
+      "student",
+      "dbt"
+    ],
+    "aliases": [
+      "nsp",
+      "national scholarship portal",
+      "scholarship",
+      "student",
+      "dbt"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want National Scholarship Portal (NSP)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Can I apply to multiple schemes?",
+      "How do I apply for scholarship on NSP?",
+      "Which scholarships are on NSP?",
+      "How do I check NSP status?",
+      "What documents are needed for NSP?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-ABC"
+    ],
+    "official_portal": "https://scholarships.gov.in"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "name": "SWAYAM (Free Online Courses)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "swayam",
+      "online courses",
+      "mooc",
+      "free education",
+      "certificate"
+    ],
+    "aliases": [
+      "swayam",
+      "online courses",
+      "mooc",
+      "free education",
+      "certificate"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want SWAYAM (Free Online Courses)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Are SWAYAM certificates free?",
+      "What is SWAYAM?",
+      "Are SWAYAM courses free?",
+      "How do I get a SWAYAM certificate?",
+      "Are SWAYAM credits valid?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-NSP",
+      "SVC-ABC"
+    ],
+    "official_portal": "https://swayam.gov.in"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "name": "Academic Bank of Credits (ABC)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "abc",
+      "academic bank of credits",
+      "ugc",
+      "credit transfer",
+      "higher education"
+    ],
+    "aliases": [
+      "abc",
+      "academic bank of credits",
+      "ugc",
+      "credit transfer",
+      "higher education"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Academic Bank of Credits (ABC)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Who can open an ABC account?",
+      "What is ABC ID?",
+      "How do I create an Academic Bank of Credits account?",
+      "Can I transfer credits between universities?",
+      "Which universities use ABC?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-SWAYAM",
+      "SVC-NSP"
+    ],
+    "official_portal": "https://abc.gov.in"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Parivahan (Vahan & Sarathi)",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto"
+    ],
+    "aliases": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Parivahan (Vahan & Sarathi)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Can I get my DL on DigiLocker?",
+      "Is a driving test mandatory?",
+      "How do I apply for a driving licence online?",
+      "How do I check my RC status?",
+      "How do I renew my DL?",
+      "What are RTO fees?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?"
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate"
+    ],
+    "aliases": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Aaple Sarkar / MahaOnline Citizen Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What certificates can I get here?",
+      "How do I apply for a caste certificate in Maharashtra?",
+      "What is Aaple Sarkar?",
+      "How do I track my certificate application?",
+      "Where are SETU centres?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-MAH-REV",
+      "SVC-MAH-DBT",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "name": "Mahabhulekh (7/12 & 8A Land Records)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "mahabhulekh",
+      "satbara",
+      "7/12",
+      "8a",
+      "land records",
+      "maharashtra revenue"
+    ],
+    "aliases": [
+      "mahabhulekh",
+      "satbara",
+      "7/12",
+      "8a",
+      "land records",
+      "maharashtra revenue"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Mahabhulekh (7/12 & 8A Land Records)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is 7/12 (Satbara)?",
+      "How do I get 7/12 online in Maharashtra?",
+      "What is Satbara?",
+      "How do I check land mutation status?",
+      "Where do I get a certified 7/12?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-MAH-AAPLE"
+    ],
+    "official_portal": "https://mahabhulekh.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply"
+    ],
+    "aliases": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I add a member to my ration card?",
+      "How do I apply for a ration card in Maharashtra?",
+      "What are NFSA ration card types?",
+      "Where is my nearest ration shop?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website?"
+    ],
+    "related_services": [
+      "SVC-MAH-AAPLE",
+      "SVC-AADHAAR"
+    ],
+    "official_portal": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student"
+    ],
+    "aliases": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want MahaDBT (Maharashtra Scholarship & DBT)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Which schemes are on MahaDBT?",
+      "How do I apply for Maharashtra scholarship?",
+      "What is MahaDBT?",
+      "How do I check MahaDBT status?",
+      "Which scholarships are on MahaDBT?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-NSP",
+      "SVC-MAH-AAPLE"
+    ],
+    "official_portal": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "name": "Maharashtra Transport (RTO) Services",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "maharashtra rto",
+      "driving licence maharashtra",
+      "transport department",
+      "rc maharashtra"
+    ],
+    "aliases": [
+      "maharashtra rto",
+      "driving licence maharashtra",
+      "transport department",
+      "rc maharashtra"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maharashtra Transport (RTO) Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "Are Maharashtra RTO services on Parivahan?",
+      "How do I apply for DL in Maharashtra?",
+      "What are Maharashtra RTO fees?",
+      "How do I renew my DL in Mumbai/Pune?",
+      "Where is my RTO?",
+      "What is the official website for this service?",
+      "How do I contact support?",
+      "Is there any fee?",
+      "How long does it take?",
+      "Can I apply online?"
+    ],
+    "related_services": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ],
+    "official_portal": "https://transport.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-DL",
+    "name": "Driving Licence (Sarathi / Parivahan)",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "central",
+    "state": null,
+    "keywords": [
+      "driving",
+      "driving licence",
+      "learner licence",
+      "licence",
+      "parivahan",
+      "rto",
+      "sarathi",
+      "transport"
+    ],
+    "aliases": [
+      "driving",
+      "driving licence",
+      "learner licence",
+      "licence",
+      "parivahan",
+      "rto",
+      "sarathi",
+      "transport"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Driving Licence (Sarathi / Parivahan)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I apply for Driving Licence (Sarathi / Parivahan)?",
+      "What documents are required for Driving Licence (Sarathi / Parivahan)?",
+      "What is the fee for Driving Licence (Sarathi / Parivahan)?",
+      "Who is eligible for Driving Licence (Sarathi / Parivahan)?",
+      "How long does Driving Licence (Sarathi / Parivahan) take to process?",
+      "What is the official website for Driving Licence (Sarathi / Parivahan)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "name": "PAN Card (Permanent Account Number)",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "central",
+    "state": null,
+    "keywords": [
+      "account",
+      "card",
+      "e-pan",
+      "finance",
+      "financial id",
+      "income tax",
+      "number",
+      "pan",
+      "permanent",
+      "tax"
+    ],
+    "aliases": [
+      "account",
+      "card",
+      "e-pan",
+      "finance",
+      "financial id",
+      "income tax",
+      "number",
+      "pan",
+      "permanent",
+      "tax"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want PAN Card (Permanent Account Number)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I apply for PAN Card (Permanent Account Number)?",
+      "What documents are required for PAN Card (Permanent Account Number)?",
+      "What is the fee for PAN Card (Permanent Account Number)?",
+      "Who is eligible for PAN Card (Permanent Account Number)?",
+      "How long does PAN Card (Permanent Account Number) take to process?",
+      "What is the official website for PAN Card (Permanent Account Number)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "name": "Income Certificate (Maharashtra)",
+    "category_id": "CAT-CERT",
+    "government_level": "state",
+    "state": null,
+    "keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "income",
+      "income certificate",
+      "maharashtra",
+      "revenue",
+      "utpanna dakhla"
+    ],
+    "aliases": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "income",
+      "income certificate",
+      "maharashtra",
+      "revenue",
+      "utpanna dakhla"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Income Certificate (Maharashtra)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I apply for Income Certificate (Maharashtra)?",
+      "What documents are required for Income Certificate (Maharashtra)?",
+      "What is the fee for Income Certificate (Maharashtra)?",
+      "Who is eligible for Income Certificate (Maharashtra)?",
+      "How long does Income Certificate (Maharashtra) take to process?",
+      "What is the official website for Income Certificate (Maharashtra)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "name": "Domicile / Residence Certificate (Maharashtra)",
+    "category_id": "CAT-CERT",
+    "government_level": "state",
+    "state": null,
+    "keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "domicile",
+      "maharashtra",
+      "residence",
+      "residence certificate",
+      "vasti dakhla"
+    ],
+    "aliases": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "domicile",
+      "maharashtra",
+      "residence",
+      "residence certificate",
+      "vasti dakhla"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Domicile / Residence Certificate (Maharashtra)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I apply for Domicile / Residence Certificate (Maharashtra)?",
+      "What documents are required for Domicile / Residence Certificate (Maharashtra)?",
+      "What is the fee for Domicile / Residence Certificate (Maharashtra)?",
+      "Who is eligible for Domicile / Residence Certificate (Maharashtra)?",
+      "How long does Domicile / Residence Certificate (Maharashtra) take to process?",
+      "What is the official website for Domicile / Residence Certificate (Maharashtra)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "category_id": "CAT-WELFARE",
+    "government_level": "state",
+    "state": null,
+    "keywords": [
+      "bahin",
+      "dbt",
+      "financial assistance",
+      "ladki",
+      "ladki bahin",
+      "maharashtra",
+      "majhi",
+      "mukhyamantri",
+      "welfare",
+      "women scheme",
+      "yojana"
+    ],
+    "aliases": [
+      "bahin",
+      "dbt",
+      "financial assistance",
+      "ladki",
+      "ladki bahin",
+      "maharashtra",
+      "majhi",
+      "mukhyamantri",
+      "welfare",
+      "women scheme",
+      "yojana"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Mukhyamantri Majhi Ladki Bahin Yojana",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "How do I apply for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "What documents are required for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "What is the fee for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "Who is eligible for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "How long does Mukhyamantri Majhi Ladki Bahin Yojana take to process?",
+      "What is the official website for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://ladakibahin.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "name": "Pradhan Mantri Ujjwala Yojana (LPG)",
+    "category_id": "CAT-WELFARE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "ujjwala",
+      "lpg connection",
+      "pmuy",
+      "bpl gas"
+    ],
+    "aliases": [
+      "ujjwala",
+      "lpg connection",
+      "pmuy",
+      "bpl gas"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Ujjwala Yojana (LPG)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Ujjwala Yojana (LPG)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.pmuy.gov.in"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "name": "NGDRBharat (Digitized Land Records)",
+    "category_id": "CAT-CERT",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "ngdrbharat",
+      "land registration",
+      "property registration",
+      "digitized land"
+    ],
+    "aliases": [
+      "ngdrbharat",
+      "land registration",
+      "property registration",
+      "digitized land"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want NGDRBharat (Digitized Land Records)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is NGDRBharat (Digitized Land Records)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.ngdrbharat.gov.in"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "name": "India Post Services",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "india post",
+      "speed post",
+      "ippb",
+      "post office savings",
+      "posb"
+    ],
+    "aliases": [
+      "india post",
+      "speed post",
+      "ippb",
+      "post office savings",
+      "posb"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want India Post Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is India Post Services?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "name": "National Apprenticeship (Apprenticeship India)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "apprenticeship",
+      "nats",
+      "skill training",
+      "stipend"
+    ],
+    "aliases": [
+      "apprenticeship",
+      "nats",
+      "skill training",
+      "stipend"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want National Apprenticeship (Apprenticeship India)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is National Apprenticeship (Apprenticeship India)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://apprenticeshipindia.gov.in"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmkvy",
+      "skill india",
+      "skill certification",
+      "training"
+    ],
+    "aliases": [
+      "pmkvy",
+      "skill india",
+      "skill certification",
+      "training"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.msde.gov.in"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "name": "NIELIT Certification & Services",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "nielit",
+      "digital literacy",
+      "o level",
+      "it certification"
+    ],
+    "aliases": [
+      "nielit",
+      "digital literacy",
+      "o level",
+      "it certification"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want NIELIT Certification & Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is NIELIT Certification & Services?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.nielit.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "name": "Ayushman Bharat Health & Wellness Centres",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "health and wellness centre",
+      "hwc",
+      "ayushman primary care",
+      "abha"
+    ],
+    "aliases": [
+      "health and wellness centre",
+      "hwc",
+      "ayushman primary care",
+      "abha"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Ayushman Bharat Health & Wellness Centres",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Ayushman Bharat Health & Wellness Centres?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmsby",
+      "accident insurance",
+      "jansuraksha",
+      "suraksha bima"
+    ],
+    "aliases": [
+      "pmsby",
+      "accident insurance",
+      "jansuraksha",
+      "suraksha bima"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.mygov.in"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "jan dhan",
+      "pmjdy",
+      "zero balance account",
+      "financial inclusion"
+    ],
+    "aliases": [
+      "jan dhan",
+      "pmjdy",
+      "zero balance account",
+      "financial inclusion"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.pmjdy.gov.in"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "sukanya samriddhi",
+      "ssy",
+      "girl child scheme",
+      "small savings"
+    ],
+    "aliases": [
+      "sukanya samriddhi",
+      "ssy",
+      "girl child scheme",
+      "small savings"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Sukanya Samriddhi Yojana (SSY)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Sukanya Samriddhi Yojana (SSY)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "name": "Maha Anna (Maharashtra Ration / NFSA)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "maha anna",
+      "maharashtra ration",
+      "nfsa maharashtra",
+      "pds"
+    ],
+    "aliases": [
+      "maha anna",
+      "maharashtra ration",
+      "nfsa maharashtra",
+      "pds"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maha Anna (Maharashtra Ration / NFSA)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Maha Anna (Maharashtra Ration / NFSA)?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "name": "Maharashtra Chief Minister Relief Fund",
+    "category_id": "CAT-WELFARE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "cm relief fund",
+      "maharashtra relief",
+      "distress assistance"
+    ],
+    "aliases": [
+      "cm relief fund",
+      "maharashtra relief",
+      "distress assistance"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maharashtra Chief Minister Relief Fund",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Maharashtra Chief Minister Relief Fund?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "name": "Maharashtra Farmer Welfare Schemes",
+    "category_id": "CAT-AGR",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "maharashtra farmer",
+      "mahaagri",
+      "crop insurance",
+      "farm subsidy"
+    ],
+    "aliases": [
+      "maharashtra farmer",
+      "mahaagri",
+      "crop insurance",
+      "farm subsidy"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maharashtra Farmer Welfare Schemes",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Maharashtra Farmer Welfare Schemes?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://mahaagri.gov.in"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "name": "Delhi Ration Card / e-District",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "DL",
+    "keywords": [
+      "delhi edistrict",
+      "delhi ration",
+      "delhi certificate"
+    ],
+    "aliases": [
+      "delhi edistrict",
+      "delhi ration",
+      "delhi certificate"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Delhi Ration Card / e-District",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Delhi Ration Card / e-District?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://edistrict.delhigovt.nic.in"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "name": "Uttar Pradesh e-District / Ration",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "UP",
+    "keywords": [
+      "up edistrict",
+      "up ration",
+      "up certificate"
+    ],
+    "aliases": [
+      "up edistrict",
+      "up ration",
+      "up certificate"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Uttar Pradesh e-District / Ration",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Uttar Pradesh e-District / Ration?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://edistrict.up.gov.in"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "name": "Digital Gujarat Portal",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "GJ",
+    "keywords": [
+      "digital gujarat",
+      "gujarat services",
+      "gujarat scholarship"
+    ],
+    "aliases": [
+      "digital gujarat",
+      "gujarat services",
+      "gujarat scholarship"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Digital Gujarat Portal",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Digital Gujarat Portal?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://digitalgujarat.gov.in"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "name": "Karnataka Seva Sindhu / e-District",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "KA",
+    "keywords": [
+      "seva sindhu",
+      "karnataka edistrict",
+      "karnataka services"
+    ],
+    "aliases": [
+      "seva sindhu",
+      "karnataka edistrict",
+      "karnataka services"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Karnataka Seva Sindhu / e-District",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Karnataka Seva Sindhu / e-District?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://sevasindhu.karnataka.gov.in"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "name": "Tamil Nadu e-Sevai / e-District",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "TN",
+    "keywords": [
+      "tn esevai",
+      "tamil nadu edistrict",
+      "tn certificate"
+    ],
+    "aliases": [
+      "tn esevai",
+      "tamil nadu edistrict",
+      "tn certificate"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Tamil Nadu e-Sevai / e-District",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Tamil Nadu e-Sevai / e-District?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://eservices.tn.gov.in"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "name": "West Bengal Duare Sarkar / e-District",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "WB",
+    "keywords": [
+      "duare sarkar",
+      "wb edistrict",
+      "west bengal services"
+    ],
+    "aliases": [
+      "duare sarkar",
+      "wb edistrict",
+      "west bengal services"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want West Bengal Duare Sarkar / e-District",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is West Bengal Duare Sarkar / e-District?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://edistrict.wb.gov.in"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "name": "Rajasthan e-Mitra / SSO",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "RJ",
+    "keywords": [
+      "rajasthan sso",
+      "emitra",
+      "rajasthan services"
+    ],
+    "aliases": [
+      "rajasthan sso",
+      "emitra",
+      "rajasthan services"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Rajasthan e-Mitra / SSO",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Rajasthan e-Mitra / SSO?",
+      "What is the official website?",
+      "How do I contact support?",
+      "Is there a fee?",
+      "How long does it take?",
+      "Can I apply online?",
+      "What is the official website for this service?",
+      "How do I contact support for this service?",
+      "Is there any fee for this service?",
+      "How long does this service take to process?"
+    ],
+    "related_services": [],
+    "official_portal": "https://sso.rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-CSC",
+    "name": "Common Service Centres (CSC)",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "csc",
+      "common service centre",
+      "digital seva"
+    ],
+    "aliases": [
+      "csc",
+      "common service centre",
+      "digital seva"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Common Service Centres (CSC)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Common Service Centres (CSC)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "name": "BHIM / UPI (NPCI)",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "bhim",
+      "upi",
+      "digital payment"
+    ],
+    "aliases": [
+      "bhim",
+      "upi",
+      "digital payment"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want BHIM / UPI (NPCI)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is BHIM / UPI (NPCI)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.bhimupi.org.in"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "name": "DigiYatra (Airport Biometric)",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "digiyatra",
+      "airport biometric"
+    ],
+    "aliases": [
+      "digiyatra",
+      "airport biometric"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want DigiYatra (Airport Biometric)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is DigiYatra (Airport Biometric)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://digiyatra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "name": "Maa Bharti / e-Governance (Rajasthan)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "RJ",
+    "keywords": [
+      "rajasthan sso",
+      "maa bharti"
+    ],
+    "aliases": [
+      "rajasthan sso",
+      "maa bharti"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Maa Bharti / e-Governance (Rajasthan)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Maa Bharti / e-Governance (Rajasthan)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "name": "Andhra Pradesh e-Seva / MeeSeva",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "AP",
+    "keywords": [
+      "meeseva",
+      "ap citizen"
+    ],
+    "aliases": [
+      "meeseva",
+      "ap citizen"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Andhra Pradesh e-Seva / MeeSeva",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Andhra Pradesh e-Seva / MeeSeva?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://ap.meeseva.gov.in"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "name": "Telangana TS-ePASS / MeeSeva",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "TG",
+    "keywords": [
+      "telangana meeseva",
+      "ts epass"
+    ],
+    "aliases": [
+      "telangana meeseva",
+      "ts epass"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Telangana TS-ePASS / MeeSeva",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Telangana TS-ePASS / MeeSeva?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://ts.meeseva.telangana.gov.in"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "name": "Kerala e-District / KSWD",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "KL",
+    "keywords": [
+      "kerala edistrict"
+    ],
+    "aliases": [
+      "kerala edistrict"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Kerala e-District / KSWD",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Kerala e-District / KSWD?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://edistrict.kerala.gov.in"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "name": "CoWIN (Vaccination)",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "cowin",
+      "vaccination"
+    ],
+    "aliases": [
+      "cowin",
+      "vaccination"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want CoWIN (Vaccination)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is CoWIN (Vaccination)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.cowin.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "name": "AYUSH Centres / Ministries",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "ayush",
+      "yoga",
+      "ayurveda"
+    ],
+    "aliases": [
+      "ayush",
+      "yoga",
+      "ayurveda"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want AYUSH Centres / Ministries",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is AYUSH Centres / Ministries?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://ayush.gov.in"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "name": "Anganwadi / ICDS Services",
+    "category_id": "CAT-WELFARE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "anganwadi",
+      "icds",
+      "child nutrition"
+    ],
+    "aliases": [
+      "anganwadi",
+      "icds",
+      "child nutrition"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Anganwadi / ICDS Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Anganwadi / ICDS Services?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://wcd.nic.in"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "name": "POSHAN Abhiyaan",
+    "category_id": "CAT-WELFARE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "poshan",
+      "nutrition mission"
+    ],
+    "aliases": [
+      "poshan",
+      "nutrition mission"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want POSHAN Abhiyaan",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is POSHAN Abhiyaan?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://poshanabhiyaan.gov.in"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "name": "Swachh Bharat Mission",
+    "category_id": "CAT-WELFARE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "swachh bharat",
+      "toilet",
+      "sanitation"
+    ],
+    "aliases": [
+      "swachh bharat",
+      "toilet",
+      "sanitation"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Swachh Bharat Mission",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Swachh Bharat Mission?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://swachhbharat.mygov.in"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "name": "AMRUT (Urban Water/Sewerage)",
+    "category_id": "CAT-STATE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "amrut",
+      "urban water"
+    ],
+    "aliases": [
+      "amrut",
+      "urban water"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want AMRUT (Urban Water/Sewerage)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is AMRUT (Urban Water/Sewerage)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://amrut.mohua.gov.in"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "name": "Pradhan Mantri Gram Sadak Yojana",
+    "category_id": "CAT-STATE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmgsy",
+      "rural road"
+    ],
+    "aliases": [
+      "pmgsy",
+      "rural road"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Gram Sadak Yojana",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Gram Sadak Yojana?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://pmgsy.nic.in"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "name": "MGNREGA (Rural Employment)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "mgnrega",
+      "nrega",
+      "rural employment"
+    ],
+    "aliases": [
+      "mgnrega",
+      "nrega",
+      "rural employment"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want MGNREGA (Rural Employment)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is MGNREGA (Rural Employment)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://nrega.nic.in"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "name": "DAY-NULM (Urban Livelihood)",
+    "category_id": "CAT-WELFARE",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "day nulm",
+      "urban livelihood"
+    ],
+    "aliases": [
+      "day nulm",
+      "urban livelihood"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want DAY-NULM (Urban Livelihood)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is DAY-NULM (Urban Livelihood)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://nulm.gov.in"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "name": "PMKVY 4.0 (Skill India)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmkvy 4.0",
+      "skill india"
+    ],
+    "aliases": [
+      "pmkvy 4.0",
+      "skill india"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want PMKVY 4.0 (Skill India)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is PMKVY 4.0 (Skill India)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.pmkvyofficial.org"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "name": "DISHA / CSC 2.0",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "disha",
+      "digital literacy"
+    ],
+    "aliases": [
+      "disha",
+      "digital literacy"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want DISHA / CSC 2.0",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is DISHA / CSC 2.0?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "name": "Jal Jeevan Mission (Maharashtra)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "jal jeevan maharashtra",
+      "tap water"
+    ],
+    "aliases": [
+      "jal jeevan maharashtra",
+      "tap water"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Jal Jeevan Mission (Maharashtra)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Jal Jeevan Mission (Maharashtra)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://mjp.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+    "category_id": "CAT-HEALTH",
+    "government_level": "State",
+    "state": "MH",
+    "keywords": [
+      "mjpa",
+      "maharashtra health scheme"
+    ],
+    "aliases": [
+      "mjpa",
+      "maharashtra health scheme"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Mahatma Jyotiba Phule Jan Arogya Yojana (MH)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.jeevandayee.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "name": "Pradhan Mantri Suraksha Bima Yojana",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmsby"
+    ],
+    "aliases": [
+      "pmsby"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Suraksha Bima Yojana",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Suraksha Bima Yojana?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "pmjjby",
+      "life insurance"
+    ],
+    "aliases": [
+      "pmjjby",
+      "life insurance"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "name": "Atal Pension Yojana",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "atal pension",
+      "apy"
+    ],
+    "aliases": [
+      "atal pension",
+      "apy"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Atal Pension Yojana",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Atal Pension Yojana?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "name": "National Pension System",
+    "category_id": "CAT-FINANCE2",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "nps",
+      "national pension"
+    ],
+    "aliases": [
+      "nps",
+      "national pension"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want National Pension System",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is National Pension System?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "name": "Indian Railways / IRCTC Services",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "irctc",
+      "rail booking"
+    ],
+    "aliases": [
+      "irctc",
+      "rail booking"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Indian Railways / IRCTC Services",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Indian Railways / IRCTC Services?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.irctc.co.in"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "name": "Airport Authority / DigiYatra",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "aai",
+      "airport"
+    ],
+    "aliases": [
+      "aai",
+      "airport"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Airport Authority / DigiYatra",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Airport Authority / DigiYatra?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.aai.aero"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "name": "Passport Seva (Re-enrich)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "state": null,
+    "keywords": [
+      "passport",
+      "passport seva"
+    ],
+    "aliases": [
+      "passport",
+      "passport seva"
+    ],
+    "synonyms": [],
+    "common_misspellings": [],
+    "regional_spellings": [],
+    "hindi_translit": [],
+    "marathi_translit": [],
+    "voice_queries": [
+      "I want Passport Seva (Re-enrich)",
+      "Need help with {s.get('name')}"
+    ],
+    "natural_language_queries": [
+      "What is Passport Seva (Re-enrich)?",
+      "What is the official website?",
+      "Helpline?",
+      "Is there a fee?",
+      "How long does it take?"
+    ],
+    "related_services": [],
+    "official_portal": "https://www.passportindia.gov.in"
+  }
+]

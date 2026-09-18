@@ -1,0 +1,93 @@
+{
+  "en": {
+    "name": "Aadhaar Enrolment & Update",
+    "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+    "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+    "benefits": "Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+    "application_steps": [
+      "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+      "Fill enrolment/update form and submit supporting documents.",
+      "Provide biometric (fingerprints, iris) and photograph.",
+      "Collect acknowledgement slip with Enrolment ID (EID).",
+      "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+    ],
+    "faqs": [
+      "Is Aadhaar mandatory for all schemes?",
+      "How do I lock/unlock biometrics?",
+      "How do I enrol for Aadhaar?",
+      "How do I update my address in Aadhaar?",
+      "Is Aadhaar mandatory for subsidies?"
+    ],
+    "keywords": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity"
+    ]
+  },
+  "hi": {
+    "name": "Aadhaar Enrolment & Update",
+    "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+    "eligibility": "पात्रता: Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+    "benefits": "लाभ: Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+    "application_steps": [
+      "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+      "Fill enrolment/update form and submit supporting documents.",
+      "Provide biometric (fingerprints, iris) and photograph.",
+      "Collect acknowledgement slip with Enrolment ID (EID).",
+      "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+    ],
+    "faqs": [
+      "Is Aadhaar mandatory for all schemes?",
+      "How do I lock/unlock biometrics?",
+      "How do I enrol for Aadhaar?",
+      "How do I update my address in Aadhaar?",
+      "Is Aadhaar mandatory for subsidies?"
+    ],
+    "keywords": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity",
+      "aadhaar",
+      "uidai"
+    ]
+  },
+  "mr": {
+    "name": "Aadhaar Enrolment & Update",
+    "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+    "eligibility": "पात्रता: Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+    "benefits": "फायदे: Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+    "application_steps": [
+      "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+      "Fill enrolment/update form and submit supporting documents.",
+      "Provide biometric (fingerprints, iris) and photograph.",
+      "Collect acknowledgement slip with Enrolment ID (EID).",
+      "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+    ],
+    "faqs": [
+      "Is Aadhaar mandatory for all schemes?",
+      "How do I lock/unlock biometrics?",
+      "How do I enrol for Aadhaar?",
+      "How do I update my address in Aadhaar?",
+      "Is Aadhaar mandatory for subsidies?"
+    ],
+    "keywords": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity",
+      "aadhaar",
+      "uidai"
+    ]
+  }
+}

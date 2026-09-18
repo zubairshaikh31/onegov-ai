@@ -1,0 +1,26 @@
+{
+  "event": "women",
+  "services": [
+    "SVC-MAH-LADKI",
+    "SVC-SUKANYA",
+    "SVC-PMUY",
+    "SVC-JDY"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-MAH-LADKI",
+    "SVC-SUKANYA",
+    "SVC-PMUY",
+    "SVC-JDY"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-mah-ladki_guide.md",
+    "tutorials/md/svc-sukanya_guide.md",
+    "tutorials/md/svc-pmuy_guide.md",
+    "tutorials/md/svc-jdy_guide.md"
+  ]
+}

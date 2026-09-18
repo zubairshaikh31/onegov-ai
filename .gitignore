@@ -1,0 +1,84 @@
+# ─── Environment ───────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.env
+
+# ─── Python ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ─── Node / Next.js ─────────────────────────────────────────
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+npm-debug.log*
+yarn-error.log*
+
+# ─── Docker ─────────────────────────────────────────────────
+docker-compose.override.yml
+
+# ─── IDE ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── Logs ────────────────────────────────────────────────────
+logs/
+*.log
+
+# ─── AI / ML ─────────────────────────────────────────────────
+ai/data/raw/
+ai/data/processed/
+*.pkl
+*.pt
+*.bin
+
+# --- Added by Security Audit -------------------------------
+!.env.example
+!.env.template
+!frontend/.env.example
+!frontend/.env.template
+!backend/.env.example
+!backend/.env.template
+
+# Explicit frontend/backend env ignores
+frontend/.env.local
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# Local databases and generated data
+*.db
+*.sqlite
+*.sqlite3
+db_temp/
+data/generated/
+uploads/
+
+# Certificates and private keys
+*.pem
+*.key
+*.p12
+*.pfx

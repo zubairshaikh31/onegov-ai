@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-PMUY",
+  "guide_md": "tutorials/md/svc-pmuy_guide.md",
+  "guide_html": "tutorials/html/svc-pmuy_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-pmuy_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.pmuy.gov.in"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-ESIC",
+  "ai_summary": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment.",
+  "ai_explanation": "ESIC is a contributory social insurance scheme where employer and employee contribute a percentage of wages. Covered workers and their families get cashless medical care plus sickness, maternity, and disability benefits. Enrolment is done by the employer.",
+  "common_questions": [
+    "What is the ESIC wage limit?",
+    "How do I get a Pehchan card?",
+    "What does ESIC cover?",
+    "How do I claim ESIC sickness benefit?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is the ESIC wage limit?",
+      "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+    },
+    {
+      "user": "How do I get a Pehchan card?",
+      "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+    },
+    {
+      "user": "What does ESIC cover?",
+      "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-esic",
+    "status_svc-esic",
+    "eligibility_svc-esic"
+  ],
+  "user_utterances": [
+    "I want ESIC (Employees' State Insurance)",
+    "Need ESIC (Employees' State Insurance)",
+    "ESIC (Employees' State Insurance) help"
+  ],
+  "follow_up_questions": [
+    "How do I find my nearest ESIC dispensary?",
+    "Can I avail ESIC after leaving the job?"
+  ],
+  "recommended_responses": [
+    "Visit https://www.esic.gov.in",
+    "Call helpline 1800-11-2526"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://www.esic.gov.in/insured-person"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-11-2526"
+    }
+  ]
+}

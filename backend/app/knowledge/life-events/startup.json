@@ -1,0 +1,26 @@
+{
+  "event": "startup",
+  "services": [
+    "SVC-STARTUP",
+    "SVC-UDYAM",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-STARTUP",
+    "SVC-UDYAM",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-startup_guide.md",
+    "tutorials/md/svc-udyam_guide.md",
+    "tutorials/md/svc-gem_guide.md",
+    "tutorials/md/svc-gst_guide.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "महा अन्न (महाराष्ट्र रेशन)",
+  "description": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+  "benefits": "Subsidised rice/wheat/cereals via Fair Price Shops; portability under One Nation One Ration Card.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "steps": [
+    "Apply via MahaFood portal / rationing office.",
+    "Verification by authority.",
+    "Issuance; avail PDS."
+  ],
+  "faqs": [],
+  "keywords": []
+}

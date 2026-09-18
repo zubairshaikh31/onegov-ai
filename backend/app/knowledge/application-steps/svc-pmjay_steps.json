@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Check eligibility via pmjay.gov.in 'Am I Eligible'."
+  },
+  {
+    "step": 2,
+    "description": "Visit Ayushman Bharat / CSC kendra with ID."
+  },
+  {
+    "step": 3,
+    "description": "Create Ayushman card / e-card."
+  },
+  {
+    "step": 4,
+    "description": "Visit empanelled hospital; show card at helpdesk."
+  },
+  {
+    "step": 5,
+    "description": "Cashless admission and treatment; claim settled directly."
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PAN",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Aadhaar (linked)",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Form 16 / 16A",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Bank statements",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Investment proofs",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Capital gains statements",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Donation receipts",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

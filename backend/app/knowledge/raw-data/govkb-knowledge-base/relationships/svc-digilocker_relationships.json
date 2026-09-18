@@ -1,0 +1,13 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "prerequisite": [
+    "SVC-AADHAAR"
+  ],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-AADHAAR",
+    "SVC-UMANG"
+  ],
+  "chain_example": "SVC-DIGILOCKER -> SVC-AADHAAR -> SVC-UMANG"
+}

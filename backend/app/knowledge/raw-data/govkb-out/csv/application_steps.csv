@@ -1,0 +1,128 @@
+id,service_id,step_order,title,description
+STEP-0001,SVC-AADHAAR,1,Step 1,Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.
+STEP-0002,SVC-AADHAAR,2,Step 2,Fill enrolment/update form and submit supporting documents.
+STEP-0003,SVC-AADHAAR,3,Step 3,"Provide biometric (fingerprints, iris) and photograph."
+STEP-0004,SVC-AADHAAR,4,Step 4,Collect acknowledgement slip with Enrolment ID (EID).
+STEP-0005,SVC-AADHAAR,5,Step 5,Download e-Aadhaar once UID is generated (verify on uidai.gov.in).
+STEP-0006,SVC-PASSPORT,1,Step 1,Register on passportindia.gov.in and fill the application form.
+STEP-0007,SVC-PASSPORT,2,Step 2,Pay fee and book appointment at nearest PSK/PopSK.
+STEP-0008,SVC-PASSPORT,3,Step 3,Visit PSK with originals + photocopies for document verification and biometric capture.
+STEP-0009,SVC-PASSPORT,4,Step 4,Police verification (for fresh passports) at registered address.
+STEP-0010,SVC-PASSPORT,5,Step 5,Passport printed and dispatched; track status online.
+STEP-0011,SVC-VOTER,1,Step 1,Visit nvsp.in or voterportal.eci.gov.in and register/login.
+STEP-0012,SVC-VOTER,2,Step 2,Fill Form 6 (new enrolment) with details and upload documents.
+STEP-0013,SVC-VOTER,3,Step 3,Submit and note reference number.
+STEP-0014,SVC-VOTER,4,Step 4,BLO verifies at residence; name added to draft roll.
+STEP-0015,SVC-VOTER,5,Step 5,Download e-EPIC once approved.
+STEP-0016,SVC-PMKISAN,1,Step 1,Visit pmkisan.gov.in -> 'New Farmer Registration'.
+STEP-0017,SVC-PMKISAN,2,Step 2,Enter Aadhaar and land/account details.
+STEP-0018,SVC-PMKISAN,3,Step 3,Verify and submit; note registration number.
+STEP-0019,SVC-PMKISAN,4,Step 4,District/State validates land records.
+STEP-0020,SVC-PMKISAN,5,Step 5,Instalments credited to bank account; check status online.
+STEP-0021,SVC-ENAM,1,Step 1,Register on enam.gov.in as farmer/trader.
+STEP-0022,SVC-ENAM,2,Step 2,Link APMC mandi and bank account.
+STEP-0023,SVC-ENAM,3,Step 3,List produce with quality/grade.
+STEP-0024,SVC-ENAM,4,Step 4,Participate in e-auction; buyer bids.
+STEP-0025,SVC-ENAM,5,Step 5,Payment settled to farmer account post-trade.
+STEP-0026,SVC-PMJAY,1,Step 1,Check eligibility via pmjay.gov.in 'Am I Eligible'.
+STEP-0027,SVC-PMJAY,2,Step 2,Visit Ayushman Bharat / CSC kendra with ID.
+STEP-0028,SVC-PMJAY,3,Step 3,Create Ayushman card / e-card.
+STEP-0029,SVC-PMJAY,4,Step 4,Visit empanelled hospital; show card at helpdesk.
+STEP-0030,SVC-PMJAY,5,Step 5,Cashless admission and treatment; claim settled directly.
+STEP-0031,SVC-ABDM,1,Step 1,Visit abdm.gov.in or ABHA app.
+STEP-0032,SVC-ABDM,2,Step 2,Authenticate with Aadhaar OTP or other ID.
+STEP-0033,SVC-ABDM,3,Step 3,Create 14-digit ABHA number / Health ID.
+STEP-0034,SVC-ABDM,4,Step 4,Link PHR address and records from providers.
+STEP-0035,SVC-ABDM,5,Step 5,Manage consent for record sharing.
+STEP-0036,SVC-ESHRAM,1,Step 1,Visit eshram.gov.in; self-register with Aadhaar OTP.
+STEP-0037,SVC-ESHRAM,2,Step 2,"Fill personal, occupation, and bank details."
+STEP-0038,SVC-ESHRAM,3,Step 3,Submit; download e-Shram card (UAN).
+STEP-0039,SVC-ESHRAM,4,Step 4,Update details as needed.
+STEP-0040,SVC-EPFO,1,Step 1,Activate UAN on EPFO member portal / UMANG.
+STEP-0041,SVC-EPFO,2,Step 2,"Seed Aadhaar, bank, PAN via KYC."
+STEP-0042,SVC-EPFO,3,Step 3,Raise claim (Form 19/10C/31) online.
+STEP-0043,SVC-EPFO,4,Step 4,Track claim status; amount credited to bank.
+STEP-0044,SVC-ESIC,1,Step 1,Employer registers establishment and enrols employees (Form 1).
+STEP-0045,SVC-ESIC,2,Step 2,Employee gets Insurance/Pehchan card.
+STEP-0046,SVC-ESIC,3,Step 3,Avail treatment at ESIC dispensary/hospital with card.
+STEP-0047,SVC-ESIC,4,Step 4,File claims (sickness/maternity) online if applicable.
+STEP-0048,SVC-NCS,1,Step 1,Register as Job Seeker on ncs.gov.in.
+STEP-0049,SVC-NCS,2,Step 2,Build profile / resume.
+STEP-0050,SVC-NCS,3,Step 3,Search and apply to vacancies.
+STEP-0051,SVC-NCS,4,Step 4,Attend counselling / interviews scheduled.
+STEP-0052,SVC-UDYAM,1,Step 1,Visit udyamregistration.gov.in; Aadhaar-validate.
+STEP-0053,SVC-UDYAM,2,Step 2,Enter PAN and business details.
+STEP-0054,SVC-UDYAM,3,Step 3,Fill investment/turnover and activity.
+STEP-0055,SVC-UDYAM,4,Step 4,Submit; download Udyam certificate instantly.
+STEP-0056,SVC-STARTUP,1,Step 1,Incorporate the entity.
+STEP-0057,SVC-STARTUP,2,Step 2,Register on startupindia.gov.in.
+STEP-0058,SVC-STARTUP,3,Step 3,Apply for DPIIT recognition with details.
+STEP-0059,SVC-STARTUP,4,Step 4,Self-certify and submit; get recognition number.
+STEP-0060,SVC-STARTUP,5,Step 5,Avail benefits (tax/patent/tender).
+STEP-0061,SVC-GEM,1,Step 1,Register as buyer or seller on gem.gov.in.
+STEP-0062,SVC-GEM,2,Step 2,Complete organization and bank/KYC.
+STEP-0063,SVC-GEM,3,Step 3,List products/services (sellers) or create demand (buyers).
+STEP-0064,SVC-GEM,4,Step 4,Transact via bid/RA; order and fulfil.
+STEP-0065,SVC-ITR,1,Step 1,Register/login on incometax.gov.in.
+STEP-0066,SVC-ITR,2,Step 2,Choose correct ITR form.
+STEP-0067,SVC-ITR,3,Step 3,Pre-fill and enter income/deductions.
+STEP-0068,SVC-ITR,4,Step 4,"Validate, pay tax (if any), submit."
+STEP-0069,SVC-ITR,5,Step 5,Verify via Aadhaar OTP / EVC / send ITR-V.
+STEP-0070,SVC-GST,1,Step 1,Apply Part-A (Form GST REG-01) on gst.gov.in.
+STEP-0071,SVC-GST,2,Step 2,Get ARN; complete Part-B with documents.
+STEP-0072,SVC-GST,3,Step 3,Aadhaar authentication / verification.
+STEP-0073,SVC-GST,4,Step 4,GSTIN allotted on approval.
+STEP-0074,SVC-GST,5,Step 5,File returns (GSTR-1/3B) periodically.
+STEP-0075,SVC-DIGILOCKER,1,Step 1,Sign up at digilocker.gov.in with Aadhaar OTP.
+STEP-0076,SVC-DIGILOCKER,2,Step 2,Link mobile; set username/password.
+STEP-0077,SVC-DIGILOCKER,3,Step 3,Fetch issued documents from registered issuers.
+STEP-0078,SVC-DIGILOCKER,4,Step 4,Upload personal documents; share via URI/QR.
+STEP-0079,SVC-UMANG,1,Step 1,Download UMANG app / visit web.umang.gov.in.
+STEP-0080,SVC-UMANG,2,Step 2,Register with mobile OTP.
+STEP-0081,SVC-UMANG,3,Step 3,Browse departments and services.
+STEP-0082,SVC-UMANG,4,Step 4,Authenticate per service and transact.
+STEP-0083,SVC-PMAYU,1,Step 1,Visit pmaymis.gov.in; check eligibility.
+STEP-0084,SVC-PMAYU,2,Step 2,Apply under beneficiary-led / CLSS component.
+STEP-0085,SVC-PMAYU,3,Step 3,"Enter Aadhaar, income, bank, property details."
+STEP-0086,SVC-PMAYU,4,Step 4,Verification by ULB/state.
+STEP-0087,SVC-PMAYU,5,Step 5,Subsidy/assistance as per component.
+STEP-0088,SVC-NSP,1,Step 1,Register on scholarships.gov.in as student.
+STEP-0089,SVC-NSP,2,Step 2,Find eligible schemes; fill application.
+STEP-0090,SVC-NSP,3,Step 3,Upload documents; submit.
+STEP-0091,SVC-NSP,4,Step 4,Institute and nodal verification.
+STEP-0092,SVC-NSP,5,Step 5,Sanction and DBT to bank.
+STEP-0093,SVC-SWAYAM,1,Step 1,Sign up on swayam.gov.in.
+STEP-0094,SVC-SWAYAM,2,Step 2,Browse and enrol in courses.
+STEP-0095,SVC-SWAYAM,3,Step 3,"Attend video lectures, assignments."
+STEP-0096,SVC-SWAYAM,4,Step 4,"Take proctored exam (optional, paid) for certificate."
+STEP-0097,SVC-ABC,1,Step 1,Create ABC ID via abc.gov.in / institutional link.
+STEP-0098,SVC-ABC,2,Step 2,HEI deposits earned credits.
+STEP-0099,SVC-ABC,3,Step 3,View and manage credit stack.
+STEP-0100,SVC-ABC,4,Step 4,Transfer/redeem per framework.
+STEP-0101,SVC-PARIVAHAN,1,Step 1,Visit parivahan.gov.in -> Vahan/Sarathi.
+STEP-0102,SVC-PARIVAHAN,2,Step 2,Apply for RC/DL/LL with details and documents.
+STEP-0103,SVC-PARIVAHAN,3,Step 3,Pay fees and book RTO slot.
+STEP-0104,SVC-PARIVAHAN,4,Step 4,Visit RTO for test/verification.
+STEP-0105,SVC-PARIVAHAN,5,Step 5,Receive RC/DL (digital via DigiLocker).
+STEP-0106,SVC-MAH-AAPLE,1,Step 1,Register on Aaple Sarkar portal.
+STEP-0107,SVC-MAH-AAPLE,2,Step 2,Select department/service (certificate/scheme).
+STEP-0108,SVC-MAH-AAPLE,3,Step 3,Fill form and upload documents.
+STEP-0109,SVC-MAH-AAPLE,4,Step 4,Submit; track application.
+STEP-0110,SVC-MAH-AAPLE,5,Step 5,Collect certificate (online download / SETU centre).
+STEP-0111,SVC-MAH-REV,1,Step 1,Visit mahabhulekh.maharashtra.gov.in.
+STEP-0112,SVC-MAH-REV,2,Step 2,Select district and 7/12 (Satbara) or 8A.
+STEP-0113,SVC-MAH-REV,3,Step 3,Enter village/survey/Gat number.
+STEP-0114,SVC-MAH-REV,4,Step 4,View and download extract (print).
+STEP-0115,SVC-MAH-FOOD,1,Step 1,Apply via Maharashtra food supply portal / CSC.
+STEP-0116,SVC-MAH-FOOD,2,Step 2,Submit family and Aadhaar details.
+STEP-0117,SVC-MAH-FOOD,3,Step 3,Verification by rationing authority.
+STEP-0118,SVC-MAH-FOOD,4,Step 4,Ration card issued; avail PDS.
+STEP-0119,SVC-MAH-DBT,1,Step 1,Register on MahaDBT portal.
+STEP-0120,SVC-MAH-DBT,2,Step 2,Complete profile with Aadhaar/bank/certificates.
+STEP-0121,SVC-MAH-DBT,3,Step 3,Select eligible schemes; apply.
+STEP-0122,SVC-MAH-DBT,4,Step 4,Institute/DC verification.
+STEP-0123,SVC-MAH-DBT,5,Step 5,DBT to bank account.
+STEP-0124,SVC-MAH-RTO,1,Step 1,Use Parivahan/Sarathi or state portal.
+STEP-0125,SVC-MAH-RTO,2,Step 2,Apply for DL/RC/permit; pay fees.
+STEP-0126,SVC-MAH-RTO,3,Step 3,Book RTO slot; visit for test.
+STEP-0127,SVC-MAH-RTO,4,Step 4,Receive documents (digital via DigiLocker).

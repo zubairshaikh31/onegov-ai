@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-SWAYAM",
+  "ai_summary": "SWAYAM offers free government online courses from school to PG, with paid certificates.",
+  "ai_explanation": "SWAYAM is India's national MOOC platform providing free courses designed by top institutions. Learners enrol, complete lectures and assignments, and can earn a certificate by paying a proctored exam fee. Credits may transfer where recognised.",
+  "eligibility_summary": "Open to all learners; some courses have eligibility for credit/ exam.",
+  "conversation_examples": [
+    {
+      "user": "I want SWAYAM (Free Online Courses)",
+      "bot": "SWAYAM offers free government online courses from school to PG, with paid certificates. Apply: https://swayam.gov.in. Helpline: 1800-121-9020."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with SWAYAM (Free Online Courses). Use only official info from https://swayam.gov.in.",
+  "follow_up_questions": [
+    "Which institutions accept SWAYAM credit?",
+    "How do I take the SWAYAM exam?"
+  ],
+  "intent_examples": [
+    "apply_svc-swayam",
+    "status_svc-swayam",
+    "eligibility_svc-swayam"
+  ],
+  "recommended_services": [
+    "SVC-NSP",
+    "SVC-ABC"
+  ],
+  "document_suggestions": [
+    "Email/mobile for sign-up"
+  ],
+  "suggested_responses": [
+    "Visit https://swayam.gov.in",
+    "Call 1800-121-9020"
+  ],
+  "recommendation_weight": 1.0
+}

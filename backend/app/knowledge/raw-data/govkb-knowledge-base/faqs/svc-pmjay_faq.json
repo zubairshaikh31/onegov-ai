@@ -1,0 +1,66 @@
+[
+  {
+    "question": "How do I know if I am eligible?",
+    "answer": "Search your name by state/district/SECC ID on the Beneficiary Portal.",
+    "official": true
+  },
+  {
+    "question": "Is there a premium to pay?",
+    "answer": "No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals.",
+    "official": true
+  },
+  {
+    "question": "Am I eligible for Ayushman Bharat?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I make an Ayushman card?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Which hospitals accept PM-JAY?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is covered under PM-JAY?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://pmjay.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 14555 / 1800-11-15555 / email pmjay@nha.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free for eligible beneficiaries (no premium).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Card creation same day; treatment cashless at empanelled hospitals.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Through Ayushman Bharat Kendras / CSC / hospital helpdesk",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

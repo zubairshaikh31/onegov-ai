@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-COWIN",
+  "references": [
+    {
+      "act": "Disaster Management Act / Epidemic Diseases Act provisions",
+      "rule": "CoWIN platform guidelines",
+      "authority": "MoHFW"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-GEM",
+  "ai_summary": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs.",
+  "ai_explanation": "GeM is an open e-marketplace where government departments buy goods/services and businesses (including MSMEs) sell. It brings transparency, MSE preferences, and faster payments. Sellers register with business and tax details and list catalogues.",
+  "common_questions": [
+    "How do I sell on GeM?",
+    "Who can buy on GeM?",
+    "What are GeM seller charges?",
+    "How do I register on GeM?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I sell on GeM?",
+      "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+    },
+    {
+      "user": "Who can buy on GeM?",
+      "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+    },
+    {
+      "user": "What are GeM seller charges?",
+      "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-gem",
+    "status_svc-gem",
+    "eligibility_svc-gem"
+  ],
+  "user_utterances": [
+    "I want GeM (Government e-Marketplace)",
+    "Need GeM (Government e-Marketplace)",
+    "GeM (Government e-Marketplace) help"
+  ],
+  "follow_up_questions": [
+    "What documents are needed to sell on GeM?",
+    "How are GeM payments made?"
+  ],
+  "recommended_responses": [
+    "Visit https://gem.gov.in",
+    "Call helpline 1800-419-3436 / 1800-102-3436"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://gem.gov.in/registration"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-419-3436 / 1800-102-3436"
+    }
+  ]
+}

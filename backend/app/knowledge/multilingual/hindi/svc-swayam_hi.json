@@ -1,0 +1,23 @@
+{
+  "name": "स्वयं (ऑनलाइन पाठ्यक्रम)",
+  "description": "National MOOC platform offering free online courses from school to postgraduate level with certificates.",
+  "benefits": "Free quality courses, certificates (with exam fee), academic credit transfer where recognised.",
+  "eligibility": "Open to all learners; some courses have eligibility for credit/ exam.",
+  "documents": [
+    "Email/mobile for sign-up"
+  ],
+  "steps": [
+    "Sign up on swayam.gov.in.",
+    "Browse and enrol in courses.",
+    "Attend video lectures, assignments.",
+    "Take proctored exam (optional, paid) for certificate."
+  ],
+  "faqs": [],
+  "keywords": [
+    "swayam",
+    "online courses",
+    "mooc",
+    "free education",
+    "certificate"
+  ]
+}

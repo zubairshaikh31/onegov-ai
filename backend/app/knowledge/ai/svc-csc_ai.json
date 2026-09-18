@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-CSC",
+  "ai_summary": "CSCs are government kiosks delivering digital public services locally.",
+  "ai_explanation": "CSC network provides public services (gov, finance, education) at village/urban kiosks.",
+  "eligibility_summary": "Village-level entrepreneurs and citizens seeking assisted services.",
+  "conversation_examples": [
+    {
+      "user": "I want Common Service Centres (CSC)",
+      "bot": "CSCs are government kiosks delivering digital public services locally. Apply: https://www.csc.gov.in. Helpline: 1800-3000-3468."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Common Service Centres (CSC). Use only https://www.csc.gov.in.",
+  "follow_up_questions": [
+    "What documents for Common Service Centres (CSC)?",
+    "How long for Common Service Centres (CSC)?"
+  ],
+  "intent_examples": [
+    "apply_svc-csc",
+    "status_svc-csc"
+  ],
+  "recommended_services": [
+    "SVC-DIGILOCKER"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.csc.gov.in",
+    "Call 1800-3000-3468"
+  ],
+  "recommendation_weight": 1.0
+}

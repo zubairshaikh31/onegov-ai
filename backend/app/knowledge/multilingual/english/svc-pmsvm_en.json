@@ -1,0 +1,24 @@
+{
+  "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "description": "Life insurance cover Rs.2 lakh at Rs.436/year.",
+  "benefits": "Life cover.",
+  "eligibility": "Adults 18-50 with bank account.",
+  "documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "steps": [
+    "Enroll via bank."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "pmjjby",
+    "life insurance"
+  ]
+}

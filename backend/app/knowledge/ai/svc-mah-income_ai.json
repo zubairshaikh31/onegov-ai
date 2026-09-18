@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-MAH-INCOME",
+  "ai_summary": "Income Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+  "ai_explanation": "Income Certificate (Maharashtra) is Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes. Eligibility: Residents of Maharashtra requiring proof of family income.. Benefits: Required for scholarships, fee concessions, reservations and welfare schemes.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (as per RTS Act service standard). and fees are Nominal (approx Rs.33-40 via Aaple Sarkar)..",
+  "eligibility_summary": "Residents of Maharashtra requiring proof of family income.",
+  "conversation_examples": [
+    {
+      "user": "I want Income Certificate (Maharashtra)",
+      "bot": "Income Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online. Apply: https://aaplesarkar.mahaonline.gov.in. Helpline: 1800-120-8040."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Income Certificate (Maharashtra). Use only official info from https://aaplesarkar.mahaonline.gov.in.",
+  "follow_up_questions": [
+    "Do I need to visit an office in person for Income Certificate (Maharashtra)?",
+    "Can I track my Income Certificate (Maharashtra) application status online?",
+    "What should I do if my Income Certificate (Maharashtra) application is rejected?",
+    "Are there any state-specific rules for Income Certificate (Maharashtra) in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-income",
+    "status_svc-mah-income",
+    "eligibility_svc-mah-income"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Income proof (salary slip/self-declaration)",
+    "Ration card"
+  ],
+  "suggested_responses": [
+    "Visit https://aaplesarkar.mahaonline.gov.in",
+    "Call 1800-120-8040"
+  ],
+  "recommendation_weight": 1.0
+}

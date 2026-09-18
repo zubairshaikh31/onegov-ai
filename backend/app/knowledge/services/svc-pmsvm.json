@@ -1,0 +1,47 @@
+{
+  "service_id": "SVC-PMSVM",
+  "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Insurance",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Life insurance cover Rs.2 lakh at Rs.436/year.",
+  "eligibility": "Adults 18-50 with bank account.",
+  "benefits": "Life cover.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Enroll via bank."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.jansuraksha.gov.in",
+  "official_apply_link": "https://www.jansuraksha.gov.in",
+  "download_forms": "https://www.jansuraksha.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.jansuraksha.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "PMJJBY provides life insurance cover.",
+  "ai_explanation": "Life insurance cover Rs.2 lakh at Rs.436/year.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "pmjjby",
+    "life insurance"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

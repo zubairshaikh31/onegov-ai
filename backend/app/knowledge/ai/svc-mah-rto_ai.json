@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-MAH-RTO",
+  "ai_summary": "Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan.",
+  "ai_explanation": "Maharashtra's Transport Department runs RTO services for driving licences, vehicle registration, permits, and taxes, largely through the national Parivahan/Sarathi platform with state-specific fee schedules and faceless services where available.",
+  "eligibility_summary": "Maharashtra residents / vehicle owners / licence applicants.",
+  "conversation_examples": [
+    {
+      "user": "I want Maharashtra Transport (RTO) Services",
+      "bot": "Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. Apply: https://transport.maharashtra.gov.in. Helpline: 1800-120-8040 (state helpdesk)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maharashtra Transport (RTO) Services. Use only official info from https://transport.maharashtra.gov.in.",
+  "follow_up_questions": [
+    "What are Maharashtra green tax rules?",
+    "How do I book an RTO slot in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-rto",
+    "status_svc-mah-rto",
+    "eligibility_svc-mah-rto"
+  ],
+  "recommended_services": [
+    "SVC-PARIVAHAN",
+    "SVC-DIGILOCKER"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address/age proof",
+    "Vehicle docs (RC)"
+  ],
+  "suggested_responses": [
+    "Visit https://transport.maharashtra.gov.in",
+    "Call 1800-120-8040 (state helpdesk)"
+  ],
+  "recommendation_weight": 1.0
+}

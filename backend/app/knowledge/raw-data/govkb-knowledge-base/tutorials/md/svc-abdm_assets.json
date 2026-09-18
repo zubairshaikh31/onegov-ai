@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-abdm_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-abdm_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-abdm_guide.pdf"
+  }
+]

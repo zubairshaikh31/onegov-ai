@@ -1,0 +1,19 @@
+{
+  "name": "कोविन (लसीकरण)",
+  "description": "Platform for COVID vaccination registration and certificates.",
+  "benefits": "Vaccination slots and certificate.",
+  "eligibility": "All eligible citizens.",
+  "documents": [
+    "Aadhaar/ID"
+  ],
+  "steps": [
+    "Register on CoWIN.",
+    "Book slot.",
+    "Get certificate."
+  ],
+  "faqs": [],
+  "keywords": [
+    "cowin",
+    "vaccination"
+  ]
+}

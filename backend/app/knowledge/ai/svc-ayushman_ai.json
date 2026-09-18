@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-AYUSHMAN",
+  "ai_summary": "Ayushman Bharat Health & Wellness Centres provide free primary health care at the community level.",
+  "ai_explanation": "Network of Health & Wellness Centres delivering comprehensive primary health care at the community level.",
+  "eligibility_summary": "All residents; ABHA-linked services; PM-JAY for eligible families.",
+  "conversation_examples": [
+    {
+      "user": "I want Ayushman Bharat Health & Wellness Centres",
+      "bot": "Ayushman Bharat Health & Wellness Centres provide free primary health care at the community level. Apply: https://pmjay.gov.in. Helpline: 14555."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Ayushman Bharat Health & Wellness Centres. Use only official info from https://abdm.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-ayushman",
+    "status_svc-ayushman",
+    "eligibility_svc-ayushman"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "ABHA ID",
+    "Aadhaar",
+    "Ration/ID proof"
+  ],
+  "suggested_responses": [
+    "Visit https://abdm.gov.in",
+    "Call 14555"
+  ],
+  "recommendation_weight": 1.0
+}

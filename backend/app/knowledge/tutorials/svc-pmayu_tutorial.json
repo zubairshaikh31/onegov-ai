@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-PMAYU",
+  "guide_md": "tutorials/md/svc-pmayu_guide.md",
+  "guide_html": "tutorials/html/svc-pmayu_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-pmayu_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://pmaymis.gov.in"
+  ]
+}

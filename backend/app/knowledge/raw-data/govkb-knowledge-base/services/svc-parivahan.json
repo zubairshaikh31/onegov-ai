@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "name": "Parivahan (Vahan & Sarathi)",
+  "category": "CAT-TRANSPORT",
+  "sub_category": "Vehicle & Driving Licence",
+  "department": "DEP-RTW",
+  "ministry": "MIN-RTW",
+  "central_state": "Central",
+  "state": null,
+  "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+  "benefits": "Online RC, DL, permits, tax, slots; reduces RTO visits.",
+  "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+  "required_documents": [
+    "Aadhaar (where enabled)",
+    "Address/age proof",
+    "Vehicle invoice/insurance (RC)",
+    "Passport photo (DL)"
+  ],
+  "optional_documents": [
+    "Medical certificate (age/transport)"
+  ],
+  "fees": "As per state MV fee schedule; varies by service.",
+  "processing_time": "RC/DL issued after RTO test/verification (days to weeks).",
+  "validity": "RC 15 years (renewable); DL 20 years or till age 50/55/60 per class.",
+  "application_mode": "Online (parivahan.gov.in) + RTO appointment",
+  "official_website": "https://parivahan.gov.in",
+  "official_apply_link": "https://parivahan.gov.in/parivahan//services",
+  "download_forms": "https://parivahan.gov.in",
+  "helpline": "0120-4925505",
+  "email": "helpdesk@parivahan.gov.in",
+  "office_locator": "State RTOs / Transport Departments.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, state languages",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://parivahan.gov.in",
+  "collection_method": "official_portal"
+}

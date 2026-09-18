@@ -1,0 +1,23 @@
+{
+  "event": "retirement",
+  "services": [
+    "SVC-EPFO",
+    "SVC-PMJAY",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-EPFO",
+    "SVC-PMJAY",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-epfo_guide.md",
+    "tutorials/md/svc-pmjay_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

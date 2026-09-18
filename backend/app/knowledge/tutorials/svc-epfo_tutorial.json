@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-EPFO",
+  "guide_md": "tutorials/md/svc-epfo_guide.md",
+  "guide_html": "tutorials/html/svc-epfo_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-epfo_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.epfindia.gov.in"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Passport Issuance (Passport Seva)",
+  "description": "Issuance/renewal of Indian passports (ordinary, Tatkaal, diplomatic/official) by the Ministry of External Affairs through Passport Seva Kendras (PSK) and Post Office PSKs.",
+  "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+  "benefits": "Internationally recognised travel document; enables visa-free/visa-on-arrival access; Tatkaal for urgent issue.",
+  "application_steps": [
+    "Register on passportindia.gov.in and fill the application form.",
+    "Pay fee and book appointment at nearest PSK/PopSK.",
+    "Visit PSK with originals + photocopies for document verification and biometric capture.",
+    "Police verification (for fresh passports) at registered address.",
+    "Passport printed and dispatched; track status online."
+  ],
+  "faqs": [
+    "Can I apply from a different state than my address?",
+    "What is the difference between Normal and Tatkaal?",
+    "How do I apply for a passport?",
+    "What are the passport fees?",
+    "How long does a passport take?"
+  ],
+  "keywords": [
+    "passport",
+    "passport seva",
+    "psk",
+    "tatkaal",
+    "travel document",
+    "mea"
+  ],
+  "documents": [
+    "Proof of Date of Birth",
+    "Proof of Address (current)",
+    "Proof of nationality / old passport (if renewing)",
+    "Annexure as applicable"
+  ],
+  "steps": [
+    "Register on passportindia.gov.in and fill the application form.",
+    "Pay fee and book appointment at nearest PSK/PopSK.",
+    "Visit PSK with originals + photocopies for document verification and biometric capture.",
+    "Police verification (for fresh passports) at registered address.",
+    "Passport printed and dispatched; track status online."
+  ]
+}

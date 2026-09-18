@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Visit eshram.gov.in; self-register with Aadhaar OTP."
+  },
+  {
+    "step": 2,
+    "description": "Fill personal, occupation, and bank details."
+  },
+  {
+    "step": 3,
+    "description": "Submit; download e-Shram card (UAN)."
+  },
+  {
+    "step": 4,
+    "description": "Update details as needed."
+  }
+]

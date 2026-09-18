@@ -1,0 +1,16 @@
+id,name,level,state_id
+MIN-MEA,Ministry of External Affairs,Central,
+MIN-ECI,Election Commission of India,Central,
+MIN-AGR,Ministry of Agriculture & Farmers Welfare,Central,
+MIN-HEA,Ministry of Health & Family Welfare,Central,
+MIN-LAB,Ministry of Labour & Employment,Central,
+MIN-MSME,"Ministry of Micro, Small and Medium Enterprises",Central,
+MIN-DPIIT,Department for Promotion of Industry and Internal Trade,Central,
+MIN-CBDT,Central Board of Direct Taxes,Central,
+MIN-CBIC,Central Board of Indirect Taxes and Customs,Central,
+MIN-MEITY,Ministry of Electronics and Information Technology,Central,
+MIN-HOU,Ministry of Housing and Urban Affairs,Central,
+MIN-EDU,Ministry of Education,Central,
+MIN-RTW,Ministry of Road Transport and Highways,Central,
+MIN-GOI,Government of India (cross-ministry),Central,
+MIN-MAH,Government of Maharashtra,State,MH

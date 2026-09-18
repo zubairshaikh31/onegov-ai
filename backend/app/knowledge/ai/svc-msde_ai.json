@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-MSDE",
+  "ai_summary": "PMKVY provides free skill training and certification with placement support to Indian youth.",
+  "ai_explanation": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+  "eligibility_summary": "Indian youth (often 15-45) seeking skill certification.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "bot": "PMKVY provides free skill training and certification with placement support to Indian youth. Apply: https://www.pmkvyofficial.org. Helpline: 1800-233-7878."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Kaushal Vikas Yojana (PMKVY). Use only official info from https://www.msde.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-msde",
+    "status_svc-msde",
+    "eligibility_svc-msde"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Educational proof",
+    "Bank account",
+    "Age proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.msde.gov.in",
+    "Call 1800-233-7878"
+  ],
+  "recommendation_weight": 1.0
+}

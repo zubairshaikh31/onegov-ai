@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "ai_summary": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login.",
+  "ai_explanation": "DigiLocker lets citizens store and share government-issued digital documents (marksheets, driving licences, certificates) fetched directly from issuers, reducing physical paperwork. Sign-up uses Aadhaar OTP. e-Documents are legally recognised under the IT Act.",
+  "eligibility_summary": "Indian citizens with Aadhaar (used for sign-up).",
+  "conversation_examples": [
+    {
+      "user": "I want DigiLocker",
+      "bot": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. Apply: https://digilocker.gov.in/signin. Helpline: 1800-153-374 / support via portal."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with DigiLocker. Use only official info from https://www.digilocker.gov.in.",
+  "follow_up_questions": [
+    "Which documents can I fetch in DigiLocker?",
+    "How do I issue documents as a government agency?"
+  ],
+  "intent_examples": [
+    "apply_svc-digilocker",
+    "status_svc-digilocker",
+    "eligibility_svc-digilocker"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR",
+    "SVC-UMANG"
+  ],
+  "document_suggestions": [
+    "Aadhaar (for sign-up/authentication)"
+  ],
+  "suggested_responses": [
+    "Visit https://www.digilocker.gov.in",
+    "Call 1800-153-374 / support via portal"
+  ],
+  "recommendation_weight": 1.0
+}

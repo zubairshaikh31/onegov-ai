@@ -1,0 +1,25 @@
+{
+  "name": "Swachh Bharat Mission",
+  "description": "Mission to achieve universal sanitation and open-defecation free India.",
+  "benefits": "Toilet construction support, cleanliness.",
+  "eligibility": "Households / gram panchayats.",
+  "documents": [
+    "Address proof"
+  ],
+  "steps": [
+    "Apply via gram panchayat/portal.",
+    "Construct/avail."
+  ],
+  "faqs": [
+    "What is Swachh Bharat Mission?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "swachh bharat",
+    "toilet",
+    "sanitation"
+  ]
+}

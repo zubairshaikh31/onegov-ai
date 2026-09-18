@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-NIELIT",
+  "keywords": [
+    "nielit",
+    "digital literacy",
+    "o level",
+    "it certification"
+  ],
+  "search_keywords": [
+    "nielit",
+    "digital literacy",
+    "o level",
+    "it certification"
+  ],
+  "aliases": [
+    "nielit",
+    "digital literacy",
+    "o level",
+    "it certification"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want NIELIT Certification & Services",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply NIELIT Certification & Services"
+  ]
+}

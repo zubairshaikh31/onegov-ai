@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Proof of Age",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Proof of Address",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Passport photos",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Medical certificate (Form 1A for certain categories)",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

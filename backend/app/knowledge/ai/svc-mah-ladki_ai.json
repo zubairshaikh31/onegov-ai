@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-MAH-LADKI",
+  "ai_summary": "Mukhyamantri Majhi Ladki Bahin Yojana is a state government service under Women and Child Development Department in the Welfare category, available both.",
+  "ai_explanation": "Mukhyamantri Majhi Ladki Bahin Yojana is State scheme providing monthly financial assistance to eligible women residents of Maharashtra. Eligibility: Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified.. Benefits: Monthly financial assistance credited via DBT to eligible women.. You can apply both via https://ladakibahin.maharashtra.gov.in. Processing time is typically Verification-dependent; benefits via DBT after approval. and fees are Free..",
+  "eligibility_summary": "Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified.",
+  "conversation_examples": [
+    {
+      "user": "I want Mukhyamantri Majhi Ladki Bahin Yojana",
+      "bot": "Mukhyamantri Majhi Ladki Bahin Yojana is a state government service under Women and Child Development Department in the Welfare category, available both. Apply: https://ladakibahin.maharashtra.gov.in. Helpline: 181."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Mukhyamantri Majhi Ladki Bahin Yojana. Use only official info from https://ladakibahin.maharashtra.gov.in.",
+  "follow_up_questions": [
+    "Do I need to visit an office in person for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "Can I track my Mukhyamantri Majhi Ladki Bahin Yojana application status online?",
+    "What should I do if my Mukhyamantri Majhi Ladki Bahin Yojana application is rejected?",
+    "Are there any state-specific rules for Mukhyamantri Majhi Ladki Bahin Yojana in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-ladki",
+    "status_svc-mah-ladki",
+    "eligibility_svc-mah-ladki"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Domicile certificate",
+    "Income certificate",
+    "Bank account (Aadhaar linked)",
+    "Ration card"
+  ],
+  "suggested_responses": [
+    "Visit https://ladakibahin.maharashtra.gov.in",
+    "Call 181"
+  ],
+  "recommendation_weight": 1.0
+}

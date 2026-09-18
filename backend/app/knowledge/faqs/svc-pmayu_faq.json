@@ -1,0 +1,91 @@
+[
+  {
+    "question": "Who is eligible for PMAY-U?",
+    "answer": "EWS/LIG/MIG urban households without a pucca house, meeting income limits.",
+    "official": true
+  },
+  {
+    "question": "Am I eligible for PMAY?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I apply for PMAY subsidy?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is CLSS?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are PMAY income limits?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://pmaymis.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-6446 / 011-23063285 / email pmaymis-moihua@gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free to apply.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Verification and sanction per state/ULB cycle.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (pmaymis.gov.in) and via urban local bodies",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-6446 / 011-23063285. Email: pmaymis-moihua@gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Free to apply.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Verification and sanction per state/ULB cycle.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

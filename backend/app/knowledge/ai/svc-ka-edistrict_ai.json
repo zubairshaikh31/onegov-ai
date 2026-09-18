@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-KA-EDISTRICT",
+  "ai_summary": "Seva Sindhu is Karnataka's single-window portal for citizen certificates and schemes.",
+  "ai_explanation": "Karnataka's integrated service delivery portal for certificates and schemes.",
+  "eligibility_summary": "Karnataka residents per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Karnataka Seva Sindhu / e-District",
+      "bot": "Seva Sindhu is Karnataka's single-window portal for citizen certificates and schemes. Apply: https://sevasindhu.karnataka.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Karnataka Seva Sindhu / e-District. Use only official info from https://sevasindhu.karnataka.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-ka-edistrict",
+    "status_svc-ka-edistrict",
+    "eligibility_svc-ka-edistrict"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "suggested_responses": [
+    "Visit https://sevasindhu.karnataka.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

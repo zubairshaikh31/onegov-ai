@@ -1,0 +1,19 @@
+{
+  "name": "इंडिया पोस्ट सेवा",
+  "description": "Postal, parcel, Speed Post, savings accounts, POSB, IPPB banking, and government agency services.",
+  "benefits": "Nationwide postal + financial inclusion; IPPB digital banking; agency services.",
+  "eligibility": "Open to all citizens; accounts per India Post schemes.",
+  "documents": [
+    "Aadhaar",
+    "Identity proof",
+    "Address proof",
+    "Passport-size photo"
+  ],
+  "steps": [
+    "Visit nearest post office or indiapost.gov.in.",
+    "Open account / avail service with KYC.",
+    "Use IPPB app for digital banking."
+  ],
+  "faqs": [],
+  "keywords": []
+}

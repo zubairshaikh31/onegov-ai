@@ -1,0 +1,20 @@
+{
+  "event": "construction",
+  "services": [
+    "SVC-PMAYU",
+    "SVC-NGDR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PMAYU",
+    "SVC-NGDR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-pmayu_guide.md",
+    "tutorials/md/svc-ngdr_guide.md"
+  ]
+}

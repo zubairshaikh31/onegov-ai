@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-ENAM",
+  "name": "eNAM (National Agriculture Market)",
+  "category": "CAT-AGR",
+  "sub_category": "Agriculture Marketing",
+  "department": "DEP-DARE",
+  "ministry": "MIN-AGR",
+  "central_state": "Central",
+  "state": null,
+  "description": "Online trading platform integrating APMC mandis to create a unified national market for agricultural commodities.",
+  "benefits": "Better price discovery, transparent bidding, wider buyer reach, reduced intermediaries.",
+  "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+  "required_documents": [
+    "Bank account",
+    "Aadhaar",
+    "Trader licence (for traders)",
+    "GST (traders if applicable)"
+  ],
+  "optional_documents": [
+    "FPO registration"
+  ],
+  "fees": "Transaction charges as per APMC bye-laws; platform access free for farmers.",
+  "processing_time": "Trade settlement as per mandi rules (typically within mandated days).",
+  "validity": "Account active while KYC valid.",
+  "application_mode": "Online (enam.gov.in) and via mandi terminals",
+  "official_website": "https://enam.gov.in",
+  "official_apply_link": "https://enam.gov.in/web/guest/registration",
+  "download_forms": "https://enam.gov.in",
+  "helpline": "1800-270-0222",
+  "email": "enam@agtech.gov.in",
+  "office_locator": "Linked APMC mandis across participating states.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://enam.gov.in",
+  "collection_method": "official_portal"
+}

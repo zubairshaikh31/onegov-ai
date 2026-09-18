@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-UP-RATION",
+  "ai_summary": "UP e-District delivers certificates and ration services online for Uttar Pradesh residents.",
+  "ai_explanation": "UP e-District portal for caste/income/residence certificates and ration services.",
+  "eligibility_summary": "Uttar Pradesh residents per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Uttar Pradesh e-District / Ration",
+      "bot": "UP e-District delivers certificates and ration services online for Uttar Pradesh residents. Apply: https://edistrict.up.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Uttar Pradesh e-District / Ration. Use only official info from https://edistrict.up.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-up-ration",
+    "status_svc-up-ration",
+    "eligibility_svc-up-ration"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "suggested_responses": [
+    "Visit https://edistrict.up.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "keywords": [
+    "passport",
+    "passport seva",
+    "psk",
+    "tatkaal",
+    "travel document",
+    "mea"
+  ],
+  "search_keywords": [
+    "passport apply online",
+    "passport seva kendra near me",
+    "tatkaal passport fees",
+    "passport renewal"
+  ],
+  "aliases": [
+    "passport",
+    "passport seva",
+    "psk",
+    "tatkaal",
+    "travel document",
+    "mea"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Passport Issuance (Passport Seva)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Passport Issuance (Passport Seva)"
+  ]
+}

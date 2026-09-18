@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "ai_summary": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments.",
+  "ai_explanation": "Parivahan is the national transport portal where citizens apply for vehicle registration, driving/learner licences, permits, and tax online, then visit the RTO for tests/verification. Issued documents sync to DigiLocker. Fees follow the state MV schedule.",
+  "common_questions": [
+    "How do I apply for a driving licence online?",
+    "How do I check my RC status?",
+    "How do I renew my DL?",
+    "What are RTO fees?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for a driving licence online?",
+      "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+    },
+    {
+      "user": "How do I check my RC status?",
+      "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+    },
+    {
+      "user": "How do I renew my DL?",
+      "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-parivahan",
+    "status_svc-parivahan",
+    "eligibility_svc-parivahan"
+  ],
+  "user_utterances": [
+    "I want Parivahan (Vahan & Sarathi)",
+    "Need Parivahan (Vahan & Sarathi)",
+    "Parivahan (Vahan & Sarathi) help"
+  ],
+  "follow_up_questions": [
+    "How do I link my DL to DigiLocker?",
+    "What documents are needed for RC transfer?"
+  ],
+  "recommended_responses": [
+    "Visit https://parivahan.gov.in",
+    "Call helpline 0120-4925505"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://parivahan.gov.in/parivahan//services"
+    },
+    {
+      "action": "call_helpline",
+      "number": "0120-4925505"
+    }
+  ]
+}

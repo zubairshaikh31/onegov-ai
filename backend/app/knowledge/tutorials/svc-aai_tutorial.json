@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-AAI",
+  "guide_md": "tutorials/md/svc-aai_guide.md",
+  "guide_html": "tutorials/html/svc-aai_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-aai_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.aai.aero"
+  ]
+}

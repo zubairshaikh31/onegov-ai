@@ -1,0 +1,17 @@
+{
+  "event": "water_connection",
+  "services": [
+    "SVC-MAH-AAPLE"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-MAH-AAPLE"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-mah-aaple_guide.md"
+  ]
+}

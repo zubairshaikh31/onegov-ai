@@ -1,0 +1,21 @@
+{
+  "name": "उत्पन्न प्रमाणपत्र (महाराष्ट्र)",
+  "description": "Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes.",
+  "benefits": "Required for scholarships, fee concessions, reservations and welfare schemes.",
+  "eligibility": "Residents of Maharashtra requiring proof of family income.",
+  "documents": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Income proof (salary slip/self-declaration)",
+    "Ration card"
+  ],
+  "steps": [
+    "Register/login on Aaple Sarkar (RTS) portal.",
+    "Select Revenue Department > Income Certificate.",
+    "Fill applicant details and upload documents.",
+    "Pay the fee online.",
+    "Track application; download the digitally signed certificate."
+  ],
+  "faqs": [],
+  "keywords": []
+}

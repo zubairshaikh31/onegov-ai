@@ -1,0 +1,131 @@
+{
+  "service_id": "SVC-PMJAY",
+  "name": "Ayushman Bharat PM-JAY",
+  "category_id": "CAT-HEALTH",
+  "sub_category": "Health Insurance",
+  "department_id": "DEP-NHA",
+  "ministry_id": "MIN-HEA",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+  "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+  "benefits": "Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+  "required_documents": [
+    "Ayushman card / ABHA",
+    "Eligibility confirmation (SECC/Rural-Urban)",
+    "ID proof (Aadhaar/Voter/ration)"
+  ],
+  "optional_documents": [
+    "PMJAY e-card print"
+  ],
+  "application_mode": "Through Ayushman Bharat Kendras / CSC / hospital helpdesk",
+  "application_steps": [
+    "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+    "Visit Ayushman Bharat / CSC kendra with ID.",
+    "Create Ayushman card / e-card.",
+    "Visit empanelled hospital; show card at helpdesk.",
+    "Cashless admission and treatment; claim settled directly."
+  ],
+  "processing_time": "Card creation same day; treatment cashless at empanelled hospitals.",
+  "fees": "Free for eligible beneficiaries (no premium).",
+  "validity": "Annual cover resets each financial year; card valid while eligible.",
+  "official_portal": "https://pmjay.gov.in",
+  "official_apply_link": "https://pmjay.gov.in/beneficiary-portal/",
+  "download_forms": "https://pmjay.gov.in",
+  "helpline_number": "14555 / 1800-11-15555",
+  "email": "pmjay@nha.gov.in",
+  "office_locator_info": "Ayushman Bharat Digital Kendras; empanelled hospital list on portal.",
+  "faq": [
+    {
+      "q": "How do I know if I am eligible?",
+      "a": "Search your name by state/district/SECC ID on the Beneficiary Portal."
+    },
+    {
+      "q": "Is there a premium to pay?",
+      "a": "No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals."
+    }
+  ],
+  "related_services": [
+    "SVC-ABDM",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "pmjay",
+    "ayushman bharat",
+    "health insurance",
+    "cashless treatment",
+    "nha"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://pmjay.gov.in",
+  "ai_summary": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility.",
+  "ai_explanation": "PM-JAY covers secondary/tertiary hospitalization costs up to Rs. 5 lakh per family per year for poor and vulnerable households identified via SECC. Beneficiaries get an Ayushman card and receive cashless treatment at empanelled hospitals with no out-of-pocket premium.",
+  "common_questions": [
+    "Am I eligible for Ayushman Bharat?",
+    "How do I make an Ayushman card?",
+    "Which hospitals accept PM-JAY?",
+    "What is covered under PM-JAY?",
+    "How do I apply for Ayushman Bharat PM-JAY (Ayushman Card)?",
+    "What documents are required for Ayushman Bharat PM-JAY (Ayushman Card)?",
+    "What is the fee for Ayushman Bharat PM-JAY (Ayushman Card)?",
+    "Who is eligible for Ayushman Bharat PM-JAY (Ayushman Card)?",
+    "How long does Ayushman Bharat PM-JAY (Ayushman Card) take to process?",
+    "What is the official website for Ayushman Bharat PM-JAY (Ayushman Card)?"
+  ],
+  "common_mistakes": [
+    "Assuming all citizens are covered",
+    "Not carrying ID at hospital",
+    "Confusing ABHA with Ayushman card"
+  ],
+  "search_keywords": [
+    "pmjay eligibility check",
+    "ayushman card download",
+    "pmjay hospital list",
+    "ayushman bharat benefits"
+  ],
+  "suggested_followups": [
+    "How do I link ABHA with my Ayushman card?",
+    "What is not covered under PM-JAY?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "What documents are required for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "What is the fee for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "Who is eligible for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "How long does Ayushman Bharat PM-JAY (Ayushman Card) take to process?",
+      "What is the official website for Ayushman Bharat PM-JAY (Ayushman Card)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "Can I track my Ayushman Bharat PM-JAY (Ayushman Card) application status online?",
+      "What should I do if my Ayushman Bharat PM-JAY (Ayushman Card) application is rejected?",
+      "Are there any state-specific rules for Ayushman Bharat PM-JAY (Ayushman Card) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "abha",
+      "ayushman",
+      "bharat",
+      "card",
+      "health insurance",
+      "healthcare",
+      "hospital",
+      "jay",
+      "pmjay"
+    ],
+    "content_hash": "dee82bec285c3b0b4a8c5269d70562b4b01a72b3b6ee52b9d94fc22cc61427bf",
+    "source_type": "html",
+    "version": 1
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "name": "DigiLocker",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Digital Document Wallet",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Digital locker to store and share verified electronic documents issued by government agencies; reduce physical paperwork.",
+  "eligibility": "Indian citizens with Aadhaar (used for sign-up).",
+  "benefits": "Instant access to issued documents (marksheets, licences), verified e-documents, paperless verification.",
+  "required_documents": [
+    "Aadhaar (for sign-up/authentication)"
+  ],
+  "optional_documents": [
+    "Mobile number"
+  ],
+  "application_mode": "Online (digilocker.gov.in) and mobile app",
+  "application_steps": [
+    "Sign up at digilocker.gov.in with Aadhaar OTP.",
+    "Link mobile; set username/password.",
+    "Fetch issued documents from registered issuers.",
+    "Upload personal documents; share via URI/QR."
+  ],
+  "processing_time": "Instant; document fetch depends on issuer.",
+  "fees": "Free.",
+  "validity": "Account active; documents as issued.",
+  "official_portal": "https://www.digilocker.gov.in",
+  "official_apply_link": "https://digilocker.gov.in/signin",
+  "download_forms": "https://www.digilocker.gov.in",
+  "helpline_number": "1800-153-374 / support via portal",
+  "email": "support.digilocker@digitalindia.gov.in",
+  "office_locator_info": "Digital India / CSC support.",
+  "faq": [
+    {
+      "q": "Are DigiLocker documents legally valid?",
+      "a": "Yes, e-documents via DigiLocker are recognised under the IT Act as per Gazette notification."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR",
+    "SVC-UMANG"
+  ],
+  "keywords": [
+    "digilocker",
+    "digital locker",
+    "e documents",
+    "meity",
+    "paperless"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.digilocker.gov.in",
+  "ai_summary": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login.",
+  "ai_explanation": "DigiLocker lets citizens store and share government-issued digital documents (marksheets, driving licences, certificates) fetched directly from issuers, reducing physical paperwork. Sign-up uses Aadhaar OTP. e-Documents are legally recognised under the IT Act.",
+  "common_questions": [
+    "What is DigiLocker?",
+    "How do I sign up for DigiLocker?",
+    "Are DigiLocker documents valid?",
+    "How do I share a DigiLocker document?",
+    "How do I apply for DigiLocker?",
+    "What documents are required for DigiLocker?",
+    "What is the fee for DigiLocker?",
+    "Who is eligible for DigiLocker?",
+    "How long does DigiLocker take to process?",
+    "What is the official website for DigiLocker?"
+  ],
+  "common_mistakes": [
+    "Assuming it stores only uploads (issuer fetch is key)",
+    "Not linking Aadhaar",
+    "Sharing full account instead of document URI"
+  ],
+  "search_keywords": [
+    "digilocker signup",
+    "digilocker documents list",
+    "digilocker app download"
+  ],
+  "suggested_followups": [
+    "Which documents can I fetch in DigiLocker?",
+    "How do I issue documents as a government agency?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for DigiLocker?",
+      "What documents are required for DigiLocker?",
+      "What is the fee for DigiLocker?",
+      "Who is eligible for DigiLocker?",
+      "How long does DigiLocker take to process?",
+      "What is the official website for DigiLocker?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for DigiLocker?",
+      "Can I track my DigiLocker application status online?",
+      "What should I do if my DigiLocker application is rejected?",
+      "Are there any state-specific rules for DigiLocker in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "certificate",
+      "digilocker",
+      "digital",
+      "digital documents",
+      "e-documents",
+      "services",
+      "wallet"
+    ],
+    "content_hash": "9907774c2e184601aa804627b67c87dd381148196dcbdcbe24ed32a488b1cc03",
+    "source_type": "html",
+    "version": 1
+  }
+}

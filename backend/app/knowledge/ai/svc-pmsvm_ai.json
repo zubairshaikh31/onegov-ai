@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-PMSVM",
+  "ai_summary": "PMJJBY provides life insurance cover.",
+  "ai_explanation": "Life insurance cover Rs.2 lakh at Rs.436/year.",
+  "eligibility_summary": "Adults 18-50 with bank account.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "bot": "PMJJBY provides life insurance cover. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Jeevan Jyoti Bima Yojana. Use only https://www.jansuraksha.gov.in.",
+  "follow_up_questions": [
+    "What documents for Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+    "How long for Pradhan Mantri Jeevan Jyoti Bima Yojana?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmsvm",
+    "status_svc-pmsvm"
+  ],
+  "recommended_services": [
+    "SVC-JDY"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "suggested_responses": [
+    "Visit https://www.jansuraksha.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-TELANGANA-TS",
+  "ai_summary": "Telangana MeeSeva citizen services portal.",
+  "ai_explanation": "Telangana MeeSeva for certificates and welfare schemes.",
+  "eligibility_summary": "Telangana residents.",
+  "conversation_examples": [
+    {
+      "user": "I want Telangana TS-ePASS / MeeSeva",
+      "bot": "Telangana MeeSeva citizen services portal. Apply: https://ts.meeseva.telangana.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Telangana TS-ePASS / MeeSeva. Use only https://ts.meeseva.telangana.gov.in.",
+  "follow_up_questions": [
+    "What documents for Telangana TS-ePASS / MeeSeva?",
+    "How long for Telangana TS-ePASS / MeeSeva?"
+  ],
+  "intent_examples": [
+    "apply_svc-telangana-ts",
+    "status_svc-telangana-ts"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://ts.meeseva.telangana.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

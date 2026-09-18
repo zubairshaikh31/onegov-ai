@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-GJ-DIGITAL",
+  "ai_summary": "Digital Gujarat is the state single-window portal for certificates, scholarships, and services.",
+  "ai_explanation": "Gujarat's integrated portal for certificates, scholarships, and citizen services.",
+  "eligibility_summary": "Gujarat residents per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Digital Gujarat Portal",
+      "bot": "Digital Gujarat is the state single-window portal for certificates, scholarships, and services. Apply: https://digitalgujarat.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Digital Gujarat Portal. Use only official info from https://digitalgujarat.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-gj-digital",
+    "status_svc-gj-digital",
+    "eligibility_svc-gj-digital"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income/caste proof"
+  ],
+  "suggested_responses": [
+    "Visit https://digitalgujarat.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

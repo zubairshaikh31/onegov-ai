@@ -1,0 +1,77 @@
+[
+  {
+    "id": "CAT-IDENTITY",
+    "name": "Identity & Civil Registration",
+    "slug": "identity"
+  },
+  {
+    "id": "CAT-AGR",
+    "name": "Agriculture",
+    "slug": "agriculture"
+  },
+  {
+    "id": "CAT-HEALTH",
+    "name": "Healthcare",
+    "slug": "healthcare"
+  },
+  {
+    "id": "CAT-LABOUR",
+    "name": "Labour & Employment",
+    "slug": "labour"
+  },
+  {
+    "id": "CAT-BUSINESS",
+    "name": "Business & Entrepreneurship",
+    "slug": "business"
+  },
+  {
+    "id": "CAT-FINANCE",
+    "name": "Finance & Taxation",
+    "slug": "finance"
+  },
+  {
+    "id": "CAT-DIGITAL",
+    "name": "Digital Public Infrastructure",
+    "slug": "digital-services"
+  },
+  {
+    "id": "CAT-HOUSING",
+    "name": "Housing",
+    "slug": "housing"
+  },
+  {
+    "id": "CAT-EDUCATION",
+    "name": "Education & Scholarships",
+    "slug": "education"
+  },
+  {
+    "id": "CAT-TRANSPORT",
+    "name": "Transport & Mobility",
+    "slug": "transport"
+  },
+  {
+    "id": "CAT-STATE",
+    "name": "State Citizen Services (Maharashtra)",
+    "slug": "state-services"
+  },
+  {
+    "id": "CAT-TRANSPORT",
+    "name": "Transport & Mobility",
+    "slug": "transport"
+  },
+  {
+    "id": "CAT-CERT",
+    "name": "Certificates & Documents",
+    "slug": "certificates"
+  },
+  {
+    "id": "CAT-WELFARE",
+    "name": "Welfare & Relief",
+    "slug": "welfare"
+  },
+  {
+    "id": "CAT-FINANCE2",
+    "name": "Finance & Financial Inclusion",
+    "slug": "finance"
+  }
+]

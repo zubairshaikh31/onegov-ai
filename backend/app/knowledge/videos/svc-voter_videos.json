@@ -1,0 +1,19 @@
+{
+  "service_id": "SVC-VOTER",
+  "videos": [
+    {
+      "title": "Voter ID / Electoral Roll Enrolment (Form 6) - Official Information",
+      "youtube_url": "",
+      "channel": "Refer to official ministry/MeitY/NIC/PIB YouTube channel",
+      "channel_url": "",
+      "duration": "",
+      "language": "en",
+      "type": "official",
+      "department": "MIN-ECI",
+      "thumbnail": "",
+      "description": "Search official MIN-ECI YouTube channel for Voter ID / Electoral Roll Enrolment (Form 6).",
+      "verified": false,
+      "source": "Official Government YouTube (lookup required)"
+    }
+  ]
+}

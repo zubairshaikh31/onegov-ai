@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-SBM",
+  "ai_summary": "Swachh Bharat Mission promotes sanitation and ODF status.",
+  "ai_explanation": "Mission to achieve universal sanitation and open-defecation free India.",
+  "eligibility_summary": "Households / gram panchayats.",
+  "conversation_examples": [
+    {
+      "user": "I want Swachh Bharat Mission",
+      "bot": "Swachh Bharat Mission promotes sanitation and ODF status. Apply: https://swachhbharat.mygov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Swachh Bharat Mission. Use only https://swachhbharat.mygov.in.",
+  "follow_up_questions": [
+    "What documents for Swachh Bharat Mission?",
+    "How long for Swachh Bharat Mission?"
+  ],
+  "intent_examples": [
+    "apply_svc-sbm",
+    "status_svc-sbm"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://swachhbharat.mygov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

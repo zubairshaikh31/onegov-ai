@@ -1,0 +1,84 @@
+{
+  "en": {
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+    "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+    "benefits": "Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+    "application_steps": [
+      "Apply via Maharashtra food supply portal / CSC.",
+      "Submit family and Aadhaar details.",
+      "Verification by rationing authority.",
+      "Ration card issued; avail PDS."
+    ],
+    "faqs": [
+      "How do I add a member to my ration card?",
+      "How do I apply for a ration card in Maharashtra?",
+      "What are NFSA ration card types?",
+      "Where is my nearest ration shop?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply"
+    ]
+  },
+  "hi": {
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+    "eligibility": "पात्रता: Maharashtra households meeting NFSA/state poverty criteria.",
+    "benefits": "लाभ: Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+    "application_steps": [
+      "Apply via Maharashtra food supply portal / CSC.",
+      "Submit family and Aadhaar details.",
+      "Verification by rationing authority.",
+      "Ration card issued; avail PDS."
+    ],
+    "faqs": [
+      "How do I add a member to my ration card?",
+      "How do I apply for a ration card in Maharashtra?",
+      "What are NFSA ration card types?",
+      "Where is my nearest ration shop?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply",
+      "maharashtra ration card",
+      "mahafood"
+    ]
+  },
+  "mr": {
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+    "eligibility": "पात्रता: Maharashtra households meeting NFSA/state poverty criteria.",
+    "benefits": "फायदे: Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+    "application_steps": [
+      "Apply via Maharashtra food supply portal / CSC.",
+      "Submit family and Aadhaar details.",
+      "Verification by rationing authority.",
+      "Ration card issued; avail PDS."
+    ],
+    "faqs": [
+      "How do I add a member to my ration card?",
+      "How do I apply for a ration card in Maharashtra?",
+      "What are NFSA ration card types?",
+      "Where is my nearest ration shop?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply",
+      "maharashtra ration card",
+      "mahafood"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0026",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://mahafood.gov.in"
+  }
+]

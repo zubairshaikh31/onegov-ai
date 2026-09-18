@@ -1,0 +1,30 @@
+{
+  "name": "Maharashtra Farmer Welfare Schemes",
+  "description": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+  "benefits": "Input subsidies, loan waiver/relief, crop insurance, drip/solar subsidies.",
+  "eligibility": "Maharashtra farmers with land records; scheme-specific criteria.",
+  "documents": [
+    "7/12 land record",
+    "Aadhaar",
+    "Bank account",
+    "Caste/category cert (if applicable)"
+  ],
+  "steps": [
+    "Visit mahaagri.gov.in.",
+    "Select scheme; apply with land/identity docs.",
+    "Verification; benefit disbursal."
+  ],
+  "faqs": [
+    "What is Maharashtra Farmer Welfare Schemes?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "maharashtra farmer",
+    "mahaagri",
+    "crop insurance",
+    "farm subsidy"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-AYUSH",
+  "guide_md": "tutorials/md/svc-ayush_guide.md",
+  "guide_html": "tutorials/html/svc-ayush_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-ayush_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://ayush.gov.in"
+  ]
+}

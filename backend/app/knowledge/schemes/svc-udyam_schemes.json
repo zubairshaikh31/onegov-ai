@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0012",
+    "service_id": "SVC-UDYAM",
+    "name": "Udyam Registration (MSME)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "official_portal": "https://udyamregistration.gov.in"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0028",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Maharashtra Transport (RTO) Services",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://transport.maharashtra.gov.in"
+  }
+]

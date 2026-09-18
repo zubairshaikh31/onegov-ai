@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-NSP",
+  "ai_summary": "NSP is a one-stop portal for government scholarships with online apply and DBT to students.",
+  "ai_explanation": "The National Scholarship Portal unifies central, state, and UT scholarship schemes. Students register, find eligible schemes, apply with documents, and receive funds via DBT after institute and nodal verification. Renewal is annual.",
+  "common_questions": [
+    "How do I apply for scholarship on NSP?",
+    "Which scholarships are on NSP?",
+    "How do I check NSP status?",
+    "What documents are needed for NSP?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for scholarship on NSP?",
+      "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+    },
+    {
+      "user": "Which scholarships are on NSP?",
+      "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+    },
+    {
+      "user": "How do I check NSP status?",
+      "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-nsp",
+    "status_svc-nsp",
+    "eligibility_svc-nsp"
+  ],
+  "user_utterances": [
+    "I want National Scholarship Portal (NSP)",
+    "Need National Scholarship Portal (NSP)",
+    "National Scholarship Portal (NSP) help"
+  ],
+  "follow_up_questions": [
+    "What is the NSP application deadline?",
+    "How do I renew my NSP scholarship?"
+  ],
+  "recommended_responses": [
+    "Visit https://scholarships.gov.in",
+    "Call helpline 0120-6619540"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://scholarships.gov.in/fresh/newstdRegFrm.action"
+    },
+    {
+      "action": "call_helpline",
+      "number": "0120-6619540"
+    }
+  ]
+}

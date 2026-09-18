@@ -1,0 +1,148 @@
+id,service_id,keyword
+KW-0001,SVC-AADHAAR,aadhaar
+KW-0002,SVC-AADHAAR,uidai
+KW-0003,SVC-AADHAAR,uid
+KW-0004,SVC-AADHAAR,enrolment
+KW-0005,SVC-AADHAAR,ekyc
+KW-0006,SVC-AADHAAR,biometric
+KW-0007,SVC-AADHAAR,identity
+KW-0008,SVC-PASSPORT,passport
+KW-0009,SVC-PASSPORT,passport seva
+KW-0010,SVC-PASSPORT,psk
+KW-0011,SVC-PASSPORT,tatkaal
+KW-0012,SVC-PASSPORT,travel document
+KW-0013,SVC-PASSPORT,mea
+KW-0014,SVC-VOTER,voter id
+KW-0015,SVC-VOTER,epic
+KW-0016,SVC-VOTER,form 6
+KW-0017,SVC-VOTER,electoral roll
+KW-0018,SVC-VOTER,voter registration
+KW-0019,SVC-VOTER,eci
+KW-0020,SVC-PMKISAN,pm kisan
+KW-0021,SVC-PMKISAN,pmkisan
+KW-0022,SVC-PMKISAN,farmer scheme
+KW-0023,SVC-PMKISAN,income support
+KW-0024,SVC-PMKISAN,dbt agriculture
+KW-0025,SVC-ENAM,enam
+KW-0026,SVC-ENAM,e nam
+KW-0027,SVC-ENAM,agri market
+KW-0028,SVC-ENAM,mandi
+KW-0029,SVC-ENAM,farmers trading
+KW-0030,SVC-PMJAY,pmjay
+KW-0031,SVC-PMJAY,ayushman bharat
+KW-0032,SVC-PMJAY,health insurance
+KW-0033,SVC-PMJAY,cashless treatment
+KW-0034,SVC-PMJAY,nha
+KW-0035,SVC-ABDM,abdm
+KW-0036,SVC-ABDM,abha
+KW-0037,SVC-ABDM,health id
+KW-0038,SVC-ABDM,digital health
+KW-0039,SVC-ABDM,phr
+KW-0040,SVC-ESHRAM,e shram
+KW-0041,SVC-ESHRAM,unorganised worker
+KW-0042,SVC-ESHRAM,labour card
+KW-0043,SVC-ESHRAM,eshram card
+KW-0044,SVC-ESHRAM,social security
+KW-0045,SVC-EPFO,epf
+KW-0046,SVC-EPFO,pf
+KW-0047,SVC-EPFO,uan
+KW-0048,SVC-EPFO,provident fund
+KW-0049,SVC-EPFO,epfindia
+KW-0050,SVC-EPFO,pension
+KW-0051,SVC-ESIC,esic
+KW-0052,SVC-ESIC,employee state insurance
+KW-0053,SVC-ESIC,pehchan card
+KW-0054,SVC-ESIC,social security
+KW-0055,SVC-ESIC,medical benefit
+KW-0056,SVC-NCS,ncs
+KW-0057,SVC-NCS,national career service
+KW-0058,SVC-NCS,job search
+KW-0059,SVC-NCS,employment
+KW-0060,SVC-NCS,career
+KW-0061,SVC-UDYAM,udyam
+KW-0062,SVC-UDYAM,msme
+KW-0063,SVC-UDYAM,udyog aadhaar
+KW-0064,SVC-UDYAM,business registration
+KW-0065,SVC-UDYAM,enterprise
+KW-0066,SVC-STARTUP,startup india
+KW-0067,SVC-STARTUP,dpiit
+KW-0068,SVC-STARTUP,startup recognition
+KW-0069,SVC-STARTUP,entrepreneur
+KW-0070,SVC-STARTUP,tax exemption
+KW-0071,SVC-GEM,gem
+KW-0072,SVC-GEM,government e marketplace
+KW-0073,SVC-GEM,public procurement
+KW-0074,SVC-GEM,seller registration
+KW-0075,SVC-GEM,tender
+KW-0076,SVC-ITR,income tax
+KW-0077,SVC-ITR,itr
+KW-0078,SVC-ITR,efiling
+KW-0079,SVC-ITR,tax return
+KW-0080,SVC-ITR,pan
+KW-0081,SVC-ITR,cbdt
+KW-0082,SVC-GST,gst
+KW-0083,SVC-GST,gst registration
+KW-0084,SVC-GST,gstin
+KW-0085,SVC-GST,returns
+KW-0086,SVC-GST,gst portal
+KW-0087,SVC-GST,indirect tax
+KW-0088,SVC-DIGILOCKER,digilocker
+KW-0089,SVC-DIGILOCKER,digital locker
+KW-0090,SVC-DIGILOCKER,e documents
+KW-0091,SVC-DIGILOCKER,meity
+KW-0092,SVC-DIGILOCKER,paperless
+KW-0093,SVC-UMANG,umang
+KW-0094,SVC-UMANG,mobile governance
+KW-0095,SVC-UMANG,government app
+KW-0096,SVC-UMANG,services aggregator
+KW-0097,SVC-PMAYU,pmay
+KW-0098,SVC-PMAYU,pm awas yojana
+KW-0099,SVC-PMAYU,housing
+KW-0100,SVC-PMAYU,clss
+KW-0101,SVC-PMAYU,subsidy
+KW-0102,SVC-NSP,nsp
+KW-0103,SVC-NSP,national scholarship portal
+KW-0104,SVC-NSP,scholarship
+KW-0105,SVC-NSP,student
+KW-0106,SVC-NSP,dbt
+KW-0107,SVC-SWAYAM,swayam
+KW-0108,SVC-SWAYAM,online courses
+KW-0109,SVC-SWAYAM,mooc
+KW-0110,SVC-SWAYAM,free education
+KW-0111,SVC-SWAYAM,certificate
+KW-0112,SVC-ABC,abc
+KW-0113,SVC-ABC,academic bank of credits
+KW-0114,SVC-ABC,ugc
+KW-0115,SVC-ABC,credit transfer
+KW-0116,SVC-ABC,higher education
+KW-0117,SVC-PARIVAHAN,parivahan
+KW-0118,SVC-PARIVAHAN,vahan
+KW-0119,SVC-PARIVAHAN,sarathi
+KW-0120,SVC-PARIVAHAN,driving licence
+KW-0121,SVC-PARIVAHAN,rc
+KW-0122,SVC-PARIVAHAN,rto
+KW-0123,SVC-MAH-AAPLE,aaple sarkar
+KW-0124,SVC-MAH-AAPLE,mahaonline
+KW-0125,SVC-MAH-AAPLE,maharashtra certificate
+KW-0126,SVC-MAH-AAPLE,caste certificate
+KW-0127,SVC-MAH-AAPLE,income certificate
+KW-0128,SVC-MAH-REV,mahabhulekh
+KW-0129,SVC-MAH-REV,satbara
+KW-0130,SVC-MAH-REV,7/12
+KW-0131,SVC-MAH-REV,8a
+KW-0132,SVC-MAH-REV,land records
+KW-0133,SVC-MAH-REV,maharashtra revenue
+KW-0134,SVC-MAH-FOOD,maharashtra ration card
+KW-0135,SVC-MAH-FOOD,mahafood
+KW-0136,SVC-MAH-FOOD,pds
+KW-0137,SVC-MAH-FOOD,nfsa
+KW-0138,SVC-MAH-FOOD,food supply
+KW-0139,SVC-MAH-DBT,mahadbt
+KW-0140,SVC-MAH-DBT,maharashtra scholarship
+KW-0141,SVC-MAH-DBT,dbt
+KW-0142,SVC-MAH-DBT,post matric scholarship
+KW-0143,SVC-MAH-DBT,student
+KW-0144,SVC-MAH-RTO,maharashtra rto
+KW-0145,SVC-MAH-RTO,driving licence maharashtra
+KW-0146,SVC-MAH-RTO,transport department
+KW-0147,SVC-MAH-RTO,rc maharashtra

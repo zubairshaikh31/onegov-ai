@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-MAH-RTO",
+  "name": "Maharashtra Transport (RTO) Services",
+  "category": "CAT-STATE",
+  "sub_category": "Transport (Maharashtra)",
+  "department": "DEP-RTW",
+  "ministry": "MIN-MAH",
+  "central_state": "State",
+  "state": "MH",
+  "description": "Maharashtra State Transport Department services for DL, RC, permits via state RTOs (integrated with Parivahan).",
+  "benefits": "State-specific DL/RC, permits, tax, and faceless services.",
+  "eligibility": "Maharashtra residents / vehicle owners / licence applicants.",
+  "required_documents": [
+    "Aadhaar",
+    "Address/age proof",
+    "Vehicle docs (RC)"
+  ],
+  "optional_documents": [
+    "Medical certificate"
+  ],
+  "fees": "As per Maharashtra MV fee schedule.",
+  "processing_time": "Per RTO SLA.",
+  "validity": "Per licence/RC rules.",
+  "application_mode": "Online (transport.maharashtra.gov.in / Parivahan) + RTO",
+  "official_website": "https://transport.maharashtra.gov.in",
+  "official_apply_link": "https://transport.maharashtra.gov.in",
+  "download_forms": "https://transport.maharashtra.gov.in",
+  "helpline": "1800-120-8040 (state helpdesk)",
+  "email": "rft-maha@gov.in",
+  "office_locator": "Maharashtra RTOs across districts.",
+  "working_hours": "",
+  "languages_available": "Marathi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://transport.maharashtra.gov.in",
+  "collection_method": "official_portal"
+}

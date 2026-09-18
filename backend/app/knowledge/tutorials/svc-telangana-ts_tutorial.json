@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-TELANGANA-TS",
+  "guide_md": "tutorials/md/svc-telangana-ts_guide.md",
+  "guide_html": "tutorials/html/svc-telangana-ts_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-telangana-ts_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://ts.meeseva.telangana.gov.in"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-NSP",
+  "ai_summary": "NSP is a one-stop portal for government scholarships with online apply and DBT to students.",
+  "ai_explanation": "The National Scholarship Portal unifies central, state, and UT scholarship schemes. Students register, find eligible schemes, apply with documents, and receive funds via DBT after institute and nodal verification. Renewal is annual.",
+  "eligibility_summary": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+  "conversation_examples": [
+    {
+      "user": "I want National Scholarship Portal (NSP)",
+      "bot": "NSP is a one-stop portal for government scholarships with online apply and DBT to students. Apply: https://scholarships.gov.in/fresh/newstdRegFrm.action. Helpline: 0120-6619540."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with National Scholarship Portal (NSP). Use only official info from https://scholarships.gov.in.",
+  "follow_up_questions": [
+    "What is the NSP application deadline?",
+    "How do I renew my NSP scholarship?"
+  ],
+  "intent_examples": [
+    "apply_svc-nsp",
+    "status_svc-nsp",
+    "eligibility_svc-nsp"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR",
+    "SVC-ABC"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Bank account",
+    "Previous marksheets"
+  ],
+  "suggested_responses": [
+    "Visit https://scholarships.gov.in",
+    "Call 0120-6619540"
+  ],
+  "recommendation_weight": 1.0
+}

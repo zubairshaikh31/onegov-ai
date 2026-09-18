@@ -1,0 +1,226 @@
+[
+  {
+    "id": "HEL-0001",
+    "service_id": "SVC-AADHAAR",
+    "name": "Aadhaar Enrolment & Update Helpline",
+    "number": "1947",
+    "email": "help@uidai.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0002",
+    "service_id": "SVC-PASSPORT",
+    "name": "Passport Issuance (Passport Seva) Helpline",
+    "number": "1800-258-1800",
+    "email": "passport.helpdesk@mea.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0003",
+    "service_id": "SVC-VOTER",
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6) Helpline",
+    "number": "1950",
+    "email": "eci@eci.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0004",
+    "service_id": "SVC-PMKISAN",
+    "name": "PM-KISAN Samman Nidhi Helpline",
+    "number": "155261 / 1800115526",
+    "email": "pmkisan-ict@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0005",
+    "service_id": "SVC-ENAM",
+    "name": "eNAM (National Agriculture Market) Helpline",
+    "number": "1800-270-0222",
+    "email": "enam@agtech.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0006",
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman Bharat PM-JAY Helpline",
+    "number": "14555 / 1800-11-15555",
+    "email": "pmjay@nha.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0007",
+    "service_id": "SVC-ABDM",
+    "name": "Ayushman Bharat Digital Mission (ABHA) Helpline",
+    "number": "1800-11-4477 / 1800-11-6644",
+    "email": "support@abdm.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0008",
+    "service_id": "SVC-ESHRAM",
+    "name": "e-Shram (National Database of Unorganised Workers) Helpline",
+    "number": "14434",
+    "email": "eshram@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0009",
+    "service_id": "SVC-EPFO",
+    "name": "EPF / UAN Services (Employees' Provident Fund) Helpline",
+    "number": "1800-118-005 / 14434",
+    "email": "epfindia@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0010",
+    "service_id": "SVC-ESIC",
+    "name": "ESIC (Employees' State Insurance) Helpline",
+    "number": "1800-11-2526",
+    "email": "webmaster@esic.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0011",
+    "service_id": "SVC-NCS",
+    "name": "National Career Service (NCS) Helpline",
+    "number": "1800-425-1514",
+    "email": "contactncs@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0012",
+    "service_id": "SVC-UDYAM",
+    "name": "Udyam Registration (MSME) Helpline",
+    "number": "1800-180-6763",
+    "email": "udyam@dcmsme.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0013",
+    "service_id": "SVC-STARTUP",
+    "name": "Startup India Recognition Helpline",
+    "number": "1800-115-565",
+    "email": "support@startupindia.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0014",
+    "service_id": "SVC-GEM",
+    "name": "GeM (Government e-Marketplace) Helpline",
+    "number": "1800-419-3436 / 1800-102-3436",
+    "email": "helpdesk-gem@gem.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0015",
+    "service_id": "SVC-ITR",
+    "name": "Income Tax e-Filing & Return (ITR) Helpline",
+    "number": "1800-103-0023 / 1961",
+    "email": "efilingwebmanager@incometax.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0016",
+    "service_id": "SVC-GST",
+    "name": "GST Registration & Returns Helpline",
+    "number": "1800-103-4786 / 14444",
+    "email": "webmaster@cgst.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0017",
+    "service_id": "SVC-DIGILOCKER",
+    "name": "DigiLocker Helpline",
+    "number": "1800-153-374 / support via portal",
+    "email": "support.digilocker@digitalindia.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0018",
+    "service_id": "SVC-UMANG",
+    "name": "UMANG (Unified Mobile App for New-age Governance) Helpline",
+    "number": "1800-111-550",
+    "email": "helpdesk@umang.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0019",
+    "service_id": "SVC-PMAYU",
+    "name": "Pradhan Mantri Awas Yojana (Urban) Helpline",
+    "number": "1800-11-6446 / 011-23063285",
+    "email": "pmaymis-moihua@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0020",
+    "service_id": "SVC-NSP",
+    "name": "National Scholarship Portal (NSP) Helpline",
+    "number": "0120-6619540",
+    "email": "helpdesk@nsp.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0021",
+    "service_id": "SVC-SWAYAM",
+    "name": "SWAYAM (Free Online Courses) Helpline",
+    "number": "1800-121-9020",
+    "email": "support@swayam.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0022",
+    "service_id": "SVC-ABC",
+    "name": "Academic Bank of Credits (ABC) Helpline",
+    "number": "1800-111-550 (via ABC/HEI)",
+    "email": "abc@ugc.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0023",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Parivahan (Vahan & Sarathi) Helpline",
+    "number": "0120-4925505",
+    "email": "helpdesk@parivahan.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0024",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Aaple Sarkar / MahaOnline Citizen Services Helpline",
+    "number": "1800-120-8040 (MahaOnline)",
+    "email": "support@mahaonline.gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0025",
+    "service_id": "SVC-MAH-REV",
+    "name": "Mahabhulekh (7/12 & 8A Land Records) Helpline",
+    "number": "022-25250900 (Bhulekh support)",
+    "email": "mah bhulekh support via portal",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0026",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood) Helpline",
+    "number": "1800-222-362 (Toll-free, MahaFood)",
+    "email": "fcscrti-maha@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0027",
+    "service_id": "SVC-MAH-DBT",
+    "name": "MahaDBT (Maharashtra Scholarship & DBT) Helpline",
+    "number": "022-49170000 (MahaDBT)",
+    "email": "mahadbt-support@gov.in",
+    "hours": "Refer to official portal"
+  },
+  {
+    "id": "HEL-0028",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Maharashtra Transport (RTO) Services Helpline",
+    "number": "1800-120-8040 (state helpdesk)",
+    "email": "rft-maha@gov.in",
+    "hours": "Refer to official portal"
+  }
+]

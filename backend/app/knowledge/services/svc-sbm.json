@@ -1,0 +1,48 @@
+{
+  "service_id": "SVC-SBM",
+  "name": "Swachh Bharat Mission",
+  "category_id": "CAT-WELFARE",
+  "sub_category": "Sanitation",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Mission to achieve universal sanitation and open-defecation free India.",
+  "eligibility": "Households / gram panchayats.",
+  "benefits": "Toilet construction support, cleanliness.",
+  "required_documents": [
+    "Address proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Apply via gram panchayat/portal.",
+    "Construct/avail."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://swachhbharat.mygov.in",
+  "official_apply_link": "https://swachhbharat.mygov.in",
+  "download_forms": "https://swachhbharat.mygov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://swachhbharat.mygov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "Swachh Bharat Mission promotes sanitation and ODF status.",
+  "ai_explanation": "Mission to achieve universal sanitation and open-defecation free India.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "swachh bharat",
+    "toilet",
+    "sanitation"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

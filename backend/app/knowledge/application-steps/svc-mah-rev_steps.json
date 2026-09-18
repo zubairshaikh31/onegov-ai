@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Visit mahabhulekh.maharashtra.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Select district and 7/12 (Satbara) or 8A."
+  },
+  {
+    "step": 3,
+    "description": "Enter village/survey/Gat number."
+  },
+  {
+    "step": 4,
+    "description": "View and download extract (print)."
+  }
+]

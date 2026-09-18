@@ -1,0 +1,18 @@
+{
+  "name": "पश्चिम बंगाल दुआरे सरकार",
+  "description": "West Bengal e-District / Duare Sarkar camps for certificates and schemes.",
+  "benefits": "Doorstep certificate and scheme enrolment camps.",
+  "eligibility": "West Bengal residents per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "steps": [
+    "Attend Duare Sarkar camp or apply online.",
+    "Submit documents.",
+    "Receive service."
+  ],
+  "faqs": [],
+  "keywords": []
+}

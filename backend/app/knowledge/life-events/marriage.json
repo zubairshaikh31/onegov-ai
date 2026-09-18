@@ -1,0 +1,20 @@
+{
+  "event": "marriage",
+  "services": [
+    "SVC-VOTER",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-VOTER",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-voter_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

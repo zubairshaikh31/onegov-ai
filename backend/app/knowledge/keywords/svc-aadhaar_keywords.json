@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "keywords": [
+    "aadhaar",
+    "uidai",
+    "uid",
+    "enrolment",
+    "ekyc",
+    "biometric",
+    "identity"
+  ],
+  "search_keywords": [
+    "aadhaar enrolment near me",
+    "update aadhaar address",
+    "e aadhaar download",
+    "aadhaar status check"
+  ],
+  "aliases": [
+    "aadhaar",
+    "uidai",
+    "uid",
+    "enrolment",
+    "ekyc",
+    "biometric",
+    "identity"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Aadhaar Enrolment & Update",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Aadhaar Enrolment & Update"
+  ]
+}

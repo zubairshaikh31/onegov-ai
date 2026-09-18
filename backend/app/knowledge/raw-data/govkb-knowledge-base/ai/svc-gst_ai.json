@@ -1,0 +1,56 @@
+{
+  "service_id": "SVC-GST",
+  "ai_summary": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled.",
+  "ai_explanation": "Businesses above the turnover threshold register for GST to get a GSTIN, charge tax, and claim input tax credit. Returns (GSTR-1, GSTR-3B) are filed online. Registration is free but late returns incur fees. Aadhaar authentication is used.",
+  "common_questions": [
+    "Do I need GST registration?",
+    "How do I register for GST?",
+    "What is the GST threshold?",
+    "How do I file GSTR-3B?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Register my business for GST",
+      "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+    },
+    {
+      "user": "File GSTR 3B",
+      "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+    },
+    {
+      "user": "GST threshold limit",
+      "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-gst",
+    "status_svc-gst",
+    "eligibility_svc-gst"
+  ],
+  "user_utterances": [
+    "Register my business for GST",
+    "File GSTR 3B",
+    "GST threshold limit",
+    "I want GST Registration & Returns",
+    "Need GST Registration & Returns",
+    "GST Registration & Returns help"
+  ],
+  "follow_up_questions": [
+    "What is the difference between GSTR-1 and GSTR-3B?",
+    "How do I cancel GST registration?"
+  ],
+  "recommended_responses": [
+    "Visit https://www.gst.gov.in",
+    "Call helpline 1800-103-4786 / 14444"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://www.gst.gov.in/registration"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-103-4786 / 14444"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Download UMANG app / visit web.umang.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Register with mobile OTP."
+  },
+  {
+    "step": 3,
+    "description": "Browse departments and services."
+  },
+  {
+    "step": 4,
+    "description": "Authenticate per service and transact."
+  }
+]

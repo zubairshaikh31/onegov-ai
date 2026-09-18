@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0009",
+    "service_id": "SVC-EPFO",
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://www.epfindia.gov.in"
+  }
+]

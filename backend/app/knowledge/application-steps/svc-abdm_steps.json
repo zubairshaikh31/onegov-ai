@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit abdm.gov.in or ABHA app."
+  },
+  {
+    "step": 2,
+    "description": "Authenticate with Aadhaar OTP or other ID."
+  },
+  {
+    "step": 3,
+    "description": "Create 14-digit ABHA number / Health ID."
+  },
+  {
+    "step": 4,
+    "description": "Link PHR address and records from providers."
+  },
+  {
+    "step": 5,
+    "description": "Manage consent for record sharing."
+  }
+]

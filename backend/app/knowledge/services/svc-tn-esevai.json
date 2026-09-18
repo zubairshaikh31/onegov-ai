@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-TN-ESEVAI",
+  "name": "Tamil Nadu e-Sevai / e-District",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (Tamil Nadu)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "TN",
+  "description": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services.",
+  "eligibility": "Tamil Nadu residents per service criteria.",
+  "benefits": "Online/offline certificates and service delivery.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit e-Sevai centre or portal.",
+    "Apply; upload docs.",
+    "Collect certificate."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://eservices.tn.gov.in",
+  "official_apply_link": "https://eservices.tn.gov.in",
+  "download_forms": "https://eservices.tn.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://eservices.tn.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Tamil Nadu e-Sevai provides certificates and citizen services through centres and portal.",
+  "ai_explanation": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "tn esevai",
+    "tamil nadu edistrict",
+    "tn certificate"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

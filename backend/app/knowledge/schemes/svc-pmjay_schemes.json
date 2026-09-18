@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0006",
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman Bharat PM-JAY",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "official_portal": "https://pmjay.gov.in"
+  }
+]

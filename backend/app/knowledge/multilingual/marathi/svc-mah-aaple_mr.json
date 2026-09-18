@@ -1,0 +1,26 @@
+{
+  "name": "आपले सरकार / महाऑनलाइन",
+  "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+  "benefits": "Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+  "eligibility": "Residents of Maharashtra; service-specific criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Service-specific documents"
+  ],
+  "steps": [
+    "Register on Aaple Sarkar portal.",
+    "Select department/service (certificate/scheme).",
+    "Fill form and upload documents.",
+    "Submit; track application.",
+    "Collect certificate (online download / SETU centre)."
+  ],
+  "faqs": [],
+  "keywords": [
+    "aaple sarkar",
+    "mahaonline",
+    "maharashtra certificate",
+    "caste certificate",
+    "income certificate"
+  ]
+}

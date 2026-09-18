@@ -1,0 +1,13 @@
+{
+  "services": [
+    "SVC-PASSPORT",
+    "SVC-AADHAAR",
+    "SVC-DIGILOCKER"
+  ],
+  "documents": [
+    "Aadhaar",
+    "DOB proof",
+    "Address proof"
+  ],
+  "schemes": []
+}

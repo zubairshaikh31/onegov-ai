@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-ABDM",
+  "prerequisite": [],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-PMJAY"
+  ],
+  "chain_example": "SVC-ABDM -> SVC-PMJAY"
+}

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAA",
+  "guide_md": "tutorials/md/svc-maa_guide.md",
+  "guide_html": "tutorials/html/svc-maa_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-maa_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://rajasthan.gov.in"
+  ]
+}

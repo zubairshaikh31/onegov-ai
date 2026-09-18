@@ -1,0 +1,19 @@
+{
+  "name": "महाराष्ट्र शेतकरी कल्याण योजना",
+  "description": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+  "benefits": "Input subsidies, loan waiver/relief, crop insurance, drip/solar subsidies.",
+  "eligibility": "Maharashtra farmers with land records; scheme-specific criteria.",
+  "documents": [
+    "7/12 land record",
+    "Aadhaar",
+    "Bank account",
+    "Caste/category cert (if applicable)"
+  ],
+  "steps": [
+    "Visit mahaagri.gov.in.",
+    "Select scheme; apply with land/identity docs.",
+    "Verification; benefit disbursal."
+  ],
+  "faqs": [],
+  "keywords": []
+}

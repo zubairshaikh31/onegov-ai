@@ -1,0 +1,642 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "office": "Aadhaar Seva Kendra locator at https://bhuvan.uidai.gov.in/locator",
+    "state": "India",
+    "phone": "1947",
+    "email": "help@uidai.gov.in",
+    "website": "https://uidai.gov.in"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "office": "PSK/PopSK locator at https://passportindia.gov.in -> 'Locate PSK'",
+    "state": "India",
+    "phone": "1800-258-1800",
+    "email": "passport.helpdesk@mea.gov.in",
+    "website": "https://passportindia.gov.in"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "office": "District Electoral Officer / ERO offices; locate via NVSP.",
+    "state": "India",
+    "phone": "1950",
+    "email": "eci@eci.gov.in",
+    "website": "https://voterportal.eci.gov.in"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "office": "State/District Agriculture Offices; CSC centres.",
+    "state": "India",
+    "phone": "155261 / 1800115526",
+    "email": "pmkisan-ict@gov.in",
+    "website": "https://pmkisan.gov.in"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "office": "Linked APMC mandis across participating states.",
+    "state": "India",
+    "phone": "1800-270-0222",
+    "email": "enam@agtech.gov.in",
+    "website": "https://enam.gov.in"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "office": "Ayushman Bharat Digital Kendras; empanelled hospital list on portal.",
+    "state": "India",
+    "phone": "14555 / 1800-11-15555",
+    "email": "pmjay@nha.gov.in",
+    "website": "https://pmjay.gov.in"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "office": "ABDM-enabled health facilities and CSCs.",
+    "state": "India",
+    "phone": "1800-11-4477 / 1800-11-6644",
+    "email": "support@abdm.gov.in",
+    "website": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "office": "CSC centres; State Labour Departments.",
+    "state": "India",
+    "phone": "14434",
+    "email": "eshram@gov.in",
+    "website": "https://eshram.gov.in"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "office": "Regional EPFO offices; locate via portal.",
+    "state": "India",
+    "phone": "1800-118-005 / 14434",
+    "email": "epfindia@gov.in",
+    "website": "https://www.epfindia.gov.in"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "office": "ESIC dispensaries, hospitals, and regional offices.",
+    "state": "India",
+    "phone": "1800-11-2526",
+    "email": "webmaster@esic.gov.in",
+    "website": "https://www.esic.gov.in"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "office": "Model Career Centres and local employment exchanges.",
+    "state": "India",
+    "phone": "1800-425-1514",
+    "email": "contactncs@gov.in",
+    "website": "https://ncs.gov.in"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "office": "MSME-DI offices; district centres.",
+    "state": "India",
+    "phone": "1800-180-6763",
+    "email": "udyam@dcmsme.gov.in",
+    "website": "https://udyamregistration.gov.in"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "office": "Startup India hubs; state nodal agencies.",
+    "state": "India",
+    "phone": "1800-115-565",
+    "email": "support@startupindia.gov.in",
+    "website": "https://www.startupindia.gov.in"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "office": "GeM regional outreach; buyer organisations.",
+    "state": "India",
+    "phone": "1800-419-3436 / 1800-102-3436",
+    "email": "helpdesk-gem@gem.gov.in",
+    "website": "https://gem.gov.in"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "office": "Local Income Tax offices / Aaykar Sampark Kendras.",
+    "state": "India",
+    "phone": "1800-103-0023 / 1961",
+    "email": "efilingwebmanager@incometax.gov.in",
+    "website": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-GST",
+    "office": "GST Seva Kendras / state tax offices.",
+    "state": "India",
+    "phone": "1800-103-4786 / 14444",
+    "email": "webmaster@cgst.gov.in",
+    "website": "https://www.gst.gov.in"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "office": "Digital India / CSC support.",
+    "state": "India",
+    "phone": "1800-153-374 / support via portal",
+    "email": "support.digilocker@digitalindia.gov.in",
+    "website": "https://www.digilocker.gov.in"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "office": "NeGD support.",
+    "state": "India",
+    "phone": "1800-111-550",
+    "email": "helpdesk@umang.gov.in",
+    "website": "https://umang.gov.in"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "office": "Urban Local Bodies / State Nodal Agencies.",
+    "state": "India",
+    "phone": "1800-11-6446 / 011-23063285",
+    "email": "pmaymis-moihua@gov.in",
+    "website": "https://pmaymis.gov.in"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "office": "Institution Nodal Officers; state scholarship departments.",
+    "state": "India",
+    "phone": "0120-6619540",
+    "email": "helpdesk@nsp.gov.in",
+    "website": "https://scholarships.gov.in"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "office": "Partner institutions / NPTEL centres.",
+    "state": "India",
+    "phone": "1800-121-9020",
+    "email": "support@swayam.gov.in",
+    "website": "https://swayam.gov.in"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "office": "Participating HEIs.",
+    "state": "India",
+    "phone": "1800-111-550 (via ABC/HEI)",
+    "email": "abc@ugc.gov.in",
+    "website": "https://abc.gov.in"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "office": "State RTOs / Transport Departments.",
+    "state": "India",
+    "phone": "0120-4925505",
+    "email": "helpdesk@parivahan.gov.in",
+    "website": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "office": "SETU / CSC centres across Maharashtra districts.",
+    "state": "MH",
+    "phone": "1800-120-8040 (MahaOnline)",
+    "email": "support@mahaonline.gov.in",
+    "website": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "office": "Taluka Revenue offices; CSCs.",
+    "state": "MH",
+    "phone": "022-25250900 (Bhulekh support)",
+    "email": "mah bhulekh support via portal",
+    "website": "https://mahabhulekh.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "office": "District Supply Offices; Fair Price Shops.",
+    "state": "MH",
+    "phone": "1800-222-362 (Toll-free, MahaFood)",
+    "email": "fcscrti-maha@gov.in",
+    "website": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "office": "District Social Welfare / Tribal offices.",
+    "state": "MH",
+    "phone": "022-49170000 (MahaDBT)",
+    "email": "mahadbt-support@gov.in",
+    "website": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "office": "Maharashtra RTOs across districts.",
+    "state": "MH",
+    "phone": "1800-120-8040 (state helpdesk)",
+    "email": "rft-maha@gov.in",
+    "website": "https://transport.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-DL",
+    "office": "Regional Transport Office (RTO) locator on Parivahan.",
+    "state": "India",
+    "phone": "0120-2459169",
+    "email": "helpdesk-sarathi@gov.in",
+    "website": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "office": "NSDL/UTIITSL PAN centres via portal.",
+    "state": "India",
+    "phone": "1800-103-0025",
+    "email": "",
+    "website": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "office": "Setu / CSC / Tahsildar office.",
+    "state": "India",
+    "phone": "1800-120-8040",
+    "email": "aaplesarkar.support@mahaonline.gov.in",
+    "website": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "office": "Setu / CSC / Tahsildar office.",
+    "state": "India",
+    "phone": "1800-120-8040",
+    "email": "aaplesarkar.support@mahaonline.gov.in",
+    "website": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "office": "Anganwadi centres, Setu, CSC, ward offices.",
+    "state": "India",
+    "phone": "181",
+    "email": "",
+    "website": "https://ladakibahin.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "1906",
+    "email": "support@pmuy.gov.in",
+    "website": "https://www.pmuy.gov.in"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.ngdrbharat.gov.in"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "1800-11-2011",
+    "email": "customercare@indiapost.gov.in",
+    "website": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "1800-233-1711",
+    "email": "support@apprenticeshipindia.gov.in",
+    "website": "https://apprenticeshipindia.gov.in"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "1800-233-7878",
+    "email": "support@pmkvyofficial.org",
+    "website": "https://www.msde.gov.in"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "helpdesk@nielit.gov.in",
+    "website": "https://www.nielit.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "14555",
+    "email": "pmjay@nha.gov.in",
+    "website": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.mygov.in"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "1800-11-0001",
+    "email": "Not Available",
+    "website": "https://www.pmjdy.gov.in"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "office": "Refer to official portal / nearest office",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "office": "Refer to official portal / nearest office",
+    "state": "MH",
+    "phone": "1800-222-362",
+    "email": "fcscrti-maha@gov.in",
+    "website": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "office": "Refer to official portal / nearest office",
+    "state": "MH",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "office": "Refer to official portal / nearest office",
+    "state": "MH",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://mahaagri.gov.in"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "office": "Refer to official portal / nearest office",
+    "state": "DL",
+    "phone": "1076",
+    "email": "Not Available",
+    "website": "https://edistrict.delhigovt.nic.in"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "office": "Refer to official portal / nearest office",
+    "state": "UP",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://edistrict.up.gov.in"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "office": "Refer to official portal / nearest office",
+    "state": "GJ",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://digitalgujarat.gov.in"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "office": "Refer to official portal / nearest office",
+    "state": "KA",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://sevasindhu.karnataka.gov.in"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "office": "Refer to official portal / nearest office",
+    "state": "TN",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://eservices.tn.gov.in"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "office": "Refer to official portal / nearest office",
+    "state": "WB",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://edistrict.wb.gov.in"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "office": "Refer to official portal / nearest office",
+    "state": "RJ",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://sso.rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-CSC",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "1800-3000-3468",
+    "email": "helpdesk@csc.gov.in",
+    "website": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.bhimupi.org.in"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://digiyatra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "office": "Refer to official portal",
+    "state": "RJ",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "office": "Refer to official portal",
+    "state": "AP",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://ap.meeseva.gov.in"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "office": "Refer to official portal",
+    "state": "TG",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://ts.meeseva.telangana.gov.in"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "office": "Refer to official portal",
+    "state": "KL",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://edistrict.kerala.gov.in"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "1075",
+    "email": "support@cowin.gov.in",
+    "website": "https://www.cowin.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://ayush.gov.in"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://wcd.nic.in"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://poshanabhiyaan.gov.in"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://swachhbharat.mygov.in"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://amrut.mohua.gov.in"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://pmgsy.nic.in"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://nrega.nic.in"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://nulm.gov.in"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "1800-233-7878",
+    "email": "support@pmkvyofficial.org",
+    "website": "https://www.pmkvyofficial.org"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "1800-3000-3468",
+    "email": "helpdesk@csc.gov.in",
+    "website": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "office": "Refer to official portal",
+    "state": "MH",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://mjp.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "office": "Refer to official portal",
+    "state": "MH",
+    "phone": "155388",
+    "email": "Not Available",
+    "website": "https://www.jeevandayee.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "139",
+    "email": "Not Available",
+    "website": "https://www.irctc.co.in"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "Not Available",
+    "email": "Not Available",
+    "website": "https://www.aai.aero"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "office": "Refer to official portal",
+    "state": "India",
+    "phone": "1800-258-1800",
+    "email": "Not Available",
+    "website": "https://www.passportindia.gov.in"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What certificates can I get here?",
+    "answer": "Caste, income, residence, birth/death, and many scheme applications.",
+    "official": true
+  },
+  {
+    "question": "How do I apply for a caste certificate in Maharashtra?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is Aaple Sarkar?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I track my certificate application?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Where are SETU centres?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://aaplesarkar.mahaonline.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 (MahaOnline) / email support@mahaonline.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "As per state fee schedule per service.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Per service SLA (certificates usually 7-30 days).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (aaplesarkar.mahaonline.gov.in) and CSC / SETU centres",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040 (MahaOnline). Email: support@mahaonline.gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "As per state fee schedule per service.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Per service SLA (certificates usually 7-30 days).",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

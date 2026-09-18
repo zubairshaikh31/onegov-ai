@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "ai_summary": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based.",
+  "ai_explanation": "e-Shram builds a national registry of informal workers using Aadhaar and bank details. Registered workers get a UAN-based e-Shram card and become eligible for various welfare schemes. It is free and complements EPFO/ESIC coverage.",
+  "eligibility_summary": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+  "conversation_examples": [
+    {
+      "user": "I want e-Shram (National Database of Unorganised Workers)",
+      "bot": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. Apply: https://eshram.gov.in. Helpline: 14434."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with e-Shram (National Database of Unorganised Workers). Use only official info from https://eshram.gov.in.",
+  "follow_up_questions": [
+    "Which schemes use e-Shram data?",
+    "How do I update my e-Shram record?"
+  ],
+  "intent_examples": [
+    "apply_svc-eshram",
+    "status_svc-eshram",
+    "eligibility_svc-eshram"
+  ],
+  "recommended_services": [
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank account",
+    "Mobile linked to Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://eshram.gov.in",
+    "Call 14434"
+  ],
+  "recommendation_weight": 1.0
+}

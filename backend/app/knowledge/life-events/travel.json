@@ -1,0 +1,11 @@
+{
+  "services": [
+    "SVC-PASSPORT",
+    "SVC-PARIVAHAN"
+  ],
+  "documents": [
+    "Passport",
+    "Visa"
+  ],
+  "schemes": []
+}

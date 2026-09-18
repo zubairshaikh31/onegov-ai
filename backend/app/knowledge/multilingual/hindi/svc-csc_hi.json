@@ -1,0 +1,21 @@
+{
+  "name": "सीएससी (कॉमन सर्विस सेंटर)",
+  "description": "CSC network provides public services (gov, finance, education) at village/urban kiosks.",
+  "benefits": "Access to govt services, banking, insurance, tele-law at local kiosk.",
+  "eligibility": "Village-level entrepreneurs and citizens seeking assisted services.",
+  "documents": [
+    "Aadhaar",
+    "Address proof"
+  ],
+  "steps": [
+    "Locate nearest CSC.",
+    "Request service with Aadhaar.",
+    "Complete assisted application."
+  ],
+  "faqs": [],
+  "keywords": [
+    "csc",
+    "common service centre",
+    "digital seva"
+  ]
+}

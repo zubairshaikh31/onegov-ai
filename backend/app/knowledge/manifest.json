@@ -1,0 +1,110 @@
+{
+  "project": "OneGov AI - Intelligent Public Access to Digital Government Services",
+  "version": "3.0.0",
+  "generation_date": "2026-07-25T00:00:00Z",
+  "sources": [
+    "gov-services-kb",
+    "govkb",
+    "OneGov-KnowledgeBase(v3)",
+    "upgrade v4"
+  ],
+  "merge_strategy": "Canonical SVC-* IDs; v4 expansion + enrichment. Original folders untouched.",
+  "totals": {
+    "services": 80,
+    "schemes": 80,
+    "ministries": 17,
+    "departments": 23,
+    "categories": 15,
+    "documents": 80,
+    "faqs": 81,
+    "videos": 80,
+    "tutorials_pdf": 80,
+    "forms": 80,
+    "office_locations": 81,
+    "ai": 82,
+    "keywords": 80,
+    "search_queries": 80,
+    "relationships": 81,
+    "legal_references": 22,
+    "knowledge_files": 13,
+    "image_metadata": 130,
+    "tutorials": 80
+  },
+  "merge_log": [
+    {
+      "service_id": "SVC-DL",
+      "action": "added_from_A_unique",
+      "A_id": "CEN-TRN-DL-009"
+    },
+    {
+      "service_id": "SVC-DIGILOCKER",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-DIG-DIGILOCKER-010"
+    },
+    {
+      "service_id": "SVC-NSP",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-EDU-SCHOLARSHIP-011"
+    },
+    {
+      "service_id": "SVC-PAN",
+      "action": "added_from_A_unique",
+      "A_id": "CEN-FIN-PAN-003"
+    },
+    {
+      "service_id": "SVC-ITR",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-FIN-ITR-004"
+    },
+    {
+      "service_id": "SVC-UDYAM",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-BIZ-UDYAM-005"
+    },
+    {
+      "service_id": "SVC-AADHAAR",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-IDN-AADHAAR-001"
+    },
+    {
+      "service_id": "SVC-PASSPORT",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-IDN-PASSPORT-002"
+    },
+    {
+      "service_id": "SVC-PMKISAN",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-AGR-PMKISAN-006"
+    },
+    {
+      "service_id": "SVC-PMJAY",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-HLT-PMJAY-007"
+    },
+    {
+      "service_id": "SVC-ESHRAM",
+      "action": "merged_A_into_B",
+      "A_id": "CEN-LAB-ESHRAM-008"
+    },
+    {
+      "service_id": "SVC-MAH-INCOME",
+      "action": "added_from_A_unique",
+      "A_id": "MH-REV-INCOME-101"
+    },
+    {
+      "service_id": "SVC-MAH-DOMICILE",
+      "action": "added_from_A_unique",
+      "A_id": "MH-REV-DOMICILE-102"
+    },
+    {
+      "service_id": "SVC-MAH-LADKI",
+      "action": "added_from_A_unique",
+      "A_id": "MH-WEL-LADKIBAHIN-103"
+    }
+  ],
+  "repository_version": "4.1.0",
+  "coverage_percentage": 100.0,
+  "youtube_channels_file": "youtube_channels.json",
+  "video_index_file": "video_index.json",
+  "knowledge_graph": "knowledge/ (ontology + ministries/departments/services/schemes/documents/life-events/acts/rules/glossary/abbreviations)"
+}

@@ -1,0 +1,68 @@
+{
+  "Aadhaar Regulations, 2016": [
+    "svc-aadhaar"
+  ],
+  "NPS Trust guidelines": [
+    "svc-atal"
+  ],
+  "NPCI UPI guidelines": [
+    "svc-bhim"
+  ],
+  "CoWIN platform guidelines": [
+    "svc-cowin"
+  ],
+  "Central Motor Vehicles Rules, 1989": [
+    "svc-dl"
+  ],
+  "EPF Scheme, 1952": [
+    "svc-epfo"
+  ],
+  "ESI Regulations, 1950": [
+    "svc-esic"
+  ],
+  "CGST Rules, 2017": [
+    "svc-gst"
+  ],
+  "ICDS guidelines": [
+    "svc-icds"
+  ],
+  "Income Tax Rules, 1962": [
+    "svc-itr"
+  ],
+  "PMJDY operational guidelines": [
+    "svc-jdy"
+  ],
+  "NREGA Scheme, 2006": [
+    "svc-mgnrega"
+  ],
+  "NPS Trust regulations": [
+    "svc-nps"
+  ],
+  "Passport Rules, 1980": [
+    "svc-passport"
+  ],
+  "PMGSY operational manual": [
+    "svc-pmgsy"
+  ],
+  "PM-JAY guidelines": [
+    "svc-pmjay"
+  ],
+  "PM-KISAN scheme guidelines": [
+    "svc-pmkisan"
+  ],
+  "Railway Passengers Rules": [
+    "svc-rail"
+  ],
+  "SBM operational guidelines": [
+    "svc-sbm"
+  ],
+  "Small Savings Scheme rules": [
+    "svc-sukanya"
+  ],
+  "Udyam Notification, 2020": [
+    "svc-udyam"
+  ],
+  "Registration of Electors Rules, 1960": [
+    "svc-voter"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Karnataka Seva Sindhu / e-District",
+  "description": "Karnataka's integrated service delivery portal for certificates and schemes.",
+  "benefits": "Online certificates, ration, and welfare schemes.",
+  "eligibility": "Karnataka residents per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "steps": [
+    "Register on sevasindhu.karnataka.gov.in.",
+    "Apply; upload docs.",
+    "Track and download."
+  ],
+  "faqs": [
+    "What is Karnataka Seva Sindhu / e-District?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "seva sindhu",
+    "karnataka edistrict",
+    "karnataka services"
+  ]
+}

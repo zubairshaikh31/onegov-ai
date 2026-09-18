@@ -1,0 +1,23 @@
+{
+  "service_id": "SVC-NPS",
+  "keywords": [
+    "nps",
+    "national pension"
+  ],
+  "search_keywords": [
+    "nps",
+    "national pension"
+  ],
+  "aliases": [
+    "nps",
+    "national pension"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want National Pension System"
+  ],
+  "nl_queries": [
+    "how to National Pension System"
+  ]
+}

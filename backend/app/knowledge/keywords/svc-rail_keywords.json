@@ -1,0 +1,23 @@
+{
+  "service_id": "SVC-RAIL",
+  "keywords": [
+    "irctc",
+    "rail booking"
+  ],
+  "search_keywords": [
+    "irctc",
+    "rail booking"
+  ],
+  "aliases": [
+    "irctc",
+    "rail booking"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Indian Railways / IRCTC Services"
+  ],
+  "nl_queries": [
+    "how to Indian Railways / IRCTC Services"
+  ]
+}

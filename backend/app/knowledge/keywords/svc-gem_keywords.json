@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-GEM",
+  "keywords": [
+    "gem",
+    "government e marketplace",
+    "public procurement",
+    "seller registration",
+    "tender"
+  ],
+  "search_keywords": [
+    "gem seller registration",
+    "gem.gov.in login",
+    "government tender gem"
+  ],
+  "aliases": [
+    "gem",
+    "government e marketplace",
+    "public procurement",
+    "seller registration",
+    "tender"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want GeM (Government e-Marketplace)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply GeM (Government e-Marketplace)"
+  ]
+}

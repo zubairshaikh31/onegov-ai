@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-MAH-LADKI",
+  "keywords": [
+    "bahin",
+    "dbt",
+    "financial assistance",
+    "ladki",
+    "ladki bahin",
+    "maharashtra",
+    "majhi",
+    "mukhyamantri",
+    "welfare",
+    "women scheme",
+    "yojana"
+  ],
+  "search_keywords": [
+    "bahin",
+    "dbt",
+    "financial assistance",
+    "ladki",
+    "ladki bahin",
+    "maharashtra",
+    "majhi",
+    "mukhyamantri",
+    "welfare",
+    "women scheme",
+    "yojana"
+  ],
+  "aliases": [
+    "bahin",
+    "dbt",
+    "financial assistance",
+    "ladki",
+    "ladki bahin",
+    "maharashtra",
+    "majhi",
+    "mukhyamantri",
+    "welfare",
+    "women scheme",
+    "yojana"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Mukhyamantri Majhi Ladki Bahin Yojana",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Mukhyamantri Majhi Ladki Bahin Yojana"
+  ]
+}

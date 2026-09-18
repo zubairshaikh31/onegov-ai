@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-ATAL",
+  "guide_md": "tutorials/md/svc-atal_guide.md",
+  "guide_html": "tutorials/html/svc-atal_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-atal_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.npscra.nsdl.co.in"
+  ]
+}

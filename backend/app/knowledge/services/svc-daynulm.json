@@ -1,0 +1,47 @@
+{
+  "service_id": "SVC-DAYNULM",
+  "name": "DAY-NULM (Urban Livelihood)",
+  "category_id": "CAT-WELFARE",
+  "sub_category": "Livelihood",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission.",
+  "eligibility": "Urban poor / self-help groups.",
+  "benefits": "Skill training, SHG loans, livelihoods.",
+  "required_documents": [
+    "Address proof",
+    "BPL proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Join SHG / apply at ULB."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://nulm.gov.in",
+  "official_apply_link": "https://nulm.gov.in",
+  "download_forms": "https://nulm.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://nulm.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "DAY-NULM supports urban livelihoods via SHGs.",
+  "ai_explanation": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "day nulm",
+    "urban livelihood"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

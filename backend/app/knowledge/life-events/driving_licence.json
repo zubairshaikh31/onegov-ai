@@ -1,0 +1,23 @@
+{
+  "event": "driving_licence",
+  "services": [
+    "SVC-DL",
+    "SVC-PARIVAHAN",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-DL",
+    "SVC-PARIVAHAN",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-dl_guide.md",
+    "tutorials/md/svc-parivahan_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

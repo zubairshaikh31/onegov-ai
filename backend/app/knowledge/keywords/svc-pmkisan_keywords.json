@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "keywords": [
+    "pm kisan",
+    "pmkisan",
+    "farmer scheme",
+    "income support",
+    "dbt agriculture"
+  ],
+  "search_keywords": [
+    "pm kisan status",
+    "pm kisan registration",
+    "pm kisan ekyc",
+    "pm kisan 14th installment"
+  ],
+  "aliases": [
+    "pm kisan",
+    "pmkisan",
+    "farmer scheme",
+    "income support",
+    "dbt agriculture"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want PM-KISAN Samman Nidhi",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply PM-KISAN Samman Nidhi"
+  ]
+}

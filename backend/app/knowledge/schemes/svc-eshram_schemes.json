@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0008",
+    "service_id": "SVC-ESHRAM",
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://eshram.gov.in"
+  }
+]

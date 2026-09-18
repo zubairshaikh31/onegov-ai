@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MSDE",
+  "guide_md": "tutorials/md/svc-msde_guide.md",
+  "guide_html": "tutorials/html/svc-msde_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-msde_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.msde.gov.in"
+  ]
+}

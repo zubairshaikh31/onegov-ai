@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Can I get my DL on DigiLocker?",
+    "answer": "Yes, issued DL/RC can be fetched in DigiLocker.",
+    "official": true
+  },
+  {
+    "question": "Is a driving test mandatory?",
+    "answer": "Yes, for permanent DL after learner licence period.",
+    "official": true
+  },
+  {
+    "question": "How do I apply for a driving licence online?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I check my RC status?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I renew my DL?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are RTO fees?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://parivahan.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 0120-4925505 / email helpdesk@parivahan.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "As per state MV fee schedule; varies by service.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "RC/DL issued after RTO test/verification (days to weeks).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (parivahan.gov.in) + RTO appointment",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

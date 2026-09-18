@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit the Income Tax e-filing portal."
+  },
+  {
+    "step": 2,
+    "description": "Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL."
+  },
+  {
+    "step": 3,
+    "description": "Enter Aadhaar number and validate OTP."
+  },
+  {
+    "step": 4,
+    "description": "Confirm details and submit."
+  },
+  {
+    "step": 5,
+    "description": "Download e-PAN in PDF format."
+  }
+]

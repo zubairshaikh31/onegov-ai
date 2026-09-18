@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on enam.gov.in as farmer/trader."
+  },
+  {
+    "step": 2,
+    "description": "Link APMC mandi and bank account."
+  },
+  {
+    "step": 3,
+    "description": "List produce with quality/grade."
+  },
+  {
+    "step": 4,
+    "description": "Participate in e-auction; buyer bids."
+  },
+  {
+    "step": 5,
+    "description": "Payment settled to farmer account post-trade."
+  }
+]

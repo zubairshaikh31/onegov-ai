@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0002",
+    "service_id": "SVC-PASSPORT",
+    "name": "Passport Issuance (Passport Seva)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://passportindia.gov.in"
+  }
+]

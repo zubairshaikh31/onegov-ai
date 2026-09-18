@@ -1,0 +1,26 @@
+{
+  "service_id": "SVC-CSC",
+  "keywords": [
+    "csc",
+    "common service centre",
+    "digital seva"
+  ],
+  "search_keywords": [
+    "csc",
+    "common service centre",
+    "digital seva"
+  ],
+  "aliases": [
+    "csc",
+    "common service centre",
+    "digital seva"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Common Service Centres (CSC)"
+  ],
+  "nl_queries": [
+    "how to Common Service Centres (CSC)"
+  ]
+}

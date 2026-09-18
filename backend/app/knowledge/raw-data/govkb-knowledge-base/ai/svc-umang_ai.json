@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-UMANG",
+  "ai_summary": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services.",
+  "ai_explanation": "UMANG consolidates many government services into one app, letting citizens access EPFO, tax, passport, bill payments, and state services with a single login. It is multilingual and free, with per-service authentication.",
+  "common_questions": [
+    "What is UMANG app?",
+    "Which services are on UMANG?",
+    "How do I register on UMANG?",
+    "Is UMANG free?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is UMANG app?",
+      "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+    },
+    {
+      "user": "Which services are on UMANG?",
+      "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+    },
+    {
+      "user": "How do I register on UMANG?",
+      "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-umang",
+    "status_svc-umang",
+    "eligibility_svc-umang"
+  ],
+  "user_utterances": [
+    "I want UMANG (Unified Mobile App for New-age Governance)",
+    "Need UMANG (Unified Mobile App for New-age Governance)",
+    "UMANG (Unified Mobile App for New-age Governance) help"
+  ],
+  "follow_up_questions": [
+    "How do I use UMANG for EPFO?",
+    "Which Maharashtra services are on UMANG?"
+  ],
+  "recommended_responses": [
+    "Visit https://umang.gov.in",
+    "Call helpline 1800-111-550"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://web.umang.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-111-550"
+    }
+  ]
+}

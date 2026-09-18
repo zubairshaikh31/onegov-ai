@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-DBT",
+  "ai_summary": "MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens.",
+  "ai_explanation": "MahaDBT consolidates Maharashtra government scholarships (post-matric for SC/ST/OBC/Minority/EBC etc.) and other DBT schemes. Students register, upload certificates, and receive funds directly to their bank after verification.",
+  "common_questions": [
+    "How do I apply for Maharashtra scholarship?",
+    "What is MahaDBT?",
+    "How do I check MahaDBT status?",
+    "Which scholarships are on MahaDBT?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for Maharashtra scholarship?",
+      "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+    },
+    {
+      "user": "What is MahaDBT?",
+      "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+    },
+    {
+      "user": "How do I check MahaDBT status?",
+      "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-mah-dbt",
+    "status_svc-mah-dbt",
+    "eligibility_svc-mah-dbt"
+  ],
+  "user_utterances": [
+    "I want MahaDBT (Maharashtra Scholarship & DBT)",
+    "Need MahaDBT (Maharashtra Scholarship & DBT)",
+    "MahaDBT (Maharashtra Scholarship & DBT) help"
+  ],
+  "follow_up_questions": [
+    "What is the MahaDBT application deadline?",
+    "How do I renew my Maharashtra scholarship?"
+  ],
+  "recommended_responses": [
+    "Visit https://mahadbt.maharashtra.gov.in",
+    "Call helpline 022-49170000 (MahaDBT)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://mahadbt.maharashtra.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "022-49170000 (MahaDBT)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "service_id": "SVC-MAH-CMRELIEF",
+  "keywords": [
+    "cm relief fund",
+    "maharashtra relief",
+    "distress assistance"
+  ],
+  "search_keywords": [
+    "cm relief fund",
+    "maharashtra relief",
+    "distress assistance"
+  ],
+  "aliases": [
+    "cm relief fund",
+    "maharashtra relief",
+    "distress assistance"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Maharashtra Chief Minister Relief Fund",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Maharashtra Chief Minister Relief Fund"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-abc_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-abc_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-abc_guide.pdf"
+  }
+]

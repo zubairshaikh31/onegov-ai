@@ -1,0 +1,124 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "name": "e-Shram (National Database of Unorganised Workers)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Worker Registration",
+  "department_id": "DEP-LAB",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+  "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+  "benefits": "e-Shram card; eligibility for future social security/welfare schemes; portability.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank account",
+    "Mobile linked to Aadhaar"
+  ],
+  "optional_documents": [
+    "Occupation / skill details"
+  ],
+  "application_mode": "Online (eshram.gov.in) and CSC",
+  "application_steps": [
+    "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+    "Fill personal, occupation, and bank details.",
+    "Submit; download e-Shram card (UAN).",
+    "Update details as needed."
+  ],
+  "processing_time": "Instant card generation after Aadhaar OTP verification.",
+  "fees": "Free.",
+  "validity": "Card valid; update on change of details.",
+  "official_portal": "https://eshram.gov.in",
+  "official_apply_link": "https://eshram.gov.in",
+  "download_forms": "https://eshram.gov.in",
+  "helpline_number": "14434",
+  "email": "eshram@gov.in",
+  "office_locator_info": "CSC centres; State Labour Departments.",
+  "faq": [
+    {
+      "q": "Who should register on e-Shram?",
+      "a": "Unorganised workers not covered by EPFO/ESIC, such as gig, migrant, and informal workers."
+    }
+  ],
+  "related_services": [
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "e shram",
+    "unorganised worker",
+    "labour card",
+    "eshram card",
+    "social security"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://eshram.gov.in",
+  "ai_summary": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based.",
+  "ai_explanation": "e-Shram builds a national registry of informal workers using Aadhaar and bank details. Registered workers get a UAN-based e-Shram card and become eligible for various welfare schemes. It is free and complements EPFO/ESIC coverage.",
+  "common_questions": [
+    "Who can register on e-Shram?",
+    "How do I download my e-Shram card?",
+    "Is e-Shram for EPFO members?",
+    "How do I apply for e-Shram Card (Unorganised Workers)?",
+    "What documents are required for e-Shram Card (Unorganised Workers)?",
+    "What is the fee for e-Shram Card (Unorganised Workers)?",
+    "Who is eligible for e-Shram Card (Unorganised Workers)?",
+    "How long does e-Shram Card (Unorganised Workers) take to process?",
+    "What is the official website for e-Shram Card (Unorganised Workers)?"
+  ],
+  "common_mistakes": [
+    "EPFO/ESIC members wrongly registering",
+    "Bank not linked to Aadhaar"
+  ],
+  "search_keywords": [
+    "eshram registration",
+    "eshram card download",
+    "unorganised worker scheme"
+  ],
+  "suggested_followups": [
+    "Which schemes use e-Shram data?",
+    "How do I update my e-Shram record?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for e-Shram Card (Unorganised Workers)?",
+      "What documents are required for e-Shram Card (Unorganised Workers)?",
+      "What is the fee for e-Shram Card (Unorganised Workers)?",
+      "Who is eligible for e-Shram Card (Unorganised Workers)?",
+      "How long does e-Shram Card (Unorganised Workers) take to process?",
+      "What is the official website for e-Shram Card (Unorganised Workers)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for e-Shram Card (Unorganised Workers)?",
+      "Can I track my e-Shram Card (Unorganised Workers) application status online?",
+      "What should I do if my e-Shram Card (Unorganised Workers) application is rejected?",
+      "Are there any state-specific rules for e-Shram Card (Unorganised Workers) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "card",
+      "eshram",
+      "labour",
+      "shram",
+      "social security",
+      "uan",
+      "unorganised",
+      "unorganised worker",
+      "workers"
+    ],
+    "content_hash": "a31af96edf3cfc969a0e9a19bf4c1c42ceeedea96250fdbdaa181093b266a2b3",
+    "source_type": "html",
+    "version": 1
+  }
+}

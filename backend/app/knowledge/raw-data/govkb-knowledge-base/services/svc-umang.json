@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-UMANG",
+  "name": "UMANG (Unified Mobile App for New-age Governance)",
+  "category": "CAT-DIGITAL",
+  "sub_category": "Mobile Services Aggregator",
+  "department": "DEP-NEGD",
+  "ministry": "MIN-MEITY",
+  "central_state": "Central",
+  "state": null,
+  "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+  "benefits": "One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+  "eligibility": "Any citizen with a smartphone; services may need respective IDs.",
+  "required_documents": [
+    "Mobile number",
+    "Service-specific IDs (Aadhaar/PAN/UAN)"
+  ],
+  "optional_documents": [
+    "Bank details for payments"
+  ],
+  "fees": "Free app; service charges as applicable.",
+  "processing_time": "Per service.",
+  "validity": "Account active.",
+  "application_mode": "Mobile app (UMANG) and web",
+  "official_website": "https://umang.gov.in",
+  "official_apply_link": "https://web.umang.gov.in",
+  "download_forms": "https://umang.gov.in",
+  "helpline": "1800-111-550",
+  "email": "helpdesk@umang.gov.in",
+  "office_locator": "NeGD support.",
+  "working_hours": "",
+  "languages_available": "Hindi, English and multiple Indian languages",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://umang.gov.in",
+  "collection_method": "official_portal"
+}

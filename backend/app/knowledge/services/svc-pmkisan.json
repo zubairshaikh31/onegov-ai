@@ -1,0 +1,130 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "name": "PM-KISAN Samman Nidhi",
+  "category_id": "CAT-AGR",
+  "sub_category": "Farmer Income Support",
+  "department_id": "DEP-DARE",
+  "ministry_id": "MIN-AGR",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+  "eligibility": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+  "benefits": "Rs. 6,000 per year direct transfer; supports farm input costs.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank account (DBT-linked)",
+    "Landholding records / Khatauni"
+  ],
+  "optional_documents": [
+    "Samagra / state ID where integrated"
+  ],
+  "application_mode": "Online (pmkisan.gov.in), CSC, or nearest agriculture office",
+  "application_steps": [
+    "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+    "Enter Aadhaar and land/account details.",
+    "Verify and submit; note registration number.",
+    "District/State validates land records.",
+    "Instalments credited to bank account; check status online."
+  ],
+  "processing_time": "Instalments released periodically; first credit after verification (weeks).",
+  "fees": "Free.",
+  "validity": "Continuous while eligibility and land records valid; e-KYC required periodically.",
+  "official_portal": "https://pmkisan.gov.in",
+  "official_apply_link": "https://pmkisan.gov.in/BeneficiaryStatus.aspx",
+  "download_forms": "https://pmkisan.gov.in/Documents/PMKISAN.pdf",
+  "helpline_number": "155261 / 1800115526",
+  "email": "pmkisan-ict@gov.in",
+  "office_locator_info": "State/District Agriculture Offices; CSC centres.",
+  "faq": [
+    {
+      "q": "Why is my instalment pending?",
+      "a": "Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal."
+    },
+    {
+      "q": "Are tenant farmers eligible?",
+      "a": "Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR",
+    "SVC-ENAM"
+  ],
+  "keywords": [
+    "pm kisan",
+    "pmkisan",
+    "farmer scheme",
+    "income support",
+    "dbt agriculture"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://pmkisan.gov.in",
+  "ai_summary": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked.",
+  "ai_explanation": "The scheme transfers Rs. 2,000 every four months to farmer families owning cultivable land, subject to exclusion criteria. Registration needs Aadhaar, a DBT bank account, and land records. Periodic e-KYC is mandatory to keep receiving benefits.",
+  "common_questions": [
+    "How do I register for PM-KISAN?",
+    "Why is my PM-KISAN payment pending?",
+    "How do I do PM-KISAN e-KYC?",
+    "Am I eligible for PM-KISAN?",
+    "How do I apply for PM-KISAN Samman Nidhi?",
+    "What documents are required for PM-KISAN Samman Nidhi?",
+    "What is the fee for PM-KISAN Samman Nidhi?",
+    "Who is eligible for PM-KISAN Samman Nidhi?",
+    "How long does PM-KISAN Samman Nidhi take to process?",
+    "What is the official website for PM-KISAN Samman Nidhi?"
+  ],
+  "common_mistakes": [
+    "Aadhaar not linked to bank account",
+    "Land record mismatch",
+    "Missing periodic e-KYC"
+  ],
+  "search_keywords": [
+    "pm kisan status",
+    "pm kisan registration",
+    "pm kisan ekyc",
+    "pm kisan 14th installment"
+  ],
+  "suggested_followups": [
+    "How do I link Aadhaar to my bank for PM-KISAN?",
+    "What are the PM-KISAN exclusion criteria?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for PM-KISAN Samman Nidhi?",
+      "What documents are required for PM-KISAN Samman Nidhi?",
+      "What is the fee for PM-KISAN Samman Nidhi?",
+      "Who is eligible for PM-KISAN Samman Nidhi?",
+      "How long does PM-KISAN Samman Nidhi take to process?",
+      "What is the official website for PM-KISAN Samman Nidhi?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for PM-KISAN Samman Nidhi?",
+      "Can I track my PM-KISAN Samman Nidhi application status online?",
+      "What should I do if my PM-KISAN Samman Nidhi application is rejected?",
+      "Are there any state-specific rules for PM-KISAN Samman Nidhi in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "agriculture",
+      "dbt",
+      "farmer",
+      "income support",
+      "kisan",
+      "nidhi",
+      "pm kisan",
+      "samman"
+    ],
+    "content_hash": "d3080500247ef379908c38da8bac1be14050b62d1583bcc606ea915a8950d741",
+    "source_type": "html",
+    "version": 1
+  }
+}

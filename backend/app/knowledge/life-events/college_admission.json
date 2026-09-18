@@ -1,0 +1,26 @@
+{
+  "event": "college_admission",
+  "services": [
+    "SVC-NSP",
+    "SVC-SWAYAM",
+    "SVC-ABC",
+    "SVC-DIGILOCKER"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-NSP",
+    "SVC-SWAYAM",
+    "SVC-ABC",
+    "SVC-DIGILOCKER"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-nsp_guide.md",
+    "tutorials/md/svc-swayam_guide.md",
+    "tutorials/md/svc-abc_guide.md",
+    "tutorials/md/svc-digilocker_guide.md"
+  ]
+}

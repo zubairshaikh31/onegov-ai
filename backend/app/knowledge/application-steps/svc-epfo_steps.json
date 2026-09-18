@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Activate UAN on EPFO member portal / UMANG."
+  },
+  {
+    "step": 2,
+    "description": "Seed Aadhaar, bank, PAN via KYC."
+  },
+  {
+    "step": 3,
+    "description": "Raise claim (Form 19/10C/31) online."
+  },
+  {
+    "step": 4,
+    "description": "Track claim status; amount credited to bank."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "validated_at": "2026-07-25T00:00:00Z",
+  "total_services": 80,
+  "broken_json": 0,
+  "broken_csv": 0,
+  "broken_pdf": 0,
+  "duplicate_ids": [],
+  "status": "passed"
+}

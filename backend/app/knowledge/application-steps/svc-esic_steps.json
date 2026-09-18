@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Employer registers establishment and enrols employees (Form 1)."
+  },
+  {
+    "step": 2,
+    "description": "Employee gets Insurance/Pehchan card."
+  },
+  {
+    "step": 3,
+    "description": "Avail treatment at ESIC dispensary/hospital with card."
+  },
+  {
+    "step": 4,
+    "description": "File claims (sickness/maternity) online if applicable."
+  }
+]

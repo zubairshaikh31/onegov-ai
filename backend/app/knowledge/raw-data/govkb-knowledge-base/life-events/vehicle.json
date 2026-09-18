@@ -1,0 +1,14 @@
+{
+  "services": [
+    "SVC-PARIVAHAN",
+    "SVC-DIGILOCKER",
+    "SVC-MAH-RTO"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Vehicle invoice",
+    "Insurance"
+  ],
+  "schemes": []
+}

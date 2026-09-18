@@ -1,0 +1,90 @@
+{
+  "en": {
+    "name": "Parivahan (Vahan & Sarathi)",
+    "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+    "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+    "benefits": "Online RC, DL, permits, tax, slots; reduces RTO visits.",
+    "application_steps": [
+      "Visit parivahan.gov.in -> Vahan/Sarathi.",
+      "Apply for RC/DL/LL with details and documents.",
+      "Pay fees and book RTO slot.",
+      "Visit RTO for test/verification.",
+      "Receive RC/DL (digital via DigiLocker)."
+    ],
+    "faqs": [
+      "Can I get my DL on DigiLocker?",
+      "Is a driving test mandatory?",
+      "How do I apply for a driving licence online?",
+      "How do I check my RC status?",
+      "How do I renew my DL?"
+    ],
+    "keywords": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto"
+    ]
+  },
+  "hi": {
+    "name": "Parivahan (Vahan & Sarathi)",
+    "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+    "eligibility": "पात्रता: Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+    "benefits": "लाभ: Online RC, DL, permits, tax, slots; reduces RTO visits.",
+    "application_steps": [
+      "Visit parivahan.gov.in -> Vahan/Sarathi.",
+      "Apply for RC/DL/LL with details and documents.",
+      "Pay fees and book RTO slot.",
+      "Visit RTO for test/verification.",
+      "Receive RC/DL (digital via DigiLocker)."
+    ],
+    "faqs": [
+      "Can I get my DL on DigiLocker?",
+      "Is a driving test mandatory?",
+      "How do I apply for a driving licence online?",
+      "How do I check my RC status?",
+      "How do I renew my DL?"
+    ],
+    "keywords": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto",
+      "parivahan",
+      "vahan"
+    ]
+  },
+  "mr": {
+    "name": "Parivahan (Vahan & Sarathi)",
+    "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+    "eligibility": "पात्रता: Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+    "benefits": "फायदे: Online RC, DL, permits, tax, slots; reduces RTO visits.",
+    "application_steps": [
+      "Visit parivahan.gov.in -> Vahan/Sarathi.",
+      "Apply for RC/DL/LL with details and documents.",
+      "Pay fees and book RTO slot.",
+      "Visit RTO for test/verification.",
+      "Receive RC/DL (digital via DigiLocker)."
+    ],
+    "faqs": [
+      "Can I get my DL on DigiLocker?",
+      "Is a driving test mandatory?",
+      "How do I apply for a driving licence online?",
+      "How do I check my RC status?",
+      "How do I renew my DL?"
+    ],
+    "keywords": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto",
+      "parivahan",
+      "vahan"
+    ]
+  }
+}

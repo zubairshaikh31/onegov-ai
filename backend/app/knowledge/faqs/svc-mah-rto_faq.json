@@ -1,0 +1,91 @@
+[
+  {
+    "question": "Are Maharashtra RTO services on Parivahan?",
+    "answer": "Yes, DL/RC services use the national Parivahan/Sarathi platform with state integration.",
+    "official": true
+  },
+  {
+    "question": "How do I apply for DL in Maharashtra?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are Maharashtra RTO fees?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I renew my DL in Mumbai/Pune?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Where is my RTO?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://transport.maharashtra.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 (state helpdesk) / email rft-maha@gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "As per Maharashtra MV fee schedule.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Per RTO SLA.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (transport.maharashtra.gov.in / Parivahan) + RTO",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040 (state helpdesk). Email: rft-maha@gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "As per Maharashtra MV fee schedule.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Per RTO SLA.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

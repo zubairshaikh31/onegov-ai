@@ -1,0 +1,28 @@
+{
+  "name": "पासपोर्ट सेवा",
+  "description": "Issuance/renewal of Indian passports (ordinary, Tatkaal, diplomatic/official) by the Ministry of External Affairs through Passport Seva Kendras (PSK) and Post Office PSKs.",
+  "benefits": "Internationally recognised travel document; enables visa-free/visa-on-arrival access; Tatkaal for urgent issue.",
+  "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+  "documents": [
+    "Proof of Date of Birth",
+    "Proof of Address (current)",
+    "Proof of nationality / old passport (if renewing)",
+    "Annexure as applicable"
+  ],
+  "steps": [
+    "Register on passportindia.gov.in and fill the application form.",
+    "Pay fee and book appointment at nearest PSK/PopSK.",
+    "Visit PSK with originals + photocopies for document verification and biometric capture.",
+    "Police verification (for fresh passports) at registered address.",
+    "Passport printed and dispatched; track status online."
+  ],
+  "faqs": [],
+  "keywords": [
+    "passport",
+    "passport seva",
+    "psk",
+    "tatkaal",
+    "travel document",
+    "mea"
+  ]
+}

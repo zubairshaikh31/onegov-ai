@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-PMJAY",
+  "ai_summary": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility.",
+  "ai_explanation": "PM-JAY covers secondary/tertiary hospitalization costs up to Rs. 5 lakh per family per year for poor and vulnerable households identified via SECC. Beneficiaries get an Ayushman card and receive cashless treatment at empanelled hospitals with no out-of-pocket premium.",
+  "common_questions": [
+    "Am I eligible for Ayushman Bharat?",
+    "How do I make an Ayushman card?",
+    "Which hospitals accept PM-JAY?",
+    "What is covered under PM-JAY?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Am I eligible for Ayushman Bharat?",
+      "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+    },
+    {
+      "user": "How do I make an Ayushman card?",
+      "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+    },
+    {
+      "user": "Which hospitals accept PM-JAY?",
+      "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-pmjay",
+    "status_svc-pmjay",
+    "eligibility_svc-pmjay"
+  ],
+  "user_utterances": [
+    "I want Ayushman Bharat PM-JAY",
+    "Need Ayushman Bharat PM-JAY",
+    "Ayushman Bharat PM-JAY help"
+  ],
+  "follow_up_questions": [
+    "How do I link ABHA with my Ayushman card?",
+    "What is not covered under PM-JAY?"
+  ],
+  "recommended_responses": [
+    "Visit https://pmjay.gov.in",
+    "Call helpline 14555 / 1800-11-15555"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://pmjay.gov.in/beneficiary-portal/"
+    },
+    {
+      "action": "call_helpline",
+      "number": "14555 / 1800-11-15555"
+    }
+  ]
+}

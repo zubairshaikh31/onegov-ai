@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0021",
+    "service_id": "SVC-SWAYAM",
+    "name": "SWAYAM (Free Online Courses)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://swayam.gov.in"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "en": {
+    "name": "GeM (Government e-Marketplace)",
+    "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+    "eligibility": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+    "benefits": "Transparent public procurement, direct market access, MSE preference, timely payment.",
+    "application_steps": [
+      "Register as buyer or seller on gem.gov.in.",
+      "Complete organization and bank/KYC.",
+      "List products/services (sellers) or create demand (buyers).",
+      "Transact via bid/RA; order and fulfil."
+    ],
+    "faqs": [
+      "Is GeM only for government buyers?",
+      "How do I sell on GeM?",
+      "Who can buy on GeM?",
+      "What are GeM seller charges?",
+      "How do I register on GeM?"
+    ],
+    "keywords": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender"
+    ]
+  },
+  "hi": {
+    "name": "GeM (Government e-Marketplace)",
+    "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+    "eligibility": "पात्रता: Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+    "benefits": "लाभ: Transparent public procurement, direct market access, MSE preference, timely payment.",
+    "application_steps": [
+      "Register as buyer or seller on gem.gov.in.",
+      "Complete organization and bank/KYC.",
+      "List products/services (sellers) or create demand (buyers).",
+      "Transact via bid/RA; order and fulfil."
+    ],
+    "faqs": [
+      "Is GeM only for government buyers?",
+      "How do I sell on GeM?",
+      "Who can buy on GeM?",
+      "What are GeM seller charges?",
+      "How do I register on GeM?"
+    ],
+    "keywords": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender",
+      "gem",
+      "government e marketplace"
+    ]
+  },
+  "mr": {
+    "name": "GeM (Government e-Marketplace)",
+    "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+    "eligibility": "पात्रता: Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+    "benefits": "फायदे: Transparent public procurement, direct market access, MSE preference, timely payment.",
+    "application_steps": [
+      "Register as buyer or seller on gem.gov.in.",
+      "Complete organization and bank/KYC.",
+      "List products/services (sellers) or create demand (buyers).",
+      "Transact via bid/RA; order and fulfil."
+    ],
+    "faqs": [
+      "Is GeM only for government buyers?",
+      "How do I sell on GeM?",
+      "Who can buy on GeM?",
+      "What are GeM seller charges?",
+      "How do I register on GeM?"
+    ],
+    "keywords": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender",
+      "gem",
+      "government e marketplace"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "en": {
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+    "eligibility": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+    "benefits": "Right to vote in elections; EPIC serves as identity and address proof.",
+    "application_steps": [
+      "Visit nvsp.in or voterportal.eci.gov.in and register/login.",
+      "Fill Form 6 (new enrolment) with details and upload documents.",
+      "Submit and note reference number.",
+      "BLO verifies at residence; name added to draft roll.",
+      "Download e-EPIC once approved."
+    ],
+    "faqs": [
+      "Can NRI citizens enrol?",
+      "Is Aadhaar mandatory for voter enrolment?",
+      "How do I apply for a Voter ID?",
+      "How do I correct my name in the voter list?",
+      "What is Form 6?"
+    ],
+    "keywords": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci"
+    ]
+  },
+  "hi": {
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+    "eligibility": "पात्रता: Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+    "benefits": "लाभ: Right to vote in elections; EPIC serves as identity and address proof.",
+    "application_steps": [
+      "Visit nvsp.in or voterportal.eci.gov.in and register/login.",
+      "Fill Form 6 (new enrolment) with details and upload documents.",
+      "Submit and note reference number.",
+      "BLO verifies at residence; name added to draft roll.",
+      "Download e-EPIC once approved."
+    ],
+    "faqs": [
+      "Can NRI citizens enrol?",
+      "Is Aadhaar mandatory for voter enrolment?",
+      "How do I apply for a Voter ID?",
+      "How do I correct my name in the voter list?",
+      "What is Form 6?"
+    ],
+    "keywords": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci",
+      "voter id",
+      "epic"
+    ]
+  },
+  "mr": {
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+    "eligibility": "पात्रता: Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+    "benefits": "फायदे: Right to vote in elections; EPIC serves as identity and address proof.",
+    "application_steps": [
+      "Visit nvsp.in or voterportal.eci.gov.in and register/login.",
+      "Fill Form 6 (new enrolment) with details and upload documents.",
+      "Submit and note reference number.",
+      "BLO verifies at residence; name added to draft roll.",
+      "Download e-EPIC once approved."
+    ],
+    "faqs": [
+      "Can NRI citizens enrol?",
+      "Is Aadhaar mandatory for voter enrolment?",
+      "How do I apply for a Voter ID?",
+      "How do I correct my name in the voter list?",
+      "What is Form 6?"
+    ],
+    "keywords": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci",
+      "voter id",
+      "epic"
+    ]
+  }
+}

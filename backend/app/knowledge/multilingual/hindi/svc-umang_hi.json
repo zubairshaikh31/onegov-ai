@@ -1,0 +1,23 @@
+{
+  "name": "उमंग ऐप",
+  "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+  "benefits": "One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+  "eligibility": "Any citizen with a smartphone; services may need respective IDs.",
+  "documents": [
+    "Mobile number",
+    "Service-specific IDs (Aadhaar/PAN/UAN)"
+  ],
+  "steps": [
+    "Download UMANG app / visit web.umang.gov.in.",
+    "Register with mobile OTP.",
+    "Browse departments and services.",
+    "Authenticate per service and transact."
+  ],
+  "faqs": [],
+  "keywords": [
+    "umang",
+    "mobile governance",
+    "government app",
+    "services aggregator"
+  ]
+}

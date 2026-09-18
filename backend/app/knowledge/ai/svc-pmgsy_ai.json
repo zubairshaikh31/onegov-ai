@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-PMGSY",
+  "ai_summary": "PMGSY builds all-weather rural roads.",
+  "ai_explanation": "Scheme for all-weather rural road connectivity.",
+  "eligibility_summary": "Rural habitations.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Gram Sadak Yojana",
+      "bot": "PMGSY builds all-weather rural roads. Apply: https://pmgsy.nic.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Gram Sadak Yojana. Use only https://pmgsy.nic.in.",
+  "follow_up_questions": [
+    "What documents for Pradhan Mantri Gram Sadak Yojana?",
+    "How long for Pradhan Mantri Gram Sadak Yojana?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmgsy",
+    "status_svc-pmgsy"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Village/gram panchayat details"
+  ],
+  "suggested_responses": [
+    "Visit https://pmgsy.nic.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

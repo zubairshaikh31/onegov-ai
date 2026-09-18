@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "name": "DigiLocker",
+  "category": "CAT-DIGITAL",
+  "sub_category": "Digital Document Wallet",
+  "department": "DEP-NEGD",
+  "ministry": "MIN-MEITY",
+  "central_state": "Central",
+  "state": null,
+  "description": "Digital locker to store and share verified electronic documents issued by government agencies; reduce physical paperwork.",
+  "benefits": "Instant access to issued documents (marksheets, licences), verified e-documents, paperless verification.",
+  "eligibility": "Indian citizens with Aadhaar (used for sign-up).",
+  "required_documents": [
+    "Aadhaar (for sign-up/authentication)"
+  ],
+  "optional_documents": [
+    "Mobile number"
+  ],
+  "fees": "Free.",
+  "processing_time": "Instant; document fetch depends on issuer.",
+  "validity": "Account active; documents as issued.",
+  "application_mode": "Online (digilocker.gov.in) and mobile app",
+  "official_website": "https://www.digilocker.gov.in",
+  "official_apply_link": "https://digilocker.gov.in/signin",
+  "download_forms": "https://www.digilocker.gov.in",
+  "helpline": "1800-153-374 / support via portal",
+  "email": "support.digilocker@digitalindia.gov.in",
+  "office_locator": "Digital India / CSC support.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.digilocker.gov.in",
+  "collection_method": "official_portal"
+}

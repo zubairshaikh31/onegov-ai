@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What is the age/turnover limit for a startup?",
+    "answer": "Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity.",
+    "official": true
+  },
+  {
+    "question": "Am I eligible for Startup India?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I get DPIIT recognition?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What tax benefits do startups get?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I apply for Startup India?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://www.startupindia.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-115-565 / email support@startupindia.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free for recognition.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Recognition typically within days of submission.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (startupindia.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-115-565. Email: support@startupindia.gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Free for recognition.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Recognition typically within days of submission.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

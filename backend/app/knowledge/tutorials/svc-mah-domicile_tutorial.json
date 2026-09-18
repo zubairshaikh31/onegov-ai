@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-DOMICILE",
+  "guide_md": "tutorials/md/svc-mah-domicile_guide.md",
+  "guide_html": "tutorials/html/svc-mah-domicile_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mah-domicile_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2025-01-01",
+  "official_sources": [
+    "https://aaplesarkar.mahaonline.gov.in"
+  ]
+}

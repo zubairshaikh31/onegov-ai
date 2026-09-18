@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-STARTUP",
+  "name": "Startup India Recognition",
+  "category": "CAT-BUSINESS",
+  "sub_category": "Startup Recognition",
+  "department": "DEP-DPIIT",
+  "ministry": "MIN-DPIIT",
+  "central_state": "Central",
+  "state": null,
+  "description": "DPIIT recognition of startups to avail tax benefits, easier compliance, IPR fast-track, and funding access.",
+  "benefits": "Tax exemption (80-IAC/Section 56), faster patents, self-certification, government tenders, Fund of Funds.",
+  "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation.",
+  "required_documents": [
+    "Incorporation certificate",
+    "PAN",
+    "Description of innovation",
+    "Director/Promoter details"
+  ],
+  "optional_documents": [
+    "Pitch deck",
+    "IPR details"
+  ],
+  "fees": "Free for recognition.",
+  "processing_time": "Recognition typically within days of submission.",
+  "validity": "Recognition valid while entity meets criteria; deregister if not.",
+  "application_mode": "Online (startupindia.gov.in)",
+  "official_website": "https://www.startupindia.gov.in",
+  "official_apply_link": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html",
+  "download_forms": "https://www.startupindia.gov.in",
+  "helpline": "1800-115-565",
+  "email": "support@startupindia.gov.in",
+  "office_locator": "Startup India hubs; state nodal agencies.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.startupindia.gov.in",
+  "collection_method": "official_portal"
+}

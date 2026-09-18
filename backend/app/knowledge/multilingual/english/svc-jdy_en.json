@@ -1,0 +1,29 @@
+{
+  "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+  "description": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance.",
+  "benefits": "Zero-balance account, RuPay card, accident insurance, overdraft, DBT access.",
+  "eligibility": "Any Indian citizen (resident) above 10 years; one account per person.",
+  "documents": [
+    "Aadhaar",
+    "Identity proof",
+    "Address proof"
+  ],
+  "steps": [
+    "Visit bank/Bank Mitra with Aadhaar and proof.",
+    "Open account; get RuPay card.",
+    "Avail DBT and insurance benefits."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "jan dhan",
+    "pmjdy",
+    "zero balance account",
+    "financial inclusion"
+  ]
+}

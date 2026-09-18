@@ -1,0 +1,28 @@
+{
+  "name": "आधार पंजीकरण",
+  "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+  "benefits": "Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+  "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+  "documents": [
+    "Proof of Identity (PoI)",
+    "Proof of Address (PoA)",
+    "Date of Birth proof"
+  ],
+  "steps": [
+    "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+    "Fill enrolment/update form and submit supporting documents.",
+    "Provide biometric (fingerprints, iris) and photograph.",
+    "Collect acknowledgement slip with Enrolment ID (EID).",
+    "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+  ],
+  "faqs": [],
+  "keywords": [
+    "aadhaar",
+    "uidai",
+    "uid",
+    "enrolment",
+    "ekyc",
+    "biometric",
+    "identity"
+  ]
+}

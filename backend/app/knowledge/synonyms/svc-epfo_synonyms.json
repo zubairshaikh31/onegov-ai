@@ -1,0 +1,24 @@
+{
+  "service_id": "SVC-EPFO",
+  "synonyms": [
+    "pf",
+    "epf",
+    "uan",
+    "provident fund",
+    "पीएफ",
+    "ईपीएफओ"
+  ],
+  "aliases": [
+    "pf",
+    "epf",
+    "uan",
+    "provident fund",
+    "पीएफ",
+    "ईपीएफओ"
+  ],
+  "spelling_mistakes": [
+    "epf",
+    "epfo",
+    "pf balance"
+  ]
+}

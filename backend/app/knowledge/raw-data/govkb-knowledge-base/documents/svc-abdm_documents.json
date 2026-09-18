@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aadhaar / Driving Licence / any govt ID for ABHA creation",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Mobile number for OTP",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

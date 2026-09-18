@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0020",
+    "service_id": "SVC-NSP",
+    "name": "National Scholarship Portal (NSP)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://scholarships.gov.in"
+  }
+]

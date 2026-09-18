@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-MSDE",
+  "keywords": [
+    "pmkvy",
+    "skill india",
+    "skill certification",
+    "training"
+  ],
+  "search_keywords": [
+    "pmkvy",
+    "skill india",
+    "skill certification",
+    "training"
+  ],
+  "aliases": [
+    "pmkvy",
+    "skill india",
+    "skill certification",
+    "training"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
+  ]
+}

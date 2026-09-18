@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Sign up on swayam.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Browse and enrol in courses."
+  },
+  {
+    "step": 3,
+    "description": "Attend video lectures, assignments."
+  },
+  {
+    "step": 4,
+    "description": "Take proctored exam (optional, paid) for certificate."
+  }
+]

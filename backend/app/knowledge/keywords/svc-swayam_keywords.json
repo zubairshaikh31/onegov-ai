@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-SWAYAM",
+  "keywords": [
+    "swayam",
+    "online courses",
+    "mooc",
+    "free education",
+    "certificate"
+  ],
+  "search_keywords": [
+    "swayam courses",
+    "swayam login",
+    "free online course india"
+  ],
+  "aliases": [
+    "swayam",
+    "online courses",
+    "mooc",
+    "free education",
+    "certificate"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want SWAYAM (Free Online Courses)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply SWAYAM (Free Online Courses)"
+  ]
+}

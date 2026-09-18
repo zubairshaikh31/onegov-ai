@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-AAI",
+  "ai_summary": "AAI manages airport services.",
+  "ai_explanation": "Airport services and passenger facilities.",
+  "eligibility_summary": "Air travellers.",
+  "conversation_examples": [
+    {
+      "user": "I want Airport Authority / DigiYatra",
+      "bot": "AAI manages airport services. Apply: https://www.aai.aero. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Airport Authority / DigiYatra. Use only https://www.aai.aero.",
+  "follow_up_questions": [
+    "What documents for Airport Authority / DigiYatra?",
+    "How long for Airport Authority / DigiYatra?"
+  ],
+  "intent_examples": [
+    "apply_svc-aai",
+    "status_svc-aai"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "ID proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.aai.aero",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

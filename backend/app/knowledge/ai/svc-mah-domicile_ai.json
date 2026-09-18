@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-MAH-DOMICILE",
+  "ai_summary": "Domicile / Residence Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+  "ai_explanation": "Domicile / Residence Certificate (Maharashtra) is Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar. Eligibility: Persons residing in Maharashtra for the qualifying period as per rules.. Benefits: Required for education admissions, government jobs and domicile-based benefits.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (RTS standard). and fees are Nominal (approx Rs.33-40)..",
+  "eligibility_summary": "Persons residing in Maharashtra for the qualifying period as per rules.",
+  "conversation_examples": [
+    {
+      "user": "I want Domicile / Residence Certificate (Maharashtra)",
+      "bot": "Domicile / Residence Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online. Apply: https://aaplesarkar.mahaonline.gov.in. Helpline: 1800-120-8040."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Domicile / Residence Certificate (Maharashtra). Use only official info from https://aaplesarkar.mahaonline.gov.in.",
+  "follow_up_questions": [
+    "Do I need to visit an office in person for Domicile / Residence Certificate (Maharashtra)?",
+    "Can I track my Domicile / Residence Certificate (Maharashtra) application status online?",
+    "What should I do if my Domicile / Residence Certificate (Maharashtra) application is rejected?",
+    "Are there any state-specific rules for Domicile / Residence Certificate (Maharashtra) in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-domicile",
+    "status_svc-mah-domicile",
+    "eligibility_svc-mah-domicile"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Proof of residence period",
+    "School leaving certificate"
+  ],
+  "suggested_responses": [
+    "Visit https://aaplesarkar.mahaonline.gov.in",
+    "Call 1800-120-8040"
+  ],
+  "recommendation_weight": 1.0
+}

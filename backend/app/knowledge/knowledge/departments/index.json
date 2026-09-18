@@ -1,0 +1,117 @@
+{
+  "DEP-PSP": {
+    "id": "DEP-PSP",
+    "name": "Passport Seva Programme",
+    "ministry_id": "MIN-MEA"
+  },
+  "DEP-ECI": {
+    "id": "DEP-ECI",
+    "name": "Election Commission of India",
+    "ministry_id": "MIN-ECI"
+  },
+  "DEP-DARE": {
+    "id": "DEP-DARE",
+    "name": "Department of Agriculture & Farmers Welfare",
+    "ministry_id": "MIN-AGR"
+  },
+  "DEP-NHA": {
+    "id": "DEP-NHA",
+    "name": "National Health Authority",
+    "ministry_id": "MIN-HEA"
+  },
+  "DEP-MoHFW": {
+    "id": "DEP-MoHFW",
+    "name": "MoHFW / NHM",
+    "ministry_id": "MIN-HEA"
+  },
+  "DEP-LAB": {
+    "id": "DEP-LAB",
+    "name": "Ministry of Labour & Employment",
+    "ministry_id": "MIN-LAB"
+  },
+  "DEP-EPFO": {
+    "id": "DEP-EPFO",
+    "name": "Employees' Provident Fund Organisation",
+    "ministry_id": "MIN-LAB"
+  },
+  "DEP-ESIC": {
+    "id": "DEP-ESIC",
+    "name": "Employees' State Insurance Corporation",
+    "ministry_id": "MIN-LAB"
+  },
+  "DEP-MSME": {
+    "id": "DEP-MSME",
+    "name": "MSME Development",
+    "ministry_id": "MIN-MSME"
+  },
+  "DEP-DPIIT": {
+    "id": "DEP-DPIIT",
+    "name": "Startup India / DPIIT",
+    "ministry_id": "MIN-DPIIT"
+  },
+  "DEP-GEM": {
+    "id": "DEP-GEM",
+    "name": "GeM Special Purpose Vehicle",
+    "ministry_id": "MIN-GOI"
+  },
+  "DEP-CBDT": {
+    "id": "DEP-CBDT",
+    "name": "Income Tax Department",
+    "ministry_id": "MIN-CBDT"
+  },
+  "DEP-GST": {
+    "id": "DEP-GST",
+    "name": "GST Network / CBIC",
+    "ministry_id": "MIN-CBIC"
+  },
+  "DEP-NEGD": {
+    "id": "DEP-NEGD",
+    "name": "NeGD / Digital India",
+    "ministry_id": "MIN-MEITY"
+  },
+  "DEP-MEITY": {
+    "id": "DEP-MEITY",
+    "name": "UIDAI / MeitY (Identity)",
+    "ministry_id": "MIN-MEITY"
+  },
+  "DEP-PMAY": {
+    "id": "DEP-PMAY",
+    "name": "PMAY (Urban) Mission Directorate",
+    "ministry_id": "MIN-HOU"
+  },
+  "DEP-NSP": {
+    "id": "DEP-NSP",
+    "name": "National Scholarship Division",
+    "ministry_id": "MIN-EDU"
+  },
+  "DEP-RTW": {
+    "id": "DEP-RTW",
+    "name": "Transport / RTO",
+    "ministry_id": "MIN-RTW"
+  },
+  "DEP-MAH-ONLINE": {
+    "id": "DEP-MAH-ONLINE",
+    "name": "MahaOnline / Aaple Sarkar",
+    "ministry_id": "MIN-MAH"
+  },
+  "DEP-MAH-REV": {
+    "id": "DEP-MAH-REV",
+    "name": "Revenue Department, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  "DEP-MAH-FOOD": {
+    "id": "DEP-MAH-FOOD",
+    "name": "Food, Civil Supplies & Consumer Protection, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  "DEP-MAH-DBT": {
+    "id": "DEP-MAH-DBT",
+    "name": "MahaDBT / Social Justice, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  "DEP-MAH": {
+    "id": "DEP-MAH",
+    "name": "Maharashtra State Departments (General)",
+    "ministry_id": "MIN-MAH"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "en": {
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+    "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+    "benefits": "Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+    "application_steps": [
+      "Activate UAN on EPFO member portal / UMANG.",
+      "Seed Aadhaar, bank, PAN via KYC.",
+      "Raise claim (Form 19/10C/31) online.",
+      "Track claim status; amount credited to bank."
+    ],
+    "faqs": [
+      "How do I check my PF balance?",
+      "How do I check PF balance?",
+      "How do I transfer PF on job change?",
+      "How do I withdraw PF?",
+      "What is UAN?"
+    ],
+    "keywords": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension"
+    ]
+  },
+  "hi": {
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+    "eligibility": "पात्रता: Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+    "benefits": "लाभ: Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+    "application_steps": [
+      "Activate UAN on EPFO member portal / UMANG.",
+      "Seed Aadhaar, bank, PAN via KYC.",
+      "Raise claim (Form 19/10C/31) online.",
+      "Track claim status; amount credited to bank."
+    ],
+    "faqs": [
+      "How do I check my PF balance?",
+      "How do I check PF balance?",
+      "How do I transfer PF on job change?",
+      "How do I withdraw PF?",
+      "What is UAN?"
+    ],
+    "keywords": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension",
+      "epf",
+      "pf"
+    ]
+  },
+  "mr": {
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+    "eligibility": "पात्रता: Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+    "benefits": "फायदे: Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+    "application_steps": [
+      "Activate UAN on EPFO member portal / UMANG.",
+      "Seed Aadhaar, bank, PAN via KYC.",
+      "Raise claim (Form 19/10C/31) online.",
+      "Track claim status; amount credited to bank."
+    ],
+    "faqs": [
+      "How do I check my PF balance?",
+      "How do I check PF balance?",
+      "How do I transfer PF on job change?",
+      "How do I withdraw PF?",
+      "What is UAN?"
+    ],
+    "keywords": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension",
+      "epf",
+      "pf"
+    ]
+  }
+}

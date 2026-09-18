@@ -1,0 +1,19 @@
+{
+  "name": "एनजीडीआर भारत (जमीन नोंदी)",
+  "description": "National Generic Document Registration System providing unified digital land/property registration across states.",
+  "benefits": "Transparent, faster property registration; digital records; reduced fraud.",
+  "eligibility": "State residents using integrated land registration offices.",
+  "documents": [
+    "Sale deed",
+    "Aadhaar",
+    "Party identity proof",
+    "Encumbrance certificate"
+  ],
+  "steps": [
+    "Visit state NGDRBharat/Registration portal.",
+    "Fill deed details and upload documents.",
+    "Pay stamp duty; book appointment; sign digitally."
+  ],
+  "faqs": [],
+  "keywords": []
+}

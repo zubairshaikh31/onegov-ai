@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0004",
+    "service_id": "SVC-PMKISAN",
+    "name": "PM-KISAN Samman Nidhi",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "official_portal": "https://pmkisan.gov.in"
+  }
+]

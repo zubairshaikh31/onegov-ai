@@ -1,0 +1,52 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "ai_summary": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based.",
+  "ai_explanation": "e-Shram builds a national registry of informal workers using Aadhaar and bank details. Registered workers get a UAN-based e-Shram card and become eligible for various welfare schemes. It is free and complements EPFO/ESIC coverage.",
+  "common_questions": [
+    "Who can register on e-Shram?",
+    "How do I download my e-Shram card?",
+    "Is e-Shram for EPFO members?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Who can register on e-Shram?",
+      "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+    },
+    {
+      "user": "How do I download my e-Shram card?",
+      "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+    },
+    {
+      "user": "Is e-Shram for EPFO members?",
+      "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-eshram",
+    "status_svc-eshram",
+    "eligibility_svc-eshram"
+  ],
+  "user_utterances": [
+    "I want e-Shram (National Database of Unorganised Workers)",
+    "Need e-Shram (National Database of Unorganised Workers)",
+    "e-Shram (National Database of Unorganised Workers) help"
+  ],
+  "follow_up_questions": [
+    "Which schemes use e-Shram data?",
+    "How do I update my e-Shram record?"
+  ],
+  "recommended_responses": [
+    "Visit https://eshram.gov.in",
+    "Call helpline 14434"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://eshram.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "14434"
+    }
+  ]
+}

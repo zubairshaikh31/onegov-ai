@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-NPS",
+  "references": [
+    {
+      "act": "PFRDA Act, 2013",
+      "rule": "NPS Trust regulations",
+      "authority": "PFRDA"
+    }
+  ]
+}

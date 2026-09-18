@@ -1,0 +1,33 @@
+{
+  "total_files": 1627,
+  "extension_counts": {
+    ".json": 1336,
+    ".md": 91,
+    ".csv": 32,
+    ".sql": 6,
+    ".html": 81,
+    ".pdf": 81
+  },
+  "broken_files": {
+    "json": [],
+    "csv": [],
+    "html": [],
+    "md": [],
+    "pdf": []
+  },
+  "key_files": {
+    "manifest.json": "OK",
+    "index.json": "OK",
+    "search/search_index.json": "OK",
+    "video_index.json": "OK",
+    "youtube_channels.json": "OK",
+    "json/services.json": "OK",
+    "json/schemes.json": "OK",
+    "metadata/knowledge_graph.json": "OK",
+    "database/schema.sql": "BROKEN:Expecting value: line 1 column 1 (char 0)"
+  },
+  "services_total": 53,
+  "services_with_gaps": {},
+  "video_url_issues": [],
+  "images_present": 0
+}

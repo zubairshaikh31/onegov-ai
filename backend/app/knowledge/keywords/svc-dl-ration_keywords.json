@@ -1,0 +1,27 @@
+{
+  "service_id": "SVC-DL-RATION",
+  "keywords": [
+    "delhi edistrict",
+    "delhi ration",
+    "delhi certificate"
+  ],
+  "search_keywords": [
+    "delhi edistrict",
+    "delhi ration",
+    "delhi certificate"
+  ],
+  "aliases": [
+    "delhi edistrict",
+    "delhi ration",
+    "delhi certificate"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Delhi Ration Card / e-District",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Delhi Ration Card / e-District"
+  ]
+}

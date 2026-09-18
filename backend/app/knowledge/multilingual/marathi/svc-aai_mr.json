@@ -1,0 +1,17 @@
+{
+  "name": "Airport Authority / DigiYatra",
+  "description": "Airport services and passenger facilities.",
+  "benefits": "Airport info, services.",
+  "eligibility": "Air travellers.",
+  "documents": [
+    "ID proof"
+  ],
+  "steps": [
+    "Use airport services."
+  ],
+  "faqs": [],
+  "keywords": [
+    "aai",
+    "airport"
+  ]
+}

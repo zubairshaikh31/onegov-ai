@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-MAH-SHETKARI",
+  "keywords": [
+    "maharashtra farmer",
+    "mahaagri",
+    "crop insurance",
+    "farm subsidy"
+  ],
+  "search_keywords": [
+    "maharashtra farmer",
+    "mahaagri",
+    "crop insurance",
+    "farm subsidy"
+  ],
+  "aliases": [
+    "maharashtra farmer",
+    "mahaagri",
+    "crop insurance",
+    "farm subsidy"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Maharashtra Farmer Welfare Schemes",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Maharashtra Farmer Welfare Schemes"
+  ]
+}

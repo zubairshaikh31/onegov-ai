@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-INCOME",
+  "guide_md": "tutorials/md/svc-mah-income_guide.md",
+  "guide_html": "tutorials/html/svc-mah-income_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mah-income_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2025-01-01",
+  "official_sources": [
+    "https://aaplesarkar.mahaonline.gov.in"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "निवास प्रमाणपत्र (महाराष्ट्र)",
+  "description": "Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar.",
+  "benefits": "Required for education admissions, government jobs and domicile-based benefits.",
+  "eligibility": "Persons residing in Maharashtra for the qualifying period as per rules.",
+  "documents": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Proof of residence period",
+    "School leaving certificate"
+  ],
+  "steps": [
+    "Login to Aaple Sarkar portal.",
+    "Select Revenue Department > Age Nationality and Domicile Certificate.",
+    "Fill the form and upload documents.",
+    "Pay fees and submit.",
+    "Download the digitally signed certificate."
+  ],
+  "faqs": [],
+  "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "synonyms": [
+    "passport seva",
+    "psk",
+    "tatkal passport",
+    "पासपोर्ट",
+    "पासपोर्ट सेवा",
+    "रेशन पासपोर्ट"
+  ],
+  "aliases": [
+    "passport seva",
+    "psk",
+    "tatkal passport",
+    "पासपोर्ट",
+    "पासपोर्ट सेवा",
+    "रेशन पासपोर्ट"
+  ],
+  "spelling_mistakes": [
+    "pasport",
+    "passprt",
+    "paspot"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "service_id": "SVC-PAN",
+  "ai_summary": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online.",
+  "common_questions": [
+    "How do I apply for PAN Card (Permanent Account Number)?",
+    "What documents are required for PAN Card (Permanent Account Number)?",
+    "What is the fee for PAN Card (Permanent Account Number)?",
+    "Who is eligible for PAN Card (Permanent Account Number)?",
+    "How long does PAN Card (Permanent Account Number) take to process?",
+    "What is the official website for PAN Card (Permanent Account Number)?"
+  ],
+  "user_utterances": [
+    "account",
+    "card",
+    "e-pan",
+    "finance",
+    "financial id",
+    "income tax",
+    "number",
+    "pan",
+    "permanent",
+    "tax"
+  ]
+}

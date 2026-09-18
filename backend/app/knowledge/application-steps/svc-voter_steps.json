@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit nvsp.in or voterportal.eci.gov.in and register/login."
+  },
+  {
+    "step": 2,
+    "description": "Fill Form 6 (new enrolment) with details and upload documents."
+  },
+  {
+    "step": 3,
+    "description": "Submit and note reference number."
+  },
+  {
+    "step": 4,
+    "description": "BLO verifies at residence; name added to draft roll."
+  },
+  {
+    "step": 5,
+    "description": "Download e-EPIC once approved."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-PMKVY4",
+  "prerequisite": [
+    "SVC-NAPS"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-NAPS"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-PMKVY4 -> SVC-NAPS"
+}

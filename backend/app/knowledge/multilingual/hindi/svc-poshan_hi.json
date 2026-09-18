@@ -1,0 +1,18 @@
+{
+  "name": "पोषण अभियान",
+  "description": "National Nutrition Mission to reduce malnutrition.",
+  "benefits": "Nutrition awareness, monitoring.",
+  "eligibility": "Children, pregnant/lactating women.",
+  "documents": [
+    "ID proof"
+  ],
+  "steps": [
+    "Register via Anganwadi/portal.",
+    "Track nutrition."
+  ],
+  "faqs": [],
+  "keywords": [
+    "poshan",
+    "nutrition mission"
+  ]
+}

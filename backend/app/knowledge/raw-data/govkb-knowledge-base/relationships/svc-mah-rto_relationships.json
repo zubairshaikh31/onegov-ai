@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-RTO",
+  "prerequisite": [],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-PARIVAHAN",
+    "SVC-DIGILOCKER"
+  ],
+  "chain_example": "SVC-MAH-RTO -> SVC-PARIVAHAN -> SVC-DIGILOCKER"
+}

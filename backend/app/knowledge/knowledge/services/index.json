@@ -1,0 +1,722 @@
+{
+  "SVC-AADHAAR": {
+    "name": "Aadhaar Enrolment & Update",
+    "category": "CAT-IDENTITY",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-MEITY",
+    "level": "Central",
+    "state": null,
+    "portal": "https://uidai.gov.in"
+  },
+  "SVC-PASSPORT": {
+    "name": "Passport Issuance (Passport Seva)",
+    "category": "CAT-IDENTITY",
+    "ministry": "MIN-MEA",
+    "department": "DEP-PSP",
+    "level": "Central",
+    "state": null,
+    "portal": "https://passportindia.gov.in"
+  },
+  "SVC-VOTER": {
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "category": "CAT-IDENTITY",
+    "ministry": "MIN-ECI",
+    "department": "DEP-ECI",
+    "level": "Central",
+    "state": null,
+    "portal": "https://voterportal.eci.gov.in"
+  },
+  "SVC-PMKISAN": {
+    "name": "PM-KISAN Samman Nidhi",
+    "category": "CAT-AGR",
+    "ministry": "MIN-AGR",
+    "department": "DEP-DARE",
+    "level": "Central",
+    "state": null,
+    "portal": "https://pmkisan.gov.in"
+  },
+  "SVC-ENAM": {
+    "name": "eNAM (National Agriculture Market)",
+    "category": "CAT-AGR",
+    "ministry": "MIN-AGR",
+    "department": "DEP-DARE",
+    "level": "Central",
+    "state": null,
+    "portal": "https://enam.gov.in"
+  },
+  "SVC-PMJAY": {
+    "name": "Ayushman Bharat PM-JAY",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-NHA",
+    "level": "Central",
+    "state": null,
+    "portal": "https://pmjay.gov.in"
+  },
+  "SVC-ABDM": {
+    "name": "Ayushman Bharat Digital Mission (ABHA)",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-MoHFW",
+    "level": "Central",
+    "state": null,
+    "portal": "https://abdm.gov.in"
+  },
+  "SVC-ESHRAM": {
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://eshram.gov.in"
+  },
+  "SVC-EPFO": {
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-EPFO",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.epfindia.gov.in"
+  },
+  "SVC-ESIC": {
+    "name": "ESIC (Employees' State Insurance)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-ESIC",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.esic.gov.in"
+  },
+  "SVC-NCS": {
+    "name": "National Career Service (NCS)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://ncs.gov.in"
+  },
+  "SVC-UDYAM": {
+    "name": "Udyam Registration (MSME)",
+    "category": "CAT-BUSINESS",
+    "ministry": "MIN-MSME",
+    "department": "DEP-MSME",
+    "level": "Central",
+    "state": null,
+    "portal": "https://udyamregistration.gov.in"
+  },
+  "SVC-STARTUP": {
+    "name": "Startup India Recognition",
+    "category": "CAT-BUSINESS",
+    "ministry": "MIN-DPIIT",
+    "department": "DEP-DPIIT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.startupindia.gov.in"
+  },
+  "SVC-GEM": {
+    "name": "GeM (Government e-Marketplace)",
+    "category": "CAT-BUSINESS",
+    "ministry": "MIN-FIN",
+    "department": "DEP-GEM",
+    "level": "Central",
+    "state": null,
+    "portal": "https://gem.gov.in"
+  },
+  "SVC-ITR": {
+    "name": "Income Tax e-Filing & Return (ITR)",
+    "category": "CAT-FINANCE",
+    "ministry": "MIN-CBDT",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.incometax.gov.in"
+  },
+  "SVC-GST": {
+    "name": "GST Registration & Returns",
+    "category": "CAT-FINANCE",
+    "ministry": "MIN-CBIC",
+    "department": "DEP-GST",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.gst.gov.in"
+  },
+  "SVC-DIGILOCKER": {
+    "name": "DigiLocker",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.digilocker.gov.in"
+  },
+  "SVC-UMANG": {
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://umang.gov.in"
+  },
+  "SVC-PMAYU": {
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "category": "CAT-HOUSING",
+    "ministry": "MIN-HOU",
+    "department": "DEP-PMAY",
+    "level": "Central",
+    "state": null,
+    "portal": "https://pmaymis.gov.in"
+  },
+  "SVC-NSP": {
+    "name": "National Scholarship Portal (NSP)",
+    "category": "CAT-EDUCATION",
+    "ministry": "MIN-EDU",
+    "department": "DEP-NSP",
+    "level": "Central",
+    "state": null,
+    "portal": "https://scholarships.gov.in"
+  },
+  "SVC-SWAYAM": {
+    "name": "SWAYAM (Free Online Courses)",
+    "category": "CAT-EDUCATION",
+    "ministry": "MIN-EDU",
+    "department": "DEP-NSP",
+    "level": "Central",
+    "state": null,
+    "portal": "https://swayam.gov.in"
+  },
+  "SVC-ABC": {
+    "name": "Academic Bank of Credits (ABC)",
+    "category": "CAT-EDUCATION",
+    "ministry": "MIN-EDU",
+    "department": "DEP-NSP",
+    "level": "Central",
+    "state": null,
+    "portal": "https://abc.gov.in"
+  },
+  "SVC-PARIVAHAN": {
+    "name": "Parivahan (Vahan & Sarathi)",
+    "category": "CAT-TRANSPORT",
+    "ministry": "MIN-RTW",
+    "department": "DEP-RTW",
+    "level": "Central",
+    "state": null,
+    "portal": "https://parivahan.gov.in"
+  },
+  "SVC-MAH-AAPLE": {
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-ONLINE",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  "SVC-MAH-REV": {
+    "name": "Mahabhulekh (7/12 & 8A Land Records)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-REV",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mahabhulekh.maharashtra.gov.in"
+  },
+  "SVC-MAH-FOOD": {
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-FOOD",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mahafood.gov.in"
+  },
+  "SVC-MAH-DBT": {
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-DBT",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mahadbt.maharashtra.gov.in"
+  },
+  "SVC-MAH-RTO": {
+    "name": "Maharashtra Transport (RTO) Services",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-RTW",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://transport.maharashtra.gov.in"
+  },
+  "SVC-DL": {
+    "name": "Driving Licence (Sarathi / Parivahan)",
+    "category": "CAT-TRANSPORT",
+    "ministry": "MIN-RTW2",
+    "department": "DEP-RTW",
+    "level": "central",
+    "state": null,
+    "portal": "https://parivahan.gov.in"
+  },
+  "SVC-PAN": {
+    "name": "PAN Card (Permanent Account Number)",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "central",
+    "state": null,
+    "portal": "https://www.incometax.gov.in"
+  },
+  "SVC-MAH-INCOME": {
+    "name": "Income Certificate (Maharashtra)",
+    "category": "CAT-CERT",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-REV",
+    "level": "state",
+    "state": null,
+    "portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  "SVC-MAH-DOMICILE": {
+    "name": "Domicile / Residence Certificate (Maharashtra)",
+    "category": "CAT-CERT",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-REV",
+    "level": "state",
+    "state": null,
+    "portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  "SVC-MAH-LADKI": {
+    "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "state",
+    "state": null,
+    "portal": "https://ladakibahin.maharashtra.gov.in"
+  },
+  "SVC-PMUY": {
+    "name": "Pradhan Mantri Ujjwala Yojana (LPG)",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.pmuy.gov.in"
+  },
+  "SVC-NGDR": {
+    "name": "NGDRBharat (Digitized Land Records)",
+    "category": "CAT-CERT",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-REV",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.ngdrbharat.gov.in"
+  },
+  "SVC-INDIAPOST": {
+    "name": "India Post Services",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.indiapost.gov.in"
+  },
+  "SVC-APPREN": {
+    "name": "National Apprenticeship (Apprenticeship India)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://apprenticeshipindia.gov.in"
+  },
+  "SVC-MSDE": {
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.msde.gov.in"
+  },
+  "SVC-NIELIT": {
+    "name": "NIELIT Certification & Services",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.nielit.gov.in"
+  },
+  "SVC-AYUSHMAN": {
+    "name": "Ayushman Bharat Health & Wellness Centres",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-MoHFW",
+    "level": "Central",
+    "state": null,
+    "portal": "https://abdm.gov.in"
+  },
+  "SVC-RAKSHABANDHAN": {
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.mygov.in"
+  },
+  "SVC-JDY": {
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.pmjdy.gov.in"
+  },
+  "SVC-SUKANYA": {
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.indiapost.gov.in"
+  },
+  "SVC-MAH-ANNA": {
+    "name": "Maha Anna (Maharashtra Ration / NFSA)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH-FOOD",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mahafood.gov.in"
+  },
+  "SVC-MAH-CMRELIEF": {
+    "name": "Maharashtra Chief Minister Relief Fund",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://www.maharashtra.gov.in"
+  },
+  "SVC-MAH-SHETKARI": {
+    "name": "Maharashtra Farmer Welfare Schemes",
+    "category": "CAT-AGR",
+    "ministry": "MIN-AGR",
+    "department": "DEP-DARE",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mahaagri.gov.in"
+  },
+  "SVC-DL-RATION": {
+    "name": "Delhi Ration Card / e-District",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "DL",
+    "portal": "https://edistrict.delhigovt.nic.in"
+  },
+  "SVC-UP-RATION": {
+    "name": "Uttar Pradesh e-District / Ration",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "UP",
+    "portal": "https://edistrict.up.gov.in"
+  },
+  "SVC-GJ-DIGITAL": {
+    "name": "Digital Gujarat Portal",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "GJ",
+    "portal": "https://digitalgujarat.gov.in"
+  },
+  "SVC-KA-EDISTRICT": {
+    "name": "Karnataka Seva Sindhu / e-District",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "KA",
+    "portal": "https://sevasindhu.karnataka.gov.in"
+  },
+  "SVC-TN-ESEVAI": {
+    "name": "Tamil Nadu e-Sevai / e-District",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "TN",
+    "portal": "https://eservices.tn.gov.in"
+  },
+  "SVC-WB-DUARE": {
+    "name": "West Bengal Duare Sarkar / e-District",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "WB",
+    "portal": "https://edistrict.wb.gov.in"
+  },
+  "SVC-RAJ-ECM": {
+    "name": "Rajasthan e-Mitra / SSO",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "RJ",
+    "portal": "https://sso.rajasthan.gov.in"
+  },
+  "SVC-CSC": {
+    "name": "Common Service Centres (CSC)",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.csc.gov.in"
+  },
+  "SVC-BHIM": {
+    "name": "BHIM / UPI (NPCI)",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.bhimupi.org.in"
+  },
+  "SVC-DIGIYATRA": {
+    "name": "DigiYatra (Airport Biometric)",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://digiyatra.gov.in"
+  },
+  "SVC-MAA": {
+    "name": "Maa Bharti / e-Governance (Rajasthan)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "RJ",
+    "portal": "https://rajasthan.gov.in"
+  },
+  "SVC-AP-ESEVA": {
+    "name": "Andhra Pradesh e-Seva / MeeSeva",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "AP",
+    "portal": "https://ap.meeseva.gov.in"
+  },
+  "SVC-TELANGANA-TS": {
+    "name": "Telangana TS-ePASS / MeeSeva",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "TG",
+    "portal": "https://ts.meeseva.telangana.gov.in"
+  },
+  "SVC-KERALA-EK": {
+    "name": "Kerala e-District / KSWD",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "KL",
+    "portal": "https://edistrict.kerala.gov.in"
+  },
+  "SVC-COWIN": {
+    "name": "CoWIN (Vaccination)",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-MoHFW",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.cowin.gov.in"
+  },
+  "SVC-AYUSH": {
+    "name": "AYUSH Centres / Ministries",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-MoHFW",
+    "level": "Central",
+    "state": null,
+    "portal": "https://ayush.gov.in"
+  },
+  "SVC-ICDS": {
+    "name": "Anganwadi / ICDS Services",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://wcd.nic.in"
+  },
+  "SVC-POSHAN": {
+    "name": "POSHAN Abhiyaan",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://poshanabhiyaan.gov.in"
+  },
+  "SVC-SBM": {
+    "name": "Swachh Bharat Mission",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://swachhbharat.mygov.in"
+  },
+  "SVC-AMRUT": {
+    "name": "AMRUT (Urban Water/Sewerage)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://amrut.mohua.gov.in"
+  },
+  "SVC-PMGSY": {
+    "name": "Pradhan Mantri Gram Sadak Yojana",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://pmgsy.nic.in"
+  },
+  "SVC-MGNREGA": {
+    "name": "MGNREGA (Rural Employment)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://nrega.nic.in"
+  },
+  "SVC-DAYNULM": {
+    "name": "DAY-NULM (Urban Livelihood)",
+    "category": "CAT-WELFARE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "Central",
+    "state": null,
+    "portal": "https://nulm.gov.in"
+  },
+  "SVC-PMKVY4": {
+    "name": "PMKVY 4.0 (Skill India)",
+    "category": "CAT-LABOUR",
+    "ministry": "MIN-LAB",
+    "department": "DEP-LAB",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.pmkvyofficial.org"
+  },
+  "SVC-DISHA": {
+    "name": "DISHA / CSC 2.0",
+    "category": "CAT-DIGITAL",
+    "ministry": "MIN-MEITY",
+    "department": "DEP-NEGD",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.csc.gov.in"
+  },
+  "SVC-MAH-JAL": {
+    "name": "Jal Jeevan Mission (Maharashtra)",
+    "category": "CAT-STATE",
+    "ministry": "MIN-MAH",
+    "department": "DEP-MAH",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://mjp.maharashtra.gov.in"
+  },
+  "SVC-MAH-AAROGYA": {
+    "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+    "category": "CAT-HEALTH",
+    "ministry": "MIN-HEA",
+    "department": "DEP-MoHFW",
+    "level": "State",
+    "state": "MH",
+    "portal": "https://www.jeevandayee.gov.in"
+  },
+  "SVC-PMSBY": {
+    "name": "Pradhan Mantri Suraksha Bima Yojana",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.jansuraksha.gov.in"
+  },
+  "SVC-PMSVM": {
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.jansuraksha.gov.in"
+  },
+  "SVC-ATAL": {
+    "name": "Atal Pension Yojana",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.npscra.nsdl.co.in"
+  },
+  "SVC-NPS": {
+    "name": "National Pension System",
+    "category": "CAT-FINANCE2",
+    "ministry": "MIN-FIN",
+    "department": "DEP-CBDT",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.npscra.nsdl.co.in"
+  },
+  "SVC-RAIL": {
+    "name": "Indian Railways / IRCTC Services",
+    "category": "CAT-TRANSPORT",
+    "ministry": "MIN-RTW2",
+    "department": "DEP-RTW2",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.irctc.co.in"
+  },
+  "SVC-AAI": {
+    "name": "Airport Authority / DigiYatra",
+    "category": "CAT-TRANSPORT",
+    "ministry": "MIN-RTW2",
+    "department": "DEP-RTW2",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.aai.aero"
+  },
+  "SVC-PASSPORT-SEVA": {
+    "name": "Passport Seva (Re-enrich)",
+    "category": "CAT-IDENTITY",
+    "ministry": "MIN-MEA",
+    "department": "DEP-MEA",
+    "level": "Central",
+    "state": null,
+    "portal": "https://www.passportindia.gov.in"
+  }
+}

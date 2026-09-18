@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-REV",
+  "ai_summary": "Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status.",
+  "ai_explanation": "Mahabhulekh is Maharashtra's revenue land record system. Citizens search by district, village, and survey number to view/download the 7/12 (Satbara) extract showing ownership, crop, and tenure, and the 8A for khata details. Certified copies come from the taluka office.",
+  "common_questions": [
+    "How do I get 7/12 online in Maharashtra?",
+    "What is Satbara?",
+    "How do I check land mutation status?",
+    "Where do I get a certified 7/12?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I get 7/12 online in Maharashtra?",
+      "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+    },
+    {
+      "user": "What is Satbara?",
+      "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+    },
+    {
+      "user": "How do I check land mutation status?",
+      "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-mah-rev",
+    "status_svc-mah-rev",
+    "eligibility_svc-mah-rev"
+  ],
+  "user_utterances": [
+    "I want Mahabhulekh (7/12 & 8A Land Records)",
+    "Need Mahabhulekh (7/12 & 8A Land Records)",
+    "Mahabhulekh (7/12 & 8A Land Records) help"
+  ],
+  "follow_up_questions": [
+    "How do I apply for mutation in Maharashtra?",
+    "How do I get a certified 7/12 copy?"
+  ],
+  "recommended_responses": [
+    "Visit https://mahabhulekh.maharashtra.gov.in",
+    "Call helpline 022-25250900 (Bhulekh support)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://mahabhulekh.maharashtra.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "022-25250900 (Bhulekh support)"
+    }
+  ]
+}

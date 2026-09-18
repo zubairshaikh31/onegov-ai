@@ -1,0 +1,29 @@
+{
+  "service_id": "SVC-RAKSHABANDHAN",
+  "ai_summary": "PMSBY offers Rs. 2 lakh accident insurance cover at just Rs. 20/year for adults with a bank account.",
+  "ai_explanation": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year.",
+  "eligibility_summary": "Indian citizens aged 18-70 with a linked bank account.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "bot": "PMSBY offers Rs. 2 lakh accident insurance cover at just Rs. 20/year for adults with a bank account. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Suraksha Bima Yojana (PMSBY). Use only official info from https://www.mygov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-rakshabandhan",
+    "status_svc-rakshabandhan",
+    "eligibility_svc-rakshabandhan"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank account"
+  ],
+  "suggested_responses": [
+    "Visit https://www.mygov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-AP-ESEVA",
+  "ai_summary": "AP MeeSeva delivers citizen certificates online.",
+  "ai_explanation": "AP MeeSeva portal for certificates and citizen services.",
+  "eligibility_summary": "Andhra Pradesh residents.",
+  "conversation_examples": [
+    {
+      "user": "I want Andhra Pradesh e-Seva / MeeSeva",
+      "bot": "AP MeeSeva delivers citizen certificates online. Apply: https://ap.meeseva.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Andhra Pradesh e-Seva / MeeSeva. Use only https://ap.meeseva.gov.in.",
+  "follow_up_questions": [
+    "What documents for Andhra Pradesh e-Seva / MeeSeva?",
+    "How long for Andhra Pradesh e-Seva / MeeSeva?"
+  ],
+  "intent_examples": [
+    "apply_svc-ap-eseva",
+    "status_svc-ap-eseva"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://ap.meeseva.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

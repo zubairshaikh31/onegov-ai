@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-ESIC",
+  "references": [
+    {
+      "act": "Employees' State Insurance Act, 1948",
+      "rule": "ESI Regulations, 1950",
+      "authority": "Ministry of Labour"
+    }
+  ]
+}

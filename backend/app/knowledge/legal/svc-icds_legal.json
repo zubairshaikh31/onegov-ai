@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-ICDS",
+  "references": [
+    {
+      "act": "National Food Security Act, 2013 (for nutrition)",
+      "rule": "ICDS guidelines",
+      "authority": "MWCD"
+    }
+  ]
+}

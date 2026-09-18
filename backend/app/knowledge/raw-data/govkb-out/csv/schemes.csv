@@ -1,0 +1,29 @@
+id,service_id,name,category_id,government_level,official_portal
+SCH-0001,SVC-AADHAAR,Aadhaar Enrolment & Update,CAT-IDENTITY,Central,https://uidai.gov.in
+SCH-0002,SVC-PASSPORT,Passport Issuance (Passport Seva),CAT-IDENTITY,Central,https://passportindia.gov.in
+SCH-0003,SVC-VOTER,Voter ID / Electoral Roll Enrolment (Form 6),CAT-IDENTITY,Central,https://voterportal.eci.gov.in
+SCH-0004,SVC-PMKISAN,PM-KISAN Samman Nidhi,CAT-AGR,Central,https://pmkisan.gov.in
+SCH-0005,SVC-ENAM,eNAM (National Agriculture Market),CAT-AGR,Central,https://enam.gov.in
+SCH-0006,SVC-PMJAY,Ayushman Bharat PM-JAY,CAT-HEALTH,Central,https://pmjay.gov.in
+SCH-0007,SVC-ABDM,Ayushman Bharat Digital Mission (ABHA),CAT-HEALTH,Central,https://abdm.gov.in
+SCH-0008,SVC-ESHRAM,e-Shram (National Database of Unorganised Workers),CAT-LABOUR,Central,https://eshram.gov.in
+SCH-0009,SVC-EPFO,EPF / UAN Services (Employees' Provident Fund),CAT-LABOUR,Central,https://www.epfindia.gov.in
+SCH-0010,SVC-ESIC,ESIC (Employees' State Insurance),CAT-LABOUR,Central,https://www.esic.gov.in
+SCH-0011,SVC-NCS,National Career Service (NCS),CAT-LABOUR,Central,https://ncs.gov.in
+SCH-0012,SVC-UDYAM,Udyam Registration (MSME),CAT-BUSINESS,Central,https://udyamregistration.gov.in
+SCH-0013,SVC-STARTUP,Startup India Recognition,CAT-BUSINESS,Central,https://www.startupindia.gov.in
+SCH-0014,SVC-GEM,GeM (Government e-Marketplace),CAT-BUSINESS,Central,https://gem.gov.in
+SCH-0015,SVC-ITR,Income Tax e-Filing & Return (ITR),CAT-FINANCE,Central,https://www.incometax.gov.in
+SCH-0016,SVC-GST,GST Registration & Returns,CAT-FINANCE,Central,https://www.gst.gov.in
+SCH-0017,SVC-DIGILOCKER,DigiLocker,CAT-DIGITAL,Central,https://www.digilocker.gov.in
+SCH-0018,SVC-UMANG,UMANG (Unified Mobile App for New-age Governance),CAT-DIGITAL,Central,https://umang.gov.in
+SCH-0019,SVC-PMAYU,Pradhan Mantri Awas Yojana (Urban),CAT-HOUSING,Central,https://pmaymis.gov.in
+SCH-0020,SVC-NSP,National Scholarship Portal (NSP),CAT-EDUCATION,Central,https://scholarships.gov.in
+SCH-0021,SVC-SWAYAM,SWAYAM (Free Online Courses),CAT-EDUCATION,Central,https://swayam.gov.in
+SCH-0022,SVC-ABC,Academic Bank of Credits (ABC),CAT-EDUCATION,Central,https://abc.gov.in
+SCH-0023,SVC-PARIVAHAN,Parivahan (Vahan & Sarathi),CAT-TRANSPORT,Central,https://parivahan.gov.in
+SCH-0024,SVC-MAH-AAPLE,Aaple Sarkar / MahaOnline Citizen Services,CAT-STATE,State,https://aaplesarkar.mahaonline.gov.in
+SCH-0025,SVC-MAH-REV,Mahabhulekh (7/12 & 8A Land Records),CAT-STATE,State,https://mahabhulekh.maharashtra.gov.in
+SCH-0026,SVC-MAH-FOOD,Maharashtra Ration Card / Food Supply (MahaFood),CAT-STATE,State,https://mahafood.gov.in
+SCH-0027,SVC-MAH-DBT,MahaDBT (Maharashtra Scholarship & DBT),CAT-STATE,State,https://mahadbt.maharashtra.gov.in
+SCH-0028,SVC-MAH-RTO,Maharashtra Transport (RTO) Services,CAT-STATE,State,https://transport.maharashtra.gov.in

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0022",
+    "service_id": "SVC-ABC",
+    "name": "Academic Bank of Credits (ABC)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://abc.gov.in"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "service_id": "SVC-NPS",
+  "name": "National Pension System",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Pension",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Voluntary pension system for all citizens.",
+  "eligibility": "Citizens 18-70.",
+  "benefits": "Market-linked retirement corpus.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Open NPS account.",
+    "Contribute.",
+    "Withdraw at 60."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.npscra.nsdl.co.in",
+  "official_apply_link": "https://www.npscra.nsdl.co.in",
+  "download_forms": "https://www.npscra.nsdl.co.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.npscra.nsdl.co.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "NPS is a voluntary pension system.",
+  "ai_explanation": "Voluntary pension system for all citizens.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "nps",
+    "national pension"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

@@ -1,0 +1,131 @@
+{
+  "service_id": "SVC-PAN",
+  "name": "PAN Card (Permanent Account Number)",
+  "category_id": "Finance",
+  "sub_category": "Tax Identity",
+  "department_id": "Income Tax Department",
+  "ministry_id": "Ministry of Finance",
+  "government_level": "central",
+  "state_id": null,
+  "description": "PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions.",
+  "eligibility": "Individuals, companies, HUFs, and entities carrying out financial transactions in India.",
+  "benefits": "Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.",
+  "required_documents": [
+    "Aadhaar (for instant e-PAN)",
+    "Proof of Identity",
+    "Proof of DOB"
+  ],
+  "optional_documents": [
+    "Proof of Address (for corrections)"
+  ],
+  "application_mode": "online",
+  "application_steps": [
+    "Visit the Income Tax e-filing portal.",
+    "Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL.",
+    "Enter Aadhaar number and validate OTP.",
+    "Confirm details and submit.",
+    "Download e-PAN in PDF format."
+  ],
+  "processing_time": "e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days.",
+  "fees": "Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST.",
+  "validity": "Lifetime.",
+  "official_portal": "https://www.incometax.gov.in",
+  "official_apply_link": "https://www.incometax.gov.in/iec/foportal/help/how-to-apply-for-instant-pan",
+  "download_forms": "",
+  "helpline_number": "1800-103-0025",
+  "email": "",
+  "office_locator_info": "NSDL/UTIITSL PAN centres via portal.",
+  "languages_available": [
+    "en",
+    "hi"
+  ],
+  "last_updated": "2025-01-01",
+  "source_url": "https://www.incometax.gov.in/iec/foportal/",
+  "collection_method": "html",
+  "collected_at": "2026-07-25T17:25:31.345552+00:00",
+  "kb_version": "3.0.0",
+  "ai_summary": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online.",
+  "ai_explanation": "PAN Card (Permanent Account Number) is PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions. Eligibility: Individuals, companies, HUFs, and entities carrying out financial transactions in India.. Benefits: Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.. You can apply online via https://www.incometax.gov.in. Processing time is typically e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days. and fees are Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST..",
+  "common_questions": [
+    "How do I apply for PAN Card (Permanent Account Number)?",
+    "What documents are required for PAN Card (Permanent Account Number)?",
+    "What is the fee for PAN Card (Permanent Account Number)?",
+    "Who is eligible for PAN Card (Permanent Account Number)?",
+    "How long does PAN Card (Permanent Account Number) take to process?",
+    "What is the official website for PAN Card (Permanent Account Number)?"
+  ],
+  "common_mistakes": [
+    "Uploading documents that do not match the name/details on record.",
+    "Using an expired or unlinked mobile number for OTP verification.",
+    "Submitting low-resolution or oversized document scans.",
+    "Selecting the wrong state/district or service category.",
+    "Not saving the application/reference number after submission."
+  ],
+  "search_keywords": [
+    "account",
+    "card",
+    "e-pan",
+    "finance",
+    "financial id",
+    "income tax",
+    "number",
+    "pan",
+    "permanent",
+    "tax"
+  ],
+  "suggested_followups": [
+    "Do I need to visit an office in person for PAN Card (Permanent Account Number)?",
+    "Can I track my PAN Card (Permanent Account Number) application status online?",
+    "What should I do if my PAN Card (Permanent Account Number) application is rejected?",
+    "Are there any state-specific rules for PAN Card (Permanent Account Number) in Maharashtra?"
+  ],
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for PAN Card (Permanent Account Number)?",
+      "What documents are required for PAN Card (Permanent Account Number)?",
+      "What is the fee for PAN Card (Permanent Account Number)?",
+      "Who is eligible for PAN Card (Permanent Account Number)?",
+      "How long does PAN Card (Permanent Account Number) take to process?",
+      "What is the official website for PAN Card (Permanent Account Number)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for PAN Card (Permanent Account Number)?",
+      "Can I track my PAN Card (Permanent Account Number) application status online?",
+      "What should I do if my PAN Card (Permanent Account Number) application is rejected?",
+      "Are there any state-specific rules for PAN Card (Permanent Account Number) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "account",
+      "card",
+      "e-pan",
+      "finance",
+      "financial id",
+      "income tax",
+      "number",
+      "pan",
+      "permanent",
+      "tax"
+    ],
+    "content_hash": "02d85b10c296607f79040be04f7d495a680e05cc86f9066b5b40659bc04b386e",
+    "source_type": "html",
+    "version": 1,
+    "documents_required": [
+      "Aadhaar (for instant e-PAN)",
+      "Proof of Identity",
+      "Proof of DOB"
+    ],
+    "documents_optional": [
+      "Proof of Address (for corrections)"
+    ],
+    "category": "Finance",
+    "gov_level": "central",
+    "office_locator": "NSDL/UTIITSL PAN centres via portal."
+  }
+}

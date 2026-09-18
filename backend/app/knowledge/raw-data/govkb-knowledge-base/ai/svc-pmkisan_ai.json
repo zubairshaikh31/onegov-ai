@@ -1,0 +1,56 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "ai_summary": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked.",
+  "ai_explanation": "The scheme transfers Rs. 2,000 every four months to farmer families owning cultivable land, subject to exclusion criteria. Registration needs Aadhaar, a DBT bank account, and land records. Periodic e-KYC is mandatory to keep receiving benefits.",
+  "common_questions": [
+    "How do I register for PM-KISAN?",
+    "Why is my PM-KISAN payment pending?",
+    "How do I do PM-KISAN e-KYC?",
+    "Am I eligible for PM-KISAN?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Check my PM Kisan status",
+      "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+    },
+    {
+      "user": "Register for farmer income support",
+      "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+    },
+    {
+      "user": "PM Kisan payment pending",
+      "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-pmkisan",
+    "status_svc-pmkisan",
+    "eligibility_svc-pmkisan"
+  ],
+  "user_utterances": [
+    "Check my PM Kisan status",
+    "Register for farmer income support",
+    "PM Kisan payment pending",
+    "I want PM-KISAN Samman Nidhi",
+    "Need PM-KISAN Samman Nidhi",
+    "PM-KISAN Samman Nidhi help"
+  ],
+  "follow_up_questions": [
+    "How do I link Aadhaar to my bank for PM-KISAN?",
+    "What are the PM-KISAN exclusion criteria?"
+  ],
+  "recommended_responses": [
+    "Visit https://pmkisan.gov.in",
+    "Call helpline 155261 / 1800115526"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://pmkisan.gov.in/BeneficiaryStatus.aspx"
+    },
+    {
+      "action": "call_helpline",
+      "number": "155261 / 1800115526"
+    }
+  ]
+}

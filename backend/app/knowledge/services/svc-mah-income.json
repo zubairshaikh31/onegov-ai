@@ -1,0 +1,132 @@
+{
+  "service_id": "SVC-MAH-INCOME",
+  "name": "Income Certificate (Maharashtra)",
+  "category_id": "Certificates",
+  "sub_category": "Revenue",
+  "department_id": "Revenue Department",
+  "ministry_id": "Government of Maharashtra",
+  "government_level": "state",
+  "state_id": null,
+  "description": "Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes.",
+  "eligibility": "Residents of Maharashtra requiring proof of family income.",
+  "benefits": "Required for scholarships, fee concessions, reservations and welfare schemes.",
+  "required_documents": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Income proof (salary slip/self-declaration)",
+    "Ration card"
+  ],
+  "optional_documents": [
+    "Talathi report",
+    "Affidavit"
+  ],
+  "application_mode": "online",
+  "application_steps": [
+    "Register/login on Aaple Sarkar (RTS) portal.",
+    "Select Revenue Department > Income Certificate.",
+    "Fill applicant details and upload documents.",
+    "Pay the fee online.",
+    "Track application; download the digitally signed certificate."
+  ],
+  "processing_time": "15 working days (as per RTS Act service standard).",
+  "fees": "Nominal (approx Rs.33-40 via Aaple Sarkar).",
+  "validity": "Typically 1 year (financial year based).",
+  "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+  "official_apply_link": "https://aaplesarkar.mahaonline.gov.in",
+  "download_forms": "",
+  "helpline_number": "1800-120-8040",
+  "email": "aaplesarkar.support@mahaonline.gov.in",
+  "office_locator_info": "Setu / CSC / Tahsildar office.",
+  "languages_available": [
+    "en",
+    "mr"
+  ],
+  "last_updated": "2025-01-01",
+  "source_url": "https://aaplesarkar.mahaonline.gov.in",
+  "collection_method": "html",
+  "collected_at": "2026-07-25T17:25:31.345552+00:00",
+  "kb_version": "3.0.0",
+  "ai_summary": "Income Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+  "ai_explanation": "Income Certificate (Maharashtra) is Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes. Eligibility: Residents of Maharashtra requiring proof of family income.. Benefits: Required for scholarships, fee concessions, reservations and welfare schemes.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (as per RTS Act service standard). and fees are Nominal (approx Rs.33-40 via Aaple Sarkar)..",
+  "common_questions": [
+    "How do I apply for Income Certificate (Maharashtra)?",
+    "What documents are required for Income Certificate (Maharashtra)?",
+    "What is the fee for Income Certificate (Maharashtra)?",
+    "Who is eligible for Income Certificate (Maharashtra)?",
+    "How long does Income Certificate (Maharashtra) take to process?",
+    "What is the official website for Income Certificate (Maharashtra)?"
+  ],
+  "common_mistakes": [
+    "Uploading documents that do not match the name/details on record.",
+    "Using an expired or unlinked mobile number for OTP verification.",
+    "Submitting low-resolution or oversized document scans.",
+    "Selecting the wrong state/district or service category.",
+    "Not saving the application/reference number after submission."
+  ],
+  "search_keywords": [
+    "aaple sarkar",
+    "certificate",
+    "certificates",
+    "income",
+    "income certificate",
+    "maharashtra",
+    "revenue",
+    "utpanna dakhla"
+  ],
+  "suggested_followups": [
+    "Do I need to visit an office in person for Income Certificate (Maharashtra)?",
+    "Can I track my Income Certificate (Maharashtra) application status online?",
+    "What should I do if my Income Certificate (Maharashtra) application is rejected?",
+    "Are there any state-specific rules for Income Certificate (Maharashtra) in Maharashtra?"
+  ],
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Income Certificate (Maharashtra)?",
+      "What documents are required for Income Certificate (Maharashtra)?",
+      "What is the fee for Income Certificate (Maharashtra)?",
+      "Who is eligible for Income Certificate (Maharashtra)?",
+      "How long does Income Certificate (Maharashtra) take to process?",
+      "What is the official website for Income Certificate (Maharashtra)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Income Certificate (Maharashtra)?",
+      "Can I track my Income Certificate (Maharashtra) application status online?",
+      "What should I do if my Income Certificate (Maharashtra) application is rejected?",
+      "Are there any state-specific rules for Income Certificate (Maharashtra) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "income",
+      "income certificate",
+      "maharashtra",
+      "revenue",
+      "utpanna dakhla"
+    ],
+    "content_hash": "3d4e8731fba845c44db3f4646ea51a2cf5962dc5062b1b63e83947faf3b708d8",
+    "source_type": "html",
+    "version": 1,
+    "documents_required": [
+      "Aadhaar / ID proof",
+      "Address proof",
+      "Income proof (salary slip/self-declaration)",
+      "Ration card"
+    ],
+    "documents_optional": [
+      "Talathi report",
+      "Affidavit"
+    ],
+    "category": "Certificates",
+    "gov_level": "state",
+    "state": "Maharashtra",
+    "office_locator": "Setu / CSC / Tahsildar office."
+  }
+}

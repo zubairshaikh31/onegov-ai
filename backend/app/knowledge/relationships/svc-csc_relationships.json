@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-CSC",
+  "prerequisite": [
+    "SVC-DIGILOCKER"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-DIGILOCKER"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-CSC -> SVC-DIGILOCKER"
+}

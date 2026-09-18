@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-ATAL",
+  "ai_summary": "Atal Pension Yojana gives guaranteed pension to unorganised workers.",
+  "ai_explanation": "Guaranteed minimum pension of Rs.1000-5000 for unorganised workers.",
+  "eligibility_summary": "Adults 18-40 in unorganised sector.",
+  "conversation_examples": [
+    {
+      "user": "I want Atal Pension Yojana",
+      "bot": "Atal Pension Yojana gives guaranteed pension to unorganised workers. Apply: https://www.npscra.nsdl.co.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Atal Pension Yojana. Use only https://www.npscra.nsdl.co.in.",
+  "follow_up_questions": [
+    "What documents for Atal Pension Yojana?",
+    "How long for Atal Pension Yojana?"
+  ],
+  "intent_examples": [
+    "apply_svc-atal",
+    "status_svc-atal"
+  ],
+  "recommended_services": [
+    "SVC-JDY"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "suggested_responses": [
+    "Visit https://www.npscra.nsdl.co.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

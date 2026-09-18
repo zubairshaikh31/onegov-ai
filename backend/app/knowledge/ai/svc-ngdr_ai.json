@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-NGDR",
+  "ai_summary": "NGDRBharat is the national digital land/property registration platform enabling transparent deed registration.",
+  "ai_explanation": "National Generic Document Registration System providing unified digital land/property registration across states.",
+  "eligibility_summary": "State residents using integrated land registration offices.",
+  "conversation_examples": [
+    {
+      "user": "I want NGDRBharat (Digitized Land Records)",
+      "bot": "NGDRBharat is the national digital land/property registration platform enabling transparent deed registration. Apply: https://www.ngdrbharat.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with NGDRBharat (Digitized Land Records). Use only official info from https://www.ngdrbharat.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-ngdr",
+    "status_svc-ngdr",
+    "eligibility_svc-ngdr"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Sale deed",
+    "Aadhaar",
+    "Party identity proof",
+    "Encumbrance certificate"
+  ],
+  "suggested_responses": [
+    "Visit https://www.ngdrbharat.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

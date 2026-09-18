@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-mah-food_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-mah-food_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-mah-food_guide.pdf"
+  }
+]

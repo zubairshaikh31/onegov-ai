@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-PMJAY",
+  "name": "Ayushman Bharat PM-JAY",
+  "category": "CAT-HEALTH",
+  "sub_category": "Health Insurance",
+  "department": "DEP-NHA",
+  "ministry": "MIN-HEA",
+  "central_state": "Central",
+  "state": null,
+  "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+  "benefits": "Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+  "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+  "required_documents": [
+    "Ayushman card / ABHA",
+    "Eligibility confirmation (SECC/Rural-Urban)",
+    "ID proof (Aadhaar/Voter/ration)"
+  ],
+  "optional_documents": [
+    "PMJAY e-card print"
+  ],
+  "fees": "Free for eligible beneficiaries (no premium).",
+  "processing_time": "Card creation same day; treatment cashless at empanelled hospitals.",
+  "validity": "Annual cover resets each financial year; card valid while eligible.",
+  "application_mode": "Through Ayushman Bharat Kendras / CSC / hospital helpdesk",
+  "official_website": "https://pmjay.gov.in",
+  "official_apply_link": "https://pmjay.gov.in/beneficiary-portal/",
+  "download_forms": "https://pmjay.gov.in",
+  "helpline": "14555 / 1800-11-15555",
+  "email": "pmjay@nha.gov.in",
+  "office_locator": "Ayushman Bharat Digital Kendras; empanelled hospital list on portal.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://pmjay.gov.in",
+  "collection_method": "official_portal"
+}

@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-SUKANYA",
+  "name": "Sukanya Samriddhi Yojana (SSY)",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Girl Child Savings",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns.",
+  "eligibility": "Parents/guardians of a girl child below age 10; one account per child (max 2 per family).",
+  "benefits": "High interest (govt-set), tax-free, partial withdrawal for education/marriage at 18+.",
+  "required_documents": [
+    "Birth certificate of girl child",
+    "Parent guardian ID",
+    "Address proof",
+    "Photograph"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Open at post office or authorised bank.",
+    "Deposit yearly (min Rs. 250).",
+    "Manage until maturity at age 21."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.indiapost.gov.in",
+  "official_apply_link": "https://www.indiapost.gov.in",
+  "download_forms": "https://www.indiapost.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.indiapost.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "SSY is a government small-savings scheme for girl children with tax-free high returns.",
+  "ai_explanation": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "sukanya samriddhi",
+    "ssy",
+    "girl child scheme",
+    "small savings"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

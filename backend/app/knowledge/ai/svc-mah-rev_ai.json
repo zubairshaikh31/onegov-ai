@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-MAH-REV",
+  "ai_summary": "Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status.",
+  "ai_explanation": "Mahabhulekh is Maharashtra's revenue land record system. Citizens search by district, village, and survey number to view/download the 7/12 (Satbara) extract showing ownership, crop, and tenure, and the 8A for khata details. Certified copies come from the taluka office.",
+  "eligibility_summary": "Landowners / general public for non-certified view; certified copies per process.",
+  "conversation_examples": [
+    {
+      "user": "I want Mahabhulekh (7/12 & 8A Land Records)",
+      "bot": "Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. Apply: https://mahabhulekh.maharashtra.gov.in. Helpline: 022-25250900 (Bhulekh support)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Mahabhulekh (7/12 & 8A Land Records). Use only official info from https://mahabhulekh.maharashtra.gov.in.",
+  "follow_up_questions": [
+    "How do I apply for mutation in Maharashtra?",
+    "How do I get a certified 7/12 copy?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-rev",
+    "status_svc-mah-rev",
+    "eligibility_svc-mah-rev"
+  ],
+  "recommended_services": [
+    "SVC-MAH-AAPLE"
+  ],
+  "document_suggestions": [
+    "Survey number / village / district details"
+  ],
+  "suggested_responses": [
+    "Visit https://mahabhulekh.maharashtra.gov.in",
+    "Call 022-25250900 (Bhulekh support)"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0003",
+    "service_id": "SVC-VOTER",
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://voterportal.eci.gov.in"
+  }
+]

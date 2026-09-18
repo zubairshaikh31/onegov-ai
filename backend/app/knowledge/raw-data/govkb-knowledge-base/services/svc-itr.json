@@ -1,0 +1,41 @@
+{
+  "service_id": "SVC-ITR",
+  "name": "Income Tax e-Filing & Return (ITR)",
+  "category": "CAT-FINANCE",
+  "sub_category": "Direct Tax",
+  "department": "DEP-CBDT",
+  "ministry": "MIN-CBDT",
+  "central_state": "Central",
+  "state": null,
+  "description": "Online filing of Income Tax Returns, PAN services, and tax payments by the Income Tax Department.",
+  "benefits": "Legal compliance, refund claims, proof of income, easier loans/visa.",
+  "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+  "required_documents": [
+    "PAN",
+    "Aadhaar (linked)",
+    "Form 16 / 16A",
+    "Bank statements",
+    "Investment proofs"
+  ],
+  "optional_documents": [
+    "Capital gains statements",
+    "Donation receipts"
+  ],
+  "fees": "No government filing fee; late fees under Section 234F if delayed.",
+  "processing_time": "Filing instant; refund within months of processing.",
+  "validity": "Annual return for each financial year.",
+  "application_mode": "Online (incometax.gov.in)",
+  "official_website": "https://www.incometax.gov.in",
+  "official_apply_link": "https://www.incometax.gov.in/iec/foportal/",
+  "download_forms": "https://www.incometax.gov.in/iec/foportal/help/itr-forms",
+  "helpline": "1800-103-0023 / 1961",
+  "email": "efilingwebmanager@incometax.gov.in",
+  "office_locator": "Local Income Tax offices / Aaykar Sampark Kendras.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.incometax.gov.in",
+  "collection_method": "official_portal"
+}

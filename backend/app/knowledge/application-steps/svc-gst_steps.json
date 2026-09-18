@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Apply Part-A (Form GST REG-01) on gst.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Get ARN; complete Part-B with documents."
+  },
+  {
+    "step": 3,
+    "description": "Aadhaar authentication / verification."
+  },
+  {
+    "step": 4,
+    "description": "GSTIN allotted on approval."
+  },
+  {
+    "step": 5,
+    "description": "File returns (GSTR-1/3B) periodically."
+  }
+]

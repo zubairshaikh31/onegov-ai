@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Use Parivahan/Sarathi or state portal."
+  },
+  {
+    "step": 2,
+    "description": "Apply for DL/RC/permit; pay fees."
+  },
+  {
+    "step": 3,
+    "description": "Book RTO slot; visit for test."
+  },
+  {
+    "step": 4,
+    "description": "Receive documents (digital via DigiLocker)."
+  }
+]

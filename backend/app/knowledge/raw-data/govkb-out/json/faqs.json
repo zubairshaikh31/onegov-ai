@@ -1,0 +1,224 @@
+[
+  {
+    "id": "FAQ-0001",
+    "service_id": "SVC-AADHAAR",
+    "question": "Is Aadhaar mandatory for all schemes?",
+    "answer": "Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned."
+  },
+  {
+    "id": "FAQ-0002",
+    "service_id": "SVC-AADHAAR",
+    "question": "How do I lock/unlock biometrics?",
+    "answer": "Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app."
+  },
+  {
+    "id": "FAQ-0003",
+    "service_id": "SVC-PASSPORT",
+    "question": "Can I apply from a different state than my address?",
+    "answer": "You must apply from your current address jurisdiction; police verification happens at the address given."
+  },
+  {
+    "id": "FAQ-0004",
+    "service_id": "SVC-PASSPORT",
+    "question": "What is the difference between Normal and Tatkaal?",
+    "answer": "Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification."
+  },
+  {
+    "id": "FAQ-0005",
+    "service_id": "SVC-VOTER",
+    "question": "Can NRI citizens enrol?",
+    "answer": "Yes, under Form 6A if aged 18+ and not enrolled in India."
+  },
+  {
+    "id": "FAQ-0006",
+    "service_id": "SVC-VOTER",
+    "question": "Is Aadhaar mandatory for voter enrolment?",
+    "answer": "No, Aadhaar is voluntary for identity; other documents are accepted."
+  },
+  {
+    "id": "FAQ-0007",
+    "service_id": "SVC-PMKISAN",
+    "question": "Why is my instalment pending?",
+    "answer": "Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal."
+  },
+  {
+    "id": "FAQ-0008",
+    "service_id": "SVC-PMKISAN",
+    "question": "Are tenant farmers eligible?",
+    "answer": "Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries."
+  },
+  {
+    "id": "FAQ-0009",
+    "service_id": "SVC-ENAM",
+    "question": "Which states are covered?",
+    "answer": "Most states with APMC integration; check the mandi list on the portal."
+  },
+  {
+    "id": "FAQ-0010",
+    "service_id": "SVC-PMJAY",
+    "question": "How do I know if I am eligible?",
+    "answer": "Search your name by state/district/SECC ID on the Beneficiary Portal."
+  },
+  {
+    "id": "FAQ-0011",
+    "service_id": "SVC-PMJAY",
+    "question": "Is there a premium to pay?",
+    "answer": "No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals."
+  },
+  {
+    "id": "FAQ-0012",
+    "service_id": "SVC-ABDM",
+    "question": "Is ABHA mandatory?",
+    "answer": "No, it is voluntary; you can opt out."
+  },
+  {
+    "id": "FAQ-0013",
+    "service_id": "SVC-ABDM",
+    "question": "Is my health data safe?",
+    "answer": "Sharing is consent-based and governed by the ABDM data-sharing framework."
+  },
+  {
+    "id": "FAQ-0014",
+    "service_id": "SVC-ESHRAM",
+    "question": "Who should register on e-Shram?",
+    "answer": "Unorganised workers not covered by EPFO/ESIC, such as gig, migrant, and informal workers."
+  },
+  {
+    "id": "FAQ-0015",
+    "service_id": "SVC-EPFO",
+    "question": "How do I check my PF balance?",
+    "answer": "Via UMANG app, EPFO missed call 9966044425, or member portal."
+  },
+  {
+    "id": "FAQ-0016",
+    "service_id": "SVC-ESIC",
+    "question": "What is the wage ceiling for ESIC?",
+    "answer": "Rs. 21,000/month (Rs. 25,000 for persons with disability)."
+  },
+  {
+    "id": "FAQ-0017",
+    "service_id": "SVC-NCS",
+    "question": "Is NCS free?",
+    "answer": "Yes, registration and job search are free for all."
+  },
+  {
+    "id": "FAQ-0018",
+    "service_id": "SVC-UDYAM",
+    "question": "Is Aadhaar mandatory for Udyam?",
+    "answer": "Yes, Aadhaar of the owner/partner/director is required for registration."
+  },
+  {
+    "id": "FAQ-0019",
+    "service_id": "SVC-UDYAM",
+    "question": "Is there a fee?",
+    "answer": "No government fee for Udyam registration."
+  },
+  {
+    "id": "FAQ-0020",
+    "service_id": "SVC-STARTUP",
+    "question": "What is the age/turnover limit for a startup?",
+    "answer": "Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity."
+  },
+  {
+    "id": "FAQ-0021",
+    "service_id": "SVC-GEM",
+    "question": "Is GeM only for government buyers?",
+    "answer": "Buyers are government entities; sellers can be any eligible business/MSME."
+  },
+  {
+    "id": "FAQ-0022",
+    "service_id": "SVC-ITR",
+    "question": "Which ITR form do I use?",
+    "answer": "Depends on income source (salary, business, capital gains); portal helps select."
+  },
+  {
+    "id": "FAQ-0023",
+    "service_id": "SVC-ITR",
+    "question": "Is Aadhaar-PAN linking mandatory?",
+    "answer": "Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions)."
+  },
+  {
+    "id": "FAQ-0024",
+    "service_id": "SVC-GST",
+    "question": "What is the GST turnover threshold?",
+    "answer": "Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states)."
+  },
+  {
+    "id": "FAQ-0025",
+    "service_id": "SVC-DIGILOCKER",
+    "question": "Are DigiLocker documents legally valid?",
+    "answer": "Yes, e-documents via DigiLocker are recognised under the IT Act as per Gazette notification."
+  },
+  {
+    "id": "FAQ-0026",
+    "service_id": "SVC-UMANG",
+    "question": "Which services are on UMANG?",
+    "answer": "Hundreds across EPFO, tax, passport, education, utilities, and states."
+  },
+  {
+    "id": "FAQ-0027",
+    "service_id": "SVC-PMAYU",
+    "question": "Who is eligible for PMAY-U?",
+    "answer": "EWS/LIG/MIG urban households without a pucca house, meeting income limits."
+  },
+  {
+    "id": "FAQ-0028",
+    "service_id": "SVC-NSP",
+    "question": "Can I apply to multiple schemes?",
+    "answer": "Only one central scheme at a time generally; multiple where permitted."
+  },
+  {
+    "id": "FAQ-0029",
+    "service_id": "SVC-SWAYAM",
+    "question": "Are SWAYAM certificates free?",
+    "answer": "Courses are free; a fee applies only for the proctored certificate exam."
+  },
+  {
+    "id": "FAQ-0030",
+    "service_id": "SVC-ABC",
+    "question": "Who can open an ABC account?",
+    "answer": "Students of ABC-participating higher education institutions."
+  },
+  {
+    "id": "FAQ-0031",
+    "service_id": "SVC-PARIVAHAN",
+    "question": "Can I get my DL on DigiLocker?",
+    "answer": "Yes, issued DL/RC can be fetched in DigiLocker."
+  },
+  {
+    "id": "FAQ-0032",
+    "service_id": "SVC-PARIVAHAN",
+    "question": "Is a driving test mandatory?",
+    "answer": "Yes, for permanent DL after learner licence period."
+  },
+  {
+    "id": "FAQ-0033",
+    "service_id": "SVC-MAH-AAPLE",
+    "question": "What certificates can I get here?",
+    "answer": "Caste, income, residence, birth/death, and many scheme applications."
+  },
+  {
+    "id": "FAQ-0034",
+    "service_id": "SVC-MAH-REV",
+    "question": "What is 7/12 (Satbara)?",
+    "answer": "It is the land record showing ownership, area, crop, and tenure of a plot in Maharashtra."
+  },
+  {
+    "id": "FAQ-0035",
+    "service_id": "SVC-MAH-FOOD",
+    "question": "How do I add a member to my ration card?",
+    "answer": "Apply for modification at the rationing office / portal with proof."
+  },
+  {
+    "id": "FAQ-0036",
+    "service_id": "SVC-MAH-DBT",
+    "question": "Which schemes are on MahaDBT?",
+    "answer": "Post-matric scholarships (SC/ST/OBC/Minority/EBC) and other state DBT schemes."
+  },
+  {
+    "id": "FAQ-0037",
+    "service_id": "SVC-MAH-RTO",
+    "question": "Are Maharashtra RTO services on Parivahan?",
+    "answer": "Yes, DL/RC services use the national Parivahan/Sarathi platform with state integration."
+  }
+]

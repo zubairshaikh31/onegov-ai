@@ -1,0 +1,52 @@
+{
+  "service_id": "SVC-ENAM",
+  "ai_summary": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery.",
+  "ai_explanation": "eNAM lets farmers and traders transact across mandis through e-auction, improving price discovery and reducing middlemen. Farmers register free and link their mandi and bank account; traders need a licence.",
+  "common_questions": [
+    "What is eNAM?",
+    "How do I sell on eNAM?",
+    "Which mandis are on eNAM?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is eNAM?",
+      "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+    },
+    {
+      "user": "How do I sell on eNAM?",
+      "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+    },
+    {
+      "user": "Which mandis are on eNAM?",
+      "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-enam",
+    "status_svc-enam",
+    "eligibility_svc-enam"
+  ],
+  "user_utterances": [
+    "I want eNAM (National Agriculture Market)",
+    "Need eNAM (National Agriculture Market)",
+    "eNAM (National Agriculture Market) help"
+  ],
+  "follow_up_questions": [
+    "How do I grade my produce for eNAM?",
+    "What are eNAM transaction charges?"
+  ],
+  "recommended_responses": [
+    "Visit https://enam.gov.in",
+    "Call helpline 1800-270-0222"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://enam.gov.in/web/guest/registration"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-270-0222"
+    }
+  ]
+}

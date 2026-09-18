@@ -1,0 +1,136 @@
+{
+  "service_id": "SVC-ITR",
+  "name": "Income Tax e-Filing & Return (ITR)",
+  "category_id": "CAT-FINANCE",
+  "sub_category": "Direct Tax",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-CBDT",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Online filing of Income Tax Returns, PAN services, and tax payments by the Income Tax Department.",
+  "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+  "benefits": "Legal compliance, refund claims, proof of income, easier loans/visa.",
+  "required_documents": [
+    "PAN",
+    "Aadhaar (linked)",
+    "Form 16 / 16A",
+    "Bank statements",
+    "Investment proofs"
+  ],
+  "optional_documents": [
+    "Capital gains statements",
+    "Donation receipts"
+  ],
+  "application_mode": "Online (incometax.gov.in)",
+  "application_steps": [
+    "Register/login on incometax.gov.in.",
+    "Choose correct ITR form.",
+    "Pre-fill and enter income/deductions.",
+    "Validate, pay tax (if any), submit.",
+    "Verify via Aadhaar OTP / EVC / send ITR-V."
+  ],
+  "processing_time": "Filing instant; refund within months of processing.",
+  "fees": "No government filing fee; late fees under Section 234F if delayed.",
+  "validity": "Annual return for each financial year.",
+  "official_portal": "https://www.incometax.gov.in",
+  "official_apply_link": "https://www.incometax.gov.in/iec/foportal/",
+  "download_forms": "https://www.incometax.gov.in/iec/foportal/help/itr-forms",
+  "helpline_number": "1800-103-0023 / 1961",
+  "email": "efilingwebmanager@incometax.gov.in",
+  "office_locator_info": "Local Income Tax offices / Aaykar Sampark Kendras.",
+  "faq": [
+    {
+      "q": "Which ITR form do I use?",
+      "a": "Depends on income source (salary, business, capital gains); portal helps select."
+    },
+    {
+      "q": "Is Aadhaar-PAN linking mandatory?",
+      "a": "Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions)."
+    }
+  ],
+  "related_services": [
+    "SVC-GST",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "income tax",
+    "itr",
+    "efiling",
+    "tax return",
+    "pan",
+    "cbdt"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.incometax.gov.in",
+  "ai_summary": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked.",
+  "ai_explanation": "Taxpayers file annual returns on the e-Filing portal using the appropriate ITR form, pre-filling data where available. After paying any due tax they verify the return via Aadhaar OTP or EVC. PAN must be linked to Aadhaar. Late filing attracts Section 234F fees.",
+  "common_questions": [
+    "Which ITR form should I file?",
+    "How do I file ITR online?",
+    "How do I check refund status?",
+    "Is PAN-Aadhaar linking mandatory?",
+    "How do I apply for Income Tax Return (ITR) Filing?",
+    "What documents are required for Income Tax Return (ITR) Filing?",
+    "What is the fee for Income Tax Return (ITR) Filing?",
+    "Who is eligible for Income Tax Return (ITR) Filing?",
+    "How long does Income Tax Return (ITR) Filing take to process?",
+    "What is the official website for Income Tax Return (ITR) Filing?"
+  ],
+  "common_mistakes": [
+    "Wrong ITR form",
+    "Not verifying return after submit",
+    "Missing Aadhaar-PAN link",
+    "Forgetting to report all income"
+  ],
+  "search_keywords": [
+    "itr filing online",
+    "income tax refund status",
+    "itr forms download",
+    "pan aadhaar link"
+  ],
+  "suggested_followups": [
+    "What are the ITR deadlines?",
+    "How do I respond to a tax notice?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Income Tax Return (ITR) Filing?",
+      "What documents are required for Income Tax Return (ITR) Filing?",
+      "What is the fee for Income Tax Return (ITR) Filing?",
+      "Who is eligible for Income Tax Return (ITR) Filing?",
+      "How long does Income Tax Return (ITR) Filing take to process?",
+      "What is the official website for Income Tax Return (ITR) Filing?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Income Tax Return (ITR) Filing?",
+      "Can I track my Income Tax Return (ITR) Filing application status online?",
+      "What should I do if my Income Tax Return (ITR) Filing application is rejected?",
+      "Are there any state-specific rules for Income Tax Return (ITR) Filing in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "efiling",
+      "filing",
+      "finance",
+      "income",
+      "income tax return",
+      "itr",
+      "refund",
+      "return",
+      "tax"
+    ],
+    "content_hash": "ae84a262d4fa779621bd85664cf2baec0813c20add4d2652a9ebd69ef19c2b4f",
+    "source_type": "html",
+    "version": 1
+  }
+}

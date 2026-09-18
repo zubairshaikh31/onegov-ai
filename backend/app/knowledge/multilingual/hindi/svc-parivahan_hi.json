@@ -1,0 +1,28 @@
+{
+  "name": "परिवहन (वाहन और ड्राइविंग लाइसेंस)",
+  "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+  "benefits": "Online RC, DL, permits, tax, slots; reduces RTO visits.",
+  "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+  "documents": [
+    "Aadhaar (where enabled)",
+    "Address/age proof",
+    "Vehicle invoice/insurance (RC)",
+    "Passport photo (DL)"
+  ],
+  "steps": [
+    "Visit parivahan.gov.in -> Vahan/Sarathi.",
+    "Apply for RC/DL/LL with details and documents.",
+    "Pay fees and book RTO slot.",
+    "Visit RTO for test/verification.",
+    "Receive RC/DL (digital via DigiLocker)."
+  ],
+  "faqs": [],
+  "keywords": [
+    "parivahan",
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "rc",
+    "rto"
+  ]
+}

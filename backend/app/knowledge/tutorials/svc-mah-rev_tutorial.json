@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-REV",
+  "guide_md": "tutorials/md/svc-mah-rev_guide.md",
+  "guide_html": "tutorials/html/svc-mah-rev_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mah-rev_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://mahabhulekh.maharashtra.gov.in"
+  ]
+}

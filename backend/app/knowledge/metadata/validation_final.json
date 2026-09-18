@@ -1,0 +1,9 @@
+{
+  "json_valid": true,
+  "csv_valid": true,
+  "broken_json": [],
+  "broken_csv": [],
+  "broken_pdf": [],
+  "utf8_issues": [],
+  "duplicate_ids": []
+}

@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-KA-EDISTRICT",
+  "name": "Karnataka Seva Sindhu / e-District",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (Karnataka)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "KA",
+  "description": "Karnataka's integrated service delivery portal for certificates and schemes.",
+  "eligibility": "Karnataka residents per service criteria.",
+  "benefits": "Online certificates, ration, and welfare schemes.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Register on sevasindhu.karnataka.gov.in.",
+    "Apply; upload docs.",
+    "Track and download."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://sevasindhu.karnataka.gov.in",
+  "official_apply_link": "https://sevasindhu.karnataka.gov.in",
+  "download_forms": "https://sevasindhu.karnataka.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://sevasindhu.karnataka.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Seva Sindhu is Karnataka's single-window portal for citizen certificates and schemes.",
+  "ai_explanation": "Karnataka's integrated service delivery portal for certificates and schemes.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "seva sindhu",
+    "karnataka edistrict",
+    "karnataka services"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

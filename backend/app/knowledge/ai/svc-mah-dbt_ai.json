@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-MAH-DBT",
+  "ai_summary": "MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens.",
+  "ai_explanation": "MahaDBT consolidates Maharashtra government scholarships (post-matric for SC/ST/OBC/Minority/EBC etc.) and other DBT schemes. Students register, upload certificates, and receive funds directly to their bank after verification.",
+  "eligibility_summary": "Maharashtra residents meeting scheme criteria (caste/income/merit).",
+  "conversation_examples": [
+    {
+      "user": "I want MahaDBT (Maharashtra Scholarship & DBT)",
+      "bot": "MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. Apply: https://mahadbt.maharashtra.gov.in. Helpline: 022-49170000 (MahaDBT)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with MahaDBT (Maharashtra Scholarship & DBT). Use only official info from https://mahadbt.maharashtra.gov.in.",
+  "follow_up_questions": [
+    "What is the MahaDBT application deadline?",
+    "How do I renew my Maharashtra scholarship?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-dbt",
+    "status_svc-mah-dbt",
+    "eligibility_svc-mah-dbt"
+  ],
+  "recommended_services": [
+    "SVC-NSP",
+    "SVC-MAH-AAPLE"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank account",
+    "Income/caste certificate",
+    "Marksheets"
+  ],
+  "suggested_responses": [
+    "Visit https://mahadbt.maharashtra.gov.in",
+    "Call 022-49170000 (MahaDBT)"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,26 @@
+{
+  "service_id": "SVC-MGNREGA",
+  "keywords": [
+    "mgnrega",
+    "nrega",
+    "rural employment"
+  ],
+  "search_keywords": [
+    "mgnrega",
+    "nrega",
+    "rural employment"
+  ],
+  "aliases": [
+    "mgnrega",
+    "nrega",
+    "rural employment"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want MGNREGA (Rural Employment)"
+  ],
+  "nl_queries": [
+    "how to MGNREGA (Rural Employment)"
+  ]
+}

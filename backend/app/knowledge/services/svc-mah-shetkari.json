@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-SHETKARI",
+  "name": "Maharashtra Farmer Welfare Schemes",
+  "category_id": "CAT-AGR",
+  "sub_category": "Agriculture (Maharashtra)",
+  "department_id": "DEP-DARE",
+  "ministry_id": "MIN-AGR",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+  "eligibility": "Maharashtra farmers with land records; scheme-specific criteria.",
+  "benefits": "Input subsidies, loan waiver/relief, crop insurance, drip/solar subsidies.",
+  "required_documents": [
+    "7/12 land record",
+    "Aadhaar",
+    "Bank account",
+    "Caste/category cert (if applicable)"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit mahaagri.gov.in.",
+    "Select scheme; apply with land/identity docs.",
+    "Verification; benefit disbursal."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://mahaagri.gov.in",
+  "official_apply_link": "https://mahaagri.gov.in",
+  "download_forms": "https://mahaagri.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://mahaagri.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Maharashtra farmer welfare schemes offer subsidies, crop insurance, and loan support via mahaagri.gov.in.",
+  "ai_explanation": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "maharashtra farmer",
+    "mahaagri",
+    "crop insurance",
+    "farm subsidy"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

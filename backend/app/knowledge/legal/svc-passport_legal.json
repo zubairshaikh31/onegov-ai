@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "references": [
+    {
+      "act": "Passports Act, 1967",
+      "rule": "Passport Rules, 1980",
+      "authority": "MEA"
+    }
+  ]
+}

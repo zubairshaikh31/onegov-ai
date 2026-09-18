@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-MAH-CMRELIEF",
+  "name": "Maharashtra Chief Minister Relief Fund",
+  "category_id": "CAT-WELFARE",
+  "sub_category": "Relief & Welfare (Maharashtra)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies.",
+  "eligibility": "Maharashtra residents in notified distress/calamity situations.",
+  "benefits": "Financial assistance for calamity, medical, and ex-gratia support.",
+  "required_documents": [
+    "Identity proof",
+    "Distress/calamity proof",
+    "Bank account"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Apply through district administration / online portal.",
+    "Verification of distress.",
+    "Disbursement of relief."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.maharashtra.gov.in",
+  "official_apply_link": "https://www.maharashtra.gov.in",
+  "download_forms": "https://www.maharashtra.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.maharashtra.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Maharashtra CM Relief Fund provides financial assistance to residents facing calamity or medical distress.",
+  "ai_explanation": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "cm relief fund",
+    "maharashtra relief",
+    "distress assistance"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

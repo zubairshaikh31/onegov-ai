@@ -1,0 +1,29 @@
+{
+  "name": "Ayushman Bharat Health & Wellness Centres",
+  "description": "Network of Health & Wellness Centres delivering comprehensive primary health care at the community level.",
+  "benefits": "Free essential health services, screenings, and referrals at HWCs.",
+  "eligibility": "All residents; ABHA-linked services; PM-JAY for eligible families.",
+  "documents": [
+    "ABHA ID",
+    "Aadhaar",
+    "Ration/ID proof"
+  ],
+  "steps": [
+    "Locate nearest Health & Wellness Centre.",
+    "Register with ABHA/Aadhaar.",
+    "Avail free primary care services."
+  ],
+  "faqs": [
+    "What is Ayushman Bharat Health & Wellness Centres?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "health and wellness centre",
+    "hwc",
+    "ayushman primary care",
+    "abha"
+  ]
+}

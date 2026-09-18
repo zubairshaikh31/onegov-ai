@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-NSP",
+  "name": "National Scholarship Portal (NSP)",
+  "category": "CAT-EDUCATION",
+  "sub_category": "Scholarships",
+  "department": "DEP-NSP",
+  "ministry": "MIN-EDU",
+  "central_state": "Central",
+  "state": null,
+  "description": "Centralised portal for central/state/UT scholarship schemes with application, verification, and DBT.",
+  "benefits": "Single-window scholarships; direct benefit transfer to bank account.",
+  "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+  "required_documents": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Bank account",
+    "Previous marksheets"
+  ],
+  "optional_documents": [
+    "Caste/disability certificate"
+  ],
+  "fees": "Free.",
+  "processing_time": "Per scheme cycle (application->verification->sanction).",
+  "validity": "Per academic year; renew annually.",
+  "application_mode": "Online (scholarships.gov.in)",
+  "official_website": "https://scholarships.gov.in",
+  "official_apply_link": "https://scholarships.gov.in/fresh/newstdRegFrm.action",
+  "download_forms": "https://scholarships.gov.in",
+  "helpline": "0120-6619540",
+  "email": "helpdesk@nsp.gov.in",
+  "office_locator": "Institution Nodal Officers; state scholarship departments.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://scholarships.gov.in",
+  "collection_method": "official_portal"
+}

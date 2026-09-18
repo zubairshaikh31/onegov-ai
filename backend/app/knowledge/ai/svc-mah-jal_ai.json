@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-MAH-JAL",
+  "ai_summary": "Maharashtra JJM provides rural tap water connections.",
+  "ai_explanation": "State implementation of JJM for functional household tap connections.",
+  "eligibility_summary": "Rural Maharashtra households.",
+  "conversation_examples": [
+    {
+      "user": "I want Jal Jeevan Mission (Maharashtra)",
+      "bot": "Maharashtra JJM provides rural tap water connections. Apply: https://mjp.maharashtra.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Jal Jeevan Mission (Maharashtra). Use only https://mjp.maharashtra.gov.in.",
+  "follow_up_questions": [
+    "What documents for Jal Jeevan Mission (Maharashtra)?",
+    "How long for Jal Jeevan Mission (Maharashtra)?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-jal",
+    "status_svc-mah-jal"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Address proof",
+    "Household details"
+  ],
+  "suggested_responses": [
+    "Visit https://mjp.maharashtra.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

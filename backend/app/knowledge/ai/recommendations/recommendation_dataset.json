@@ -1,0 +1,447 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "recs": [
+      "SVC-DIGILOCKER",
+      "SVC-DIGILOCKER",
+      "SVC-ESHRAM",
+      "SVC-PMKISAN"
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "recs": [
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR",
+      "SVC-VOTER"
+    ]
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "recs": [
+      "SVC-ENAM",
+      "SVC-AADHAAR",
+      "SVC-ENAM"
+    ]
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "recs": [
+      "SVC-PMKISAN"
+    ]
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "recs": [
+      "SVC-ABDM",
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "recs": [
+      "SVC-PMJAY"
+    ]
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "recs": [
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "recs": [
+      "SVC-ESIC",
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "recs": [
+      "SVC-EPFO",
+      "SVC-EPFO",
+      "SVC-ESHRAM"
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "recs": [
+      "SVC-ESHRAM"
+    ]
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "recs": [
+      "SVC-STARTUP",
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ]
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "recs": [
+      "SVC-UDYAM",
+      "SVC-GEM"
+    ]
+  },
+  {
+    "service_id": "SVC-GEM",
+    "recs": [
+      "SVC-UDYAM",
+      "SVC-STARTUP"
+    ]
+  },
+  {
+    "service_id": "SVC-ITR",
+    "recs": [
+      "SVC-GST",
+      "SVC-GST",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-GST",
+    "recs": [
+      "SVC-ITR",
+      "SVC-ITR",
+      "SVC-UDYAM"
+    ]
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "recs": [
+      "SVC-AADHAAR",
+      "SVC-UMANG"
+    ]
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "recs": [
+      "SVC-DIGILOCKER",
+      "SVC-EPFO",
+      "SVC-ITR"
+    ]
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-NSP",
+    "recs": [
+      "SVC-AADHAAR",
+      "SVC-ABC"
+    ]
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "recs": [
+      "SVC-NSP",
+      "SVC-ABC"
+    ]
+  },
+  {
+    "service_id": "SVC-ABC",
+    "recs": [
+      "SVC-SWAYAM",
+      "SVC-NSP"
+    ]
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "recs": [
+      "SVC-DL",
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "recs": [
+      "SVC-MAH-REV",
+      "SVC-MAH-DBT",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "recs": [
+      "SVC-MAH-AAPLE"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "recs": [
+      "SVC-MAH-AAPLE",
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "recs": [
+      "SVC-NSP",
+      "SVC-MAH-AAPLE"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "recs": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ]
+  },
+  {
+    "service_id": "SVC-DL",
+    "recs": [
+      "SVC-PARIVAHAN"
+    ]
+  },
+  {
+    "service_id": "SVC-PAN",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-JDY",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-CSC",
+    "recs": [
+      "SVC-DIGILOCKER"
+    ]
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "recs": [
+      "SVC-JDY"
+    ]
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-MAA",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "recs": [
+      "SVC-POSHAN"
+    ]
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "recs": [
+      "SVC-ICDS"
+    ]
+  },
+  {
+    "service_id": "SVC-SBM",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "recs": [
+      "SVC-EShramCard"
+    ]
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "recs": [
+      "SVC-NAPS"
+    ]
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "recs": [
+      "SVC-CSC"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "recs": [
+      "SVC-JDY"
+    ]
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "recs": [
+      "SVC-JDY"
+    ]
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "recs": [
+      "SVC-JDY"
+    ]
+  },
+  {
+    "service_id": "SVC-NPS",
+    "recs": [
+      "SVC-JDY"
+    ]
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "recs": [
+      "SVC-AADHAAR"
+    ]
+  },
+  {
+    "service_id": "SVC-AAI",
+    "recs": []
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "recs": []
+  }
+]

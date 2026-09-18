@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-GST",
+  "references": [
+    {
+      "act": "Central Goods and Services Tax Act, 2017",
+      "rule": "CGST Rules, 2017",
+      "authority": "CBIC"
+    }
+  ]
+}

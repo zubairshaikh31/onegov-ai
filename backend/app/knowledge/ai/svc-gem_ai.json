@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-GEM",
+  "ai_summary": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs.",
+  "ai_explanation": "GeM is an open e-marketplace where government departments buy goods/services and businesses (including MSMEs) sell. It brings transparency, MSE preferences, and faster payments. Sellers register with business and tax details and list catalogues.",
+  "eligibility_summary": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+  "conversation_examples": [
+    {
+      "user": "I want GeM (Government e-Marketplace)",
+      "bot": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. Apply: https://gem.gov.in/registration. Helpline: 1800-419-3436 / 1800-102-3436."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with GeM (Government e-Marketplace). Use only official info from https://gem.gov.in.",
+  "follow_up_questions": [
+    "What documents are needed to sell on GeM?",
+    "How are GeM payments made?"
+  ],
+  "intent_examples": [
+    "apply_svc-gem",
+    "status_svc-gem",
+    "eligibility_svc-gem"
+  ],
+  "recommended_services": [
+    "SVC-UDYAM",
+    "SVC-STARTUP"
+  ],
+  "document_suggestions": [
+    "Business registration / Udyam",
+    "Bank account",
+    "PAN/GSTIN",
+    "Product catalogue"
+  ],
+  "suggested_responses": [
+    "Visit https://gem.gov.in",
+    "Call 1800-419-3436 / 1800-102-3436"
+  ],
+  "recommendation_weight": 1.0
+}

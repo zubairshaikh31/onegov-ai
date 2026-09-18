@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-EPFO",
+  "keywords": [
+    "epf",
+    "pf",
+    "uan",
+    "provident fund",
+    "epfindia",
+    "pension"
+  ],
+  "search_keywords": [
+    "epf balance check",
+    "uan login",
+    "pf withdrawal online",
+    "epf claim status"
+  ],
+  "aliases": [
+    "epf",
+    "pf",
+    "uan",
+    "provident fund",
+    "epfindia",
+    "pension"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want EPF / UAN Services (Employees' Provident Fund)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply EPF / UAN Services (Employees' Provident Fund)"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-MAH-AAPLE",
+  "name": "Aaple Sarkar / MahaOnline Citizen Services",
+  "category": "CAT-STATE",
+  "sub_category": "State Citizen Services (Maharashtra)",
+  "department": "DEP-MAH-ONLINE",
+  "ministry": "MIN-MAH",
+  "central_state": "State",
+  "state": "MH",
+  "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+  "benefits": "Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+  "eligibility": "Residents of Maharashtra; service-specific criteria.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Service-specific documents"
+  ],
+  "optional_documents": [
+    "Earlier certificates"
+  ],
+  "fees": "As per state fee schedule per service.",
+  "processing_time": "Per service SLA (certificates usually 7-30 days).",
+  "validity": "Per certificate/service.",
+  "application_mode": "Online (aaplesarkar.mahaonline.gov.in) and CSC / SETU centres",
+  "official_website": "https://aaplesarkar.mahaonline.gov.in",
+  "official_apply_link": "https://aaplesarkar.mahaonline.gov.in/en",
+  "download_forms": "https://aaplesarkar.mahaonline.gov.in",
+  "helpline": "1800-120-8040 (MahaOnline)",
+  "email": "support@mahaonline.gov.in",
+  "office_locator": "SETU / CSC centres across Maharashtra districts.",
+  "working_hours": "",
+  "languages_available": "Marathi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://aaplesarkar.mahaonline.gov.in",
+  "collection_method": "official_portal"
+}

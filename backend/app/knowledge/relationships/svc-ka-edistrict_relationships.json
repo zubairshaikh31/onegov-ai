@@ -1,0 +1,8 @@
+{
+  "service_id": "SVC-KA-EDISTRICT",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [],
+  "alternative": [],
+  "chain_example": "SVC-KA-EDISTRICT"
+}

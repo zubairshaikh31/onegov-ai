@@ -1,0 +1,30 @@
+{
+  "name": "NGDRBharat (Digitized Land Records)",
+  "description": "National Generic Document Registration System providing unified digital land/property registration across states.",
+  "benefits": "Transparent, faster property registration; digital records; reduced fraud.",
+  "eligibility": "State residents using integrated land registration offices.",
+  "documents": [
+    "Sale deed",
+    "Aadhaar",
+    "Party identity proof",
+    "Encumbrance certificate"
+  ],
+  "steps": [
+    "Visit state NGDRBharat/Registration portal.",
+    "Fill deed details and upload documents.",
+    "Pay stamp duty; book appointment; sign digitally."
+  ],
+  "faqs": [
+    "What is NGDRBharat (Digitized Land Records)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "ngdrbharat",
+    "land registration",
+    "property registration",
+    "digitized land"
+  ]
+}

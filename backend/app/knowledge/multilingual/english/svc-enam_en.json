@@ -1,0 +1,40 @@
+{
+  "name": "eNAM (National Agriculture Market)",
+  "description": "Online trading platform integrating APMC mandis to create a unified national market for agricultural commodities.",
+  "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+  "benefits": "Better price discovery, transparent bidding, wider buyer reach, reduced intermediaries.",
+  "application_steps": [
+    "Register on enam.gov.in as farmer/trader.",
+    "Link APMC mandi and bank account.",
+    "List produce with quality/grade.",
+    "Participate in e-auction; buyer bids.",
+    "Payment settled to farmer account post-trade."
+  ],
+  "faqs": [
+    "Which states are covered?",
+    "What is eNAM?",
+    "How do I sell on eNAM?",
+    "Which mandis are on eNAM?",
+    "What is the official website for this service?"
+  ],
+  "keywords": [
+    "enam",
+    "e nam",
+    "agri market",
+    "mandi",
+    "farmers trading"
+  ],
+  "documents": [
+    "Bank account",
+    "Aadhaar",
+    "Trader licence (for traders)",
+    "GST (traders if applicable)"
+  ],
+  "steps": [
+    "Register on enam.gov.in as farmer/trader.",
+    "Link APMC mandi and bank account.",
+    "List produce with quality/grade.",
+    "Participate in e-auction; buyer bids.",
+    "Payment settled to farmer account post-trade."
+  ]
+}

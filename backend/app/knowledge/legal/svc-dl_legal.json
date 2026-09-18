@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-DL",
+  "references": [
+    {
+      "act": "Motor Vehicles Act, 1988",
+      "rule": "Central Motor Vehicles Rules, 1989",
+      "authority": "Ministry of Road Transport"
+    }
+  ]
+}

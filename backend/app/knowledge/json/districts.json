@@ -1,0 +1,27 @@
+[
+  {
+    "id": "MH-MUM",
+    "state_id": "MH",
+    "name": "Mumbai"
+  },
+  {
+    "id": "MH-PUN",
+    "state_id": "MH",
+    "name": "Pune"
+  },
+  {
+    "id": "MH-NAG",
+    "state_id": "MH",
+    "name": "Nagpur"
+  },
+  {
+    "id": "MH-THA",
+    "state_id": "MH",
+    "name": "Thane"
+  },
+  {
+    "id": "MH-NAN",
+    "state_id": "MH",
+    "name": "Nashik"
+  }
+]

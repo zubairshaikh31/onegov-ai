@@ -1,0 +1,30 @@
+{
+  "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+  "description": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+  "benefits": "Free training, certification, placement support, monetary reward on certification.",
+  "eligibility": "Indian youth (often 15-45) seeking skill certification.",
+  "documents": [
+    "Aadhaar",
+    "Educational proof",
+    "Bank account",
+    "Age proof"
+  ],
+  "steps": [
+    "Find PMKVY training centre (Training Partner).",
+    "Enrol with Aadhaar and documents.",
+    "Complete training; appear for assessment; get certificate."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "pmkvy",
+    "skill india",
+    "skill certification",
+    "training"
+  ]
+}

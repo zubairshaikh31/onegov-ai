@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-KA-EDISTRICT",
+  "guide_md": "tutorials/md/svc-ka-edistrict_guide.md",
+  "guide_html": "tutorials/html/svc-ka-edistrict_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-ka-edistrict_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://sevasindhu.karnataka.gov.in"
+  ]
+}

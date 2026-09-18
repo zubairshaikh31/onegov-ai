@@ -1,0 +1,2373 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "name": "Aadhaar Enrolment & Update",
+    "category_id": "CAT-IDENTITY",
+    "sub_category": "Unique Identification",
+    "department_id": "DEP-MEITY",
+    "ministry_id": "MIN-MEITY",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+    "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+    "benefits": "Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+    "required_documents": [
+      "Proof of Identity (PoI)",
+      "Proof of Address (PoA)",
+      "Date of Birth proof"
+    ],
+    "optional_documents": [
+      "Introducer / Head of Family based enrolment where documents unavailable"
+    ],
+    "application_mode": "Offline (Enrolment Centre) and Online update (SSUP / mAadhaar)",
+    "application_steps": [
+      "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra.",
+      "Fill enrolment/update form and submit supporting documents.",
+      "Provide biometric (fingerprints, iris) and photograph.",
+      "Collect acknowledgement slip with Enrolment ID (EID).",
+      "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+    ],
+    "processing_time": "Enrolment: up to 90 days for UID generation (typically sooner). Update: up to 30 days.",
+    "fees": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule.",
+    "validity": "Lifelong (subject to deactivation for residents who acquire foreign citizenship).",
+    "official_portal": "https://uidai.gov.in",
+    "official_apply_link": "https://myaadhaar.uidai.gov.in",
+    "download_forms": "https://uidai.gov.in/enrolment-update/aadhaar-enrolment.html",
+    "helpline_number": "1947",
+    "email": "help@uidai.gov.in",
+    "office_locator_info": "Aadhaar Seva Kendra locator at https://bhuvan.uidai.gov.in/locator",
+    "faq": [
+      {
+        "q": "Is Aadhaar mandatory for all schemes?",
+        "a": "Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned."
+      },
+      {
+        "q": "How do I lock/unlock biometrics?",
+        "a": "Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app."
+      }
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-ESHRAM",
+      "SVC-PMKISAN"
+    ],
+    "keywords": [
+      "aadhaar",
+      "uidai",
+      "uid",
+      "enrolment",
+      "ekyc",
+      "biometric",
+      "identity"
+    ],
+    "languages_available": "Hindi, English and 21 scheduled languages on portal/app",
+    "last_updated": "2024-01-01",
+    "collection_method": "manual",
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0",
+    "source_url": "https://uidai.gov.in",
+    "ai_summary": "Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery.",
+    "ai_explanation": "Aadhaar links a resident's identity to demographic and biometric data. It is the foundational ID for Direct Benefit Transfer, opening bank accounts, filing taxes, and availing schemes. Enrolment is free; updates may carry a fee. It is not proof of citizenship.",
+    "common_questions": [
+      "How do I enrol for Aadhaar?",
+      "How do I update my address in Aadhaar?",
+      "Is Aadhaar mandatory for subsidies?",
+      "How do I download e-Aadhaar?"
+    ],
+    "common_mistakes": [
+      "Assuming Aadhaar is proof of citizenship",
+      "Using unofficial paid agents instead of authorised centres",
+      "Not updating mobile number for OTP-based services"
+    ],
+    "search_keywords": [
+      "aadhaar enrolment near me",
+      "update aadhaar address",
+      "e aadhaar download",
+      "aadhaar status check"
+    ],
+    "suggested_followups": [
+      "How do I link Aadhaar to my bank account for DBT?",
+      "What documents are valid as Aadhaar PoA/PoI?"
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "name": "Passport Issuance (Passport Seva)",
+    "category_id": "CAT-IDENTITY",
+    "sub_category": "Travel Document",
+    "department_id": "DEP-PSP",
+    "ministry_id": "MIN-MEA",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Issuance/renewal of Indian passports (ordinary, Tatkaal, diplomatic/official) by the Ministry of External Affairs through Passport Seva Kendras (PSK) and Post Office PSKs.",
+    "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+    "benefits": "Internationally recognised travel document; enables visa-free/visa-on-arrival access; Tatkaal for urgent issue.",
+    "required_documents": [
+      "Proof of Date of Birth",
+      "Proof of Address (current)",
+      "Proof of nationality / old passport (if renewing)",
+      "Annexure as applicable"
+    ],
+    "optional_documents": [
+      "Marriage certificate (name change)",
+      "ECNR eligibility proof"
+    ],
+    "application_mode": "Online application + in-person appointment at PSK",
+    "application_steps": [
+      "Register on passportindia.gov.in and fill the application form.",
+      "Pay fee and book appointment at nearest PSK/PopSK.",
+      "Visit PSK with originals + photocopies for document verification and biometric capture.",
+      "Police verification (for fresh passports) at registered address.",
+      "Passport printed and dispatched; track status online."
+    ],
+    "processing_time": "Tatkaal: ~1-3 days post verification. Normal: ~30 days (post police verification).",
+    "fees": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18).",
+    "validity": "10 years for adults; 5 years or till age 18 for minors.",
+    "official_portal": "https://passportindia.gov.in",
+    "official_apply_link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+    "download_forms": "https://passportindia.gov.in/AppOnlineProject/online/freshFormSubmission",
+    "helpline_number": "1800-258-1800",
+    "email": "passport.helpdesk@mea.gov.in",
+    "office_locator_info": "PSK/PopSK locator at https://passportindia.gov.in -> 'Locate PSK'",
+    "faq": [
+      {
+        "q": "Can I apply from a different state than my address?",
+        "a": "You must apply from your current address jurisdiction; police verification happens at the address given."
+      },
+      {
+        "q": "What is the difference between Normal and Tatkaal?",
+        "a": "Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-VOTER"
+    ],
+    "keywords": [
+      "passport",
+      "passport seva",
+      "psk",
+      "tatkaal",
+      "travel document",
+      "mea"
+    ],
+    "languages_available": "English, Hindi",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://passportindia.gov.in",
+    "ai_summary": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited.",
+    "ai_explanation": "Citizens apply online, pay a fee, and attend a PSK appointment for document checks and biometrics. Police verification follows for fresh passports. Tatkaal offers faster issue at higher cost. Passports are valid 10 years for adults.",
+    "common_questions": [
+      "How do I apply for a passport?",
+      "What are the passport fees?",
+      "How long does a passport take?",
+      "How do I renew my passport?"
+    ],
+    "common_mistakes": [
+      "Mismatch between address proof and application",
+      "Booking appointment before document readiness",
+      "Wrong annexure selection"
+    ],
+    "search_keywords": [
+      "passport apply online",
+      "passport seva kendra near me",
+      "tatkaal passport fees",
+      "passport renewal"
+    ],
+    "suggested_followups": [
+      "What documents prove address for passport?",
+      "How do I track my passport application status?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "category_id": "CAT-IDENTITY",
+    "sub_category": "Voter Registration",
+    "department_id": "DEP-ECI",
+    "ministry_id": "MIN-ECI",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+    "eligibility": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+    "benefits": "Right to vote in elections; EPIC serves as identity and address proof.",
+    "required_documents": [
+      "Age proof (birth certificate / class 10 cert)",
+      "Address proof",
+      "Passport-size photo (online)",
+      "Declaration of ordinary residence"
+    ],
+    "optional_documents": [
+      "Aadhaar (for identity linkage, voluntary)"
+    ],
+    "application_mode": "Online (NVSP / Voter Helpline app) and offline (BLO/ERO)",
+    "application_steps": [
+      "Visit nvsp.in or voterportal.eci.gov.in and register/login.",
+      "Fill Form 6 (new enrolment) with details and upload documents.",
+      "Submit and note reference number.",
+      "BLO verifies at residence; name added to draft roll.",
+      "Download e-EPIC once approved."
+    ],
+    "processing_time": "Typically 2-4 weeks after verification; before each summary revision.",
+    "fees": "Free.",
+    "validity": "Until deletion on account of death, shift, or disqualification.",
+    "official_portal": "https://voterportal.eci.gov.in",
+    "official_apply_link": "https://nvsp.in",
+    "download_forms": "https://voterportal.eci.gov.in/forms",
+    "helpline_number": "1950",
+    "email": "eci@eci.gov.in",
+    "office_locator_info": "District Electoral Officer / ERO offices; locate via NVSP.",
+    "faq": [
+      {
+        "q": "Can NRI citizens enrol?",
+        "a": "Yes, under Form 6A if aged 18+ and not enrolled in India."
+      },
+      {
+        "q": "Is Aadhaar mandatory for voter enrolment?",
+        "a": "No, Aadhaar is voluntary for identity; other documents are accepted."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "voter id",
+      "epic",
+      "form 6",
+      "electoral roll",
+      "voter registration",
+      "eci"
+    ],
+    "languages_available": "Hindi, English and regional languages",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://voterportal.eci.gov.in",
+    "ai_summary": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP.",
+    "ai_explanation": "Any Indian citizen aged 18 can enrol in the electoral roll using Form 6 on NVSP. After BLO verification the name is added and an e-EPIC can be downloaded. The Voter ID also works as ID/address proof.",
+    "common_questions": [
+      "How do I apply for a Voter ID?",
+      "How do I correct my name in the voter list?",
+      "What is Form 6?",
+      "How do I download e-EPIC?"
+    ],
+    "common_mistakes": [
+      "Applying in two constituencies",
+      "Wrong date of birth proof",
+      "Not updating address after moving"
+    ],
+    "search_keywords": [
+      "voter id apply online",
+      "form 6 download",
+      "e epic download",
+      "voter list check"
+    ],
+    "suggested_followups": [
+      "How do I correct my address in the voter roll?",
+      "What is the difference between EPIC and e-EPIC?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "name": "PM-KISAN Samman Nidhi",
+    "category_id": "CAT-AGR",
+    "sub_category": "Farmer Income Support",
+    "department_id": "DEP-DARE",
+    "ministry_id": "MIN-AGR",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+    "eligibility": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+    "benefits": "Rs. 6,000 per year direct transfer; supports farm input costs.",
+    "required_documents": [
+      "Aadhaar",
+      "Bank account (DBT-linked)",
+      "Landholding records / Khatauni"
+    ],
+    "optional_documents": [
+      "Samagra / state ID where integrated"
+    ],
+    "application_mode": "Online (pmkisan.gov.in), CSC, or nearest agriculture office",
+    "application_steps": [
+      "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+      "Enter Aadhaar and land/account details.",
+      "Verify and submit; note registration number.",
+      "District/State validates land records.",
+      "Instalments credited to bank account; check status online."
+    ],
+    "processing_time": "Instalments released periodically; first credit after verification (weeks).",
+    "fees": "Free.",
+    "validity": "Continuous while eligibility and land records valid; e-KYC required periodically.",
+    "official_portal": "https://pmkisan.gov.in",
+    "official_apply_link": "https://pmkisan.gov.in/BeneficiaryStatus.aspx",
+    "download_forms": "https://pmkisan.gov.in/Documents/PMKISAN.pdf",
+    "helpline_number": "155261 / 1800115526",
+    "email": "pmkisan-ict@gov.in",
+    "office_locator_info": "State/District Agriculture Offices; CSC centres.",
+    "faq": [
+      {
+        "q": "Why is my instalment pending?",
+        "a": "Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal."
+      },
+      {
+        "q": "Are tenant farmers eligible?",
+        "a": "Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-ENAM"
+    ],
+    "keywords": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://pmkisan.gov.in",
+    "ai_summary": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked.",
+    "ai_explanation": "The scheme transfers Rs. 2,000 every four months to farmer families owning cultivable land, subject to exclusion criteria. Registration needs Aadhaar, a DBT bank account, and land records. Periodic e-KYC is mandatory to keep receiving benefits.",
+    "common_questions": [
+      "How do I register for PM-KISAN?",
+      "Why is my PM-KISAN payment pending?",
+      "How do I do PM-KISAN e-KYC?",
+      "Am I eligible for PM-KISAN?"
+    ],
+    "common_mistakes": [
+      "Aadhaar not linked to bank account",
+      "Land record mismatch",
+      "Missing periodic e-KYC"
+    ],
+    "search_keywords": [
+      "pm kisan status",
+      "pm kisan registration",
+      "pm kisan ekyc",
+      "pm kisan 14th installment"
+    ],
+    "suggested_followups": [
+      "How do I link Aadhaar to my bank for PM-KISAN?",
+      "What are the PM-KISAN exclusion criteria?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "name": "eNAM (National Agriculture Market)",
+    "category_id": "CAT-AGR",
+    "sub_category": "Agriculture Marketing",
+    "department_id": "DEP-DARE",
+    "ministry_id": "MIN-AGR",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Online trading platform integrating APMC mandis to create a unified national market for agricultural commodities.",
+    "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+    "benefits": "Better price discovery, transparent bidding, wider buyer reach, reduced intermediaries.",
+    "required_documents": [
+      "Bank account",
+      "Aadhaar",
+      "Trader licence (for traders)",
+      "GST (traders if applicable)"
+    ],
+    "optional_documents": [
+      "FPO registration"
+    ],
+    "application_mode": "Online (enam.gov.in) and via mandi terminals",
+    "application_steps": [
+      "Register on enam.gov.in as farmer/trader.",
+      "Link APMC mandi and bank account.",
+      "List produce with quality/grade.",
+      "Participate in e-auction; buyer bids.",
+      "Payment settled to farmer account post-trade."
+    ],
+    "processing_time": "Trade settlement as per mandi rules (typically within mandated days).",
+    "fees": "Transaction charges as per APMC bye-laws; platform access free for farmers.",
+    "validity": "Account active while KYC valid.",
+    "official_portal": "https://enam.gov.in",
+    "official_apply_link": "https://enam.gov.in/web/guest/registration",
+    "download_forms": "https://enam.gov.in",
+    "helpline_number": "1800-270-0222",
+    "email": "enam@agtech.gov.in",
+    "office_locator_info": "Linked APMC mandis across participating states.",
+    "faq": [
+      {
+        "q": "Which states are covered?",
+        "a": "Most states with APMC integration; check the mandi list on the portal."
+      }
+    ],
+    "related_services": [
+      "SVC-PMKISAN"
+    ],
+    "keywords": [
+      "enam",
+      "e nam",
+      "agri market",
+      "mandi",
+      "farmers trading"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://enam.gov.in",
+    "ai_summary": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery.",
+    "ai_explanation": "eNAM lets farmers and traders transact across mandis through e-auction, improving price discovery and reducing middlemen. Farmers register free and link their mandi and bank account; traders need a licence.",
+    "common_questions": [
+      "What is eNAM?",
+      "How do I sell on eNAM?",
+      "Which mandis are on eNAM?"
+    ],
+    "common_mistakes": [
+      "Assuming all mandis are integrated",
+      "Not grading produce before listing"
+    ],
+    "search_keywords": [
+      "enam registration",
+      "enam mandi list",
+      "sell crops online"
+    ],
+    "suggested_followups": [
+      "How do I grade my produce for eNAM?",
+      "What are eNAM transaction charges?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman Bharat PM-JAY",
+    "category_id": "CAT-HEALTH",
+    "sub_category": "Health Insurance",
+    "department_id": "DEP-NHA",
+    "ministry_id": "MIN-HEA",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+    "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+    "benefits": "Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+    "required_documents": [
+      "Ayushman card / ABHA",
+      "Eligibility confirmation (SECC/Rural-Urban)",
+      "ID proof (Aadhaar/Voter/ration)"
+    ],
+    "optional_documents": [
+      "PMJAY e-card print"
+    ],
+    "application_mode": "Through Ayushman Bharat Kendras / CSC / hospital helpdesk",
+    "application_steps": [
+      "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+      "Visit Ayushman Bharat / CSC kendra with ID.",
+      "Create Ayushman card / e-card.",
+      "Visit empanelled hospital; show card at helpdesk.",
+      "Cashless admission and treatment; claim settled directly."
+    ],
+    "processing_time": "Card creation same day; treatment cashless at empanelled hospitals.",
+    "fees": "Free for eligible beneficiaries (no premium).",
+    "validity": "Annual cover resets each financial year; card valid while eligible.",
+    "official_portal": "https://pmjay.gov.in",
+    "official_apply_link": "https://pmjay.gov.in/beneficiary-portal/",
+    "download_forms": "https://pmjay.gov.in",
+    "helpline_number": "14555 / 1800-11-15555",
+    "email": "pmjay@nha.gov.in",
+    "office_locator_info": "Ayushman Bharat Digital Kendras; empanelled hospital list on portal.",
+    "faq": [
+      {
+        "q": "How do I know if I am eligible?",
+        "a": "Search your name by state/district/SECC ID on the Beneficiary Portal."
+      },
+      {
+        "q": "Is there a premium to pay?",
+        "a": "No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals."
+      }
+    ],
+    "related_services": [
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://pmjay.gov.in",
+    "ai_summary": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility.",
+    "ai_explanation": "PM-JAY covers secondary/tertiary hospitalization costs up to Rs. 5 lakh per family per year for poor and vulnerable households identified via SECC. Beneficiaries get an Ayushman card and receive cashless treatment at empanelled hospitals with no out-of-pocket premium.",
+    "common_questions": [
+      "Am I eligible for Ayushman Bharat?",
+      "How do I make an Ayushman card?",
+      "Which hospitals accept PM-JAY?",
+      "What is covered under PM-JAY?"
+    ],
+    "common_mistakes": [
+      "Assuming all citizens are covered",
+      "Not carrying ID at hospital",
+      "Confusing ABHA with Ayushman card"
+    ],
+    "search_keywords": [
+      "pmjay eligibility check",
+      "ayushman card download",
+      "pmjay hospital list",
+      "ayushman bharat benefits"
+    ],
+    "suggested_followups": [
+      "How do I link ABHA with my Ayushman card?",
+      "What is not covered under PM-JAY?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "name": "Ayushman Bharat Digital Mission (ABHA)",
+    "category_id": "CAT-HEALTH",
+    "sub_category": "Digital Health",
+    "department_id": "DEP-MoHFW",
+    "ministry_id": "MIN-HEA",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Creates a digital health ecosystem: ABHA ID, Health ID, Personal Health Records (PHR), and interoperable health information exchange.",
+    "eligibility": "Any Indian resident (voluntary opt-in).",
+    "benefits": "Single health ID to link records across providers; consent-based sharing; easier continuity of care.",
+    "required_documents": [
+      "Aadhaar / Driving Licence / any govt ID for ABHA creation"
+    ],
+    "optional_documents": [
+      "Mobile number for OTP"
+    ],
+    "application_mode": "Online (abdm.gov.in / ABHA app) and via health facilities",
+    "application_steps": [
+      "Visit abdm.gov.in or ABHA app.",
+      "Authenticate with Aadhaar OTP or other ID.",
+      "Create 14-digit ABHA number / Health ID.",
+      "Link PHR address and records from providers.",
+      "Manage consent for record sharing."
+    ],
+    "processing_time": "Instant ABHA creation.",
+    "fees": "Free.",
+    "validity": "Until cancelled by user; voluntary.",
+    "official_portal": "https://abdm.gov.in",
+    "official_apply_link": "https://abha.abdm.gov.in",
+    "download_forms": "https://abdm.gov.in",
+    "helpline_number": "1800-11-4477 / 1800-11-6644",
+    "email": "support@abdm.gov.in",
+    "office_locator_info": "ABDM-enabled health facilities and CSCs.",
+    "faq": [
+      {
+        "q": "Is ABHA mandatory?",
+        "a": "No, it is voluntary; you can opt out."
+      },
+      {
+        "q": "Is my health data safe?",
+        "a": "Sharing is consent-based and governed by the ABDM data-sharing framework."
+      }
+    ],
+    "related_services": [
+      "SVC-PMJAY"
+    ],
+    "keywords": [
+      "abdm",
+      "abha",
+      "health id",
+      "digital health",
+      "phr"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://abdm.gov.in",
+    "ai_summary": "ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers.",
+    "ai_explanation": "ABDM builds a digital health infrastructure where residents create an ABHA ID to consolidate health records and share them with providers on a consent basis. It is free and voluntary, improving continuity of care.",
+    "common_questions": [
+      "What is ABHA ID?",
+      "How do I create a Health ID?",
+      "Is ABHA mandatory?",
+      "How is my data protected?"
+    ],
+    "common_mistakes": [
+      "Confusing ABHA with Ayushman card",
+      "Assuming it is mandatory"
+    ],
+    "search_keywords": [
+      "abha id create",
+      "abdm health record",
+      "health id india"
+    ],
+    "suggested_followups": [
+      "How do I link my hospital records to ABHA?",
+      "How do I revoke data consent?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Worker Registration",
+    "department_id": "DEP-LAB",
+    "ministry_id": "MIN-LAB",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+    "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+    "benefits": "e-Shram card; eligibility for future social security/welfare schemes; portability.",
+    "required_documents": [
+      "Aadhaar",
+      "Bank account",
+      "Mobile linked to Aadhaar"
+    ],
+    "optional_documents": [
+      "Occupation / skill details"
+    ],
+    "application_mode": "Online (eshram.gov.in) and CSC",
+    "application_steps": [
+      "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+      "Fill personal, occupation, and bank details.",
+      "Submit; download e-Shram card (UAN).",
+      "Update details as needed."
+    ],
+    "processing_time": "Instant card generation after Aadhaar OTP verification.",
+    "fees": "Free.",
+    "validity": "Card valid; update on change of details.",
+    "official_portal": "https://eshram.gov.in",
+    "official_apply_link": "https://eshram.gov.in",
+    "download_forms": "https://eshram.gov.in",
+    "helpline_number": "14434",
+    "email": "eshram@gov.in",
+    "office_locator_info": "CSC centres; State Labour Departments.",
+    "faq": [
+      {
+        "q": "Who should register on e-Shram?",
+        "a": "Unorganised workers not covered by EPFO/ESIC, such as gig, migrant, and informal workers."
+      }
+    ],
+    "related_services": [
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://eshram.gov.in",
+    "ai_summary": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based.",
+    "ai_explanation": "e-Shram builds a national registry of informal workers using Aadhaar and bank details. Registered workers get a UAN-based e-Shram card and become eligible for various welfare schemes. It is free and complements EPFO/ESIC coverage.",
+    "common_questions": [
+      "Who can register on e-Shram?",
+      "How do I download my e-Shram card?",
+      "Is e-Shram for EPFO members?"
+    ],
+    "common_mistakes": [
+      "EPFO/ESIC members wrongly registering",
+      "Bank not linked to Aadhaar"
+    ],
+    "search_keywords": [
+      "eshram registration",
+      "eshram card download",
+      "unorganised worker scheme"
+    ],
+    "suggested_followups": [
+      "Which schemes use e-Shram data?",
+      "How do I update my e-Shram record?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Retirement Savings",
+    "department_id": "DEP-EPFO",
+    "ministry_id": "MIN-LAB",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+    "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+    "benefits": "Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+    "required_documents": [
+      "UAN",
+      "Aadhaar (seeded)",
+      "Bank account",
+      "PAN (for certain withdrawals)"
+    ],
+    "optional_documents": [
+      "Form 15G/15H",
+      "Employer certificate"
+    ],
+    "application_mode": "Online (unifiedportal-mem.epfindia.gov.in) and employer",
+    "application_steps": [
+      "Activate UAN on EPFO member portal / UMANG.",
+      "Seed Aadhaar, bank, PAN via KYC.",
+      "Raise claim (Form 19/10C/31) online.",
+      "Track claim status; amount credited to bank."
+    ],
+    "processing_time": "Claims typically 7-20 days after verification.",
+    "fees": "No fee; statutory contributions by employer/employee.",
+    "validity": "Account active until final settlement/transfer.",
+    "official_portal": "https://www.epfindia.gov.in",
+    "official_apply_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+    "download_forms": "https://www.epfindia.gov.in/site_en/Forms.php",
+    "helpline_number": "1800-118-005 / 14434",
+    "email": "epfindia@gov.in",
+    "office_locator_info": "Regional EPFO offices; locate via portal.",
+    "faq": [
+      {
+        "q": "How do I check my PF balance?",
+        "a": "Via UMANG app, EPFO missed call 9966044425, or member portal."
+      }
+    ],
+    "related_services": [
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ],
+    "keywords": [
+      "epf",
+      "pf",
+      "uan",
+      "provident fund",
+      "epfindia",
+      "pension"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.epfindia.gov.in",
+    "ai_summary": "EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers.",
+    "ai_explanation": "Employees contribute to EPF with employer matching; the UAN ties multiple member IDs across jobs. Members can seed KYC and file online claims for withdrawal, transfer, or advances. Balance and status are checkable via UMANG or the member portal.",
+    "common_questions": [
+      "How do I check PF balance?",
+      "How do I transfer PF on job change?",
+      "How do I withdraw PF?",
+      "What is UAN?"
+    ],
+    "common_mistakes": [
+      "Not seeding Aadhaar/PAN causing claim rejection",
+      "Multiple UANs across jobs"
+    ],
+    "search_keywords": [
+      "epf balance check",
+      "uan login",
+      "pf withdrawal online",
+      "epf claim status"
+    ],
+    "suggested_followups": [
+      "How do I merge multiple UANs?",
+      "What is the EPF interest rate?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "name": "ESIC (Employees' State Insurance)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Social Insurance",
+    "department_id": "DEP-ESIC",
+    "ministry_id": "MIN-LAB",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+    "eligibility": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+    "benefits": "Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+    "required_documents": [
+      "IP number / UAN",
+      "ESIC card / Pehchan card",
+      "Aadhaar",
+      "Bank account"
+    ],
+    "optional_documents": [
+      "Employer certificate"
+    ],
+    "application_mode": "Employer enrols; employee uses ESIC portal / dispensaries",
+    "application_steps": [
+      "Employer registers establishment and enrols employees (Form 1).",
+      "Employee gets Insurance/Pehchan card.",
+      "Avail treatment at ESIC dispensary/hospital with card.",
+      "File claims (sickness/maternity) online if applicable."
+    ],
+    "processing_time": "Enrolment by employer; benefits as per claim processing.",
+    "fees": "Contribution by employer (3.25%) and employee (0.75%) on wages.",
+    "validity": "Coverage while in covered employment; continue via scheme provisions.",
+    "official_portal": "https://www.esic.gov.in",
+    "official_apply_link": "https://www.esic.gov.in/insured-person",
+    "download_forms": "https://www.esic.gov.in/downloads/forms",
+    "helpline_number": "1800-11-2526",
+    "email": "webmaster@esic.gov.in",
+    "office_locator_info": "ESIC dispensaries, hospitals, and regional offices.",
+    "faq": [
+      {
+        "q": "What is the wage ceiling for ESIC?",
+        "a": "Rs. 21,000/month (Rs. 25,000 for persons with disability)."
+      }
+    ],
+    "related_services": [
+      "SVC-EPFO",
+      "SVC-ESHRAM"
+    ],
+    "keywords": [
+      "esic",
+      "employee state insurance",
+      "pehchan card",
+      "social security",
+      "medical benefit"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.esic.gov.in",
+    "ai_summary": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment.",
+    "ai_explanation": "ESIC is a contributory social insurance scheme where employer and employee contribute a percentage of wages. Covered workers and their families get cashless medical care plus sickness, maternity, and disability benefits. Enrolment is done by the employer.",
+    "common_questions": [
+      "What is the ESIC wage limit?",
+      "How do I get a Pehchan card?",
+      "What does ESIC cover?",
+      "How do I claim ESIC sickness benefit?"
+    ],
+    "common_mistakes": [
+      "Confusing ESIC with EPF",
+      "Not updating family details for medical cover"
+    ],
+    "search_keywords": [
+      "esic benefits",
+      "pehchan card download",
+      "esic wage limit",
+      "esic claim"
+    ],
+    "suggested_followups": [
+      "How do I find my nearest ESIC dispensary?",
+      "Can I avail ESIC after leaving the job?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "name": "National Career Service (NCS)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Employment Exchange",
+    "department_id": "DEP-LAB",
+    "ministry_id": "MIN-LAB",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Online platform for job seekers and employers with job matching, career counselling, and training listings.",
+    "eligibility": "Any job seeker (citizen) or employer in India.",
+    "benefits": "Free job search, resume builder, career counselling, vacancy posting.",
+    "required_documents": [
+      "Mobile / email for registration",
+      "Aadhaar (optional for verification)"
+    ],
+    "optional_documents": [
+      "Resume",
+      "Skill certificates"
+    ],
+    "application_mode": "Online (ncs.gov.in) and career centres",
+    "application_steps": [
+      "Register as Job Seeker on ncs.gov.in.",
+      "Build profile / resume.",
+      "Search and apply to vacancies.",
+      "Attend counselling / interviews scheduled."
+    ],
+    "processing_time": "Instant registration; application response per employer.",
+    "fees": "Free.",
+    "validity": "Profile active; keep updated.",
+    "official_portal": "https://ncs.gov.in",
+    "official_apply_link": "https://www.ncs.gov.in",
+    "download_forms": "https://ncs.gov.in",
+    "helpline_number": "1800-425-1514",
+    "email": "contactncs@gov.in",
+    "office_locator_info": "Model Career Centres and local employment exchanges.",
+    "faq": [
+      {
+        "q": "Is NCS free?",
+        "a": "Yes, registration and job search are free for all."
+      }
+    ],
+    "related_services": [
+      "SVC-ESHRAM"
+    ],
+    "keywords": [
+      "ncs",
+      "national career service",
+      "job search",
+      "employment",
+      "career"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://ncs.gov.in",
+    "ai_summary": "NCS is a free national job portal connecting job seekers with employers and counselling.",
+    "ai_explanation": "NCS offers a unified platform where job seekers register, build resumes, and apply to vacancies, while employers post jobs. It also provides career counselling and training information through Model Career Centres.",
+    "common_questions": [
+      "How do I register on NCS?",
+      "How do I find jobs on NCS?",
+      "Is NCS free?"
+    ],
+    "common_mistakes": [
+      "Treating it as the only job source",
+      "Incomplete profile lowering matches"
+    ],
+    "search_keywords": [
+      "ncs registration",
+      "government jobs ncs",
+      "free job portal india"
+    ],
+    "suggested_followups": [
+      "How do I post a job as an employer on NCS?",
+      "What career counselling does NCS offer?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "name": "Udyam Registration (MSME)",
+    "category_id": "CAT-BUSINESS",
+    "sub_category": "MSME Registration",
+    "department_id": "DEP-MSME",
+    "ministry_id": "MIN-MSME",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Online registration of Micro, Small and Medium Enterprises to obtain a Udyam certificate and access schemes/incentives.",
+    "eligibility": "Enterprises meeting MSME investment/turnover thresholds (manufacturing/services).",
+    "benefits": "Priority credit, subsidies, tender preferences, easier compliance, scheme eligibility.",
+    "required_documents": [
+      "Aadhaar of proprietor/partner/director",
+      "PAN & GSTIN (if applicable)",
+      "Business bank account",
+      "Investment/turnover details"
+    ],
+    "optional_documents": [
+      "MSME previous registration (EM-II/UAM) for migration"
+    ],
+    "application_mode": "Online (udyamregistration.gov.in)",
+    "application_steps": [
+      "Visit udyamregistration.gov.in; Aadhaar-validate.",
+      "Enter PAN and business details.",
+      "Fill investment/turnover and activity.",
+      "Submit; download Udyam certificate instantly."
+    ],
+    "processing_time": "Instant certificate on submission.",
+    "fees": "Free (no government fee).",
+    "validity": "Valid until cancelled/updated; revalidate as per rules.",
+    "official_portal": "https://udyamregistration.gov.in",
+    "official_apply_link": "https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm",
+    "download_forms": "https://udyamregistration.gov.in",
+    "helpline_number": "1800-180-6763",
+    "email": "udyam@dcmsme.gov.in",
+    "office_locator_info": "MSME-DI offices; district centres.",
+    "faq": [
+      {
+        "q": "Is Aadhaar mandatory for Udyam?",
+        "a": "Yes, Aadhaar of the owner/partner/director is required for registration."
+      },
+      {
+        "q": "Is there a fee?",
+        "a": "No government fee for Udyam registration."
+      }
+    ],
+    "related_services": [
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "keywords": [
+      "udyam",
+      "msme",
+      "udyog aadhaar",
+      "business registration",
+      "enterprise"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://udyamregistration.gov.in",
+    "ai_summary": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits.",
+    "ai_explanation": "Udyam Registration replaces Udyog Aadhaar. Enterprises self-declare with Aadhaar, PAN, GSTIN, and investment/turnover data to get a Udyam certificate, unlocking credit, subsidies, and tender benefits. It is free and instantaneous.",
+    "common_questions": [
+      "How do I register my MSME on Udyam?",
+      "Is Udyam free?",
+      "What documents are needed for Udyam?",
+      "What are MSME limits?"
+    ],
+    "common_mistakes": [
+      "Wrong Aadhaar owner linkage",
+      "Not updating turnover causing classification error",
+      "Paying agents for free registration"
+    ],
+    "search_keywords": [
+      "udyam registration online",
+      "msme certificate download",
+      "udyam aadhaar"
+    ],
+    "suggested_followups": [
+      "What schemes are available for Udyam enterprises?",
+      "How do I update my Udyam certificate?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "name": "Startup India Recognition",
+    "category_id": "CAT-BUSINESS",
+    "sub_category": "Startup Recognition",
+    "department_id": "DEP-DPIIT",
+    "ministry_id": "MIN-DPIIT",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "DPIIT recognition of startups to avail tax benefits, easier compliance, IPR fast-track, and funding access.",
+    "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation.",
+    "benefits": "Tax exemption (80-IAC/Section 56), faster patents, self-certification, government tenders, Fund of Funds.",
+    "required_documents": [
+      "Incorporation certificate",
+      "PAN",
+      "Description of innovation",
+      "Director/Promoter details"
+    ],
+    "optional_documents": [
+      "Pitch deck",
+      "IPR details"
+    ],
+    "application_mode": "Online (startupindia.gov.in)",
+    "application_steps": [
+      "Incorporate the entity.",
+      "Register on startupindia.gov.in.",
+      "Apply for DPIIT recognition with details.",
+      "Self-certify and submit; get recognition number.",
+      "Avail benefits (tax/patent/tender)."
+    ],
+    "processing_time": "Recognition typically within days of submission.",
+    "fees": "Free for recognition.",
+    "validity": "Recognition valid while entity meets criteria; deregister if not.",
+    "official_portal": "https://www.startupindia.gov.in",
+    "official_apply_link": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html",
+    "download_forms": "https://www.startupindia.gov.in",
+    "helpline_number": "1800-115-565",
+    "email": "support@startupindia.gov.in",
+    "office_locator_info": "Startup India hubs; state nodal agencies.",
+    "faq": [
+      {
+        "q": "What is the age/turnover limit for a startup?",
+        "a": "Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity."
+      }
+    ],
+    "related_services": [
+      "SVC-UDYAM",
+      "SVC-GEM"
+    ],
+    "keywords": [
+      "startup india",
+      "dpiit",
+      "startup recognition",
+      "entrepreneur",
+      "tax exemption"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.startupindia.gov.in",
+    "ai_summary": "Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities.",
+    "ai_explanation": "Eligible Indian startups (<=10 years, turnover <= Rs. 100 crore) self-apply for DPIIT recognition, unlocking income-tax exemptions, faster IP protection, self-certification on labour laws, and easier public procurement. Recognition is free.",
+    "common_questions": [
+      "Am I eligible for Startup India?",
+      "How do I get DPIIT recognition?",
+      "What tax benefits do startups get?",
+      "How do I apply for Startup India?"
+    ],
+    "common_mistakes": [
+      "Applying before incorporation",
+      "Not meeting innovation criterion",
+      "Missing annual compliance"
+    ],
+    "search_keywords": [
+      "startup india registration",
+      "dpiit recognition",
+      "startup tax exemption"
+    ],
+    "suggested_followups": [
+      "How do I claim 80-IAC tax exemption?",
+      "What is the Fund of Funds for startups?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "name": "GeM (Government e-Marketplace)",
+    "category_id": "CAT-BUSINESS",
+    "sub_category": "Public Procurement",
+    "department_id": "DEP-GEM",
+    "ministry_id": "MIN-GOI",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+    "eligibility": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+    "benefits": "Transparent public procurement, direct market access, MSE preference, timely payment.",
+    "required_documents": [
+      "Business registration / Udyam",
+      "Bank account",
+      "PAN/GSTIN",
+      "Product catalogue"
+    ],
+    "optional_documents": [
+      "Brand authorization"
+    ],
+    "application_mode": "Online (gem.gov.in)",
+    "application_steps": [
+      "Register as buyer or seller on gem.gov.in.",
+      "Complete organization and bank/KYC.",
+      "List products/services (sellers) or create demand (buyers).",
+      "Transact via bid/RA; order and fulfil."
+    ],
+    "processing_time": "Registration quick; transaction per bid cycle.",
+    "fees": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy.",
+    "validity": "Account active while KYC valid.",
+    "official_portal": "https://gem.gov.in",
+    "official_apply_link": "https://gem.gov.in/registration",
+    "download_forms": "https://gem.gov.in",
+    "helpline_number": "1800-419-3436 / 1800-102-3436",
+    "email": "helpdesk-gem@gem.gov.in",
+    "office_locator_info": "GeM regional outreach; buyer organisations.",
+    "faq": [
+      {
+        "q": "Is GeM only for government buyers?",
+        "a": "Buyers are government entities; sellers can be any eligible business/MSME."
+      }
+    ],
+    "related_services": [
+      "SVC-UDYAM",
+      "SVC-STARTUP"
+    ],
+    "keywords": [
+      "gem",
+      "government e marketplace",
+      "public procurement",
+      "seller registration",
+      "tender"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://gem.gov.in",
+    "ai_summary": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs.",
+    "ai_explanation": "GeM is an open e-marketplace where government departments buy goods/services and businesses (including MSMEs) sell. It brings transparency, MSE preferences, and faster payments. Sellers register with business and tax details and list catalogues.",
+    "common_questions": [
+      "How do I sell on GeM?",
+      "Who can buy on GeM?",
+      "What are GeM seller charges?",
+      "How do I register on GeM?"
+    ],
+    "common_mistakes": [
+      "Incomplete KYC delaying approval",
+      "Mis-pricing catalogues",
+      "Ignoring MSE preference rules"
+    ],
+    "search_keywords": [
+      "gem seller registration",
+      "gem.gov.in login",
+      "government tender gem"
+    ],
+    "suggested_followups": [
+      "What documents are needed to sell on GeM?",
+      "How are GeM payments made?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "name": "Income Tax e-Filing & Return (ITR)",
+    "category_id": "CAT-FINANCE",
+    "sub_category": "Direct Tax",
+    "department_id": "DEP-CBDT",
+    "ministry_id": "MIN-CBDT",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Online filing of Income Tax Returns, PAN services, and tax payments by the Income Tax Department.",
+    "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+    "benefits": "Legal compliance, refund claims, proof of income, easier loans/visa.",
+    "required_documents": [
+      "PAN",
+      "Aadhaar (linked)",
+      "Form 16 / 16A",
+      "Bank statements",
+      "Investment proofs"
+    ],
+    "optional_documents": [
+      "Capital gains statements",
+      "Donation receipts"
+    ],
+    "application_mode": "Online (incometax.gov.in)",
+    "application_steps": [
+      "Register/login on incometax.gov.in.",
+      "Choose correct ITR form.",
+      "Pre-fill and enter income/deductions.",
+      "Validate, pay tax (if any), submit.",
+      "Verify via Aadhaar OTP / EVC / send ITR-V."
+    ],
+    "processing_time": "Filing instant; refund within months of processing.",
+    "fees": "No government filing fee; late fees under Section 234F if delayed.",
+    "validity": "Annual return for each financial year.",
+    "official_portal": "https://www.incometax.gov.in",
+    "official_apply_link": "https://www.incometax.gov.in/iec/foportal/",
+    "download_forms": "https://www.incometax.gov.in/iec/foportal/help/itr-forms",
+    "helpline_number": "1800-103-0023 / 1961",
+    "email": "efilingwebmanager@incometax.gov.in",
+    "office_locator_info": "Local Income Tax offices / Aaykar Sampark Kendras.",
+    "faq": [
+      {
+        "q": "Which ITR form do I use?",
+        "a": "Depends on income source (salary, business, capital gains); portal helps select."
+      },
+      {
+        "q": "Is Aadhaar-PAN linking mandatory?",
+        "a": "Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions)."
+      }
+    ],
+    "related_services": [
+      "SVC-GST",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "income tax",
+      "itr",
+      "efiling",
+      "tax return",
+      "pan",
+      "cbdt"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.incometax.gov.in",
+    "ai_summary": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked.",
+    "ai_explanation": "Taxpayers file annual returns on the e-Filing portal using the appropriate ITR form, pre-filling data where available. After paying any due tax they verify the return via Aadhaar OTP or EVC. PAN must be linked to Aadhaar. Late filing attracts Section 234F fees.",
+    "common_questions": [
+      "Which ITR form should I file?",
+      "How do I file ITR online?",
+      "How do I check refund status?",
+      "Is PAN-Aadhaar linking mandatory?"
+    ],
+    "common_mistakes": [
+      "Wrong ITR form",
+      "Not verifying return after submit",
+      "Missing Aadhaar-PAN link",
+      "Forgetting to report all income"
+    ],
+    "search_keywords": [
+      "itr filing online",
+      "income tax refund status",
+      "itr forms download",
+      "pan aadhaar link"
+    ],
+    "suggested_followups": [
+      "What are the ITR deadlines?",
+      "How do I respond to a tax notice?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-GST",
+    "name": "GST Registration & Returns",
+    "category_id": "CAT-FINANCE",
+    "sub_category": "Indirect Tax",
+    "department_id": "DEP-GST",
+    "ministry_id": "MIN-CBIC",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Goods and Services Tax registration, return filing, and compliance for businesses via the GST portal.",
+    "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+    "benefits": "Legal tax identity, input tax credit, interstate trade, compliance certificates.",
+    "required_documents": [
+      "PAN",
+      "Aadhaar (verification)",
+      "Business registration",
+      "Address proof",
+      "Bank account",
+      "Photograph"
+    ],
+    "optional_documents": [
+      "Authorisation letter"
+    ],
+    "application_mode": "Online (gst.gov.in)",
+    "application_steps": [
+      "Apply Part-A (Form GST REG-01) on gst.gov.in.",
+      "Get ARN; complete Part-B with documents.",
+      "Aadhaar authentication / verification.",
+      "GSTIN allotted on approval.",
+      "File returns (GSTR-1/3B) periodically."
+    ],
+    "processing_time": "Registration usually within 7-30 days; returns monthly/quarterly.",
+    "fees": "No government registration fee; late fees for delayed returns.",
+    "validity": "GSTIN valid until cancellation/suspension.",
+    "official_portal": "https://www.gst.gov.in",
+    "official_apply_link": "https://www.gst.gov.in/registration",
+    "download_forms": "https://www.gst.gov.in/help/returns",
+    "helpline_number": "1800-103-4786 / 14444",
+    "email": "webmaster@cgst.gov.in",
+    "office_locator_info": "GST Seva Kendras / state tax offices.",
+    "faq": [
+      {
+        "q": "What is the GST turnover threshold?",
+        "a": "Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states)."
+      }
+    ],
+    "related_services": [
+      "SVC-ITR",
+      "SVC-UDYAM"
+    ],
+    "keywords": [
+      "gst",
+      "gst registration",
+      "gstin",
+      "returns",
+      "gst portal",
+      "indirect tax"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.gst.gov.in",
+    "ai_summary": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled.",
+    "ai_explanation": "Businesses above the turnover threshold register for GST to get a GSTIN, charge tax, and claim input tax credit. Returns (GSTR-1, GSTR-3B) are filed online. Registration is free but late returns incur fees. Aadhaar authentication is used.",
+    "common_questions": [
+      "Do I need GST registration?",
+      "How do I register for GST?",
+      "What is the GST threshold?",
+      "How do I file GSTR-3B?"
+    ],
+    "common_mistakes": [
+      "Wrong turnover threshold assumption",
+      "Not filing NIL returns",
+      "Mismatch in GSTR-1/3B",
+      "Skipping Aadhaar auth"
+    ],
+    "search_keywords": [
+      "gst registration online",
+      "gst threshold limit",
+      "gstr 3b filing",
+      "gst portal login"
+    ],
+    "suggested_followups": [
+      "What is the difference between GSTR-1 and GSTR-3B?",
+      "How do I cancel GST registration?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "name": "DigiLocker",
+    "category_id": "CAT-DIGITAL",
+    "sub_category": "Digital Document Wallet",
+    "department_id": "DEP-NEGD",
+    "ministry_id": "MIN-MEITY",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Digital locker to store and share verified electronic documents issued by government agencies; reduce physical paperwork.",
+    "eligibility": "Indian citizens with Aadhaar (used for sign-up).",
+    "benefits": "Instant access to issued documents (marksheets, licences), verified e-documents, paperless verification.",
+    "required_documents": [
+      "Aadhaar (for sign-up/authentication)"
+    ],
+    "optional_documents": [
+      "Mobile number"
+    ],
+    "application_mode": "Online (digilocker.gov.in) and mobile app",
+    "application_steps": [
+      "Sign up at digilocker.gov.in with Aadhaar OTP.",
+      "Link mobile; set username/password.",
+      "Fetch issued documents from registered issuers.",
+      "Upload personal documents; share via URI/QR."
+    ],
+    "processing_time": "Instant; document fetch depends on issuer.",
+    "fees": "Free.",
+    "validity": "Account active; documents as issued.",
+    "official_portal": "https://www.digilocker.gov.in",
+    "official_apply_link": "https://digilocker.gov.in/signin",
+    "download_forms": "https://www.digilocker.gov.in",
+    "helpline_number": "1800-153-374 / support via portal",
+    "email": "support.digilocker@digitalindia.gov.in",
+    "office_locator_info": "Digital India / CSC support.",
+    "faq": [
+      {
+        "q": "Are DigiLocker documents legally valid?",
+        "a": "Yes, e-documents via DigiLocker are recognised under the IT Act as per Gazette notification."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-UMANG"
+    ],
+    "keywords": [
+      "digilocker",
+      "digital locker",
+      "e documents",
+      "meity",
+      "paperless"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://www.digilocker.gov.in",
+    "ai_summary": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login.",
+    "ai_explanation": "DigiLocker lets citizens store and share government-issued digital documents (marksheets, driving licences, certificates) fetched directly from issuers, reducing physical paperwork. Sign-up uses Aadhaar OTP. e-Documents are legally recognised under the IT Act.",
+    "common_questions": [
+      "What is DigiLocker?",
+      "How do I sign up for DigiLocker?",
+      "Are DigiLocker documents valid?",
+      "How do I share a DigiLocker document?"
+    ],
+    "common_mistakes": [
+      "Assuming it stores only uploads (issuer fetch is key)",
+      "Not linking Aadhaar",
+      "Sharing full account instead of document URI"
+    ],
+    "search_keywords": [
+      "digilocker signup",
+      "digilocker documents list",
+      "digilocker app download"
+    ],
+    "suggested_followups": [
+      "Which documents can I fetch in DigiLocker?",
+      "How do I issue documents as a government agency?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "category_id": "CAT-DIGITAL",
+    "sub_category": "Mobile Services Aggregator",
+    "department_id": "DEP-NEGD",
+    "ministry_id": "MIN-MEITY",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+    "eligibility": "Any citizen with a smartphone; services may need respective IDs.",
+    "benefits": "One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+    "required_documents": [
+      "Mobile number",
+      "Service-specific IDs (Aadhaar/PAN/UAN)"
+    ],
+    "optional_documents": [
+      "Bank details for payments"
+    ],
+    "application_mode": "Mobile app (UMANG) and web",
+    "application_steps": [
+      "Download UMANG app / visit web.umang.gov.in.",
+      "Register with mobile OTP.",
+      "Browse departments and services.",
+      "Authenticate per service and transact."
+    ],
+    "processing_time": "Per service.",
+    "fees": "Free app; service charges as applicable.",
+    "validity": "Account active.",
+    "official_portal": "https://umang.gov.in",
+    "official_apply_link": "https://web.umang.gov.in",
+    "download_forms": "https://umang.gov.in",
+    "helpline_number": "1800-111-550",
+    "email": "helpdesk@umang.gov.in",
+    "office_locator_info": "NeGD support.",
+    "faq": [
+      {
+        "q": "Which services are on UMANG?",
+        "a": "Hundreds across EPFO, tax, passport, education, utilities, and states."
+      }
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-EPFO",
+      "SVC-ITR"
+    ],
+    "keywords": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator"
+    ],
+    "languages_available": "Hindi, English and multiple Indian languages",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://umang.gov.in",
+    "ai_summary": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services.",
+    "ai_explanation": "UMANG consolidates many government services into one app, letting citizens access EPFO, tax, passport, bill payments, and state services with a single login. It is multilingual and free, with per-service authentication.",
+    "common_questions": [
+      "What is UMANG app?",
+      "Which services are on UMANG?",
+      "How do I register on UMANG?",
+      "Is UMANG free?"
+    ],
+    "common_mistakes": [
+      "Expecting all services offline",
+      "Not updating app for new services"
+    ],
+    "search_keywords": [
+      "umang app download",
+      "umang services list",
+      "umang epfo claim"
+    ],
+    "suggested_followups": [
+      "How do I use UMANG for EPFO?",
+      "Which Maharashtra services are on UMANG?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "category_id": "CAT-HOUSING",
+    "sub_category": "Housing for All",
+    "department_id": "DEP-PMAY",
+    "ministry_id": "MIN-HOU",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Credit-linked subsidy and affordable housing support for urban poor/EWS/LIG/MIG to own a pucca house.",
+    "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+    "benefits": "Interest subsidy on home loan (CLSS) and support for house construction.",
+    "required_documents": [
+      "Aadhaar",
+      "Income proof",
+      "Address proof",
+      "Bank account",
+      "Property/land documents"
+    ],
+    "optional_documents": [
+      "Caste/category certificate"
+    ],
+    "application_mode": "Online (pmaymis.gov.in) and via urban local bodies",
+    "application_steps": [
+      "Visit pmaymis.gov.in; check eligibility.",
+      "Apply under beneficiary-led / CLSS component.",
+      "Enter Aadhaar, income, bank, property details.",
+      "Verification by ULB/state.",
+      "Subsidy/assistance as per component."
+    ],
+    "processing_time": "Verification and sanction per state/ULB cycle.",
+    "fees": "Free to apply.",
+    "validity": "Benefit once per family.",
+    "official_portal": "https://pmaymis.gov.in",
+    "official_apply_link": "https://pmaymis.gov.in/",
+    "download_forms": "https://pmaymis.gov.in/",
+    "helpline_number": "1800-11-6446 / 011-23063285",
+    "email": "pmaymis-moihua@gov.in",
+    "office_locator_info": "Urban Local Bodies / State Nodal Agencies.",
+    "faq": [
+      {
+        "q": "Who is eligible for PMAY-U?",
+        "a": "EWS/LIG/MIG urban households without a pucca house, meeting income limits."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "pmay",
+      "pm awas yojana",
+      "housing",
+      "clss",
+      "subsidy"
+    ],
+    "languages_available": "Hindi, English, regional",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://pmaymis.gov.in",
+    "ai_summary": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house.",
+    "ai_explanation": "PMAY-U aims 'Housing for All' in urban areas via Credit Linked Subsidy (CLSS) and direct construction support. Eligible households without a pucca house apply online or via ULBs; subsidy is credited to the loan account.",
+    "common_questions": [
+      "Am I eligible for PMAY?",
+      "How do I apply for PMAY subsidy?",
+      "What is CLSS?",
+      "What are PMAY income limits?"
+    ],
+    "common_mistakes": [
+      "Already owning a pucca house",
+      "Mismatch in Aadhaar/bank",
+      "Applying under wrong category"
+    ],
+    "search_keywords": [
+      "pmay apply online",
+      "pmay subsidy status",
+      "pmay eligibility",
+      "clss home loan"
+    ],
+    "suggested_followups": [
+      "What are the PMAY-U income limits?",
+      "How is the CLSS subsidy calculated?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "name": "National Scholarship Portal (NSP)",
+    "category_id": "CAT-EDUCATION",
+    "sub_category": "Scholarships",
+    "department_id": "DEP-NSP",
+    "ministry_id": "MIN-EDU",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "Centralised portal for central/state/UT scholarship schemes with application, verification, and DBT.",
+    "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+    "benefits": "Single-window scholarships; direct benefit transfer to bank account.",
+    "required_documents": [
+      "Aadhaar",
+      "Institution ID",
+      "Income certificate",
+      "Bank account",
+      "Previous marksheets"
+    ],
+    "optional_documents": [
+      "Caste/disability certificate"
+    ],
+    "application_mode": "Online (scholarships.gov.in)",
+    "application_steps": [
+      "Register on scholarships.gov.in as student.",
+      "Find eligible schemes; fill application.",
+      "Upload documents; submit.",
+      "Institute and nodal verification.",
+      "Sanction and DBT to bank."
+    ],
+    "processing_time": "Per scheme cycle (application->verification->sanction).",
+    "fees": "Free.",
+    "validity": "Per academic year; renew annually.",
+    "official_portal": "https://scholarships.gov.in",
+    "official_apply_link": "https://scholarships.gov.in/fresh/newstdRegFrm.action",
+    "download_forms": "https://scholarships.gov.in",
+    "helpline_number": "0120-6619540",
+    "email": "helpdesk@nsp.gov.in",
+    "office_locator_info": "Institution Nodal Officers; state scholarship departments.",
+    "faq": [
+      {
+        "q": "Can I apply to multiple schemes?",
+        "a": "Only one central scheme at a time generally; multiple where permitted."
+      }
+    ],
+    "related_services": [
+      "SVC-AADHAAR",
+      "SVC-ABC"
+    ],
+    "keywords": [
+      "nsp",
+      "national scholarship portal",
+      "scholarship",
+      "student",
+      "dbt"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://scholarships.gov.in",
+    "ai_summary": "NSP is a one-stop portal for government scholarships with online apply and DBT to students.",
+    "ai_explanation": "The National Scholarship Portal unifies central, state, and UT scholarship schemes. Students register, find eligible schemes, apply with documents, and receive funds via DBT after institute and nodal verification. Renewal is annual.",
+    "common_questions": [
+      "How do I apply for scholarship on NSP?",
+      "Which scholarships are on NSP?",
+      "How do I check NSP status?",
+      "What documents are needed for NSP?"
+    ],
+    "common_mistakes": [
+      "Applying to conflicting schemes",
+      "Wrong bank/Aadhaar seeding",
+      "Missing renewal deadline"
+    ],
+    "search_keywords": [
+      "nsp scholarship apply",
+      "nsp login",
+      "scholarship status nsp",
+      "national scholarship portal"
+    ],
+    "suggested_followups": [
+      "What is the NSP application deadline?",
+      "How do I renew my NSP scholarship?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "name": "SWAYAM (Free Online Courses)",
+    "category_id": "CAT-EDUCATION",
+    "sub_category": "Online Learning",
+    "department_id": "DEP-NSP",
+    "ministry_id": "MIN-EDU",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "National MOOC platform offering free online courses from school to postgraduate level with certificates.",
+    "eligibility": "Open to all learners; some courses have eligibility for credit/ exam.",
+    "benefits": "Free quality courses, certificates (with exam fee), academic credit transfer where recognised.",
+    "required_documents": [
+      "Email/mobile for sign-up"
+    ],
+    "optional_documents": [
+      "Institution enrollment for credit"
+    ],
+    "application_mode": "Online (swayam.gov.in)",
+    "application_steps": [
+      "Sign up on swayam.gov.in.",
+      "Browse and enrol in courses.",
+      "Attend video lectures, assignments.",
+      "Take proctored exam (optional, paid) for certificate."
+    ],
+    "processing_time": "Self-paced; exam per schedule.",
+    "fees": "Course free; certificate exam fee applicable.",
+    "validity": "Course completions archived; certificates issued per cycle.",
+    "official_portal": "https://swayam.gov.in",
+    "official_apply_link": "https://swayam.gov.in",
+    "download_forms": "https://swayam.gov.in",
+    "helpline_number": "1800-121-9020",
+    "email": "support@swayam.gov.in",
+    "office_locator_info": "Partner institutions / NPTEL centres.",
+    "faq": [
+      {
+        "q": "Are SWAYAM certificates free?",
+        "a": "Courses are free; a fee applies only for the proctored certificate exam."
+      }
+    ],
+    "related_services": [
+      "SVC-NSP",
+      "SVC-ABC"
+    ],
+    "keywords": [
+      "swayam",
+      "online courses",
+      "mooc",
+      "free education",
+      "certificate"
+    ],
+    "languages_available": "Multiple Indian languages",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://swayam.gov.in",
+    "ai_summary": "SWAYAM offers free government online courses from school to PG, with paid certificates.",
+    "ai_explanation": "SWAYAM is India's national MOOC platform providing free courses designed by top institutions. Learners enrol, complete lectures and assignments, and can earn a certificate by paying a proctored exam fee. Credits may transfer where recognised.",
+    "common_questions": [
+      "What is SWAYAM?",
+      "Are SWAYAM courses free?",
+      "How do I get a SWAYAM certificate?",
+      "Are SWAYAM credits valid?"
+    ],
+    "common_mistakes": [
+      "Assuming certificate is free",
+      "Missing assignment deadlines"
+    ],
+    "search_keywords": [
+      "swayam courses",
+      "swayam login",
+      "free online course india"
+    ],
+    "suggested_followups": [
+      "Which institutions accept SWAYAM credit?",
+      "How do I take the SWAYAM exam?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "name": "Academic Bank of Credits (ABC)",
+    "category_id": "CAT-EDUCATION",
+    "sub_category": "Credit Banking",
+    "department_id": "DEP-NSP",
+    "ministry_id": "MIN-EDU",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "National digital storehouse of academic credits earned from HEIs, enabling transfer and accumulation.",
+    "eligibility": "Students of participating Higher Education Institutions.",
+    "benefits": "Store credits, transfer across institutions, flexible degree pathways.",
+    "required_documents": [
+      "Aadhaar / ABC ID",
+      "Student HEI enrollment"
+    ],
+    "optional_documents": [
+      "Previous credit records"
+    ],
+    "application_mode": "Online (abc.gov.in)",
+    "application_steps": [
+      "Create ABC ID via abc.gov.in / institutional link.",
+      "HEI deposits earned credits.",
+      "View and manage credit stack.",
+      "Transfer/redeem per framework."
+    ],
+    "processing_time": "Credits deposited per academic cycle.",
+    "fees": "Free.",
+    "validity": "Credits valid per UGC framework duration.",
+    "official_portal": "https://abc.gov.in",
+    "official_apply_link": "https://abc.gov.in",
+    "download_forms": "https://abc.gov.in",
+    "helpline_number": "1800-111-550 (via ABC/HEI)",
+    "email": "abc@ugc.gov.in",
+    "office_locator_info": "Participating HEIs.",
+    "faq": [
+      {
+        "q": "Who can open an ABC account?",
+        "a": "Students of ABC-participating higher education institutions."
+      }
+    ],
+    "related_services": [
+      "SVC-SWAYAM",
+      "SVC-NSP"
+    ],
+    "keywords": [
+      "abc",
+      "academic bank of credits",
+      "ugc",
+      "credit transfer",
+      "higher education"
+    ],
+    "languages_available": "Hindi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://abc.gov.in",
+    "ai_summary": "ABC is a national digital credit bank letting HEI students store and transfer academic credits.",
+    "ai_explanation": "The Academic Bank of Credits gives each student an ABC ID to accumulate credits earned from participating universities, which can later be transferred toward a degree under the National Credit Framework. It promotes flexible, multiple-entry learning.",
+    "common_questions": [
+      "What is ABC ID?",
+      "How do I create an Academic Bank of Credits account?",
+      "Can I transfer credits between universities?",
+      "Which universities use ABC?"
+    ],
+    "common_mistakes": [
+      "Assuming all HEIs participate",
+      "Not linking Aadhaar"
+    ],
+    "search_keywords": [
+      "abc id create",
+      "academic bank of credits login",
+      "credit transfer india"
+    ],
+    "suggested_followups": [
+      "How do I link my ABC ID with my university?",
+      "What is the National Credit Framework?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Parivahan (Vahan & Sarathi)",
+    "category_id": "CAT-TRANSPORT",
+    "sub_category": "Vehicle & Driving Licence",
+    "department_id": "DEP-RTW",
+    "ministry_id": "MIN-RTW",
+    "government_level": "Central",
+    "state_id": null,
+    "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+    "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+    "benefits": "Online RC, DL, permits, tax, slots; reduces RTO visits.",
+    "required_documents": [
+      "Aadhaar (where enabled)",
+      "Address/age proof",
+      "Vehicle invoice/insurance (RC)",
+      "Passport photo (DL)"
+    ],
+    "optional_documents": [
+      "Medical certificate (age/transport)"
+    ],
+    "application_mode": "Online (parivahan.gov.in) + RTO appointment",
+    "application_steps": [
+      "Visit parivahan.gov.in -> Vahan/Sarathi.",
+      "Apply for RC/DL/LL with details and documents.",
+      "Pay fees and book RTO slot.",
+      "Visit RTO for test/verification.",
+      "Receive RC/DL (digital via DigiLocker)."
+    ],
+    "processing_time": "RC/DL issued after RTO test/verification (days to weeks).",
+    "fees": "As per state MV fee schedule; varies by service.",
+    "validity": "RC 15 years (renewable); DL 20 years or till age 50/55/60 per class.",
+    "official_portal": "https://parivahan.gov.in",
+    "official_apply_link": "https://parivahan.gov.in/parivahan//services",
+    "download_forms": "https://parivahan.gov.in",
+    "helpline_number": "0120-4925505",
+    "email": "helpdesk@parivahan.gov.in",
+    "office_locator_info": "State RTOs / Transport Departments.",
+    "faq": [
+      {
+        "q": "Can I get my DL on DigiLocker?",
+        "a": "Yes, issued DL/RC can be fetched in DigiLocker."
+      },
+      {
+        "q": "Is a driving test mandatory?",
+        "a": "Yes, for permanent DL after learner licence period."
+      }
+    ],
+    "related_services": [
+      "SVC-DIGILOCKER",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "parivahan",
+      "vahan",
+      "sarathi",
+      "driving licence",
+      "rc",
+      "rto"
+    ],
+    "languages_available": "Hindi, English, state languages",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://parivahan.gov.in",
+    "ai_summary": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments.",
+    "ai_explanation": "Parivahan is the national transport portal where citizens apply for vehicle registration, driving/learner licences, permits, and tax online, then visit the RTO for tests/verification. Issued documents sync to DigiLocker. Fees follow the state MV schedule.",
+    "common_questions": [
+      "How do I apply for a driving licence online?",
+      "How do I check my RC status?",
+      "How do I renew my DL?",
+      "What are RTO fees?"
+    ],
+    "common_mistakes": [
+      "Skipping learner licence step",
+      "Document mismatch at RTO",
+      "Not booking slot in advance"
+    ],
+    "search_keywords": [
+      "driving licence apply online",
+      "vahan rc status",
+      "parivahan sarathi",
+      "rto appointment"
+    ],
+    "suggested_followups": [
+      "How do I link my DL to DigiLocker?",
+      "What documents are needed for RC transfer?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "category_id": "CAT-STATE",
+    "sub_category": "State Citizen Services (Maharashtra)",
+    "department_id": "DEP-MAH-ONLINE",
+    "ministry_id": "MIN-MAH",
+    "government_level": "State",
+    "state_id": "MH",
+    "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+    "eligibility": "Residents of Maharashtra; service-specific criteria.",
+    "benefits": "Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+    "required_documents": [
+      "Aadhaar",
+      "Address proof",
+      "Service-specific documents"
+    ],
+    "optional_documents": [
+      "Earlier certificates"
+    ],
+    "application_mode": "Online (aaplesarkar.mahaonline.gov.in) and CSC / SETU centres",
+    "application_steps": [
+      "Register on Aaple Sarkar portal.",
+      "Select department/service (certificate/scheme).",
+      "Fill form and upload documents.",
+      "Submit; track application.",
+      "Collect certificate (online download / SETU centre)."
+    ],
+    "processing_time": "Per service SLA (certificates usually 7-30 days).",
+    "fees": "As per state fee schedule per service.",
+    "validity": "Per certificate/service.",
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+    "official_apply_link": "https://aaplesarkar.mahaonline.gov.in/en",
+    "download_forms": "https://aaplesarkar.mahaonline.gov.in",
+    "helpline_number": "1800-120-8040 (MahaOnline)",
+    "email": "support@mahaonline.gov.in",
+    "office_locator_info": "SETU / CSC centres across Maharashtra districts.",
+    "faq": [
+      {
+        "q": "What certificates can I get here?",
+        "a": "Caste, income, residence, birth/death, and many scheme applications."
+      }
+    ],
+    "related_services": [
+      "SVC-MAH-REV",
+      "SVC-MAH-DBT",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate"
+    ],
+    "languages_available": "Marathi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://aaplesarkar.mahaonline.gov.in",
+    "ai_summary": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes.",
+    "ai_explanation": "Maharashtra's Aaple Sarkar / MahaOnline portal lets residents apply for caste, income, residence, and other certificates plus state schemes from one place, with online tracking and SETU centre support. It is the gateway to most Maharashtra e-services.",
+    "common_questions": [
+      "How do I apply for a caste certificate in Maharashtra?",
+      "What is Aaple Sarkar?",
+      "How do I track my certificate application?",
+      "Where are SETU centres?"
+    ],
+    "common_mistakes": [
+      "Wrong district selection",
+      "Incomplete address proof",
+      "Not tracking SLA status"
+    ],
+    "search_keywords": [
+      "aaple sarkar login",
+      "maharashtra income certificate",
+      "mahaonline caste certificate",
+      "setu centre near me"
+    ],
+    "suggested_followups": [
+      "How do I get a Maharashtra domicile certificate?",
+      "What is the caste certificate processing time in Maharashtra?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "name": "Mahabhulekh (7/12 & 8A Land Records)",
+    "category_id": "CAT-STATE",
+    "sub_category": "Land Records (Maharashtra)",
+    "department_id": "DEP-MAH-REV",
+    "ministry_id": "MIN-MAH",
+    "government_level": "State",
+    "state_id": "MH",
+    "description": "Maharashtra land record portal to view and download 7/12 (Satbara) and 8A extracts online.",
+    "eligibility": "Landowners / general public for non-certified view; certified copies per process.",
+    "benefits": "Instant access to land ownership, tenure, and mutation status; supports loans and transactions.",
+    "required_documents": [
+      "Survey number / village / district details"
+    ],
+    "optional_documents": [
+      "Owner name"
+    ],
+    "application_mode": "Online (mahabhulekh.maharashtra.gov.in)",
+    "application_steps": [
+      "Visit mahabhulekh.maharashtra.gov.in.",
+      "Select district and 7/12 (Satbara) or 8A.",
+      "Enter village/survey/Gat number.",
+      "View and download extract (print)."
+    ],
+    "processing_time": "Instant view; certified copy per taluka office process.",
+    "fees": "Free view; nominal fee for certified copies.",
+    "validity": "Reflects current records; mutations update over time.",
+    "official_portal": "https://mahabhulekh.maharashtra.gov.in",
+    "official_apply_link": "https://mahabhulekh.maharashtra.gov.in",
+    "download_forms": "https://mahabhulekh.maharashtra.gov.in",
+    "helpline_number": "022-25250900 (Bhulekh support)",
+    "email": "mah bhulekh support via portal",
+    "office_locator_info": "Taluka Revenue offices; CSCs.",
+    "faq": [
+      {
+        "q": "What is 7/12 (Satbara)?",
+        "a": "It is the land record showing ownership, area, crop, and tenure of a plot in Maharashtra."
+      }
+    ],
+    "related_services": [
+      "SVC-MAH-AAPLE"
+    ],
+    "keywords": [
+      "mahabhulekh",
+      "satbara",
+      "7/12",
+      "8a",
+      "land records",
+      "maharashtra revenue"
+    ],
+    "languages_available": "Marathi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://mahabhulekh.maharashtra.gov.in",
+    "ai_summary": "Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status.",
+    "ai_explanation": "Mahabhulekh is Maharashtra's revenue land record system. Citizens search by district, village, and survey number to view/download the 7/12 (Satbara) extract showing ownership, crop, and tenure, and the 8A for khata details. Certified copies come from the taluka office.",
+    "common_questions": [
+      "How do I get 7/12 online in Maharashtra?",
+      "What is Satbara?",
+      "How do I check land mutation status?",
+      "Where do I get a certified 7/12?"
+    ],
+    "common_mistakes": [
+      "Wrong survey number entry",
+      "Relying on uncertified copy for legal use"
+    ],
+    "search_keywords": [
+      "7/12 satbara download",
+      "mahabhulekh login",
+      "land record maharashtra",
+      "8a extract"
+    ],
+    "suggested_followups": [
+      "How do I apply for mutation in Maharashtra?",
+      "How do I get a certified 7/12 copy?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "category_id": "CAT-STATE",
+    "sub_category": "Food & Public Distribution (Maharashtra)",
+    "department_id": "DEP-MAH-FOOD",
+    "ministry_id": "MIN-MAH",
+    "government_level": "State",
+    "state_id": "MH",
+    "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+    "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+    "benefits": "Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+    "required_documents": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof",
+      "Family details"
+    ],
+    "optional_documents": [
+      "Earlier ration card"
+    ],
+    "application_mode": "Online (maha food portal) and rationing offices / CSC",
+    "application_steps": [
+      "Apply via Maharashtra food supply portal / CSC.",
+      "Submit family and Aadhaar details.",
+      "Verification by rationing authority.",
+      "Ration card issued; avail PDS."
+    ],
+    "processing_time": "Per district verification (weeks).",
+    "fees": "As per state schedule (nominal).",
+    "validity": "Until cancellation/update.",
+    "official_portal": "https://mahafood.gov.in",
+    "official_apply_link": "https://mahafood.gov.in",
+    "download_forms": "https://mahafood.gov.in",
+    "helpline_number": "1800-222-362 (Toll-free, MahaFood)",
+    "email": "fcscrti-maha@gov.in",
+    "office_locator_info": "District Supply Offices; Fair Price Shops.",
+    "faq": [
+      {
+        "q": "How do I add a member to my ration card?",
+        "a": "Apply for modification at the rationing office / portal with proof."
+      }
+    ],
+    "related_services": [
+      "SVC-MAH-AAPLE",
+      "SVC-AADHAAR"
+    ],
+    "keywords": [
+      "maharashtra ration card",
+      "mahafood",
+      "pds",
+      "nfsa",
+      "food supply"
+    ],
+    "languages_available": "Marathi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://mahafood.gov.in",
+    "ai_summary": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes.",
+    "ai_explanation": "The Maharashtra Food, Civil Supplies department issues ration cards classifying households (Priority/APL/BPL) for subsidised foodgrains through Fair Price Shops under NFSA and state schemes. Aadhaar-seeded cards enable DBT/portability.",
+    "common_questions": [
+      "How do I apply for a ration card in Maharashtra?",
+      "What are NFSA ration card types?",
+      "How do I add a member to my ration card?",
+      "Where is my nearest ration shop?"
+    ],
+    "common_mistakes": [
+      "Not seeding Aadhaar",
+      "Wrong category selection",
+      "Duplicate cards"
+    ],
+    "search_keywords": [
+      "maharashtra ration card apply",
+      "mahafood login",
+      "pds shop near me",
+      "nfsa maharashtra"
+    ],
+    "suggested_followups": [
+      "How do I transfer my ration card to another district?",
+      "What is One Nation One Ration Card in Maharashtra?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "category_id": "CAT-STATE",
+    "sub_category": "Scholarships & DBT (Maharashtra)",
+    "department_id": "DEP-MAH-DBT",
+    "ministry_id": "MIN-MAH",
+    "government_level": "State",
+    "state_id": "MH",
+    "description": "Maharashtra's integrated DBT portal for state scholarships and benefits to eligible students/citizens.",
+    "eligibility": "Maharashtra residents meeting scheme criteria (caste/income/merit).",
+    "benefits": "Direct benefit transfer of scholarships and schemes to bank account; single window.",
+    "required_documents": [
+      "Aadhaar",
+      "Bank account",
+      "Income/caste certificate",
+      "Marksheets"
+    ],
+    "optional_documents": [
+      "Disability/category certificates"
+    ],
+    "application_mode": "Online (mahadbt.maharashtra.gov.in)",
+    "application_steps": [
+      "Register on MahaDBT portal.",
+      "Complete profile with Aadhaar/bank/certificates.",
+      "Select eligible schemes; apply.",
+      "Institute/DC verification.",
+      "DBT to bank account."
+    ],
+    "processing_time": "Per scheme cycle.",
+    "fees": "Free.",
+    "validity": "Per academic year; renew.",
+    "official_portal": "https://mahadbt.maharashtra.gov.in",
+    "official_apply_link": "https://mahadbt.maharashtra.gov.in",
+    "download_forms": "https://mahadbt.maharashtra.gov.in",
+    "helpline_number": "022-49170000 (MahaDBT)",
+    "email": "mahadbt-support@gov.in",
+    "office_locator_info": "District Social Welfare / Tribal offices.",
+    "faq": [
+      {
+        "q": "Which schemes are on MahaDBT?",
+        "a": "Post-matric scholarships (SC/ST/OBC/Minority/EBC) and other state DBT schemes."
+      }
+    ],
+    "related_services": [
+      "SVC-NSP",
+      "SVC-MAH-AAPLE"
+    ],
+    "keywords": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student"
+    ],
+    "languages_available": "Marathi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://mahadbt.maharashtra.gov.in",
+    "ai_summary": "MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens.",
+    "ai_explanation": "MahaDBT consolidates Maharashtra government scholarships (post-matric for SC/ST/OBC/Minority/EBC etc.) and other DBT schemes. Students register, upload certificates, and receive funds directly to their bank after verification.",
+    "common_questions": [
+      "How do I apply for Maharashtra scholarship?",
+      "What is MahaDBT?",
+      "How do I check MahaDBT status?",
+      "Which scholarships are on MahaDBT?"
+    ],
+    "common_mistakes": [
+      "Expired caste/income certificate",
+      "Bank not Aadhaar-seeded",
+      "Missing renewal"
+    ],
+    "search_keywords": [
+      "mahadbt scholarship",
+      "maharashtra post matric scholarship",
+      "mahadbt login",
+      "dbt status"
+    ],
+    "suggested_followups": [
+      "What is the MahaDBT application deadline?",
+      "How do I renew my Maharashtra scholarship?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "name": "Maharashtra Transport (RTO) Services",
+    "category_id": "CAT-STATE",
+    "sub_category": "Transport (Maharashtra)",
+    "department_id": "DEP-RTW",
+    "ministry_id": "MIN-MAH",
+    "government_level": "State",
+    "state_id": "MH",
+    "description": "Maharashtra State Transport Department services for DL, RC, permits via state RTOs (integrated with Parivahan).",
+    "eligibility": "Maharashtra residents / vehicle owners / licence applicants.",
+    "benefits": "State-specific DL/RC, permits, tax, and faceless services.",
+    "required_documents": [
+      "Aadhaar",
+      "Address/age proof",
+      "Vehicle docs (RC)"
+    ],
+    "optional_documents": [
+      "Medical certificate"
+    ],
+    "application_mode": "Online (transport.maharashtra.gov.in / Parivahan) + RTO",
+    "application_steps": [
+      "Use Parivahan/Sarathi or state portal.",
+      "Apply for DL/RC/permit; pay fees.",
+      "Book RTO slot; visit for test.",
+      "Receive documents (digital via DigiLocker)."
+    ],
+    "processing_time": "Per RTO SLA.",
+    "fees": "As per Maharashtra MV fee schedule.",
+    "validity": "Per licence/RC rules.",
+    "official_portal": "https://transport.maharashtra.gov.in",
+    "official_apply_link": "https://transport.maharashtra.gov.in",
+    "download_forms": "https://transport.maharashtra.gov.in",
+    "helpline_number": "1800-120-8040 (state helpdesk)",
+    "email": "rft-maha@gov.in",
+    "office_locator_info": "Maharashtra RTOs across districts.",
+    "faq": [
+      {
+        "q": "Are Maharashtra RTO services on Parivahan?",
+        "a": "Yes, DL/RC services use the national Parivahan/Sarathi platform with state integration."
+      }
+    ],
+    "related_services": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ],
+    "keywords": [
+      "maharashtra rto",
+      "driving licence maharashtra",
+      "transport department",
+      "rc maharashtra"
+    ],
+    "languages_available": "Marathi, English",
+    "last_updated": "2024-01-01",
+    "collection_method": "official_portal",
+    "source_url": "https://transport.maharashtra.gov.in",
+    "ai_summary": "Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan.",
+    "ai_explanation": "Maharashtra's Transport Department runs RTO services for driving licences, vehicle registration, permits, and taxes, largely through the national Parivahan/Sarathi platform with state-specific fee schedules and faceless services where available.",
+    "common_questions": [
+      "How do I apply for DL in Maharashtra?",
+      "What are Maharashtra RTO fees?",
+      "How do I renew my DL in Mumbai/Pune?",
+      "Where is my RTO?"
+    ],
+    "common_mistakes": [
+      "Ignoring state fee differences",
+      "Skipping learner licence"
+    ],
+    "search_keywords": [
+      "maharashtra rto online",
+      "driving licence maharashtra apply",
+      "rc transfer maharashtra"
+    ],
+    "suggested_followups": [
+      "What are Maharashtra green tax rules?",
+      "How do I book an RTO slot in Maharashtra?"
+    ],
+    "collected_at": "2026-07-25T17:24:25Z",
+    "kb_version": "1.0.0"
+  }
+]

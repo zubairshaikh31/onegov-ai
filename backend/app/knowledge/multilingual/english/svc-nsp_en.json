@@ -1,0 +1,41 @@
+{
+  "name": "National Scholarship Portal (NSP)",
+  "description": "Centralised portal for central/state/UT scholarship schemes with application, verification, and DBT.",
+  "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+  "benefits": "Single-window scholarships; direct benefit transfer to bank account.",
+  "application_steps": [
+    "Register on scholarships.gov.in as student.",
+    "Find eligible schemes; fill application.",
+    "Upload documents; submit.",
+    "Institute and nodal verification.",
+    "Sanction and DBT to bank."
+  ],
+  "faqs": [
+    "Can I apply to multiple schemes?",
+    "How do I apply for scholarship on NSP?",
+    "Which scholarships are on NSP?",
+    "How do I check NSP status?",
+    "What documents are needed for NSP?"
+  ],
+  "keywords": [
+    "nsp",
+    "national scholarship portal",
+    "scholarship",
+    "student",
+    "dbt"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Bank account",
+    "Previous marksheets"
+  ],
+  "steps": [
+    "Register on scholarships.gov.in as student.",
+    "Find eligible schemes; fill application.",
+    "Upload documents; submit.",
+    "Institute and nodal verification.",
+    "Sanction and DBT to bank."
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Login to Aaple Sarkar portal."
+  },
+  {
+    "step": 2,
+    "description": "Select Revenue Department > Age Nationality and Domicile Certificate."
+  },
+  {
+    "step": 3,
+    "description": "Fill the form and upload documents."
+  },
+  {
+    "step": 4,
+    "description": "Pay fees and submit."
+  },
+  {
+    "step": 5,
+    "description": "Download the digitally signed certificate."
+  }
+]

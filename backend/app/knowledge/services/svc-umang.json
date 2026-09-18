@@ -1,0 +1,80 @@
+{
+  "service_id": "SVC-UMANG",
+  "name": "UMANG (Unified Mobile App for New-age Governance)",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Mobile Services Aggregator",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+  "eligibility": "Any citizen with a smartphone; services may need respective IDs.",
+  "benefits": "One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+  "required_documents": [
+    "Mobile number",
+    "Service-specific IDs (Aadhaar/PAN/UAN)"
+  ],
+  "optional_documents": [
+    "Bank details for payments"
+  ],
+  "application_mode": "Mobile app (UMANG) and web",
+  "application_steps": [
+    "Download UMANG app / visit web.umang.gov.in.",
+    "Register with mobile OTP.",
+    "Browse departments and services.",
+    "Authenticate per service and transact."
+  ],
+  "processing_time": "Per service.",
+  "fees": "Free app; service charges as applicable.",
+  "validity": "Account active.",
+  "official_portal": "https://umang.gov.in",
+  "official_apply_link": "https://web.umang.gov.in",
+  "download_forms": "https://umang.gov.in",
+  "helpline_number": "1800-111-550",
+  "email": "helpdesk@umang.gov.in",
+  "office_locator_info": "NeGD support.",
+  "faq": [
+    {
+      "q": "Which services are on UMANG?",
+      "a": "Hundreds across EPFO, tax, passport, education, utilities, and states."
+    }
+  ],
+  "related_services": [
+    "SVC-DIGILOCKER",
+    "SVC-EPFO",
+    "SVC-ITR"
+  ],
+  "keywords": [
+    "umang",
+    "mobile governance",
+    "government app",
+    "services aggregator"
+  ],
+  "languages_available": "Hindi, English and multiple Indian languages",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://umang.gov.in",
+  "ai_summary": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services.",
+  "ai_explanation": "UMANG consolidates many government services into one app, letting citizens access EPFO, tax, passport, bill payments, and state services with a single login. It is multilingual and free, with per-service authentication.",
+  "common_questions": [
+    "What is UMANG app?",
+    "Which services are on UMANG?",
+    "How do I register on UMANG?",
+    "Is UMANG free?"
+  ],
+  "common_mistakes": [
+    "Expecting all services offline",
+    "Not updating app for new services"
+  ],
+  "search_keywords": [
+    "umang app download",
+    "umang services list",
+    "umang epfo claim"
+  ],
+  "suggested_followups": [
+    "How do I use UMANG for EPFO?",
+    "Which Maharashtra services are on UMANG?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

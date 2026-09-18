@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0015",
+    "service_id": "SVC-ITR",
+    "name": "Income Tax e-Filing & Return (ITR)",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "official_portal": "https://www.incometax.gov.in"
+  }
+]

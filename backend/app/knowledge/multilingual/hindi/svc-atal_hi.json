@@ -1,0 +1,19 @@
+{
+  "name": "अटल पेंशन योजना",
+  "description": "Guaranteed minimum pension of Rs.1000-5000 for unorganised workers.",
+  "benefits": "Fixed pension after 60.",
+  "eligibility": "Adults 18-40 in unorganised sector.",
+  "documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "steps": [
+    "Enroll via bank/PO.",
+    "Auto-debit contribution."
+  ],
+  "faqs": [],
+  "keywords": [
+    "atal pension",
+    "apy"
+  ]
+}

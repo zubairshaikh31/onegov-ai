@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-NCS",
+  "name": "National Career Service (NCS)",
+  "category": "CAT-LABOUR",
+  "sub_category": "Employment Exchange",
+  "department": "DEP-LAB",
+  "ministry": "MIN-LAB",
+  "central_state": "Central",
+  "state": null,
+  "description": "Online platform for job seekers and employers with job matching, career counselling, and training listings.",
+  "benefits": "Free job search, resume builder, career counselling, vacancy posting.",
+  "eligibility": "Any job seeker (citizen) or employer in India.",
+  "required_documents": [
+    "Mobile / email for registration",
+    "Aadhaar (optional for verification)"
+  ],
+  "optional_documents": [
+    "Resume",
+    "Skill certificates"
+  ],
+  "fees": "Free.",
+  "processing_time": "Instant registration; application response per employer.",
+  "validity": "Profile active; keep updated.",
+  "application_mode": "Online (ncs.gov.in) and career centres",
+  "official_website": "https://ncs.gov.in",
+  "official_apply_link": "https://www.ncs.gov.in",
+  "download_forms": "https://ncs.gov.in",
+  "helpline": "1800-425-1514",
+  "email": "contactncs@gov.in",
+  "office_locator": "Model Career Centres and local employment exchanges.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://ncs.gov.in",
+  "collection_method": "official_portal"
+}

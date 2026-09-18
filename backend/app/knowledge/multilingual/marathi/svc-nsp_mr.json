@@ -1,0 +1,28 @@
+{
+  "name": "राष्ट्रीय शिष्यवृत्ती पोर्टल",
+  "description": "Centralised portal for central/state/UT scholarship schemes with application, verification, and DBT.",
+  "benefits": "Single-window scholarships; direct benefit transfer to bank account.",
+  "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+  "documents": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Bank account",
+    "Previous marksheets"
+  ],
+  "steps": [
+    "Register on scholarships.gov.in as student.",
+    "Find eligible schemes; fill application.",
+    "Upload documents; submit.",
+    "Institute and nodal verification.",
+    "Sanction and DBT to bank."
+  ],
+  "faqs": [],
+  "keywords": [
+    "nsp",
+    "national scholarship portal",
+    "scholarship",
+    "student",
+    "dbt"
+  ]
+}

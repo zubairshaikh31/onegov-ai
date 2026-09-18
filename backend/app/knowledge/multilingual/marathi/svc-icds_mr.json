@@ -1,0 +1,21 @@
+{
+  "name": "अंगणवाडी / आयसीडीएस",
+  "description": "Integrated Child Development Services: nutrition, health, preschool at Anganwadi centres.",
+  "benefits": "Supplementary nutrition, health checkups, pre-school.",
+  "eligibility": "Children under 6, pregnant/lactating women.",
+  "documents": [
+    "Address proof",
+    "Child birth proof"
+  ],
+  "steps": [
+    "Visit Anganwadi centre.",
+    "Enroll child.",
+    "Avail services."
+  ],
+  "faqs": [],
+  "keywords": [
+    "anganwadi",
+    "icds",
+    "child nutrition"
+  ]
+}

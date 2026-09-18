@@ -1,0 +1,91 @@
+[
+  {
+    "question": "Is NCS free?",
+    "answer": "Yes, registration and job search are free for all.",
+    "official": true
+  },
+  {
+    "question": "How do I register on NCS?",
+    "answer": "(See official portal https://ncs.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I find jobs on NCS?",
+    "answer": "(See official portal https://ncs.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://ncs.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-425-1514 / email contactncs@gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Instant registration; application response per employer.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (ncs.gov.in) and career centres",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-425-1514. Email: contactncs@gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Free.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Instant registration; application response per employer.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Can I apply for this service online?",
+    "answer": "Online (ncs.gov.in) and career centres",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "What documents are required?",
+    "answer": "Required documents: Mobile / email for registration, Aadhaar (optional for verification)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

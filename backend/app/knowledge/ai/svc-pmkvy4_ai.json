@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-PMKVY4",
+  "ai_summary": "PMKVY 4.0 offers free skill training and certification.",
+  "ai_explanation": "Updated PMKVY skill certification scheme.",
+  "eligibility_summary": "Indian youth seeking certification.",
+  "conversation_examples": [
+    {
+      "user": "I want PMKVY 4.0 (Skill India)",
+      "bot": "PMKVY 4.0 offers free skill training and certification. Apply: https://www.pmkvyofficial.org. Helpline: 1800-233-7878."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with PMKVY 4.0 (Skill India). Use only https://www.pmkvyofficial.org.",
+  "follow_up_questions": [
+    "What documents for PMKVY 4.0 (Skill India)?",
+    "How long for PMKVY 4.0 (Skill India)?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmkvy4",
+    "status_svc-pmkvy4"
+  ],
+  "recommended_services": [
+    "SVC-NAPS"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Educational proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.pmkvyofficial.org",
+    "Call 1800-233-7878"
+  ],
+  "recommendation_weight": 1.0
+}

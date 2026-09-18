@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-NCS",
+  "keywords": [
+    "ncs",
+    "national career service",
+    "job search",
+    "employment",
+    "career"
+  ],
+  "search_keywords": [
+    "ncs registration",
+    "government jobs ncs",
+    "free job portal india"
+  ],
+  "aliases": [
+    "ncs",
+    "national career service",
+    "job search",
+    "employment",
+    "career"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want National Career Service (NCS)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply National Career Service (NCS)"
+  ]
+}

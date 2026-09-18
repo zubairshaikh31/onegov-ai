@@ -1,0 +1,117 @@
+[
+  {
+    "id": "DEP-PSP",
+    "name": "Passport Seva Programme",
+    "ministry_id": "MIN-MEA"
+  },
+  {
+    "id": "DEP-ECI",
+    "name": "Election Commission of India",
+    "ministry_id": "MIN-ECI"
+  },
+  {
+    "id": "DEP-DARE",
+    "name": "Department of Agriculture & Farmers Welfare",
+    "ministry_id": "MIN-AGR"
+  },
+  {
+    "id": "DEP-NHA",
+    "name": "National Health Authority",
+    "ministry_id": "MIN-HEA"
+  },
+  {
+    "id": "DEP-MoHFW",
+    "name": "MoHFW / NHM",
+    "ministry_id": "MIN-HEA"
+  },
+  {
+    "id": "DEP-LAB",
+    "name": "Ministry of Labour & Employment",
+    "ministry_id": "MIN-LAB"
+  },
+  {
+    "id": "DEP-EPFO",
+    "name": "Employees' Provident Fund Organisation",
+    "ministry_id": "MIN-LAB"
+  },
+  {
+    "id": "DEP-ESIC",
+    "name": "Employees' State Insurance Corporation",
+    "ministry_id": "MIN-LAB"
+  },
+  {
+    "id": "DEP-MSME",
+    "name": "MSME Development",
+    "ministry_id": "MIN-MSME"
+  },
+  {
+    "id": "DEP-DPIIT",
+    "name": "Startup India / DPIIT",
+    "ministry_id": "MIN-DPIIT"
+  },
+  {
+    "id": "DEP-GEM",
+    "name": "GeM Special Purpose Vehicle",
+    "ministry_id": "MIN-GOI"
+  },
+  {
+    "id": "DEP-CBDT",
+    "name": "Income Tax Department",
+    "ministry_id": "MIN-CBDT"
+  },
+  {
+    "id": "DEP-GST",
+    "name": "GST Network / CBIC",
+    "ministry_id": "MIN-CBIC"
+  },
+  {
+    "id": "DEP-NEGD",
+    "name": "NeGD / Digital India",
+    "ministry_id": "MIN-MEITY"
+  },
+  {
+    "id": "DEP-MEITY",
+    "name": "UIDAI / MeitY (Identity)",
+    "ministry_id": "MIN-MEITY"
+  },
+  {
+    "id": "DEP-PMAY",
+    "name": "PMAY (Urban) Mission Directorate",
+    "ministry_id": "MIN-HOU"
+  },
+  {
+    "id": "DEP-NSP",
+    "name": "National Scholarship Division",
+    "ministry_id": "MIN-EDU"
+  },
+  {
+    "id": "DEP-RTW",
+    "name": "Transport / RTO",
+    "ministry_id": "MIN-RTW"
+  },
+  {
+    "id": "DEP-MAH-ONLINE",
+    "name": "MahaOnline / Aaple Sarkar",
+    "ministry_id": "MIN-MAH"
+  },
+  {
+    "id": "DEP-MAH-REV",
+    "name": "Revenue Department, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  {
+    "id": "DEP-MAH-FOOD",
+    "name": "Food, Civil Supplies & Consumer Protection, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  {
+    "id": "DEP-MAH-DBT",
+    "name": "MahaDBT / Social Justice, Maharashtra",
+    "ministry_id": "MIN-MAH"
+  },
+  {
+    "id": "DEP-MAH",
+    "name": "Maharashtra State Departments (General)",
+    "ministry_id": "MIN-MAH"
+  }
+]

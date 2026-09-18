@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Is Aadhaar mandatory for Udyam?",
+    "answer": "Yes, Aadhaar of the owner/partner/director is required for registration.",
+    "official": true
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "No government fee for Udyam registration.",
+    "official": true
+  },
+  {
+    "question": "How do I register my MSME on Udyam?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Is Udyam free?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What documents are needed for Udyam?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are MSME limits?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://udyamregistration.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-180-6763 / email udyam@dcmsme.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free (no government fee).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Instant certificate on submission.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (udyamregistration.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "Telangana TS-ePASS / MeeSeva",
+  "description": "Telangana MeeSeva for certificates and welfare schemes.",
+  "benefits": "Certificates, ration, schemes online.",
+  "eligibility": "Telangana residents.",
+  "documents": [
+    "Aadhaar"
+  ],
+  "steps": [
+    "Register.",
+    "Apply.",
+    "Track."
+  ],
+  "faqs": [],
+  "keywords": [
+    "telangana meeseva",
+    "ts epass"
+  ]
+}

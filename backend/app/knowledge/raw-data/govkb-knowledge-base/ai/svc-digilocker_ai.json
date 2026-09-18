@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "ai_summary": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login.",
+  "ai_explanation": "DigiLocker lets citizens store and share government-issued digital documents (marksheets, driving licences, certificates) fetched directly from issuers, reducing physical paperwork. Sign-up uses Aadhaar OTP. e-Documents are legally recognised under the IT Act.",
+  "common_questions": [
+    "What is DigiLocker?",
+    "How do I sign up for DigiLocker?",
+    "Are DigiLocker documents valid?",
+    "How do I share a DigiLocker document?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is DigiLocker?",
+      "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+    },
+    {
+      "user": "How do I sign up for DigiLocker?",
+      "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+    },
+    {
+      "user": "Are DigiLocker documents valid?",
+      "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-digilocker",
+    "status_svc-digilocker",
+    "eligibility_svc-digilocker"
+  ],
+  "user_utterances": [
+    "I want DigiLocker",
+    "Need DigiLocker",
+    "DigiLocker help"
+  ],
+  "follow_up_questions": [
+    "Which documents can I fetch in DigiLocker?",
+    "How do I issue documents as a government agency?"
+  ],
+  "recommended_responses": [
+    "Visit https://www.digilocker.gov.in",
+    "Call helpline 1800-153-374 / support via portal"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://digilocker.gov.in/signin"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-153-374 / support via portal"
+    }
+  ]
+}

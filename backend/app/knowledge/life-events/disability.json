@@ -1,0 +1,23 @@
+{
+  "event": "disability",
+  "services": [
+    "SVC-ESIC",
+    "SVC-PMJAY",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-ESIC",
+    "SVC-PMJAY",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-esic_guide.md",
+    "tutorials/md/svc-pmjay_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

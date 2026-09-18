@@ -1,0 +1,26 @@
+{
+  "event": "farmer",
+  "services": [
+    "SVC-PMKISAN",
+    "SVC-ENAM",
+    "SVC-AADHAAR",
+    "SVC-MAH-SHETKARI"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PMKISAN",
+    "SVC-ENAM",
+    "SVC-AADHAAR",
+    "SVC-MAH-SHETKARI"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-pmkisan_guide.md",
+    "tutorials/md/svc-enam_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md",
+    "tutorials/md/svc-mah-shetkari_guide.md"
+  ]
+}

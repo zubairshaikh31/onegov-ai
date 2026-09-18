@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-WB-DUARE",
+  "ai_summary": "West Bengal Duare Sarkar/e-District delivers certificates and schemes via camps and portal.",
+  "ai_explanation": "West Bengal e-District / Duare Sarkar camps for certificates and schemes.",
+  "eligibility_summary": "West Bengal residents per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want West Bengal Duare Sarkar / e-District",
+      "bot": "West Bengal Duare Sarkar/e-District delivers certificates and schemes via camps and portal. Apply: https://edistrict.wb.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with West Bengal Duare Sarkar / e-District. Use only official info from https://edistrict.wb.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-wb-duare",
+    "status_svc-wb-duare",
+    "eligibility_svc-wb-duare"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "suggested_responses": [
+    "Visit https://edistrict.wb.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

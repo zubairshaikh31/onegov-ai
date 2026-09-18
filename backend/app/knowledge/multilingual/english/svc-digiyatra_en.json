@@ -1,0 +1,27 @@
+{
+  "name": "DigiYatra (Airport Biometric)",
+  "description": "Biometric-based seamless airport entry using a facial recognition ecosystem.",
+  "benefits": "Paperless, contactless airport check-in.",
+  "eligibility": "Domestic air travellers with valid ID and ticket.",
+  "documents": [
+    "ID proof",
+    "Ticket",
+    "Aadhaar/ID for enrollment"
+  ],
+  "steps": [
+    "Enroll on DigiYatra app.",
+    "Link ID + ticket.",
+    "Use biometric at airport."
+  ],
+  "faqs": [
+    "What is DigiYatra (Airport Biometric)?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "digiyatra",
+    "airport biometric"
+  ]
+}

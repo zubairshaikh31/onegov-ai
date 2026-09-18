@@ -1,0 +1,11 @@
+{
+  "services": [
+    "SVC-AADHAAR",
+    "SVC-VOTER"
+  ],
+  "documents": [
+    "Birth certificate",
+    "Parents' ID"
+  ],
+  "schemes": []
+}

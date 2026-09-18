@@ -1,0 +1,478 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "examples": [
+      {
+        "user": "How do I enrol for Aadhaar",
+        "bot": "For Aadhaar Enrolment & Update, Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery. You can apply at https://myaadhaar.uidai.gov.in."
+      },
+      {
+        "user": "Update my Aadhaar address",
+        "bot": "For Aadhaar Enrolment & Update, Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery. You can apply at https://myaadhaar.uidai.gov.in."
+      },
+      {
+        "user": "Download e Aadhaar",
+        "bot": "For Aadhaar Enrolment & Update, Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery. You can apply at https://myaadhaar.uidai.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "examples": [
+      {
+        "user": "I want a passport",
+        "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+      },
+      {
+        "user": "Need to renew my passport",
+        "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+      },
+      {
+        "user": "Travel abroad documents",
+        "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "examples": [
+      {
+        "user": "How do I apply for a Voter ID?",
+        "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+      },
+      {
+        "user": "How do I correct my name in the voter list?",
+        "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+      },
+      {
+        "user": "What is Form 6?",
+        "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "examples": [
+      {
+        "user": "Check my PM Kisan status",
+        "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+      },
+      {
+        "user": "Register for farmer income support",
+        "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+      },
+      {
+        "user": "PM Kisan payment pending",
+        "bot": "For PM-KISAN Samman Nidhi, PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. You can apply at https://pmkisan.gov.in/BeneficiaryStatus.aspx."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "examples": [
+      {
+        "user": "What is eNAM?",
+        "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+      },
+      {
+        "user": "How do I sell on eNAM?",
+        "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+      },
+      {
+        "user": "Which mandis are on eNAM?",
+        "bot": "For eNAM (National Agriculture Market), eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. You can apply at https://enam.gov.in/web/guest/registration."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "examples": [
+      {
+        "user": "Am I eligible for Ayushman Bharat?",
+        "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+      },
+      {
+        "user": "How do I make an Ayushman card?",
+        "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+      },
+      {
+        "user": "Which hospitals accept PM-JAY?",
+        "bot": "For Ayushman Bharat PM-JAY, PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. You can apply at https://pmjay.gov.in/beneficiary-portal/."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "examples": [
+      {
+        "user": "What is ABHA ID?",
+        "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+      },
+      {
+        "user": "How do I create a Health ID?",
+        "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+      },
+      {
+        "user": "Is ABHA mandatory?",
+        "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "examples": [
+      {
+        "user": "Who can register on e-Shram?",
+        "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+      },
+      {
+        "user": "How do I download my e-Shram card?",
+        "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+      },
+      {
+        "user": "Is e-Shram for EPFO members?",
+        "bot": "For e-Shram (National Database of Unorganised Workers), e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. You can apply at https://eshram.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "examples": [
+      {
+        "user": "How do I check PF balance?",
+        "bot": "For EPF / UAN Services (Employees' Provident Fund), EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers. You can apply at https://unifiedportal-mem.epfindia.gov.in/memberinterface/."
+      },
+      {
+        "user": "How do I transfer PF on job change?",
+        "bot": "For EPF / UAN Services (Employees' Provident Fund), EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers. You can apply at https://unifiedportal-mem.epfindia.gov.in/memberinterface/."
+      },
+      {
+        "user": "How do I withdraw PF?",
+        "bot": "For EPF / UAN Services (Employees' Provident Fund), EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers. You can apply at https://unifiedportal-mem.epfindia.gov.in/memberinterface/."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "examples": [
+      {
+        "user": "What is the ESIC wage limit?",
+        "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+      },
+      {
+        "user": "How do I get a Pehchan card?",
+        "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+      },
+      {
+        "user": "What does ESIC cover?",
+        "bot": "For ESIC (Employees' State Insurance), ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. You can apply at https://www.esic.gov.in/insured-person."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "examples": [
+      {
+        "user": "How do I register on NCS?",
+        "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+      },
+      {
+        "user": "How do I find jobs on NCS?",
+        "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+      },
+      {
+        "user": "Is NCS free?",
+        "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "examples": [
+      {
+        "user": "How do I register my MSME on Udyam?",
+        "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+      },
+      {
+        "user": "Is Udyam free?",
+        "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+      },
+      {
+        "user": "What documents are needed for Udyam?",
+        "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "examples": [
+      {
+        "user": "Am I eligible for Startup India?",
+        "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+      },
+      {
+        "user": "How do I get DPIIT recognition?",
+        "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+      },
+      {
+        "user": "What tax benefits do startups get?",
+        "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-GEM",
+    "examples": [
+      {
+        "user": "How do I sell on GeM?",
+        "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+      },
+      {
+        "user": "Who can buy on GeM?",
+        "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+      },
+      {
+        "user": "What are GeM seller charges?",
+        "bot": "For GeM (Government e-Marketplace), GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. You can apply at https://gem.gov.in/registration."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ITR",
+    "examples": [
+      {
+        "user": "File my income tax return",
+        "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+      },
+      {
+        "user": "Which ITR form",
+        "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+      },
+      {
+        "user": "Check refund status",
+        "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-GST",
+    "examples": [
+      {
+        "user": "Register my business for GST",
+        "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+      },
+      {
+        "user": "File GSTR 3B",
+        "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+      },
+      {
+        "user": "GST threshold limit",
+        "bot": "For GST Registration & Returns, GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. You can apply at https://www.gst.gov.in/registration."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "examples": [
+      {
+        "user": "What is DigiLocker?",
+        "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+      },
+      {
+        "user": "How do I sign up for DigiLocker?",
+        "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+      },
+      {
+        "user": "Are DigiLocker documents valid?",
+        "bot": "For DigiLocker, DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. You can apply at https://digilocker.gov.in/signin."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "examples": [
+      {
+        "user": "What is UMANG app?",
+        "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+      },
+      {
+        "user": "Which services are on UMANG?",
+        "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+      },
+      {
+        "user": "How do I register on UMANG?",
+        "bot": "For UMANG (Unified Mobile App for New-age Governance), UMANG is a single mobile/portal aggregator for hundreds of central and state government services. You can apply at https://web.umang.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "examples": [
+      {
+        "user": "Am I eligible for PMAY?",
+        "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+      },
+      {
+        "user": "How do I apply for PMAY subsidy?",
+        "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+      },
+      {
+        "user": "What is CLSS?",
+        "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NSP",
+    "examples": [
+      {
+        "user": "How do I apply for scholarship on NSP?",
+        "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+      },
+      {
+        "user": "Which scholarships are on NSP?",
+        "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+      },
+      {
+        "user": "How do I check NSP status?",
+        "bot": "For National Scholarship Portal (NSP), NSP is a one-stop portal for government scholarships with online apply and DBT to students. You can apply at https://scholarships.gov.in/fresh/newstdRegFrm.action."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "examples": [
+      {
+        "user": "What is SWAYAM?",
+        "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+      },
+      {
+        "user": "Are SWAYAM courses free?",
+        "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+      },
+      {
+        "user": "How do I get a SWAYAM certificate?",
+        "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ABC",
+    "examples": [
+      {
+        "user": "What is ABC ID?",
+        "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+      },
+      {
+        "user": "How do I create an Academic Bank of Credits account?",
+        "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+      },
+      {
+        "user": "Can I transfer credits between universities?",
+        "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "examples": [
+      {
+        "user": "How do I apply for a driving licence online?",
+        "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+      },
+      {
+        "user": "How do I check my RC status?",
+        "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+      },
+      {
+        "user": "How do I renew my DL?",
+        "bot": "For Parivahan (Vahan & Sarathi), Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. You can apply at https://parivahan.gov.in/parivahan//services."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "examples": [
+      {
+        "user": "How do I apply for a caste certificate in Maharashtra?",
+        "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+      },
+      {
+        "user": "What is Aaple Sarkar?",
+        "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+      },
+      {
+        "user": "How do I track my certificate application?",
+        "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "examples": [
+      {
+        "user": "How do I get 7/12 online in Maharashtra?",
+        "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+      },
+      {
+        "user": "What is Satbara?",
+        "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+      },
+      {
+        "user": "How do I check land mutation status?",
+        "bot": "For Mahabhulekh (7/12 & 8A Land Records), Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. You can apply at https://mahabhulekh.maharashtra.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "examples": [
+      {
+        "user": "How do I apply for a ration card in Maharashtra?",
+        "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+      },
+      {
+        "user": "What are NFSA ration card types?",
+        "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+      },
+      {
+        "user": "How do I add a member to my ration card?",
+        "bot": "For Maharashtra Ration Card / Food Supply (MahaFood), Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. You can apply at https://mahafood.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "examples": [
+      {
+        "user": "How do I apply for Maharashtra scholarship?",
+        "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+      },
+      {
+        "user": "What is MahaDBT?",
+        "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+      },
+      {
+        "user": "How do I check MahaDBT status?",
+        "bot": "For MahaDBT (Maharashtra Scholarship & DBT), MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. You can apply at https://mahadbt.maharashtra.gov.in."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "examples": [
+      {
+        "user": "How do I apply for DL in Maharashtra?",
+        "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+      },
+      {
+        "user": "What are Maharashtra RTO fees?",
+        "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+      },
+      {
+        "user": "How do I renew my DL in Mumbai/Pune?",
+        "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+      }
+    ]
+  }
+]

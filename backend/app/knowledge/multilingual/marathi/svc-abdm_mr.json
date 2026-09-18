@@ -1,0 +1,24 @@
+{
+  "name": "आयुष्मान भारत डिजिटल मिशन",
+  "description": "Creates a digital health ecosystem: ABHA ID, Health ID, Personal Health Records (PHR), and interoperable health information exchange.",
+  "benefits": "Single health ID to link records across providers; consent-based sharing; easier continuity of care.",
+  "eligibility": "Any Indian resident (voluntary opt-in).",
+  "documents": [
+    "Aadhaar / Driving Licence / any govt ID for ABHA creation"
+  ],
+  "steps": [
+    "Visit abdm.gov.in or ABHA app.",
+    "Authenticate with Aadhaar OTP or other ID.",
+    "Create 14-digit ABHA number / Health ID.",
+    "Link PHR address and records from providers.",
+    "Manage consent for record sharing."
+  ],
+  "faqs": [],
+  "keywords": [
+    "abdm",
+    "abha",
+    "health id",
+    "digital health",
+    "phr"
+  ]
+}

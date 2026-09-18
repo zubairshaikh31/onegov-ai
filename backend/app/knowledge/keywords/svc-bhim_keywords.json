@@ -1,0 +1,26 @@
+{
+  "service_id": "SVC-BHIM",
+  "keywords": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ],
+  "search_keywords": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ],
+  "aliases": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want BHIM / UPI (NPCI)"
+  ],
+  "nl_queries": [
+    "how to BHIM / UPI (NPCI)"
+  ]
+}

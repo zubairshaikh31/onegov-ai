@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit pmkisan.gov.in -> 'New Farmer Registration'."
+  },
+  {
+    "step": 2,
+    "description": "Enter Aadhaar and land/account details."
+  },
+  {
+    "step": 3,
+    "description": "Verify and submit; note registration number."
+  },
+  {
+    "step": 4,
+    "description": "District/State validates land records."
+  },
+  {
+    "step": 5,
+    "description": "Instalments credited to bank account; check status online."
+  }
+]

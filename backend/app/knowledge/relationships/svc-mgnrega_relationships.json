@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-MGNREGA",
+  "prerequisite": [
+    "SVC-EShramCard"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-EShramCard"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-MGNREGA -> SVC-EShramCard"
+}

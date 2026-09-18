@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-MAH-REV",
+  "prerequisite": [],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-MAH-AAPLE"
+  ],
+  "chain_example": "SVC-MAH-REV -> SVC-MAH-AAPLE"
+}

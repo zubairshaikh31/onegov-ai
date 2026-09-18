@@ -1,0 +1,277 @@
+[
+  {
+    "id": "REL-0001",
+    "service_id": "SVC-AADHAAR",
+    "related_service_id": "SVC-DIGILOCKER"
+  },
+  {
+    "id": "REL-0002",
+    "service_id": "SVC-AADHAAR",
+    "related_service_id": "SVC-ESHRAM"
+  },
+  {
+    "id": "REL-0003",
+    "service_id": "SVC-AADHAAR",
+    "related_service_id": "SVC-PMKISAN"
+  },
+  {
+    "id": "REL-0004",
+    "service_id": "SVC-PASSPORT",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0005",
+    "service_id": "SVC-PASSPORT",
+    "related_service_id": "SVC-VOTER"
+  },
+  {
+    "id": "REL-0006",
+    "service_id": "SVC-VOTER",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0007",
+    "service_id": "SVC-PMKISAN",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0008",
+    "service_id": "SVC-PMKISAN",
+    "related_service_id": "SVC-ENAM"
+  },
+  {
+    "id": "REL-0009",
+    "service_id": "SVC-ENAM",
+    "related_service_id": "SVC-PMKISAN"
+  },
+  {
+    "id": "REL-0010",
+    "service_id": "SVC-PMJAY",
+    "related_service_id": "SVC-ABDM"
+  },
+  {
+    "id": "REL-0011",
+    "service_id": "SVC-PMJAY",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0012",
+    "service_id": "SVC-ABDM",
+    "related_service_id": "SVC-PMJAY"
+  },
+  {
+    "id": "REL-0013",
+    "service_id": "SVC-ESHRAM",
+    "related_service_id": "SVC-EPFO"
+  },
+  {
+    "id": "REL-0014",
+    "service_id": "SVC-ESHRAM",
+    "related_service_id": "SVC-ESIC"
+  },
+  {
+    "id": "REL-0015",
+    "service_id": "SVC-ESHRAM",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0016",
+    "service_id": "SVC-EPFO",
+    "related_service_id": "SVC-ESIC"
+  },
+  {
+    "id": "REL-0017",
+    "service_id": "SVC-EPFO",
+    "related_service_id": "SVC-ESHRAM"
+  },
+  {
+    "id": "REL-0018",
+    "service_id": "SVC-ESIC",
+    "related_service_id": "SVC-EPFO"
+  },
+  {
+    "id": "REL-0019",
+    "service_id": "SVC-ESIC",
+    "related_service_id": "SVC-ESHRAM"
+  },
+  {
+    "id": "REL-0020",
+    "service_id": "SVC-NCS",
+    "related_service_id": "SVC-ESHRAM"
+  },
+  {
+    "id": "REL-0021",
+    "service_id": "SVC-UDYAM",
+    "related_service_id": "SVC-STARTUP"
+  },
+  {
+    "id": "REL-0022",
+    "service_id": "SVC-UDYAM",
+    "related_service_id": "SVC-GEM"
+  },
+  {
+    "id": "REL-0023",
+    "service_id": "SVC-UDYAM",
+    "related_service_id": "SVC-GST"
+  },
+  {
+    "id": "REL-0024",
+    "service_id": "SVC-STARTUP",
+    "related_service_id": "SVC-UDYAM"
+  },
+  {
+    "id": "REL-0025",
+    "service_id": "SVC-STARTUP",
+    "related_service_id": "SVC-GEM"
+  },
+  {
+    "id": "REL-0026",
+    "service_id": "SVC-GEM",
+    "related_service_id": "SVC-UDYAM"
+  },
+  {
+    "id": "REL-0027",
+    "service_id": "SVC-GEM",
+    "related_service_id": "SVC-STARTUP"
+  },
+  {
+    "id": "REL-0028",
+    "service_id": "SVC-ITR",
+    "related_service_id": "SVC-GST"
+  },
+  {
+    "id": "REL-0029",
+    "service_id": "SVC-ITR",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0030",
+    "service_id": "SVC-GST",
+    "related_service_id": "SVC-ITR"
+  },
+  {
+    "id": "REL-0031",
+    "service_id": "SVC-GST",
+    "related_service_id": "SVC-UDYAM"
+  },
+  {
+    "id": "REL-0032",
+    "service_id": "SVC-DIGILOCKER",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0033",
+    "service_id": "SVC-DIGILOCKER",
+    "related_service_id": "SVC-UMANG"
+  },
+  {
+    "id": "REL-0034",
+    "service_id": "SVC-UMANG",
+    "related_service_id": "SVC-DIGILOCKER"
+  },
+  {
+    "id": "REL-0035",
+    "service_id": "SVC-UMANG",
+    "related_service_id": "SVC-EPFO"
+  },
+  {
+    "id": "REL-0036",
+    "service_id": "SVC-UMANG",
+    "related_service_id": "SVC-ITR"
+  },
+  {
+    "id": "REL-0037",
+    "service_id": "SVC-PMAYU",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0038",
+    "service_id": "SVC-NSP",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0039",
+    "service_id": "SVC-NSP",
+    "related_service_id": "SVC-ABC"
+  },
+  {
+    "id": "REL-0040",
+    "service_id": "SVC-SWAYAM",
+    "related_service_id": "SVC-NSP"
+  },
+  {
+    "id": "REL-0041",
+    "service_id": "SVC-SWAYAM",
+    "related_service_id": "SVC-ABC"
+  },
+  {
+    "id": "REL-0042",
+    "service_id": "SVC-ABC",
+    "related_service_id": "SVC-SWAYAM"
+  },
+  {
+    "id": "REL-0043",
+    "service_id": "SVC-ABC",
+    "related_service_id": "SVC-NSP"
+  },
+  {
+    "id": "REL-0044",
+    "service_id": "SVC-PARIVAHAN",
+    "related_service_id": "SVC-DIGILOCKER"
+  },
+  {
+    "id": "REL-0045",
+    "service_id": "SVC-PARIVAHAN",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0046",
+    "service_id": "SVC-MAH-AAPLE",
+    "related_service_id": "SVC-MAH-REV"
+  },
+  {
+    "id": "REL-0047",
+    "service_id": "SVC-MAH-AAPLE",
+    "related_service_id": "SVC-MAH-DBT"
+  },
+  {
+    "id": "REL-0048",
+    "service_id": "SVC-MAH-AAPLE",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0049",
+    "service_id": "SVC-MAH-REV",
+    "related_service_id": "SVC-MAH-AAPLE"
+  },
+  {
+    "id": "REL-0050",
+    "service_id": "SVC-MAH-FOOD",
+    "related_service_id": "SVC-MAH-AAPLE"
+  },
+  {
+    "id": "REL-0051",
+    "service_id": "SVC-MAH-FOOD",
+    "related_service_id": "SVC-AADHAAR"
+  },
+  {
+    "id": "REL-0052",
+    "service_id": "SVC-MAH-DBT",
+    "related_service_id": "SVC-NSP"
+  },
+  {
+    "id": "REL-0053",
+    "service_id": "SVC-MAH-DBT",
+    "related_service_id": "SVC-MAH-AAPLE"
+  },
+  {
+    "id": "REL-0054",
+    "service_id": "SVC-MAH-RTO",
+    "related_service_id": "SVC-PARIVAHAN"
+  },
+  {
+    "id": "REL-0055",
+    "service_id": "SVC-MAH-RTO",
+    "related_service_id": "SVC-DIGILOCKER"
+  }
+]

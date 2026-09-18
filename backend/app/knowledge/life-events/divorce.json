@@ -1,0 +1,17 @@
+{
+  "event": "divorce",
+  "services": [
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-AP-ESEVA",
+  "guide_md": "tutorials/md/svc-ap-eseva_guide.md",
+  "guide_html": "tutorials/html/svc-ap-eseva_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-ap-eseva_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://ap.meeseva.gov.in"
+  ]
+}

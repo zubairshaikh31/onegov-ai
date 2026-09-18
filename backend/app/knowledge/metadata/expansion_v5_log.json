@@ -1,0 +1,37 @@
+{
+  "added": [
+    "SVC-CSC",
+    "SVC-BHIM",
+    "SVC-DIGIYATRA",
+    "SVC-MAA",
+    "SVC-AP-ESEVA",
+    "SVC-TELANGANA-TS",
+    "SVC-KERALA-EK",
+    "SVC-COWIN",
+    "SVC-AYUSH",
+    "SVC-ICDS",
+    "SVC-POSHAN",
+    "SVC-SBM",
+    "SVC-AMRUT",
+    "SVC-PMGSY",
+    "SVC-MGNREGA",
+    "SVC-DAYNULM",
+    "SVC-PMKVY4",
+    "SVC-DISHA",
+    "SVC-MAH-JAL",
+    "SVC-MAH-AAROGYA",
+    "SVC-PMSBY",
+    "SVC-PMSVM",
+    "SVC-ATAL",
+    "SVC-NPS",
+    "SVC-RAIL",
+    "SVC-AAI",
+    "SVC-PASSPORT-SEVA"
+  ],
+  "skipped": [
+    "SVC-EShramCard",
+    "SVC-NAPS",
+    "SVC-MAH-EMAH",
+    "SVC-MAH-CM"
+  ]
+}

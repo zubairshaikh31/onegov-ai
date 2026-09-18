@@ -1,0 +1,60 @@
+# National Career Service (NCS) — Citizen Guide (Unofficial Explanatory)
+
+> _Compiled from verified official information from https://ncs.gov.in. Last updated 2024-01-01._
+
+## Introduction
+Online platform for job seekers and employers with job matching, career counselling, and training listings.
+
+## Eligibility
+Any job seeker (citizen) or employer in India.
+
+## Benefits
+Free job search, resume builder, career counselling, vacancy posting.
+
+## Documents
+- Mobile / email for registration (Mandatory)
+- Aadhaar (optional for verification) (Mandatory)
+- Resume (Optional)
+- Skill certificates (Optional)
+
+## Application Process
+1. Register as Job Seeker on ncs.gov.in.
+2. Build profile / resume.
+3. Search and apply to vacancies.
+4. Attend counselling / interviews scheduled.
+
+## Fees
+Free.
+
+## Timeline
+Instant registration; application response per employer.
+
+## FAQs
+**Q: Is NCS free?**
+A: Yes, registration and job search are free for all.
+**Q: How do I register on NCS?**
+A: (See official portal https://ncs.gov.in for authoritative detail.)
+**Q: How do I find jobs on NCS?**
+A: (See official portal https://ncs.gov.in for authoritative detail.)
+**Q: What is the official website for this service?**
+A: https://ncs.gov.in
+**Q: How do I contact support?**
+A: Helpline 1800-425-1514 / email contactncs@gov.in
+**Q: Is there any fee?**
+A: Free.
+**Q: How long does it take?**
+A: Instant registration; application response per employer.
+**Q: Can I apply online?**
+A: Online (ncs.gov.in) and career centres
+**Q: What is the official website?**
+A: Verification Required. Refer to official portal.
+**Q: Is there a fee?**
+A: Verification Required. Refer to official portal.
+
+## Official Links
+- Website: https://ncs.gov.in
+- Apply: https://www.ncs.gov.in
+- Helpline: 1800-425-1514
+
+## Disclaimer
+Unofficial explanatory guide from public official sources. Not a government publication.

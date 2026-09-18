@@ -1,0 +1,85 @@
+{
+  "service_id": "SVC-EPFO",
+  "name": "EPF / UAN Services (Employees' Provident Fund)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Retirement Savings",
+  "department_id": "DEP-EPFO",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+  "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+  "benefits": "Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+  "required_documents": [
+    "UAN",
+    "Aadhaar (seeded)",
+    "Bank account",
+    "PAN (for certain withdrawals)"
+  ],
+  "optional_documents": [
+    "Form 15G/15H",
+    "Employer certificate"
+  ],
+  "application_mode": "Online (unifiedportal-mem.epfindia.gov.in) and employer",
+  "application_steps": [
+    "Activate UAN on EPFO member portal / UMANG.",
+    "Seed Aadhaar, bank, PAN via KYC.",
+    "Raise claim (Form 19/10C/31) online.",
+    "Track claim status; amount credited to bank."
+  ],
+  "processing_time": "Claims typically 7-20 days after verification.",
+  "fees": "No fee; statutory contributions by employer/employee.",
+  "validity": "Account active until final settlement/transfer.",
+  "official_portal": "https://www.epfindia.gov.in",
+  "official_apply_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+  "download_forms": "https://www.epfindia.gov.in/site_en/Forms.php",
+  "helpline_number": "1800-118-005 / 14434",
+  "email": "epfindia@gov.in",
+  "office_locator_info": "Regional EPFO offices; locate via portal.",
+  "faq": [
+    {
+      "q": "How do I check my PF balance?",
+      "a": "Via UMANG app, EPFO missed call 9966044425, or member portal."
+    }
+  ],
+  "related_services": [
+    "SVC-ESIC",
+    "SVC-ESHRAM"
+  ],
+  "keywords": [
+    "epf",
+    "pf",
+    "uan",
+    "provident fund",
+    "epfindia",
+    "pension"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.epfindia.gov.in",
+  "ai_summary": "EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers.",
+  "ai_explanation": "Employees contribute to EPF with employer matching; the UAN ties multiple member IDs across jobs. Members can seed KYC and file online claims for withdrawal, transfer, or advances. Balance and status are checkable via UMANG or the member portal.",
+  "common_questions": [
+    "How do I check PF balance?",
+    "How do I transfer PF on job change?",
+    "How do I withdraw PF?",
+    "What is UAN?"
+  ],
+  "common_mistakes": [
+    "Not seeding Aadhaar/PAN causing claim rejection",
+    "Multiple UANs across jobs"
+  ],
+  "search_keywords": [
+    "epf balance check",
+    "uan login",
+    "pf withdrawal online",
+    "epf claim status"
+  ],
+  "suggested_followups": [
+    "How do I merge multiple UANs?",
+    "What is the EPF interest rate?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

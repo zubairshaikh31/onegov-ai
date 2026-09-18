@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-EPFO",
+  "name": "EPF / UAN Services (Employees' Provident Fund)",
+  "category": "CAT-LABOUR",
+  "sub_category": "Retirement Savings",
+  "department": "DEP-EPFO",
+  "ministry": "MIN-LAB",
+  "central_state": "Central",
+  "state": null,
+  "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+  "benefits": "Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+  "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+  "required_documents": [
+    "UAN",
+    "Aadhaar (seeded)",
+    "Bank account",
+    "PAN (for certain withdrawals)"
+  ],
+  "optional_documents": [
+    "Form 15G/15H",
+    "Employer certificate"
+  ],
+  "fees": "No fee; statutory contributions by employer/employee.",
+  "processing_time": "Claims typically 7-20 days after verification.",
+  "validity": "Account active until final settlement/transfer.",
+  "application_mode": "Online (unifiedportal-mem.epfindia.gov.in) and employer",
+  "official_website": "https://www.epfindia.gov.in",
+  "official_apply_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+  "download_forms": "https://www.epfindia.gov.in/site_en/Forms.php",
+  "helpline": "1800-118-005 / 14434",
+  "email": "epfindia@gov.in",
+  "office_locator": "Regional EPFO offices; locate via portal.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.epfindia.gov.in",
+  "collection_method": "official_portal"
+}

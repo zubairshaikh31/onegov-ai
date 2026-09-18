@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-ESIC",
+  "name": "ESIC (Employees' State Insurance)",
+  "category": "CAT-LABOUR",
+  "sub_category": "Social Insurance",
+  "department": "DEP-ESIC",
+  "ministry": "MIN-LAB",
+  "central_state": "Central",
+  "state": null,
+  "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+  "benefits": "Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+  "eligibility": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+  "required_documents": [
+    "IP number / UAN",
+    "ESIC card / Pehchan card",
+    "Aadhaar",
+    "Bank account"
+  ],
+  "optional_documents": [
+    "Employer certificate"
+  ],
+  "fees": "Contribution by employer (3.25%) and employee (0.75%) on wages.",
+  "processing_time": "Enrolment by employer; benefits as per claim processing.",
+  "validity": "Coverage while in covered employment; continue via scheme provisions.",
+  "application_mode": "Employer enrols; employee uses ESIC portal / dispensaries",
+  "official_website": "https://www.esic.gov.in",
+  "official_apply_link": "https://www.esic.gov.in/insured-person",
+  "download_forms": "https://www.esic.gov.in/downloads/forms",
+  "helpline": "1800-11-2526",
+  "email": "webmaster@esic.gov.in",
+  "office_locator": "ESIC dispensaries, hospitals, and regional offices.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.esic.gov.in",
+  "collection_method": "official_portal"
+}

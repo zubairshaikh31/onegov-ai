@@ -1,0 +1,18 @@
+{
+  "name": "राजस्थान ई-मित्र / एसएसओ",
+  "description": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates.",
+  "benefits": "Unified access to hundreds of state services via e-Mitra kiosks.",
+  "eligibility": "Rajasthan residents; SSO ID registration.",
+  "documents": [
+    "Aadhaar",
+    "Mobile",
+    "Address proof"
+  ],
+  "steps": [
+    "Create SSO ID on sso.rajasthan.gov.in.",
+    "Use e-Mitra for services.",
+    "Track and download."
+  ],
+  "faqs": [],
+  "keywords": []
+}

@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-ENAM",
+  "ai_summary": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery.",
+  "ai_explanation": "eNAM lets farmers and traders transact across mandis through e-auction, improving price discovery and reducing middlemen. Farmers register free and link their mandi and bank account; traders need a licence.",
+  "eligibility_summary": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+  "conversation_examples": [
+    {
+      "user": "I want eNAM (National Agriculture Market)",
+      "bot": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. Apply: https://enam.gov.in/web/guest/registration. Helpline: 1800-270-0222."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with eNAM (National Agriculture Market). Use only official info from https://enam.gov.in.",
+  "follow_up_questions": [
+    "How do I grade my produce for eNAM?",
+    "What are eNAM transaction charges?"
+  ],
+  "intent_examples": [
+    "apply_svc-enam",
+    "status_svc-enam",
+    "eligibility_svc-enam"
+  ],
+  "recommended_services": [
+    "SVC-PMKISAN"
+  ],
+  "document_suggestions": [
+    "Bank account",
+    "Aadhaar",
+    "Trader licence (for traders)",
+    "GST (traders if applicable)"
+  ],
+  "suggested_responses": [
+    "Visit https://enam.gov.in",
+    "Call 1800-270-0222"
+  ],
+  "recommendation_weight": 1.0
+}

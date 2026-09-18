@@ -1,0 +1,20 @@
+{
+  "services": [
+    "SVC-NSP",
+    "SVC-SWAYAM",
+    "SVC-ABC",
+    "SVC-DIGILOCKER"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Marksheets",
+    "Bank account"
+  ],
+  "schemes": [
+    "National Scholarship Portal",
+    "SWAYAM",
+    "Academic Bank of Credits"
+  ]
+}

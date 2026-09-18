@@ -1,0 +1,127 @@
+{
+  "service_id": "SVC-NSP",
+  "name": "National Scholarship Portal (NSP)",
+  "category_id": "CAT-EDUCATION",
+  "sub_category": "Scholarships",
+  "department_id": "DEP-NSP",
+  "ministry_id": "MIN-EDU",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Centralised portal for central/state/UT scholarship schemes with application, verification, and DBT.",
+  "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution).",
+  "benefits": "Single-window scholarships; direct benefit transfer to bank account.",
+  "required_documents": [
+    "Aadhaar",
+    "Institution ID",
+    "Income certificate",
+    "Bank account",
+    "Previous marksheets"
+  ],
+  "optional_documents": [
+    "Caste/disability certificate"
+  ],
+  "application_mode": "Online (scholarships.gov.in)",
+  "application_steps": [
+    "Register on scholarships.gov.in as student.",
+    "Find eligible schemes; fill application.",
+    "Upload documents; submit.",
+    "Institute and nodal verification.",
+    "Sanction and DBT to bank."
+  ],
+  "processing_time": "Per scheme cycle (application->verification->sanction).",
+  "fees": "Free.",
+  "validity": "Per academic year; renew annually.",
+  "official_portal": "https://scholarships.gov.in",
+  "official_apply_link": "https://scholarships.gov.in/fresh/newstdRegFrm.action",
+  "download_forms": "https://scholarships.gov.in",
+  "helpline_number": "0120-6619540",
+  "email": "helpdesk@nsp.gov.in",
+  "office_locator_info": "Institution Nodal Officers; state scholarship departments.",
+  "faq": [
+    {
+      "q": "Can I apply to multiple schemes?",
+      "a": "Only one central scheme at a time generally; multiple where permitted."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR",
+    "SVC-ABC"
+  ],
+  "keywords": [
+    "nsp",
+    "national scholarship portal",
+    "scholarship",
+    "student",
+    "dbt"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://scholarships.gov.in",
+  "ai_summary": "NSP is a one-stop portal for government scholarships with online apply and DBT to students.",
+  "ai_explanation": "The National Scholarship Portal unifies central, state, and UT scholarship schemes. Students register, find eligible schemes, apply with documents, and receive funds via DBT after institute and nodal verification. Renewal is annual.",
+  "common_questions": [
+    "How do I apply for scholarship on NSP?",
+    "Which scholarships are on NSP?",
+    "How do I check NSP status?",
+    "What documents are needed for NSP?",
+    "How do I apply for National Scholarship Portal (NSP)?",
+    "What documents are required for National Scholarship Portal (NSP)?",
+    "What is the fee for National Scholarship Portal (NSP)?",
+    "Who is eligible for National Scholarship Portal (NSP)?",
+    "How long does National Scholarship Portal (NSP) take to process?",
+    "What is the official website for National Scholarship Portal (NSP)?"
+  ],
+  "common_mistakes": [
+    "Applying to conflicting schemes",
+    "Wrong bank/Aadhaar seeding",
+    "Missing renewal deadline"
+  ],
+  "search_keywords": [
+    "nsp scholarship apply",
+    "nsp login",
+    "scholarship status nsp",
+    "national scholarship portal"
+  ],
+  "suggested_followups": [
+    "What is the NSP application deadline?",
+    "How do I renew my NSP scholarship?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for National Scholarship Portal (NSP)?",
+      "What documents are required for National Scholarship Portal (NSP)?",
+      "What is the fee for National Scholarship Portal (NSP)?",
+      "Who is eligible for National Scholarship Portal (NSP)?",
+      "How long does National Scholarship Portal (NSP) take to process?",
+      "What is the official website for National Scholarship Portal (NSP)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for National Scholarship Portal (NSP)?",
+      "Can I track my National Scholarship Portal (NSP) application status online?",
+      "What should I do if my National Scholarship Portal (NSP) application is rejected?",
+      "Are there any state-specific rules for National Scholarship Portal (NSP) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "education",
+      "financial aid",
+      "national",
+      "nsp",
+      "portal",
+      "scholarship",
+      "student"
+    ],
+    "content_hash": "54c7c9ae6c67ce54409c11f7f2f235b95deea7222e2b32b4a57de40df9ae42be",
+    "source_type": "html",
+    "version": 1
+  }
+}

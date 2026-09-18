@@ -1,0 +1,16 @@
+{
+  "services": [
+    "SVC-EPFO",
+    "SVC-PMJAY",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "UAN",
+    "Aadhaar",
+    "Bank account"
+  ],
+  "schemes": [
+    "EPF Pension",
+    "Ayushman Bharat"
+  ]
+}

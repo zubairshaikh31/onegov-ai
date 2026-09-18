@@ -1,0 +1,19 @@
+{
+  "service_id": "SVC-GEM",
+  "videos": [
+    {
+      "title": "GeM (Government e-Marketplace) - Official Information",
+      "youtube_url": "",
+      "channel": "Refer to official ministry/MeitY/NIC/PIB YouTube channel",
+      "channel_url": "",
+      "duration": "",
+      "language": "en",
+      "type": "official",
+      "department": "MIN-FIN",
+      "thumbnail": "",
+      "description": "Search official MIN-FIN YouTube channel for GeM (Government e-Marketplace).",
+      "verified": false,
+      "source": "Official Government YouTube (lookup required)"
+    }
+  ]
+}

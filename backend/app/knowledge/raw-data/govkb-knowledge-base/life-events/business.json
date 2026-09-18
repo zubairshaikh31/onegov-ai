@@ -1,0 +1,19 @@
+{
+  "services": [
+    "SVC-UDYAM",
+    "SVC-STARTUP",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "documents": [
+    "Aadhaar",
+    "PAN",
+    "Business registration",
+    "Bank account"
+  ],
+  "schemes": [
+    "Udyam",
+    "Startup India",
+    "GeM"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "OneGov Knowledge Ontology",
+  "version": "1.0",
+  "entities": [
+    "Ministry",
+    "Department",
+    "Service",
+    "Document",
+    "Scheme",
+    "BeneficiaryGroup",
+    "LifeEvent",
+    "Policy",
+    "Act",
+    "Rule",
+    "Notification",
+    "Organization",
+    "Person"
+  ],
+  "relationships": [
+    {
+      "from": "Ministry",
+      "to": "Department",
+      "type": "manages",
+      "cardinality": "1..n"
+    },
+    {
+      "from": "Department",
+      "to": "Service",
+      "type": "provides",
+      "cardinality": "1..n"
+    },
+    {
+      "from": "Service",
+      "to": "Document",
+      "type": "requires",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Service",
+      "to": "Scheme",
+      "type": "relates_to",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Scheme",
+      "to": "BeneficiaryGroup",
+      "type": "targets",
+      "cardinality": "1..n"
+    },
+    {
+      "from": "LifeEvent",
+      "to": "Service",
+      "type": "recommends",
+      "cardinality": "1..n"
+    },
+    {
+      "from": "Service",
+      "to": "Service",
+      "type": "prerequisite",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Service",
+      "to": "Service",
+      "type": "depends_on",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Service",
+      "to": "Service",
+      "type": "complementary",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Service",
+      "to": "Service",
+      "type": "alternative",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Act",
+      "to": "Service",
+      "type": "governs",
+      "cardinality": "0..n"
+    },
+    {
+      "from": "Department",
+      "to": "Ministry",
+      "type": "belongs_to",
+      "cardinality": "n..1"
+    },
+    {
+      "from": "Service",
+      "to": "Ministry",
+      "type": "under",
+      "cardinality": "n..1"
+    }
+  ],
+  "source": "Derived from OneGov-KnowledgeBase verified government service metadata."
+}

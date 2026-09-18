@@ -1,0 +1,84 @@
+{
+  "en": {
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+    "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+    "benefits": "e-Shram card; eligibility for future social security/welfare schemes; portability.",
+    "application_steps": [
+      "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+      "Fill personal, occupation, and bank details.",
+      "Submit; download e-Shram card (UAN).",
+      "Update details as needed."
+    ],
+    "faqs": [
+      "Who should register on e-Shram?",
+      "Who can register on e-Shram?",
+      "How do I download my e-Shram card?",
+      "Is e-Shram for EPFO members?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security"
+    ]
+  },
+  "hi": {
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+    "eligibility": "पात्रता: Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+    "benefits": "लाभ: e-Shram card; eligibility for future social security/welfare schemes; portability.",
+    "application_steps": [
+      "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+      "Fill personal, occupation, and bank details.",
+      "Submit; download e-Shram card (UAN).",
+      "Update details as needed."
+    ],
+    "faqs": [
+      "Who should register on e-Shram?",
+      "Who can register on e-Shram?",
+      "How do I download my e-Shram card?",
+      "Is e-Shram for EPFO members?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security",
+      "e shram",
+      "unorganised worker"
+    ]
+  },
+  "mr": {
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+    "eligibility": "पात्रता: Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+    "benefits": "फायदे: e-Shram card; eligibility for future social security/welfare schemes; portability.",
+    "application_steps": [
+      "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+      "Fill personal, occupation, and bank details.",
+      "Submit; download e-Shram card (UAN).",
+      "Update details as needed."
+    ],
+    "faqs": [
+      "Who should register on e-Shram?",
+      "Who can register on e-Shram?",
+      "How do I download my e-Shram card?",
+      "Is e-Shram for EPFO members?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "e shram",
+      "unorganised worker",
+      "labour card",
+      "eshram card",
+      "social security",
+      "e shram",
+      "unorganised worker"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "keywords": [
+    "digilocker",
+    "digital locker",
+    "e documents",
+    "meity",
+    "paperless"
+  ],
+  "search_keywords": [
+    "digilocker signup",
+    "digilocker documents list",
+    "digilocker app download"
+  ],
+  "aliases": [
+    "digilocker",
+    "digital locker",
+    "e documents",
+    "meity",
+    "paperless"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want DigiLocker",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply DigiLocker"
+  ]
+}

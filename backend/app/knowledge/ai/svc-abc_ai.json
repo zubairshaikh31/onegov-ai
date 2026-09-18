@@ -1,0 +1,35 @@
+{
+  "service_id": "SVC-ABC",
+  "ai_summary": "ABC is a national digital credit bank letting HEI students store and transfer academic credits.",
+  "ai_explanation": "The Academic Bank of Credits gives each student an ABC ID to accumulate credits earned from participating universities, which can later be transferred toward a degree under the National Credit Framework. It promotes flexible, multiple-entry learning.",
+  "eligibility_summary": "Students of participating Higher Education Institutions.",
+  "conversation_examples": [
+    {
+      "user": "I want Academic Bank of Credits (ABC)",
+      "bot": "ABC is a national digital credit bank letting HEI students store and transfer academic credits. Apply: https://abc.gov.in. Helpline: 1800-111-550 (via ABC/HEI)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Academic Bank of Credits (ABC). Use only official info from https://abc.gov.in.",
+  "follow_up_questions": [
+    "How do I link my ABC ID with my university?",
+    "What is the National Credit Framework?"
+  ],
+  "intent_examples": [
+    "apply_svc-abc",
+    "status_svc-abc",
+    "eligibility_svc-abc"
+  ],
+  "recommended_services": [
+    "SVC-SWAYAM",
+    "SVC-NSP"
+  ],
+  "document_suggestions": [
+    "Aadhaar / ABC ID",
+    "Student HEI enrollment"
+  ],
+  "suggested_responses": [
+    "Visit https://abc.gov.in",
+    "Call 1800-111-550 (via ABC/HEI)"
+  ],
+  "recommendation_weight": 1.0
+}

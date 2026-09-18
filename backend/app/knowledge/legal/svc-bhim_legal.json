@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-BHIM",
+  "references": [
+    {
+      "act": "Payment and Settlement Systems Act, 2007",
+      "rule": "NPCI UPI guidelines",
+      "authority": "RBI/NPCI"
+    }
+  ]
+}

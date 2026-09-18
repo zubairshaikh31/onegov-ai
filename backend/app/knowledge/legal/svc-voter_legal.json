@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-VOTER",
+  "references": [
+    {
+      "act": "Representation of the People Act, 1950/1951",
+      "rule": "Registration of Electors Rules, 1960",
+      "authority": "Election Commission"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "service_id": "SVC-NCS",
+  "ai_summary": "NCS is a free national job portal connecting job seekers with employers and counselling.",
+  "ai_explanation": "NCS offers a unified platform where job seekers register, build resumes, and apply to vacancies, while employers post jobs. It also provides career counselling and training information through Model Career Centres.",
+  "common_questions": [
+    "How do I register on NCS?",
+    "How do I find jobs on NCS?",
+    "Is NCS free?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I register on NCS?",
+      "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+    },
+    {
+      "user": "How do I find jobs on NCS?",
+      "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+    },
+    {
+      "user": "Is NCS free?",
+      "bot": "For National Career Service (NCS), NCS is a free national job portal connecting job seekers with employers and counselling. You can apply at https://www.ncs.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-ncs",
+    "status_svc-ncs",
+    "eligibility_svc-ncs"
+  ],
+  "user_utterances": [
+    "I want National Career Service (NCS)",
+    "Need National Career Service (NCS)",
+    "National Career Service (NCS) help"
+  ],
+  "follow_up_questions": [
+    "How do I post a job as an employer on NCS?",
+    "What career counselling does NCS offer?"
+  ],
+  "recommended_responses": [
+    "Visit https://ncs.gov.in",
+    "Call helpline 1800-425-1514"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://www.ncs.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-425-1514"
+    }
+  ]
+}

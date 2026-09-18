@@ -1,0 +1,21 @@
+{
+  "name": "ड्रायव्हिंग लायसन्स (सारथी)",
+  "description": "Application for learner's licence, driving licence, and renewals through the Parivahan Sarathi portal.",
+  "benefits": "Legal authorisation to drive; valid identity/address proof.",
+  "eligibility": "Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test.",
+  "documents": [
+    "Proof of Age",
+    "Proof of Address",
+    "Passport photos"
+  ],
+  "steps": [
+    "Visit Sarathi Parivahan and select your state.",
+    "Apply for Learner's Licence and pay fees.",
+    "Take the online learner's test.",
+    "After the mandatory period, apply for the driving licence.",
+    "Book and pass the driving test at the RTO.",
+    "Receive the DL by post / download."
+  ],
+  "faqs": [],
+  "keywords": []
+}

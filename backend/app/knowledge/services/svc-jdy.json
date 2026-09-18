@@ -1,0 +1,52 @@
+{
+  "service_id": "SVC-JDY",
+  "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Financial Inclusion",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance.",
+  "eligibility": "Any Indian citizen (resident) above 10 years; one account per person.",
+  "benefits": "Zero-balance account, RuPay card, accident insurance, overdraft, DBT access.",
+  "required_documents": [
+    "Aadhaar",
+    "Identity proof",
+    "Address proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit bank/Bank Mitra with Aadhaar and proof.",
+    "Open account; get RuPay card.",
+    "Avail DBT and insurance benefits."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.pmjdy.gov.in",
+  "official_apply_link": "https://www.pmjdy.gov.in",
+  "download_forms": "https://www.pmjdy.gov.in",
+  "helpline_number": "1800-11-0001",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.pmjdy.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "PMJDY provides every household a zero-balance bank account with RuPay card and insurance cover.",
+  "ai_explanation": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "jan dhan",
+    "pmjdy",
+    "zero balance account",
+    "financial inclusion"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

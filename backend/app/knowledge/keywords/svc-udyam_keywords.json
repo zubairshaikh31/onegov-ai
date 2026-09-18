@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-UDYAM",
+  "keywords": [
+    "udyam",
+    "msme",
+    "udyog aadhaar",
+    "business registration",
+    "enterprise"
+  ],
+  "search_keywords": [
+    "udyam registration online",
+    "msme certificate download",
+    "udyam aadhaar"
+  ],
+  "aliases": [
+    "udyam",
+    "msme",
+    "udyog aadhaar",
+    "business registration",
+    "enterprise"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Udyam Registration (MSME)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Udyam Registration (MSME)"
+  ]
+}

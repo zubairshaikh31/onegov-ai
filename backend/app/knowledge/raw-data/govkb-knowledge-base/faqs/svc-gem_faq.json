@@ -1,0 +1,61 @@
+[
+  {
+    "question": "Is GeM only for government buyers?",
+    "answer": "Buyers are government entities; sellers can be any eligible business/MSME.",
+    "official": true
+  },
+  {
+    "question": "How do I sell on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Who can buy on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are GeM seller charges?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I register on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://gem.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-419-3436 / 1800-102-3436 / email helpdesk-gem@gem.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Registration quick; transaction per bid cycle.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (gem.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

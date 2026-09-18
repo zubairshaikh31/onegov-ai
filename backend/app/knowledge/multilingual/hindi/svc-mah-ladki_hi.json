@@ -1,0 +1,22 @@
+{
+  "name": "मुख्यमंत्री माझी लाडकी बहीन योजना",
+  "description": "State scheme providing monthly financial assistance to eligible women residents of Maharashtra.",
+  "benefits": "Monthly financial assistance credited via DBT to eligible women.",
+  "eligibility": "Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified.",
+  "documents": [
+    "Aadhaar",
+    "Domicile certificate",
+    "Income certificate",
+    "Bank account (Aadhaar linked)",
+    "Ration card"
+  ],
+  "steps": [
+    "Register on the Ladki Bahin portal or Narishakti Doot app.",
+    "Enter Aadhaar and personal details.",
+    "Upload eligibility documents.",
+    "Submit and note the application number.",
+    "Track approval and DBT credit status."
+  ],
+  "faqs": [],
+  "keywords": []
+}

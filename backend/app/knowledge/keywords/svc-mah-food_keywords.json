@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "keywords": [
+    "maharashtra ration card",
+    "mahafood",
+    "pds",
+    "nfsa",
+    "food supply"
+  ],
+  "search_keywords": [
+    "maharashtra ration card apply",
+    "mahafood login",
+    "pds shop near me",
+    "nfsa maharashtra"
+  ],
+  "aliases": [
+    "maharashtra ration card",
+    "mahafood",
+    "pds",
+    "nfsa",
+    "food supply"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Maharashtra Ration Card / Food Supply (MahaFood)"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "service_id": "SVC-GEM",
+  "name": "GeM (Government e-Marketplace)",
+  "category_id": "CAT-BUSINESS",
+  "sub_category": "Public Procurement",
+  "department_id": "DEP-GEM",
+  "ministry_id": "MIN-GOI",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Online platform for procurement of goods and services by government buyers and selling by sellers/MSMEs.",
+  "eligibility": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details.",
+  "benefits": "Transparent public procurement, direct market access, MSE preference, timely payment.",
+  "required_documents": [
+    "Business registration / Udyam",
+    "Bank account",
+    "PAN/GSTIN",
+    "Product catalogue"
+  ],
+  "optional_documents": [
+    "Brand authorization"
+  ],
+  "application_mode": "Online (gem.gov.in)",
+  "application_steps": [
+    "Register as buyer or seller on gem.gov.in.",
+    "Complete organization and bank/KYC.",
+    "List products/services (sellers) or create demand (buyers).",
+    "Transact via bid/RA; order and fulfil."
+  ],
+  "processing_time": "Registration quick; transaction per bid cycle.",
+  "fees": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy.",
+  "validity": "Account active while KYC valid.",
+  "official_portal": "https://gem.gov.in",
+  "official_apply_link": "https://gem.gov.in/registration",
+  "download_forms": "https://gem.gov.in",
+  "helpline_number": "1800-419-3436 / 1800-102-3436",
+  "email": "helpdesk-gem@gem.gov.in",
+  "office_locator_info": "GeM regional outreach; buyer organisations.",
+  "faq": [
+    {
+      "q": "Is GeM only for government buyers?",
+      "a": "Buyers are government entities; sellers can be any eligible business/MSME."
+    }
+  ],
+  "related_services": [
+    "SVC-UDYAM",
+    "SVC-STARTUP"
+  ],
+  "keywords": [
+    "gem",
+    "government e marketplace",
+    "public procurement",
+    "seller registration",
+    "tender"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://gem.gov.in",
+  "ai_summary": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs.",
+  "ai_explanation": "GeM is an open e-marketplace where government departments buy goods/services and businesses (including MSMEs) sell. It brings transparency, MSE preferences, and faster payments. Sellers register with business and tax details and list catalogues.",
+  "common_questions": [
+    "How do I sell on GeM?",
+    "Who can buy on GeM?",
+    "What are GeM seller charges?",
+    "How do I register on GeM?"
+  ],
+  "common_mistakes": [
+    "Incomplete KYC delaying approval",
+    "Mis-pricing catalogues",
+    "Ignoring MSE preference rules"
+  ],
+  "search_keywords": [
+    "gem seller registration",
+    "gem.gov.in login",
+    "government tender gem"
+  ],
+  "suggested_followups": [
+    "What documents are needed to sell on GeM?",
+    "How are GeM payments made?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

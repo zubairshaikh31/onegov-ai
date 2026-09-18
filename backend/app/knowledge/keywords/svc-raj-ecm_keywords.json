@@ -1,0 +1,27 @@
+{
+  "service_id": "SVC-RAJ-ECM",
+  "keywords": [
+    "rajasthan sso",
+    "emitra",
+    "rajasthan services"
+  ],
+  "search_keywords": [
+    "rajasthan sso",
+    "emitra",
+    "rajasthan services"
+  ],
+  "aliases": [
+    "rajasthan sso",
+    "emitra",
+    "rajasthan services"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Rajasthan e-Mitra / SSO",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Rajasthan e-Mitra / SSO"
+  ]
+}

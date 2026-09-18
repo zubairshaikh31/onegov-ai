@@ -1,0 +1,80 @@
+{
+  "service_id": "SVC-ABC",
+  "name": "Academic Bank of Credits (ABC)",
+  "category_id": "CAT-EDUCATION",
+  "sub_category": "Credit Banking",
+  "department_id": "DEP-NSP",
+  "ministry_id": "MIN-EDU",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National digital storehouse of academic credits earned from HEIs, enabling transfer and accumulation.",
+  "eligibility": "Students of participating Higher Education Institutions.",
+  "benefits": "Store credits, transfer across institutions, flexible degree pathways.",
+  "required_documents": [
+    "Aadhaar / ABC ID",
+    "Student HEI enrollment"
+  ],
+  "optional_documents": [
+    "Previous credit records"
+  ],
+  "application_mode": "Online (abc.gov.in)",
+  "application_steps": [
+    "Create ABC ID via abc.gov.in / institutional link.",
+    "HEI deposits earned credits.",
+    "View and manage credit stack.",
+    "Transfer/redeem per framework."
+  ],
+  "processing_time": "Credits deposited per academic cycle.",
+  "fees": "Free.",
+  "validity": "Credits valid per UGC framework duration.",
+  "official_portal": "https://abc.gov.in",
+  "official_apply_link": "https://abc.gov.in",
+  "download_forms": "https://abc.gov.in",
+  "helpline_number": "1800-111-550 (via ABC/HEI)",
+  "email": "abc@ugc.gov.in",
+  "office_locator_info": "Participating HEIs.",
+  "faq": [
+    {
+      "q": "Who can open an ABC account?",
+      "a": "Students of ABC-participating higher education institutions."
+    }
+  ],
+  "related_services": [
+    "SVC-SWAYAM",
+    "SVC-NSP"
+  ],
+  "keywords": [
+    "abc",
+    "academic bank of credits",
+    "ugc",
+    "credit transfer",
+    "higher education"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://abc.gov.in",
+  "ai_summary": "ABC is a national digital credit bank letting HEI students store and transfer academic credits.",
+  "ai_explanation": "The Academic Bank of Credits gives each student an ABC ID to accumulate credits earned from participating universities, which can later be transferred toward a degree under the National Credit Framework. It promotes flexible, multiple-entry learning.",
+  "common_questions": [
+    "What is ABC ID?",
+    "How do I create an Academic Bank of Credits account?",
+    "Can I transfer credits between universities?",
+    "Which universities use ABC?"
+  ],
+  "common_mistakes": [
+    "Assuming all HEIs participate",
+    "Not linking Aadhaar"
+  ],
+  "search_keywords": [
+    "abc id create",
+    "academic bank of credits login",
+    "credit transfer india"
+  ],
+  "suggested_followups": [
+    "How do I link my ABC ID with my university?",
+    "What is the National Credit Framework?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

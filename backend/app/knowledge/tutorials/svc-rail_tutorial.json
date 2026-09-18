@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-RAIL",
+  "guide_md": "tutorials/md/svc-rail_guide.md",
+  "guide_html": "tutorials/html/svc-rail_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-rail_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.irctc.co.in"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "name": "e-Shram (National Database of Unorganised Workers)",
+  "category": "CAT-LABOUR",
+  "sub_category": "Worker Registration",
+  "department": "DEP-LAB",
+  "ministry": "MIN-LAB",
+  "central_state": "Central",
+  "state": null,
+  "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+  "benefits": "e-Shram card; eligibility for future social security/welfare schemes; portability.",
+  "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank account",
+    "Mobile linked to Aadhaar"
+  ],
+  "optional_documents": [
+    "Occupation / skill details"
+  ],
+  "fees": "Free.",
+  "processing_time": "Instant card generation after Aadhaar OTP verification.",
+  "validity": "Card valid; update on change of details.",
+  "application_mode": "Online (eshram.gov.in) and CSC",
+  "official_website": "https://eshram.gov.in",
+  "official_apply_link": "https://eshram.gov.in",
+  "download_forms": "https://eshram.gov.in",
+  "helpline": "14434",
+  "email": "eshram@gov.in",
+  "office_locator": "CSC centres; State Labour Departments.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://eshram.gov.in",
+  "collection_method": "official_portal"
+}

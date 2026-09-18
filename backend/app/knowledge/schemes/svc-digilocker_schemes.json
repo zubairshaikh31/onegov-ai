@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0017",
+    "service_id": "SVC-DIGILOCKER",
+    "name": "DigiLocker",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "official_portal": "https://www.digilocker.gov.in"
+  }
+]

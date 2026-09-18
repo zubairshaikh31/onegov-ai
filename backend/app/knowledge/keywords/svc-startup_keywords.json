@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-STARTUP",
+  "keywords": [
+    "startup india",
+    "dpiit",
+    "startup recognition",
+    "entrepreneur",
+    "tax exemption"
+  ],
+  "search_keywords": [
+    "startup india registration",
+    "dpiit recognition",
+    "startup tax exemption"
+  ],
+  "aliases": [
+    "startup india",
+    "dpiit",
+    "startup recognition",
+    "entrepreneur",
+    "tax exemption"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Startup India Recognition",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Startup India Recognition"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-INDIAPOST",
+  "guide_md": "tutorials/md/svc-indiapost_guide.md",
+  "guide_html": "tutorials/html/svc-indiapost_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-indiapost_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.indiapost.gov.in"
+  ]
+}

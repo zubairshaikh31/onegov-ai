@@ -1,0 +1,21 @@
+{
+  "name": "भीम / यूपीआय",
+  "description": "Unified Payments Interface enabling instant bank-to-bank mobile payments.",
+  "benefits": "Instant, low-cost digital payments.",
+  "eligibility": "Any Indian with a bank account and smartphone.",
+  "documents": [
+    "Bank account",
+    "Mobile"
+  ],
+  "steps": [
+    "Install BHIM app.",
+    "Link bank + UPI PIN.",
+    "Send/receive money."
+  ],
+  "faqs": [],
+  "keywords": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ]
+}

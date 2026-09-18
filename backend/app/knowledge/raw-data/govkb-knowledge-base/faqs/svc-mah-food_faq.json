@@ -1,0 +1,55 @@
+[
+  {
+    "question": "How do I add a member to my ration card?",
+    "answer": "Apply for modification at the rationing office / portal with proof.",
+    "official": true
+  },
+  {
+    "question": "How do I apply for a ration card in Maharashtra?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are NFSA ration card types?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Where is my nearest ration shop?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://mahafood.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-222-362 (Toll-free, MahaFood) / email fcscrti-maha@gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "As per state schedule (nominal).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Per district verification (weeks).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (maha food portal) and rationing offices / CSC",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

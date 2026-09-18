@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register/login on Aaple Sarkar (RTS) portal."
+  },
+  {
+    "step": 2,
+    "description": "Select Revenue Department > Income Certificate."
+  },
+  {
+    "step": 3,
+    "description": "Fill applicant details and upload documents."
+  },
+  {
+    "step": 4,
+    "description": "Pay the fee online."
+  },
+  {
+    "step": 5,
+    "description": "Track application; download the digitally signed certificate."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "synonyms": [
+    "uidai",
+    "uid number",
+    "aadhar",
+    "aadhaar card",
+    "आधार",
+    "आधार कार्ड",
+    "आधार नोंदणी"
+  ],
+  "aliases": [
+    "uidai",
+    "uid number",
+    "aadhar",
+    "aadhaar card",
+    "आधार",
+    "आधार कार्ड",
+    "आधार नोंदणी"
+  ],
+  "spelling_mistakes": [
+    "aadhar",
+    "adhaar",
+    "aadhar card"
+  ]
+}

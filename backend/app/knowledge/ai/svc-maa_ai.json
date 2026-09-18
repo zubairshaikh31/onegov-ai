@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-MAA",
+  "ai_summary": "Rajasthan state e-governance via SSO.",
+  "ai_explanation": "Rajasthan state portal and SSO for citizen services.",
+  "eligibility_summary": "Rajasthan residents with SSO ID.",
+  "conversation_examples": [
+    {
+      "user": "I want Maa Bharti / e-Governance (Rajasthan)",
+      "bot": "Rajasthan state e-governance via SSO. Apply: https://sso.rajasthan.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maa Bharti / e-Governance (Rajasthan). Use only https://rajasthan.gov.in.",
+  "follow_up_questions": [
+    "What documents for Maa Bharti / e-Governance (Rajasthan)?",
+    "How long for Maa Bharti / e-Governance (Rajasthan)?"
+  ],
+  "intent_examples": [
+    "apply_svc-maa",
+    "status_svc-maa"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://rajasthan.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

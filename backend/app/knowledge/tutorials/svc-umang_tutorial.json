@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-UMANG",
+  "guide_md": "tutorials/md/svc-umang_guide.md",
+  "guide_html": "tutorials/html/svc-umang_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-umang_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://umang.gov.in"
+  ]
+}

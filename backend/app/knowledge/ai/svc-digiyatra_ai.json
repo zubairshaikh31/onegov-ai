@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-DIGIYATRA",
+  "ai_summary": "DigiYatra enables biometric, paperless airport travel.",
+  "ai_explanation": "Biometric-based seamless airport entry using a facial recognition ecosystem.",
+  "eligibility_summary": "Domestic air travellers with valid ID and ticket.",
+  "conversation_examples": [
+    {
+      "user": "I want DigiYatra (Airport Biometric)",
+      "bot": "DigiYatra enables biometric, paperless airport travel. Apply: https://digiyatra.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with DigiYatra (Airport Biometric). Use only https://digiyatra.gov.in.",
+  "follow_up_questions": [
+    "What documents for DigiYatra (Airport Biometric)?",
+    "How long for DigiYatra (Airport Biometric)?"
+  ],
+  "intent_examples": [
+    "apply_svc-digiyatra",
+    "status_svc-digiyatra"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "ID proof",
+    "Ticket",
+    "Aadhaar/ID for enrollment"
+  ],
+  "suggested_responses": [
+    "Visit https://digiyatra.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+  "service_id": "SVC-WB-DUARE",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [],
+  "alternative": [],
+  "chain_example": "SVC-WB-DUARE"
+}

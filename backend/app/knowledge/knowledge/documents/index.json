@@ -1,0 +1,2192 @@
+{
+  "SVC-AADHAAR:Proof of Identity (PoI)": {
+    "service": "SVC-AADHAAR",
+    "doc": {
+      "name": "Proof of Identity (PoI)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AADHAAR:Proof of Address (PoA)": {
+    "service": "SVC-AADHAAR",
+    "doc": {
+      "name": "Proof of Address (PoA)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AADHAAR:Date of Birth proof": {
+    "service": "SVC-AADHAAR",
+    "doc": {
+      "name": "Date of Birth proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AADHAAR:Introducer / Head of Family based enrolment where documents unavailable": {
+    "service": "SVC-AADHAAR",
+    "doc": {
+      "name": "Introducer / Head of Family based enrolment where documents unavailable",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:Proof of Date of Birth": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "Proof of Date of Birth",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:Proof of Address (current)": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "Proof of Address (current)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:Proof of nationality / old passport (if renewing)": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "Proof of nationality / old passport (if renewing)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:Annexure as applicable": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "Annexure as applicable",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:Marriage certificate (name change)": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "Marriage certificate (name change)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PASSPORT:ECNR eligibility proof": {
+    "service": "SVC-PASSPORT",
+    "doc": {
+      "name": "ECNR eligibility proof",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-VOTER:Age proof (birth certificate / class 10 cert)": {
+    "service": "SVC-VOTER",
+    "doc": {
+      "name": "Age proof (birth certificate / class 10 cert)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-VOTER:Address proof": {
+    "service": "SVC-VOTER",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-VOTER:Passport-size photo (online)": {
+    "service": "SVC-VOTER",
+    "doc": {
+      "name": "Passport-size photo (online)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-VOTER:Declaration of ordinary residence": {
+    "service": "SVC-VOTER",
+    "doc": {
+      "name": "Declaration of ordinary residence",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-VOTER:Aadhaar (for identity linkage, voluntary)": {
+    "service": "SVC-VOTER",
+    "doc": {
+      "name": "Aadhaar (for identity linkage, voluntary)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMKISAN:Aadhaar": {
+    "service": "SVC-PMKISAN",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMKISAN:Bank account (DBT-linked)": {
+    "service": "SVC-PMKISAN",
+    "doc": {
+      "name": "Bank account (DBT-linked)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMKISAN:Landholding records / Khatauni": {
+    "service": "SVC-PMKISAN",
+    "doc": {
+      "name": "Landholding records / Khatauni",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMKISAN:Samagra / state ID where integrated": {
+    "service": "SVC-PMKISAN",
+    "doc": {
+      "name": "Samagra / state ID where integrated",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ENAM:Bank account": {
+    "service": "SVC-ENAM",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ENAM:Aadhaar": {
+    "service": "SVC-ENAM",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ENAM:Trader licence (for traders)": {
+    "service": "SVC-ENAM",
+    "doc": {
+      "name": "Trader licence (for traders)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ENAM:GST (traders if applicable)": {
+    "service": "SVC-ENAM",
+    "doc": {
+      "name": "GST (traders if applicable)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ENAM:FPO registration": {
+    "service": "SVC-ENAM",
+    "doc": {
+      "name": "FPO registration",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMJAY:Ayushman card / ABHA": {
+    "service": "SVC-PMJAY",
+    "doc": {
+      "name": "Ayushman card / ABHA",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMJAY:Eligibility confirmation (SECC/Rural-Urban)": {
+    "service": "SVC-PMJAY",
+    "doc": {
+      "name": "Eligibility confirmation (SECC/Rural-Urban)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMJAY:ID proof (Aadhaar/Voter/ration)": {
+    "service": "SVC-PMJAY",
+    "doc": {
+      "name": "ID proof (Aadhaar/Voter/ration)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMJAY:PMJAY e-card print": {
+    "service": "SVC-PMJAY",
+    "doc": {
+      "name": "PMJAY e-card print",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ABDM:Aadhaar / Driving Licence / any govt ID for ABHA creation": {
+    "service": "SVC-ABDM",
+    "doc": {
+      "name": "Aadhaar / Driving Licence / any govt ID for ABHA creation",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ABDM:Mobile number for OTP": {
+    "service": "SVC-ABDM",
+    "doc": {
+      "name": "Mobile number for OTP",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESHRAM:Aadhaar": {
+    "service": "SVC-ESHRAM",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESHRAM:Bank account": {
+    "service": "SVC-ESHRAM",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESHRAM:Mobile linked to Aadhaar": {
+    "service": "SVC-ESHRAM",
+    "doc": {
+      "name": "Mobile linked to Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESHRAM:Occupation / skill details": {
+    "service": "SVC-ESHRAM",
+    "doc": {
+      "name": "Occupation / skill details",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:UAN": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "UAN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:Aadhaar (seeded)": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "Aadhaar (seeded)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:Bank account": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:PAN (for certain withdrawals)": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "PAN (for certain withdrawals)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:Form 15G/15H": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "Form 15G/15H",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-EPFO:Employer certificate": {
+    "service": "SVC-EPFO",
+    "doc": {
+      "name": "Employer certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESIC:IP number / UAN": {
+    "service": "SVC-ESIC",
+    "doc": {
+      "name": "IP number / UAN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESIC:ESIC card / Pehchan card": {
+    "service": "SVC-ESIC",
+    "doc": {
+      "name": "ESIC card / Pehchan card",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESIC:Aadhaar": {
+    "service": "SVC-ESIC",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESIC:Bank account": {
+    "service": "SVC-ESIC",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ESIC:Employer certificate": {
+    "service": "SVC-ESIC",
+    "doc": {
+      "name": "Employer certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NCS:Mobile / email for registration": {
+    "service": "SVC-NCS",
+    "doc": {
+      "name": "Mobile / email for registration",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NCS:Aadhaar (optional for verification)": {
+    "service": "SVC-NCS",
+    "doc": {
+      "name": "Aadhaar (optional for verification)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NCS:Resume": {
+    "service": "SVC-NCS",
+    "doc": {
+      "name": "Resume",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NCS:Skill certificates": {
+    "service": "SVC-NCS",
+    "doc": {
+      "name": "Skill certificates",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UDYAM:Aadhaar of proprietor/partner/director": {
+    "service": "SVC-UDYAM",
+    "doc": {
+      "name": "Aadhaar of proprietor/partner/director",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UDYAM:PAN & GSTIN (if applicable)": {
+    "service": "SVC-UDYAM",
+    "doc": {
+      "name": "PAN & GSTIN (if applicable)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UDYAM:Business bank account": {
+    "service": "SVC-UDYAM",
+    "doc": {
+      "name": "Business bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UDYAM:Investment/turnover details": {
+    "service": "SVC-UDYAM",
+    "doc": {
+      "name": "Investment/turnover details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UDYAM:MSME previous registration (EM-II/UAM) for migration": {
+    "service": "SVC-UDYAM",
+    "doc": {
+      "name": "MSME previous registration (EM-II/UAM) for migration",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:Incorporation certificate": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "Incorporation certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:PAN": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "PAN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:Description of innovation": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "Description of innovation",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:Director/Promoter details": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "Director/Promoter details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:Pitch deck": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "Pitch deck",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-STARTUP:IPR details": {
+    "service": "SVC-STARTUP",
+    "doc": {
+      "name": "IPR details",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GEM:Business registration / Udyam": {
+    "service": "SVC-GEM",
+    "doc": {
+      "name": "Business registration / Udyam",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GEM:Bank account": {
+    "service": "SVC-GEM",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GEM:PAN/GSTIN": {
+    "service": "SVC-GEM",
+    "doc": {
+      "name": "PAN/GSTIN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GEM:Product catalogue": {
+    "service": "SVC-GEM",
+    "doc": {
+      "name": "Product catalogue",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GEM:Brand authorization": {
+    "service": "SVC-GEM",
+    "doc": {
+      "name": "Brand authorization",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:PAN": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "PAN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Aadhaar (linked)": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Aadhaar (linked)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Form 16 / 16A": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Form 16 / 16A",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Bank statements": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Bank statements",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Investment proofs": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Investment proofs",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Capital gains statements": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Capital gains statements",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ITR:Donation receipts": {
+    "service": "SVC-ITR",
+    "doc": {
+      "name": "Donation receipts",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:PAN": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "PAN",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Aadhaar (verification)": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Aadhaar (verification)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Business registration": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Business registration",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Address proof": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Bank account": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Photograph": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Photograph",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GST:Authorisation letter": {
+    "service": "SVC-GST",
+    "doc": {
+      "name": "Authorisation letter",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DIGILOCKER:Aadhaar (for sign-up/authentication)": {
+    "service": "SVC-DIGILOCKER",
+    "doc": {
+      "name": "Aadhaar (for sign-up/authentication)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DIGILOCKER:Mobile number": {
+    "service": "SVC-DIGILOCKER",
+    "doc": {
+      "name": "Mobile number",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UMANG:Mobile number": {
+    "service": "SVC-UMANG",
+    "doc": {
+      "name": "Mobile number",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UMANG:Service-specific IDs (Aadhaar/PAN/UAN)": {
+    "service": "SVC-UMANG",
+    "doc": {
+      "name": "Service-specific IDs (Aadhaar/PAN/UAN)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UMANG:Bank details for payments": {
+    "service": "SVC-UMANG",
+    "doc": {
+      "name": "Bank details for payments",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Aadhaar": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Income proof": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Address proof": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Bank account": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Property/land documents": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Property/land documents",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMAYU:Caste/category certificate": {
+    "service": "SVC-PMAYU",
+    "doc": {
+      "name": "Caste/category certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Aadhaar": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Institution ID": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Institution ID",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Income certificate": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Income certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Bank account": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Previous marksheets": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Previous marksheets",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NSP:Caste/disability certificate": {
+    "service": "SVC-NSP",
+    "doc": {
+      "name": "Caste/disability certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SWAYAM:Email/mobile for sign-up": {
+    "service": "SVC-SWAYAM",
+    "doc": {
+      "name": "Email/mobile for sign-up",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SWAYAM:Institution enrollment for credit": {
+    "service": "SVC-SWAYAM",
+    "doc": {
+      "name": "Institution enrollment for credit",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ABC:Aadhaar / ABC ID": {
+    "service": "SVC-ABC",
+    "doc": {
+      "name": "Aadhaar / ABC ID",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ABC:Student HEI enrollment": {
+    "service": "SVC-ABC",
+    "doc": {
+      "name": "Student HEI enrollment",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-ABC:Previous credit records": {
+    "service": "SVC-ABC",
+    "doc": {
+      "name": "Previous credit records",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PARIVAHAN:Aadhaar (where enabled)": {
+    "service": "SVC-PARIVAHAN",
+    "doc": {
+      "name": "Aadhaar (where enabled)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PARIVAHAN:Address/age proof": {
+    "service": "SVC-PARIVAHAN",
+    "doc": {
+      "name": "Address/age proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PARIVAHAN:Vehicle invoice/insurance (RC)": {
+    "service": "SVC-PARIVAHAN",
+    "doc": {
+      "name": "Vehicle invoice/insurance (RC)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PARIVAHAN:Passport photo (DL)": {
+    "service": "SVC-PARIVAHAN",
+    "doc": {
+      "name": "Passport photo (DL)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PARIVAHAN:Medical certificate (age/transport)": {
+    "service": "SVC-PARIVAHAN",
+    "doc": {
+      "name": "Medical certificate (age/transport)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-AAPLE:Aadhaar": {
+    "service": "SVC-MAH-AAPLE",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-AAPLE:Address proof": {
+    "service": "SVC-MAH-AAPLE",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-AAPLE:Service-specific documents": {
+    "service": "SVC-MAH-AAPLE",
+    "doc": {
+      "name": "Service-specific documents",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-AAPLE:Earlier certificates": {
+    "service": "SVC-MAH-AAPLE",
+    "doc": {
+      "name": "Earlier certificates",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-REV:Survey number / village / district details": {
+    "service": "SVC-MAH-REV",
+    "doc": {
+      "name": "Survey number / village / district details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-REV:Owner name": {
+    "service": "SVC-MAH-REV",
+    "doc": {
+      "name": "Owner name",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-FOOD:Aadhaar": {
+    "service": "SVC-MAH-FOOD",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-FOOD:Address proof": {
+    "service": "SVC-MAH-FOOD",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-FOOD:Income proof": {
+    "service": "SVC-MAH-FOOD",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-FOOD:Family details": {
+    "service": "SVC-MAH-FOOD",
+    "doc": {
+      "name": "Family details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-FOOD:Earlier ration card": {
+    "service": "SVC-MAH-FOOD",
+    "doc": {
+      "name": "Earlier ration card",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DBT:Aadhaar": {
+    "service": "SVC-MAH-DBT",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DBT:Bank account": {
+    "service": "SVC-MAH-DBT",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DBT:Income/caste certificate": {
+    "service": "SVC-MAH-DBT",
+    "doc": {
+      "name": "Income/caste certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DBT:Marksheets": {
+    "service": "SVC-MAH-DBT",
+    "doc": {
+      "name": "Marksheets",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DBT:Disability/category certificates": {
+    "service": "SVC-MAH-DBT",
+    "doc": {
+      "name": "Disability/category certificates",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-RTO:Aadhaar": {
+    "service": "SVC-MAH-RTO",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-RTO:Address/age proof": {
+    "service": "SVC-MAH-RTO",
+    "doc": {
+      "name": "Address/age proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-RTO:Vehicle docs (RC)": {
+    "service": "SVC-MAH-RTO",
+    "doc": {
+      "name": "Vehicle docs (RC)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-RTO:Medical certificate": {
+    "service": "SVC-MAH-RTO",
+    "doc": {
+      "name": "Medical certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL:Proof of Age": {
+    "service": "SVC-DL",
+    "doc": {
+      "name": "Proof of Age",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL:Proof of Address": {
+    "service": "SVC-DL",
+    "doc": {
+      "name": "Proof of Address",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL:Passport photos": {
+    "service": "SVC-DL",
+    "doc": {
+      "name": "Passport photos",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL:Medical certificate (Form 1A for certain categories)": {
+    "service": "SVC-DL",
+    "doc": {
+      "name": "Medical certificate (Form 1A for certain categories)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PAN:Aadhaar (for instant e-PAN)": {
+    "service": "SVC-PAN",
+    "doc": {
+      "name": "Aadhaar (for instant e-PAN)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PAN:Proof of Identity": {
+    "service": "SVC-PAN",
+    "doc": {
+      "name": "Proof of Identity",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PAN:Proof of DOB": {
+    "service": "SVC-PAN",
+    "doc": {
+      "name": "Proof of DOB",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PAN:Proof of Address (for corrections)": {
+    "service": "SVC-PAN",
+    "doc": {
+      "name": "Proof of Address (for corrections)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Aadhaar / ID proof": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Aadhaar / ID proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Address proof": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Income proof (salary slip/self-declaration)": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Income proof (salary slip/self-declaration)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Ration card": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Ration card",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Talathi report": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Talathi report",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-INCOME:Affidavit": {
+    "service": "SVC-MAH-INCOME",
+    "doc": {
+      "name": "Affidavit",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:Aadhaar / ID proof": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "Aadhaar / ID proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:Address proof": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:Proof of residence period": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "Proof of residence period",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:School leaving certificate": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "School leaving certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:Birth certificate": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "Birth certificate",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-DOMICILE:Affidavit": {
+    "service": "SVC-MAH-DOMICILE",
+    "doc": {
+      "name": "Affidavit",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Aadhaar": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Domicile certificate": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Domicile certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Income certificate": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Income certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Bank account (Aadhaar linked)": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Bank account (Aadhaar linked)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Ration card": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Ration card",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-LADKI:Marriage certificate (if domicile via spouse)": {
+    "service": "SVC-MAH-LADKI",
+    "doc": {
+      "name": "Marriage certificate (if domicile via spouse)",
+      "mandatory": false,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMUY:BPL card / SECC details": {
+    "service": "SVC-PMUY",
+    "doc": {
+      "name": "BPL card / SECC details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMUY:Aadhaar": {
+    "service": "SVC-PMUY",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMUY:Bank account": {
+    "service": "SVC-PMUY",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-PMUY:Address proof": {
+    "service": "SVC-PMUY",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NGDR:Sale deed": {
+    "service": "SVC-NGDR",
+    "doc": {
+      "name": "Sale deed",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NGDR:Aadhaar": {
+    "service": "SVC-NGDR",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NGDR:Party identity proof": {
+    "service": "SVC-NGDR",
+    "doc": {
+      "name": "Party identity proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NGDR:Encumbrance certificate": {
+    "service": "SVC-NGDR",
+    "doc": {
+      "name": "Encumbrance certificate",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-INDIAPOST:Aadhaar": {
+    "service": "SVC-INDIAPOST",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-INDIAPOST:Identity proof": {
+    "service": "SVC-INDIAPOST",
+    "doc": {
+      "name": "Identity proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-INDIAPOST:Address proof": {
+    "service": "SVC-INDIAPOST",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-INDIAPOST:Passport-size photo": {
+    "service": "SVC-INDIAPOST",
+    "doc": {
+      "name": "Passport-size photo",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-APPREN:Educational certificates": {
+    "service": "SVC-APPREN",
+    "doc": {
+      "name": "Educational certificates",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-APPREN:Aadhaar": {
+    "service": "SVC-APPREN",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-APPREN:Bank account": {
+    "service": "SVC-APPREN",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-APPREN:Category certificate (if applicable)": {
+    "service": "SVC-APPREN",
+    "doc": {
+      "name": "Category certificate (if applicable)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MSDE:Aadhaar": {
+    "service": "SVC-MSDE",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MSDE:Educational proof": {
+    "service": "SVC-MSDE",
+    "doc": {
+      "name": "Educational proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MSDE:Bank account": {
+    "service": "SVC-MSDE",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MSDE:Age proof": {
+    "service": "SVC-MSDE",
+    "doc": {
+      "name": "Age proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NIELIT:Educational certificates": {
+    "service": "SVC-NIELIT",
+    "doc": {
+      "name": "Educational certificates",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NIELIT:Aadhaar": {
+    "service": "SVC-NIELIT",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-NIELIT:Photo": {
+    "service": "SVC-NIELIT",
+    "doc": {
+      "name": "Photo",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AYUSHMAN:ABHA ID": {
+    "service": "SVC-AYUSHMAN",
+    "doc": {
+      "name": "ABHA ID",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AYUSHMAN:Aadhaar": {
+    "service": "SVC-AYUSHMAN",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-AYUSHMAN:Ration/ID proof": {
+    "service": "SVC-AYUSHMAN",
+    "doc": {
+      "name": "Ration/ID proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-RAKSHABANDHAN:Aadhaar": {
+    "service": "SVC-RAKSHABANDHAN",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-RAKSHABANDHAN:Bank account": {
+    "service": "SVC-RAKSHABANDHAN",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-JDY:Aadhaar": {
+    "service": "SVC-JDY",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-JDY:Identity proof": {
+    "service": "SVC-JDY",
+    "doc": {
+      "name": "Identity proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-JDY:Address proof": {
+    "service": "SVC-JDY",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SUKANYA:Birth certificate of girl child": {
+    "service": "SVC-SUKANYA",
+    "doc": {
+      "name": "Birth certificate of girl child",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SUKANYA:Parent guardian ID": {
+    "service": "SVC-SUKANYA",
+    "doc": {
+      "name": "Parent guardian ID",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SUKANYA:Address proof": {
+    "service": "SVC-SUKANYA",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-SUKANYA:Photograph": {
+    "service": "SVC-SUKANYA",
+    "doc": {
+      "name": "Photograph",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-ANNA:Aadhaar": {
+    "service": "SVC-MAH-ANNA",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-ANNA:Address proof": {
+    "service": "SVC-MAH-ANNA",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-ANNA:Income proof": {
+    "service": "SVC-MAH-ANNA",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-ANNA:Family details": {
+    "service": "SVC-MAH-ANNA",
+    "doc": {
+      "name": "Family details",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-CMRELIEF:Identity proof": {
+    "service": "SVC-MAH-CMRELIEF",
+    "doc": {
+      "name": "Identity proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-CMRELIEF:Distress/calamity proof": {
+    "service": "SVC-MAH-CMRELIEF",
+    "doc": {
+      "name": "Distress/calamity proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-CMRELIEF:Bank account": {
+    "service": "SVC-MAH-CMRELIEF",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-SHETKARI:7/12 land record": {
+    "service": "SVC-MAH-SHETKARI",
+    "doc": {
+      "name": "7/12 land record",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-SHETKARI:Aadhaar": {
+    "service": "SVC-MAH-SHETKARI",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-SHETKARI:Bank account": {
+    "service": "SVC-MAH-SHETKARI",
+    "doc": {
+      "name": "Bank account",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-MAH-SHETKARI:Caste/category cert (if applicable)": {
+    "service": "SVC-MAH-SHETKARI",
+    "doc": {
+      "name": "Caste/category cert (if applicable)",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL-RATION:Aadhaar": {
+    "service": "SVC-DL-RATION",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL-RATION:Address proof": {
+    "service": "SVC-DL-RATION",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-DL-RATION:DOB proof": {
+    "service": "SVC-DL-RATION",
+    "doc": {
+      "name": "DOB proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UP-RATION:Aadhaar": {
+    "service": "SVC-UP-RATION",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UP-RATION:Address proof": {
+    "service": "SVC-UP-RATION",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-UP-RATION:Income proof": {
+    "service": "SVC-UP-RATION",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GJ-DIGITAL:Aadhaar": {
+    "service": "SVC-GJ-DIGITAL",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GJ-DIGITAL:Address proof": {
+    "service": "SVC-GJ-DIGITAL",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-GJ-DIGITAL:Income/caste proof": {
+    "service": "SVC-GJ-DIGITAL",
+    "doc": {
+      "name": "Income/caste proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-KA-EDISTRICT:Aadhaar": {
+    "service": "SVC-KA-EDISTRICT",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-KA-EDISTRICT:Address proof": {
+    "service": "SVC-KA-EDISTRICT",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-KA-EDISTRICT:Income proof": {
+    "service": "SVC-KA-EDISTRICT",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-TN-ESEVAI:Aadhaar": {
+    "service": "SVC-TN-ESEVAI",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-TN-ESEVAI:Address proof": {
+    "service": "SVC-TN-ESEVAI",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-TN-ESEVAI:Income proof": {
+    "service": "SVC-TN-ESEVAI",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-WB-DUARE:Aadhaar": {
+    "service": "SVC-WB-DUARE",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-WB-DUARE:Address proof": {
+    "service": "SVC-WB-DUARE",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-WB-DUARE:Income proof": {
+    "service": "SVC-WB-DUARE",
+    "doc": {
+      "name": "Income proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-RAJ-ECM:Aadhaar": {
+    "service": "SVC-RAJ-ECM",
+    "doc": {
+      "name": "Aadhaar",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-RAJ-ECM:Mobile": {
+    "service": "SVC-RAJ-ECM",
+    "doc": {
+      "name": "Mobile",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  },
+  "SVC-RAJ-ECM:Address proof": {
+    "service": "SVC-RAJ-ECM",
+    "doc": {
+      "name": "Address proof",
+      "mandatory": true,
+      "description": "",
+      "accepted_formats": "",
+      "common_mistakes": ""
+    }
+  }
+}

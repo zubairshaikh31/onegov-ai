@@ -1,0 +1,20 @@
+{
+  "event": "foreign_travel",
+  "services": [
+    "SVC-PASSPORT",
+    "SVC-PARIVAHAN"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PASSPORT",
+    "SVC-PARIVAHAN"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-passport_guide.md",
+    "tutorials/md/svc-parivahan_guide.md"
+  ]
+}

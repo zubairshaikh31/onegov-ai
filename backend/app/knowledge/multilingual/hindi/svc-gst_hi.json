@@ -1,0 +1,30 @@
+{
+  "name": "जीएसटी पंजीकरण",
+  "description": "Goods and Services Tax registration, return filing, and compliance for businesses via the GST portal.",
+  "benefits": "Legal tax identity, input tax credit, interstate trade, compliance certificates.",
+  "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+  "documents": [
+    "PAN",
+    "Aadhaar (verification)",
+    "Business registration",
+    "Address proof",
+    "Bank account",
+    "Photograph"
+  ],
+  "steps": [
+    "Apply Part-A (Form GST REG-01) on gst.gov.in.",
+    "Get ARN; complete Part-B with documents.",
+    "Aadhaar authentication / verification.",
+    "GSTIN allotted on approval.",
+    "File returns (GSTR-1/3B) periodically."
+  ],
+  "faqs": [],
+  "keywords": [
+    "gst",
+    "gst registration",
+    "gstin",
+    "returns",
+    "gst portal",
+    "indirect tax"
+  ]
+}

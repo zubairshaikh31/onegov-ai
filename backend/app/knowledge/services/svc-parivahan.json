@@ -1,0 +1,90 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "name": "Parivahan (Vahan & Sarathi)",
+  "category_id": "CAT-TRANSPORT",
+  "sub_category": "Vehicle & Driving Licence",
+  "department_id": "DEP-RTW",
+  "ministry_id": "MIN-RTW",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National transport portal for vehicle registration (Vahan) and driving licence/learner licence (Sarathi) services.",
+  "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+  "benefits": "Online RC, DL, permits, tax, slots; reduces RTO visits.",
+  "required_documents": [
+    "Aadhaar (where enabled)",
+    "Address/age proof",
+    "Vehicle invoice/insurance (RC)",
+    "Passport photo (DL)"
+  ],
+  "optional_documents": [
+    "Medical certificate (age/transport)"
+  ],
+  "application_mode": "Online (parivahan.gov.in) + RTO appointment",
+  "application_steps": [
+    "Visit parivahan.gov.in -> Vahan/Sarathi.",
+    "Apply for RC/DL/LL with details and documents.",
+    "Pay fees and book RTO slot.",
+    "Visit RTO for test/verification.",
+    "Receive RC/DL (digital via DigiLocker)."
+  ],
+  "processing_time": "RC/DL issued after RTO test/verification (days to weeks).",
+  "fees": "As per state MV fee schedule; varies by service.",
+  "validity": "RC 15 years (renewable); DL 20 years or till age 50/55/60 per class.",
+  "official_portal": "https://parivahan.gov.in",
+  "official_apply_link": "https://parivahan.gov.in/parivahan//services",
+  "download_forms": "https://parivahan.gov.in",
+  "helpline_number": "0120-4925505",
+  "email": "helpdesk@parivahan.gov.in",
+  "office_locator_info": "State RTOs / Transport Departments.",
+  "faq": [
+    {
+      "q": "Can I get my DL on DigiLocker?",
+      "a": "Yes, issued DL/RC can be fetched in DigiLocker."
+    },
+    {
+      "q": "Is a driving test mandatory?",
+      "a": "Yes, for permanent DL after learner licence period."
+    }
+  ],
+  "related_services": [
+    "SVC-DIGILOCKER",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "parivahan",
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "rc",
+    "rto"
+  ],
+  "languages_available": "Hindi, English, state languages",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://parivahan.gov.in",
+  "ai_summary": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments.",
+  "ai_explanation": "Parivahan is the national transport portal where citizens apply for vehicle registration, driving/learner licences, permits, and tax online, then visit the RTO for tests/verification. Issued documents sync to DigiLocker. Fees follow the state MV schedule.",
+  "common_questions": [
+    "How do I apply for a driving licence online?",
+    "How do I check my RC status?",
+    "How do I renew my DL?",
+    "What are RTO fees?"
+  ],
+  "common_mistakes": [
+    "Skipping learner licence step",
+    "Document mismatch at RTO",
+    "Not booking slot in advance"
+  ],
+  "search_keywords": [
+    "driving licence apply online",
+    "vahan rc status",
+    "parivahan sarathi",
+    "rto appointment"
+  ],
+  "suggested_followups": [
+    "How do I link my DL to DigiLocker?",
+    "What documents are needed for RC transfer?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

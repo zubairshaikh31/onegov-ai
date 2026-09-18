@@ -1,0 +1,159 @@
+{
+  "en": {
+    "service_id": "SVC-MAH-DOMICILE",
+    "name": "Domicile / Residence Certificate (Maharashtra)",
+    "category_id": "Certificates",
+    "sub_category": "Revenue",
+    "department_id": "Revenue Department",
+    "ministry_id": "Government of Maharashtra",
+    "government_level": "state",
+    "state_id": null,
+    "description": "Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar.",
+    "eligibility": "Persons residing in Maharashtra for the qualifying period as per rules.",
+    "benefits": "Required for education admissions, government jobs and domicile-based benefits.",
+    "required_documents": [
+      "Aadhaar / ID proof",
+      "Address proof",
+      "Proof of residence period",
+      "School leaving certificate"
+    ],
+    "optional_documents": [
+      "Birth certificate",
+      "Affidavit"
+    ],
+    "application_mode": "online",
+    "application_steps": [
+      "Login to Aaple Sarkar portal.",
+      "Select Revenue Department > Age Nationality and Domicile Certificate.",
+      "Fill the form and upload documents.",
+      "Pay fees and submit.",
+      "Download the digitally signed certificate."
+    ],
+    "processing_time": "15 working days (RTS standard).",
+    "fees": "Nominal (approx Rs.33-40).",
+    "validity": "Generally lifetime / as accepted by the requesting authority.",
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+    "official_apply_link": "https://aaplesarkar.mahaonline.gov.in",
+    "download_forms": "",
+    "helpline_number": "1800-120-8040",
+    "email": "aaplesarkar.support@mahaonline.gov.in",
+    "office_locator_info": "Setu / CSC / Tahsildar office.",
+    "languages_available": [
+      "en",
+      "mr"
+    ],
+    "last_updated": "2025-01-01",
+    "source_url": "https://aaplesarkar.mahaonline.gov.in",
+    "collection_method": "html",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "kb_version": "3.0.0",
+    "ai_summary": "Domicile / Residence Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+    "ai_explanation": "Domicile / Residence Certificate (Maharashtra) is Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar. Eligibility: Persons residing in Maharashtra for the qualifying period as per rules.. Benefits: Required for education admissions, government jobs and domicile-based benefits.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (RTS standard). and fees are Nominal (approx Rs.33-40)..",
+    "common_questions": [
+      "How do I apply for Domicile / Residence Certificate (Maharashtra)?",
+      "What documents are required for Domicile / Residence Certificate (Maharashtra)?",
+      "What is the fee for Domicile / Residence Certificate (Maharashtra)?",
+      "Who is eligible for Domicile / Residence Certificate (Maharashtra)?",
+      "How long does Domicile / Residence Certificate (Maharashtra) take to process?",
+      "What is the official website for Domicile / Residence Certificate (Maharashtra)?"
+    ],
+    "common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "search_keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "domicile",
+      "maharashtra",
+      "residence",
+      "residence certificate",
+      "vasti dakhla"
+    ],
+    "suggested_followups": [
+      "Do I need to visit an office in person for Domicile / Residence Certificate (Maharashtra)?",
+      "Can I track my Domicile / Residence Certificate (Maharashtra) application status online?",
+      "What should I do if my Domicile / Residence Certificate (Maharashtra) application is rejected?",
+      "Are there any state-specific rules for Domicile / Residence Certificate (Maharashtra) in Maharashtra?"
+    ],
+    "_sourceA": {
+      "ai_common_mistakes": [
+        "Uploading documents that do not match the name/details on record.",
+        "Using an expired or unlinked mobile number for OTP verification.",
+        "Submitting low-resolution or oversized document scans.",
+        "Selecting the wrong state/district or service category.",
+        "Not saving the application/reference number after submission."
+      ],
+      "ai_common_questions": [
+        "How do I apply for Domicile / Residence Certificate (Maharashtra)?",
+        "What documents are required for Domicile / Residence Certificate (Maharashtra)?",
+        "What is the fee for Domicile / Residence Certificate (Maharashtra)?",
+        "Who is eligible for Domicile / Residence Certificate (Maharashtra)?",
+        "How long does Domicile / Residence Certificate (Maharashtra) take to process?",
+        "What is the official website for Domicile / Residence Certificate (Maharashtra)?"
+      ],
+      "ai_followup_questions": [
+        "Do I need to visit an office in person for Domicile / Residence Certificate (Maharashtra)?",
+        "Can I track my Domicile / Residence Certificate (Maharashtra) application status online?",
+        "What should I do if my Domicile / Residence Certificate (Maharashtra) application is rejected?",
+        "Are there any state-specific rules for Domicile / Residence Certificate (Maharashtra) in Maharashtra?"
+      ],
+      "ai_search_keywords": [
+        "aaple sarkar",
+        "certificate",
+        "certificates",
+        "domicile",
+        "maharashtra",
+        "residence",
+        "residence certificate",
+        "vasti dakhla"
+      ],
+      "content_hash": "cd9b9ad026407c4f4bcfad3105464132590e095cbadf4ec4f9f4a8e101d5105e",
+      "source_type": "html",
+      "version": 1,
+      "documents_required": [
+        "Aadhaar / ID proof",
+        "Address proof",
+        "Proof of residence period",
+        "School leaving certificate"
+      ],
+      "documents_optional": [
+        "Birth certificate",
+        "Affidavit"
+      ],
+      "category": "Certificates",
+      "gov_level": "state",
+      "state": "Maharashtra",
+      "office_locator": "Setu / CSC / Tahsildar office."
+    }
+  },
+  "hi": {
+    "name": "Domicile / Residence Certificate (Maharashtra)"
+  },
+  "mr": {
+    "name": "Domicile / Residence Certificate (Maharashtra)"
+  },
+  "name": "Domicile / Residence Certificate (Maharashtra)",
+  "description": "Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar.",
+  "benefits": "Required for education admissions, government jobs and domicile-based benefits.",
+  "eligibility": "Persons residing in Maharashtra for the qualifying period as per rules.",
+  "documents": [
+    "Aadhaar / ID proof",
+    "Address proof",
+    "Proof of residence period",
+    "School leaving certificate"
+  ],
+  "steps": [
+    "Login to Aaple Sarkar portal.",
+    "Select Revenue Department > Age Nationality and Domicile Certificate.",
+    "Fill the form and upload documents.",
+    "Pay fees and submit.",
+    "Download the digitally signed certificate."
+  ],
+  "faqs": [],
+  "keywords": []
+}

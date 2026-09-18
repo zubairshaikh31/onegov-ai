@@ -1,0 +1,42 @@
+{
+  "name": "Income Tax e-Filing & Return (ITR)",
+  "description": "Online filing of Income Tax Returns, PAN services, and tax payments by the Income Tax Department.",
+  "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+  "benefits": "Legal compliance, refund claims, proof of income, easier loans/visa.",
+  "application_steps": [
+    "Register/login on incometax.gov.in.",
+    "Choose correct ITR form.",
+    "Pre-fill and enter income/deductions.",
+    "Validate, pay tax (if any), submit.",
+    "Verify via Aadhaar OTP / EVC / send ITR-V."
+  ],
+  "faqs": [
+    "Which ITR form do I use?",
+    "Is Aadhaar-PAN linking mandatory?",
+    "Which ITR form should I file?",
+    "How do I file ITR online?",
+    "How do I check refund status?"
+  ],
+  "keywords": [
+    "income tax",
+    "itr",
+    "efiling",
+    "tax return",
+    "pan",
+    "cbdt"
+  ],
+  "documents": [
+    "PAN",
+    "Aadhaar (linked)",
+    "Form 16 / 16A",
+    "Bank statements",
+    "Investment proofs"
+  ],
+  "steps": [
+    "Register/login on incometax.gov.in.",
+    "Choose correct ITR form.",
+    "Pre-fill and enter income/deductions.",
+    "Validate, pay tax (if any), submit.",
+    "Verify via Aadhaar OTP / EVC / send ITR-V."
+  ]
+}

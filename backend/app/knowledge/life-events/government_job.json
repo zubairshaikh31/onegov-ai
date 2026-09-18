@@ -1,0 +1,20 @@
+{
+  "event": "government_job",
+  "services": [
+    "SVC-NCS",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-NCS",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-ncs_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

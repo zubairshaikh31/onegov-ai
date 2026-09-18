@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-DAYNULM",
+  "ai_summary": "DAY-NULM supports urban livelihoods via SHGs.",
+  "ai_explanation": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission.",
+  "eligibility_summary": "Urban poor / self-help groups.",
+  "conversation_examples": [
+    {
+      "user": "I want DAY-NULM (Urban Livelihood)",
+      "bot": "DAY-NULM supports urban livelihoods via SHGs. Apply: https://nulm.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with DAY-NULM (Urban Livelihood). Use only https://nulm.gov.in.",
+  "follow_up_questions": [
+    "What documents for DAY-NULM (Urban Livelihood)?",
+    "How long for DAY-NULM (Urban Livelihood)?"
+  ],
+  "intent_examples": [
+    "apply_svc-daynulm",
+    "status_svc-daynulm"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Address proof",
+    "BPL proof"
+  ],
+  "suggested_responses": [
+    "Visit https://nulm.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

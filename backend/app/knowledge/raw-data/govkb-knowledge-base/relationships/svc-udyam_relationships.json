@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-UDYAM",
+  "prerequisite": [],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-STARTUP",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "chain_example": "SVC-UDYAM -> SVC-STARTUP -> SVC-GEM -> SVC-GST"
+}

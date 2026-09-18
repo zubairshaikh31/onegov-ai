@@ -1,0 +1,18 @@
+{
+  "name": "मुख्यमंत्री राहत निधि (महाराष्ट्र)",
+  "description": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies.",
+  "benefits": "Financial assistance for calamity, medical, and ex-gratia support.",
+  "eligibility": "Maharashtra residents in notified distress/calamity situations.",
+  "documents": [
+    "Identity proof",
+    "Distress/calamity proof",
+    "Bank account"
+  ],
+  "steps": [
+    "Apply through district administration / online portal.",
+    "Verification of distress.",
+    "Disbursement of relief."
+  ],
+  "faqs": [],
+  "keywords": []
+}

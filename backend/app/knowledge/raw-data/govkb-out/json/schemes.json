@@ -1,0 +1,226 @@
+[
+  {
+    "id": "SCH-0001",
+    "service_id": "SVC-AADHAAR",
+    "name": "Aadhaar Enrolment & Update",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://uidai.gov.in"
+  },
+  {
+    "id": "SCH-0002",
+    "service_id": "SVC-PASSPORT",
+    "name": "Passport Issuance (Passport Seva)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://passportindia.gov.in"
+  },
+  {
+    "id": "SCH-0003",
+    "service_id": "SVC-VOTER",
+    "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://voterportal.eci.gov.in"
+  },
+  {
+    "id": "SCH-0004",
+    "service_id": "SVC-PMKISAN",
+    "name": "PM-KISAN Samman Nidhi",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "official_portal": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "SCH-0005",
+    "service_id": "SVC-ENAM",
+    "name": "eNAM (National Agriculture Market)",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "official_portal": "https://enam.gov.in"
+  },
+  {
+    "id": "SCH-0006",
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman Bharat PM-JAY",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "official_portal": "https://pmjay.gov.in"
+  },
+  {
+    "id": "SCH-0007",
+    "service_id": "SVC-ABDM",
+    "name": "Ayushman Bharat Digital Mission (ABHA)",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "official_portal": "https://abdm.gov.in"
+  },
+  {
+    "id": "SCH-0008",
+    "service_id": "SVC-ESHRAM",
+    "name": "e-Shram (National Database of Unorganised Workers)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://eshram.gov.in"
+  },
+  {
+    "id": "SCH-0009",
+    "service_id": "SVC-EPFO",
+    "name": "EPF / UAN Services (Employees' Provident Fund)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://www.epfindia.gov.in"
+  },
+  {
+    "id": "SCH-0010",
+    "service_id": "SVC-ESIC",
+    "name": "ESIC (Employees' State Insurance)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://www.esic.gov.in"
+  },
+  {
+    "id": "SCH-0011",
+    "service_id": "SVC-NCS",
+    "name": "National Career Service (NCS)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://ncs.gov.in"
+  },
+  {
+    "id": "SCH-0012",
+    "service_id": "SVC-UDYAM",
+    "name": "Udyam Registration (MSME)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "official_portal": "https://udyamregistration.gov.in"
+  },
+  {
+    "id": "SCH-0013",
+    "service_id": "SVC-STARTUP",
+    "name": "Startup India Recognition",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "official_portal": "https://www.startupindia.gov.in"
+  },
+  {
+    "id": "SCH-0014",
+    "service_id": "SVC-GEM",
+    "name": "GeM (Government e-Marketplace)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "official_portal": "https://gem.gov.in"
+  },
+  {
+    "id": "SCH-0015",
+    "service_id": "SVC-ITR",
+    "name": "Income Tax e-Filing & Return (ITR)",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "official_portal": "https://www.incometax.gov.in"
+  },
+  {
+    "id": "SCH-0016",
+    "service_id": "SVC-GST",
+    "name": "GST Registration & Returns",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "official_portal": "https://www.gst.gov.in"
+  },
+  {
+    "id": "SCH-0017",
+    "service_id": "SVC-DIGILOCKER",
+    "name": "DigiLocker",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "official_portal": "https://www.digilocker.gov.in"
+  },
+  {
+    "id": "SCH-0018",
+    "service_id": "SVC-UMANG",
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "official_portal": "https://umang.gov.in"
+  },
+  {
+    "id": "SCH-0019",
+    "service_id": "SVC-PMAYU",
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "category_id": "CAT-HOUSING",
+    "government_level": "Central",
+    "official_portal": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "SCH-0020",
+    "service_id": "SVC-NSP",
+    "name": "National Scholarship Portal (NSP)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://scholarships.gov.in"
+  },
+  {
+    "id": "SCH-0021",
+    "service_id": "SVC-SWAYAM",
+    "name": "SWAYAM (Free Online Courses)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://swayam.gov.in"
+  },
+  {
+    "id": "SCH-0022",
+    "service_id": "SVC-ABC",
+    "name": "Academic Bank of Credits (ABC)",
+    "category_id": "CAT-EDUCATION",
+    "government_level": "Central",
+    "official_portal": "https://abc.gov.in"
+  },
+  {
+    "id": "SCH-0023",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Parivahan (Vahan & Sarathi)",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "Central",
+    "official_portal": "https://parivahan.gov.in"
+  },
+  {
+    "id": "SCH-0024",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "id": "SCH-0025",
+    "service_id": "SVC-MAH-REV",
+    "name": "Mahabhulekh (7/12 & 8A Land Records)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://mahabhulekh.maharashtra.gov.in"
+  },
+  {
+    "id": "SCH-0026",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://mahafood.gov.in"
+  },
+  {
+    "id": "SCH-0027",
+    "service_id": "SVC-MAH-DBT",
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "id": "SCH-0028",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Maharashtra Transport (RTO) Services",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://transport.maharashtra.gov.in"
+  }
+]

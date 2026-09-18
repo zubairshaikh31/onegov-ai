@@ -1,0 +1,41 @@
+{
+  "name": "Pradhan Mantri Awas Yojana (Urban)",
+  "description": "Credit-linked subsidy and affordable housing support for urban poor/EWS/LIG/MIG to own a pucca house.",
+  "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+  "benefits": "Interest subsidy on home loan (CLSS) and support for house construction.",
+  "application_steps": [
+    "Visit pmaymis.gov.in; check eligibility.",
+    "Apply under beneficiary-led / CLSS component.",
+    "Enter Aadhaar, income, bank, property details.",
+    "Verification by ULB/state.",
+    "Subsidy/assistance as per component."
+  ],
+  "faqs": [
+    "Who is eligible for PMAY-U?",
+    "Am I eligible for PMAY?",
+    "How do I apply for PMAY subsidy?",
+    "What is CLSS?",
+    "What are PMAY income limits?"
+  ],
+  "keywords": [
+    "pmay",
+    "pm awas yojana",
+    "housing",
+    "clss",
+    "subsidy"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Income proof",
+    "Address proof",
+    "Bank account",
+    "Property/land documents"
+  ],
+  "steps": [
+    "Visit pmaymis.gov.in; check eligibility.",
+    "Apply under beneficiary-led / CLSS component.",
+    "Enter Aadhaar, income, bank, property details.",
+    "Verification by ULB/state.",
+    "Subsidy/assistance as per component."
+  ]
+}

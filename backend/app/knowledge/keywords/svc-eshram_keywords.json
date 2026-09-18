@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "keywords": [
+    "e shram",
+    "unorganised worker",
+    "labour card",
+    "eshram card",
+    "social security"
+  ],
+  "search_keywords": [
+    "eshram registration",
+    "eshram card download",
+    "unorganised worker scheme"
+  ],
+  "aliases": [
+    "e shram",
+    "unorganised worker",
+    "labour card",
+    "eshram card",
+    "social security"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want e-Shram (National Database of Unorganised Workers)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply e-Shram (National Database of Unorganised Workers)"
+  ]
+}

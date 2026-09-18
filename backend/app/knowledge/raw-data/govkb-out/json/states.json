@@ -1,0 +1,14 @@
+[
+  {
+    "id": "IN",
+    "name": "India",
+    "code": "IN",
+    "level": "country"
+  },
+  {
+    "id": "MH",
+    "name": "Maharashtra",
+    "code": "MH",
+    "level": "state"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "prerequisite": [
+    "SVC-AADHAAR"
+  ],
+  "dependent": [
+    "SVC-AADHAAR"
+  ],
+  "complementary": [
+    "SVC-ENAM",
+    "SVC-AADHAAR",
+    "SVC-ENAM"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-PMKISAN -> SVC-AADHAAR -> SVC-AADHAAR"
+}

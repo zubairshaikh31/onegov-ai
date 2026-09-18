@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit parivahan.gov.in -> Vahan/Sarathi."
+  },
+  {
+    "step": 2,
+    "description": "Apply for RC/DL/LL with details and documents."
+  },
+  {
+    "step": 3,
+    "description": "Pay fees and book RTO slot."
+  },
+  {
+    "step": 4,
+    "description": "Visit RTO for test/verification."
+  },
+  {
+    "step": 5,
+    "description": "Receive RC/DL (digital via DigiLocker)."
+  }
+]

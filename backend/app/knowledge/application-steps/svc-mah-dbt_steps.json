@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on MahaDBT portal."
+  },
+  {
+    "step": 2,
+    "description": "Complete profile with Aadhaar/bank/certificates."
+  },
+  {
+    "step": 3,
+    "description": "Select eligible schemes; apply."
+  },
+  {
+    "step": 4,
+    "description": "Institute/DC verification."
+  },
+  {
+    "step": 5,
+    "description": "DBT to bank account."
+  }
+]

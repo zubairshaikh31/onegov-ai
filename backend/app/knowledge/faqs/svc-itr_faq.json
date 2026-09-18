@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Which ITR form do I use?",
+    "answer": "Depends on income source (salary, business, capital gains); portal helps select.",
+    "official": true
+  },
+  {
+    "question": "Is Aadhaar-PAN linking mandatory?",
+    "answer": "Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions).",
+    "official": true
+  },
+  {
+    "question": "Which ITR form should I file?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I file ITR online?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I check refund status?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Is PAN-Aadhaar linking mandatory?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://www.incometax.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-103-0023 / 1961 / email efilingwebmanager@incometax.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "No government filing fee; late fees under Section 234F if delayed.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Filing instant; refund within months of processing.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (incometax.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-103-0023 / 1961. Email: efilingwebmanager@incometax.gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "No government filing fee; late fees under Section 234F if delayed.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

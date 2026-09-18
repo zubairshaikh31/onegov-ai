@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-MAH-CMRELIEF",
+  "ai_summary": "Maharashtra CM Relief Fund provides financial assistance to residents facing calamity or medical distress.",
+  "ai_explanation": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies.",
+  "eligibility_summary": "Maharashtra residents in notified distress/calamity situations.",
+  "conversation_examples": [
+    {
+      "user": "I want Maharashtra Chief Minister Relief Fund",
+      "bot": "Maharashtra CM Relief Fund provides financial assistance to residents facing calamity or medical distress. Apply: https://www.maharashtra.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Maharashtra Chief Minister Relief Fund. Use only official info from https://www.maharashtra.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-mah-cmrelief",
+    "status_svc-mah-cmrelief",
+    "eligibility_svc-mah-cmrelief"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Identity proof",
+    "Distress/calamity proof",
+    "Bank account"
+  ],
+  "suggested_responses": [
+    "Visit https://www.maharashtra.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,24 @@
+{
+  "name": "महाभूलेख (7/12 भूमि अभिलेख)",
+  "description": "Maharashtra land record portal to view and download 7/12 (Satbara) and 8A extracts online.",
+  "benefits": "Instant access to land ownership, tenure, and mutation status; supports loans and transactions.",
+  "eligibility": "Landowners / general public for non-certified view; certified copies per process.",
+  "documents": [
+    "Survey number / village / district details"
+  ],
+  "steps": [
+    "Visit mahabhulekh.maharashtra.gov.in.",
+    "Select district and 7/12 (Satbara) or 8A.",
+    "Enter village/survey/Gat number.",
+    "View and download extract (print)."
+  ],
+  "faqs": [],
+  "keywords": [
+    "mahabhulekh",
+    "satbara",
+    "7/12",
+    "8a",
+    "land records",
+    "maharashtra revenue"
+  ]
+}

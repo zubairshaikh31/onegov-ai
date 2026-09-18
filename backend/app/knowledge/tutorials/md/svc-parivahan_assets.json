@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-parivahan_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-parivahan_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-parivahan_guide.pdf"
+  }
+]

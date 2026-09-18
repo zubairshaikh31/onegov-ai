@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+  "category": "CAT-STATE",
+  "sub_category": "Food & Public Distribution (Maharashtra)",
+  "department": "DEP-MAH-FOOD",
+  "ministry": "MIN-MAH",
+  "central_state": "State",
+  "state": "MH",
+  "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+  "benefits": "Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "optional_documents": [
+    "Earlier ration card"
+  ],
+  "fees": "As per state schedule (nominal).",
+  "processing_time": "Per district verification (weeks).",
+  "validity": "Until cancellation/update.",
+  "application_mode": "Online (maha food portal) and rationing offices / CSC",
+  "official_website": "https://mahafood.gov.in",
+  "official_apply_link": "https://mahafood.gov.in",
+  "download_forms": "https://mahafood.gov.in",
+  "helpline": "1800-222-362 (Toll-free, MahaFood)",
+  "email": "fcscrti-maha@gov.in",
+  "office_locator": "District Supply Offices; Fair Price Shops.",
+  "working_hours": "",
+  "languages_available": "Marathi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://mahafood.gov.in",
+  "collection_method": "official_portal"
+}

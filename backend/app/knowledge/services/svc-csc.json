@@ -1,0 +1,50 @@
+{
+  "service_id": "SVC-CSC",
+  "name": "Common Service Centres (CSC)",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Digital India",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "CSC network provides public services (gov, finance, education) at village/urban kiosks.",
+  "eligibility": "Village-level entrepreneurs and citizens seeking assisted services.",
+  "benefits": "Access to govt services, banking, insurance, tele-law at local kiosk.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Locate nearest CSC.",
+    "Request service with Aadhaar.",
+    "Complete assisted application."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.csc.gov.in",
+  "official_apply_link": "https://www.csc.gov.in",
+  "download_forms": "https://www.csc.gov.in",
+  "helpline_number": "1800-3000-3468",
+  "email": "helpdesk@csc.gov.in",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.csc.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "CSCs are government kiosks delivering digital public services locally.",
+  "ai_explanation": "CSC network provides public services (gov, finance, education) at village/urban kiosks.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "csc",
+    "common service centre",
+    "digital seva"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

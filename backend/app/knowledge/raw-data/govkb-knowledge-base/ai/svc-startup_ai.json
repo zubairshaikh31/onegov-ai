@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-STARTUP",
+  "ai_summary": "Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities.",
+  "ai_explanation": "Eligible Indian startups (<=10 years, turnover <= Rs. 100 crore) self-apply for DPIIT recognition, unlocking income-tax exemptions, faster IP protection, self-certification on labour laws, and easier public procurement. Recognition is free.",
+  "common_questions": [
+    "Am I eligible for Startup India?",
+    "How do I get DPIIT recognition?",
+    "What tax benefits do startups get?",
+    "How do I apply for Startup India?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Am I eligible for Startup India?",
+      "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+    },
+    {
+      "user": "How do I get DPIIT recognition?",
+      "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+    },
+    {
+      "user": "What tax benefits do startups get?",
+      "bot": "For Startup India Recognition, Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. You can apply at https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-startup",
+    "status_svc-startup",
+    "eligibility_svc-startup"
+  ],
+  "user_utterances": [
+    "I want Startup India Recognition",
+    "Need Startup India Recognition",
+    "Startup India Recognition help"
+  ],
+  "follow_up_questions": [
+    "How do I claim 80-IAC tax exemption?",
+    "What is the Fund of Funds for startups?"
+  ],
+  "recommended_responses": [
+    "Visit https://www.startupindia.gov.in",
+    "Call helpline 1800-115-565"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-115-565"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "event": "passport",
+  "services": [
+    "SVC-PASSPORT",
+    "SVC-AADHAAR",
+    "SVC-DIGILOCKER"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PASSPORT",
+    "SVC-AADHAAR",
+    "SVC-DIGILOCKER"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-passport_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md",
+    "tutorials/md/svc-digilocker_guide.md"
+  ]
+}

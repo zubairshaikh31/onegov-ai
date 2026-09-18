@@ -1,0 +1,61 @@
+[
+  {
+    "question": "What is the GST turnover threshold?",
+    "answer": "Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states).",
+    "official": true
+  },
+  {
+    "question": "Do I need GST registration?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I register for GST?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the GST threshold?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I file GSTR-3B?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://www.gst.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-103-4786 / 14444 / email webmaster@cgst.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "No government registration fee; late fees for delayed returns.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Registration usually within 7-30 days; returns monthly/quarterly.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (gst.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

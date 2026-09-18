@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-DISHA",
+  "prerequisite": [
+    "SVC-CSC"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-CSC"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-DISHA -> SVC-CSC"
+}

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MGNREGA",
+  "guide_md": "tutorials/md/svc-mgnrega_guide.md",
+  "guide_html": "tutorials/html/svc-mgnrega_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-mgnrega_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://nrega.nic.in"
+  ]
+}

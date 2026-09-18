@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-RAKSHABANDHAN",
+  "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Insurance",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year.",
+  "eligibility": "Indian citizens aged 18-70 with a linked bank account.",
+  "benefits": "Low-cost accidental death/disablement cover; auto-debit enrolment.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank account"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit bank or jansuraksha.gov.in.",
+    "Give consent for auto-debit of Rs. 20.",
+    "Get enrolled; download certificate."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.mygov.in",
+  "official_apply_link": "https://www.jansuraksha.gov.in",
+  "download_forms": "https://www.mygov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.mygov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "PMSBY offers Rs. 2 lakh accident insurance cover at just Rs. 20/year for adults with a bank account.",
+  "ai_explanation": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "pmsby",
+    "accident insurance",
+    "jansuraksha",
+    "suraksha bima"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

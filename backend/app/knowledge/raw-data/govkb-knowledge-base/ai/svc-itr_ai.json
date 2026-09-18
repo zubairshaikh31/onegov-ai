@@ -1,0 +1,56 @@
+{
+  "service_id": "SVC-ITR",
+  "ai_summary": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked.",
+  "ai_explanation": "Taxpayers file annual returns on the e-Filing portal using the appropriate ITR form, pre-filling data where available. After paying any due tax they verify the return via Aadhaar OTP or EVC. PAN must be linked to Aadhaar. Late filing attracts Section 234F fees.",
+  "common_questions": [
+    "Which ITR form should I file?",
+    "How do I file ITR online?",
+    "How do I check refund status?",
+    "Is PAN-Aadhaar linking mandatory?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "File my income tax return",
+      "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+    },
+    {
+      "user": "Which ITR form",
+      "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+    },
+    {
+      "user": "Check refund status",
+      "bot": "For Income Tax e-Filing & Return (ITR), Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. You can apply at https://www.incometax.gov.in/iec/foportal/."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-itr",
+    "status_svc-itr",
+    "eligibility_svc-itr"
+  ],
+  "user_utterances": [
+    "File my income tax return",
+    "Which ITR form",
+    "Check refund status",
+    "I want Income Tax e-Filing & Return (ITR)",
+    "Need Income Tax e-Filing & Return (ITR)",
+    "Income Tax e-Filing & Return (ITR) help"
+  ],
+  "follow_up_questions": [
+    "What are the ITR deadlines?",
+    "How do I respond to a tax notice?"
+  ],
+  "recommended_responses": [
+    "Visit https://www.incometax.gov.in",
+    "Call helpline 1800-103-0023 / 1961"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://www.incometax.gov.in/iec/foportal/"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-103-0023 / 1961"
+    }
+  ]
+}

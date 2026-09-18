@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "name": "Aadhaar Enrolment & Update",
+  "category": "CAT-IDENTITY",
+  "sub_category": "Unique Identification",
+  "department": "DEP-MEITY",
+  "ministry": "MIN-MEITY",
+  "central_state": "Central",
+  "state": null,
+  "description": "12-digit unique identity number issued by UIDAI to residents of India, based on demographic and biometric data. Used as proof of identity and address and as a KYC token across government and private services.",
+  "benefits": "Single portable ID accepted nationwide; enables DBT, subsidy linkage, KYC, and access to many government schemes.",
+  "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+  "required_documents": [
+    "Proof of Identity (PoI)",
+    "Proof of Address (PoA)",
+    "Date of Birth proof"
+  ],
+  "optional_documents": [
+    "Introducer / Head of Family based enrolment where documents unavailable"
+  ],
+  "fees": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule.",
+  "processing_time": "Enrolment: up to 90 days for UID generation (typically sooner). Update: up to 30 days.",
+  "validity": "Lifelong (subject to deactivation for residents who acquire foreign citizenship).",
+  "application_mode": "Offline (Enrolment Centre) and Online update (SSUP / mAadhaar)",
+  "official_website": "https://uidai.gov.in",
+  "official_apply_link": "https://myaadhaar.uidai.gov.in",
+  "download_forms": "https://uidai.gov.in/enrolment-update/aadhaar-enrolment.html",
+  "helpline": "1947",
+  "email": "help@uidai.gov.in",
+  "office_locator": "Aadhaar Seva Kendra locator at https://bhuvan.uidai.gov.in/locator",
+  "working_hours": "",
+  "languages_available": "Hindi, English and 21 scheduled languages on portal/app",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://uidai.gov.in",
+  "collection_method": "manual"
+}

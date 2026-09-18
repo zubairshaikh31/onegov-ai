@@ -1,0 +1,49 @@
+{
+  "service_id": "SVC-MAH-AAROGYA",
+  "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+  "category_id": "CAT-HEALTH",
+  "sub_category": "Health (MH)",
+  "department_id": "DEP-MoHFW",
+  "ministry_id": "MIN-HEA",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "Maharashtra cashless health scheme for specified families.",
+  "eligibility": "Maharashtra families (yellow/orange ration card / eligible).",
+  "benefits": "Cashless treatment at empanelled hospitals.",
+  "required_documents": [
+    "Ration card",
+    "Aadhaar"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Check eligibility.",
+    "Visit empanelled hospital.",
+    "Avail cashless treatment."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.jeevandayee.gov.in",
+  "official_apply_link": "https://www.jeevandayee.gov.in",
+  "download_forms": "https://www.jeevandayee.gov.in",
+  "helpline_number": "155388",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.jeevandayee.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "MJPJAY provides cashless health cover to eligible Maharashtra families.",
+  "ai_explanation": "Maharashtra cashless health scheme for specified families.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "mjpa",
+    "maharashtra health scheme"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

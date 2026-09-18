@@ -1,0 +1,50 @@
+{
+  "service_id": "SVC-ICDS",
+  "name": "Anganwadi / ICDS Services",
+  "category_id": "CAT-WELFARE",
+  "sub_category": "Child Welfare",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Integrated Child Development Services: nutrition, health, preschool at Anganwadi centres.",
+  "eligibility": "Children under 6, pregnant/lactating women.",
+  "benefits": "Supplementary nutrition, health checkups, pre-school.",
+  "required_documents": [
+    "Address proof",
+    "Child birth proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit Anganwadi centre.",
+    "Enroll child.",
+    "Avail services."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://wcd.nic.in",
+  "official_apply_link": "https://wcd.nic.in",
+  "download_forms": "https://wcd.nic.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://wcd.nic.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "ICDS/Anganwadi provides child nutrition and care.",
+  "ai_explanation": "Integrated Child Development Services: nutrition, health, preschool at Anganwadi centres.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "anganwadi",
+    "icds",
+    "child nutrition"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

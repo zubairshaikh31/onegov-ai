@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-UP-RATION",
+  "name": "Uttar Pradesh e-District / Ration",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (Uttar Pradesh)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "UP",
+  "description": "UP e-District portal for caste/income/residence certificates and ration services.",
+  "eligibility": "Uttar Pradesh residents per service criteria.",
+  "benefits": "Online certificates and scheme applications.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Register on edistrict.up.gov.in.",
+    "Apply and upload documents.",
+    "Verify and collect certificate."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://edistrict.up.gov.in",
+  "official_apply_link": "https://edistrict.up.gov.in",
+  "download_forms": "https://edistrict.up.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://edistrict.up.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "UP e-District delivers certificates and ration services online for Uttar Pradesh residents.",
+  "ai_explanation": "UP e-District portal for caste/income/residence certificates and ration services.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "up edistrict",
+    "up ration",
+    "up certificate"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

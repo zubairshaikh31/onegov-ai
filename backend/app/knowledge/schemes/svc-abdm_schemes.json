@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0007",
+    "service_id": "SVC-ABDM",
+    "name": "Ayushman Bharat Digital Mission (ABHA)",
+    "category_id": "CAT-HEALTH",
+    "government_level": "Central",
+    "official_portal": "https://abdm.gov.in"
+  }
+]

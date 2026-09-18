@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on scholarships.gov.in as student."
+  },
+  {
+    "step": 2,
+    "description": "Find eligible schemes; fill application."
+  },
+  {
+    "step": 3,
+    "description": "Upload documents; submit."
+  },
+  {
+    "step": 4,
+    "description": "Institute and nodal verification."
+  },
+  {
+    "step": 5,
+    "description": "Sanction and DBT to bank."
+  }
+]

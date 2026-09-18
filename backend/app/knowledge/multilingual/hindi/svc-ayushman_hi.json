@@ -1,0 +1,18 @@
+{
+  "name": "आयुष्मान भारत स्वास्थ्य केंद्र",
+  "description": "Network of Health & Wellness Centres delivering comprehensive primary health care at the community level.",
+  "benefits": "Free essential health services, screenings, and referrals at HWCs.",
+  "eligibility": "All residents; ABHA-linked services; PM-JAY for eligible families.",
+  "documents": [
+    "ABHA ID",
+    "Aadhaar",
+    "Ration/ID proof"
+  ],
+  "steps": [
+    "Locate nearest Health & Wellness Centre.",
+    "Register with ABHA/Aadhaar.",
+    "Avail free primary care services."
+  ],
+  "faqs": [],
+  "keywords": []
+}

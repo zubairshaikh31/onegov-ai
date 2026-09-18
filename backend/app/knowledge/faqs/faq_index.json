@@ -1,0 +1,5582 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 0,
+    "question": "Is Aadhaar mandatory for all schemes?",
+    "answer": "Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 1,
+    "question": "How do I lock/unlock biometrics?",
+    "answer": "Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 2,
+    "question": "How do I enrol for Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 3,
+    "question": "How do I update my address in Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 4,
+    "question": "Is Aadhaar mandatory for subsidies?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 5,
+    "question": "How do I download e-Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://uidai.gov.in"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1947 / email help@uidai.gov.in"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Enrolment: up to 90 days for UID generation (typically sooner). Update: up to 30 days."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Offline (Enrolment Centre) and Online update (SSUP / mAadhaar)"
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1947. Email: help@uidai.gov.in."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 0,
+    "question": "Can I apply from a different state than my address?",
+    "answer": "You must apply from your current address jurisdiction; police verification happens at the address given."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 1,
+    "question": "What is the difference between Normal and Tatkaal?",
+    "answer": "Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 2,
+    "question": "How do I apply for a passport?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 3,
+    "question": "What are the passport fees?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 4,
+    "question": "How long does a passport take?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 5,
+    "question": "How do I renew my passport?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://passportindia.gov.in"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-258-1800 / email passport.helpdesk@mea.gov.in"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18)."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Tatkaal: ~1-3 days post verification. Normal: ~30 days (post police verification)."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online application + in-person appointment at PSK"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-258-1800. Email: passport.helpdesk@mea.gov.in."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18)."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 0,
+    "question": "Can NRI citizens enrol?",
+    "answer": "Yes, under Form 6A if aged 18+ and not enrolled in India."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 1,
+    "question": "Is Aadhaar mandatory for voter enrolment?",
+    "answer": "No, Aadhaar is voluntary for identity; other documents are accepted."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 2,
+    "question": "How do I apply for a Voter ID?",
+    "answer": "(See official portal https://voterportal.eci.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 3,
+    "question": "How do I correct my name in the voter list?",
+    "answer": "(See official portal https://voterportal.eci.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 4,
+    "question": "What is Form 6?",
+    "answer": "(See official portal https://voterportal.eci.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 5,
+    "question": "How do I download e-EPIC?",
+    "answer": "(See official portal https://voterportal.eci.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://voterportal.eci.gov.in"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1950 / email eci@eci.gov.in"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Typically 2-4 weeks after verification; before each summary revision."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online (NVSP / Voter Helpline app) and offline (BLO/ERO)"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1950. Email: eci@eci.gov.in."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 0,
+    "question": "Why is my instalment pending?",
+    "answer": "Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 1,
+    "question": "Are tenant farmers eligible?",
+    "answer": "Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 2,
+    "question": "How do I register for PM-KISAN?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 3,
+    "question": "Why is my PM-KISAN payment pending?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 4,
+    "question": "How do I do PM-KISAN e-KYC?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 5,
+    "question": "Am I eligible for PM-KISAN?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://pmkisan.gov.in"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 155261 / 1800115526 / email pmkisan-ict@gov.in"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Instalments released periodically; first credit after verification (weeks)."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online (pmkisan.gov.in), CSC, or nearest agriculture office"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 155261 / 1800115526. Email: pmkisan-ict@gov.in."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 0,
+    "question": "Which states are covered?",
+    "answer": "Most states with APMC integration; check the mandi list on the portal."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 1,
+    "question": "What is eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 2,
+    "question": "How do I sell on eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 3,
+    "question": "Which mandis are on eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 4,
+    "question": "What is the official website for this service?",
+    "answer": "https://enam.gov.in"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 5,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-270-0222 / email enam@agtech.gov.in"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 6,
+    "question": "Is there any fee?",
+    "answer": "Transaction charges as per APMC bye-laws; platform access free for farmers."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 7,
+    "question": "How long does it take?",
+    "answer": "Trade settlement as per mandi rules (typically within mandated days)."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 8,
+    "question": "Can I apply online?",
+    "answer": "Online (enam.gov.in) and via mandi terminals"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 9,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 10,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 11,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-270-0222. Email: enam@agtech.gov.in."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 12,
+    "question": "Is there any fee for this service?",
+    "answer": "Transaction charges as per APMC bye-laws; platform access free for farmers."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 13,
+    "question": "How long does this service take to process?",
+    "answer": "Trade settlement as per mandi rules (typically within mandated days)."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "faq_index": 14,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (enam.gov.in) and via mandi terminals"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 0,
+    "question": "How do I know if I am eligible?",
+    "answer": "Search your name by state/district/SECC ID on the Beneficiary Portal."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 1,
+    "question": "Is there a premium to pay?",
+    "answer": "No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 2,
+    "question": "Am I eligible for Ayushman Bharat?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 3,
+    "question": "How do I make an Ayushman card?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 4,
+    "question": "Which hospitals accept PM-JAY?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 5,
+    "question": "What is covered under PM-JAY?",
+    "answer": "(See official portal https://pmjay.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://pmjay.gov.in"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 14555 / 1800-11-15555 / email pmjay@nha.gov.in"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Free for eligible beneficiaries (no premium)."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Card creation same day; treatment cashless at empanelled hospitals."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Through Ayushman Bharat Kendras / CSC / hospital helpdesk"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 14555 / 1800-11-15555. Email: pmjay@nha.gov.in."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "Free for eligible beneficiaries (no premium)."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 0,
+    "question": "Is ABHA mandatory?",
+    "answer": "No, it is voluntary; you can opt out."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 1,
+    "question": "Is my health data safe?",
+    "answer": "Sharing is consent-based and governed by the ABDM data-sharing framework."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 2,
+    "question": "What is ABHA ID?",
+    "answer": "(See official portal https://abdm.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 3,
+    "question": "How do I create a Health ID?",
+    "answer": "(See official portal https://abdm.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 4,
+    "question": "How is my data protected?",
+    "answer": "(See official portal https://abdm.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-4477 / 1800-11-6644 / email support@abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Instant ABHA creation."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (abdm.gov.in / ABHA app) and via health facilities"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-4477 / 1800-11-6644. Email: support@abdm.gov.in."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Instant ABHA creation."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 0,
+    "question": "Who should register on e-Shram?",
+    "answer": "Unorganised workers not covered by EPFO/ESIC, such as gig, migrant, and informal workers."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 1,
+    "question": "Who can register on e-Shram?",
+    "answer": "(See official portal https://eshram.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 2,
+    "question": "How do I download my e-Shram card?",
+    "answer": "(See official portal https://eshram.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 3,
+    "question": "Is e-Shram for EPFO members?",
+    "answer": "(See official portal https://eshram.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 4,
+    "question": "What is the official website for this service?",
+    "answer": "https://eshram.gov.in"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 5,
+    "question": "How do I contact support?",
+    "answer": "Helpline 14434 / email eshram@gov.in"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 6,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 7,
+    "question": "How long does it take?",
+    "answer": "Instant card generation after Aadhaar OTP verification."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 8,
+    "question": "Can I apply online?",
+    "answer": "Online (eshram.gov.in) and CSC"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 9,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 10,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 11,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 14434. Email: eshram@gov.in."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 12,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 13,
+    "question": "How long does this service take to process?",
+    "answer": "Instant card generation after Aadhaar OTP verification."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "faq_index": 14,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (eshram.gov.in) and CSC"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 0,
+    "question": "How do I check my PF balance?",
+    "answer": "Via UMANG app, EPFO missed call 9966044425, or member portal."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 1,
+    "question": "How do I check PF balance?",
+    "answer": "(See official portal https://www.epfindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 2,
+    "question": "How do I transfer PF on job change?",
+    "answer": "(See official portal https://www.epfindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 3,
+    "question": "How do I withdraw PF?",
+    "answer": "(See official portal https://www.epfindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 4,
+    "question": "What is UAN?",
+    "answer": "(See official portal https://www.epfindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.epfindia.gov.in"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-118-005 / 14434 / email epfindia@gov.in"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "No fee; statutory contributions by employer/employee."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Claims typically 7-20 days after verification."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (unifiedportal-mem.epfindia.gov.in) and employer"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-118-005 / 14434. Email: epfindia@gov.in."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "No fee; statutory contributions by employer/employee."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Claims typically 7-20 days after verification."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 0,
+    "question": "What is the wage ceiling for ESIC?",
+    "answer": "Rs. 21,000/month (Rs. 25,000 for persons with disability)."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 1,
+    "question": "What is the ESIC wage limit?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 2,
+    "question": "How do I get a Pehchan card?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 3,
+    "question": "What does ESIC cover?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 4,
+    "question": "How do I claim ESIC sickness benefit?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.esic.gov.in"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-2526 / email webmaster@esic.gov.in"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Contribution by employer (3.25%) and employee (0.75%) on wages."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Enrolment by employer; benefits as per claim processing."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Employer enrols; employee uses ESIC portal / dispensaries"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-2526. Email: webmaster@esic.gov.in."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Contribution by employer (3.25%) and employee (0.75%) on wages."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Enrolment by employer; benefits as per claim processing."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 0,
+    "question": "Is NCS free?",
+    "answer": "Yes, registration and job search are free for all."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 1,
+    "question": "How do I register on NCS?",
+    "answer": "(See official portal https://ncs.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 2,
+    "question": "How do I find jobs on NCS?",
+    "answer": "(See official portal https://ncs.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 3,
+    "question": "What is the official website for this service?",
+    "answer": "https://ncs.gov.in"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 4,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-425-1514 / email contactncs@gov.in"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 5,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 6,
+    "question": "How long does it take?",
+    "answer": "Instant registration; application response per employer."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 7,
+    "question": "Can I apply online?",
+    "answer": "Online (ncs.gov.in) and career centres"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 8,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 9,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 10,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-425-1514. Email: contactncs@gov.in."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 11,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 12,
+    "question": "How long does this service take to process?",
+    "answer": "Instant registration; application response per employer."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 13,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (ncs.gov.in) and career centres"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "faq_index": 14,
+    "question": "What documents are required?",
+    "answer": "Required documents: Mobile / email for registration, Aadhaar (optional for verification)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 0,
+    "question": "Is Aadhaar mandatory for Udyam?",
+    "answer": "Yes, Aadhaar of the owner/partner/director is required for registration."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 1,
+    "question": "Is there a fee?",
+    "answer": "No government fee for Udyam registration."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 2,
+    "question": "How do I register my MSME on Udyam?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 3,
+    "question": "Is Udyam free?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 4,
+    "question": "What documents are needed for Udyam?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 5,
+    "question": "What are MSME limits?",
+    "answer": "(See official portal https://udyamregistration.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://udyamregistration.gov.in"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-180-6763 / email udyam@dcmsme.gov.in"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "Free (no government fee)."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Instant certificate on submission."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online (udyamregistration.gov.in)"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-180-6763. Email: udyam@dcmsme.gov.in."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free (no government fee)."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Instant certificate on submission."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 0,
+    "question": "What is the age/turnover limit for a startup?",
+    "answer": "Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 1,
+    "question": "Am I eligible for Startup India?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 2,
+    "question": "How do I get DPIIT recognition?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 3,
+    "question": "What tax benefits do startups get?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 4,
+    "question": "How do I apply for Startup India?",
+    "answer": "(See official portal https://www.startupindia.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.startupindia.gov.in"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-115-565 / email support@startupindia.gov.in"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free for recognition."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Recognition typically within days of submission."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (startupindia.gov.in)"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-115-565. Email: support@startupindia.gov.in."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free for recognition."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Recognition typically within days of submission."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 0,
+    "question": "Is GeM only for government buyers?",
+    "answer": "Buyers are government entities; sellers can be any eligible business/MSME."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 1,
+    "question": "How do I sell on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 2,
+    "question": "Who can buy on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 3,
+    "question": "What are GeM seller charges?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 4,
+    "question": "How do I register on GeM?",
+    "answer": "(See official portal https://gem.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://gem.gov.in"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-419-3436 / 1800-102-3436 / email helpdesk-gem@gem.gov.in"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Registration quick; transaction per bid cycle."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (gem.gov.in)"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-419-3436 / 1800-102-3436. Email: helpdesk-gem@gem.gov.in."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "No fee for buyers; sellers pay one-time caution money + per-transaction charges per GeM policy."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Registration quick; transaction per bid cycle."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 0,
+    "question": "Which ITR form do I use?",
+    "answer": "Depends on income source (salary, business, capital gains); portal helps select."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 1,
+    "question": "Is Aadhaar-PAN linking mandatory?",
+    "answer": "Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions)."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 2,
+    "question": "Which ITR form should I file?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 3,
+    "question": "How do I file ITR online?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 4,
+    "question": "How do I check refund status?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 5,
+    "question": "Is PAN-Aadhaar linking mandatory?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-103-0023 / 1961 / email efilingwebmanager@incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "No government filing fee; late fees under Section 234F if delayed."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Filing instant; refund within months of processing."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online (incometax.gov.in)"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-103-0023 / 1961. Email: efilingwebmanager@incometax.gov.in."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "No government filing fee; late fees under Section 234F if delayed."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 0,
+    "question": "What is the GST turnover threshold?",
+    "answer": "Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states)."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 1,
+    "question": "Do I need GST registration?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 2,
+    "question": "How do I register for GST?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 3,
+    "question": "What is the GST threshold?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 4,
+    "question": "How do I file GSTR-3B?",
+    "answer": "(See official portal https://www.gst.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.gst.gov.in"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-103-4786 / 14444 / email webmaster@cgst.gov.in"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "No government registration fee; late fees for delayed returns."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Registration usually within 7-30 days; returns monthly/quarterly."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (gst.gov.in)"
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-103-4786 / 14444. Email: webmaster@cgst.gov.in."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "No government registration fee; late fees for delayed returns."
+  },
+  {
+    "service_id": "SVC-GST",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Registration usually within 7-30 days; returns monthly/quarterly."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 0,
+    "question": "Are DigiLocker documents legally valid?",
+    "answer": "Yes, e-documents via DigiLocker are recognised under the IT Act as per Gazette notification."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 1,
+    "question": "What is DigiLocker?",
+    "answer": "(See official portal https://www.digilocker.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 2,
+    "question": "How do I sign up for DigiLocker?",
+    "answer": "(See official portal https://www.digilocker.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 3,
+    "question": "Are DigiLocker documents valid?",
+    "answer": "(See official portal https://www.digilocker.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 4,
+    "question": "How do I share a DigiLocker document?",
+    "answer": "(See official portal https://www.digilocker.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.digilocker.gov.in"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-153-374 / support via portal / email support.digilocker@digitalindia.gov.in"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Instant; document fetch depends on issuer."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (digilocker.gov.in) and mobile app"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-153-374 / support via portal. Email: support.digilocker@digitalindia.gov.in."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Instant; document fetch depends on issuer."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 0,
+    "question": "Which services are on UMANG?",
+    "answer": "Hundreds across EPFO, tax, passport, education, utilities, and states."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 1,
+    "question": "What is UMANG app?",
+    "answer": "(See official portal https://umang.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 2,
+    "question": "How do I register on UMANG?",
+    "answer": "(See official portal https://umang.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 3,
+    "question": "Is UMANG free?",
+    "answer": "(See official portal https://umang.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 4,
+    "question": "What is the official website for this service?",
+    "answer": "https://umang.gov.in"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 5,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-111-550 / email helpdesk@umang.gov.in"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 6,
+    "question": "Is there any fee?",
+    "answer": "Free app; service charges as applicable."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 7,
+    "question": "How long does it take?",
+    "answer": "Per service."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 8,
+    "question": "Can I apply online?",
+    "answer": "Mobile app (UMANG) and web"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 9,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 10,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 11,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-111-550. Email: helpdesk@umang.gov.in."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 12,
+    "question": "Is there any fee for this service?",
+    "answer": "Free app; service charges as applicable."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 13,
+    "question": "How long does this service take to process?",
+    "answer": "Per service."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "faq_index": 14,
+    "question": "Can I apply for this service online?",
+    "answer": "Mobile app (UMANG) and web"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 0,
+    "question": "Who is eligible for PMAY-U?",
+    "answer": "EWS/LIG/MIG urban households without a pucca house, meeting income limits."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 1,
+    "question": "Am I eligible for PMAY?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 2,
+    "question": "How do I apply for PMAY subsidy?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 3,
+    "question": "What is CLSS?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 4,
+    "question": "What are PMAY income limits?",
+    "answer": "(See official portal https://pmaymis.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://pmaymis.gov.in"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-6446 / 011-23063285 / email pmaymis-moihua@gov.in"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free to apply."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Verification and sanction per state/ULB cycle."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (pmaymis.gov.in) and via urban local bodies"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-6446 / 011-23063285. Email: pmaymis-moihua@gov.in."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free to apply."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Verification and sanction per state/ULB cycle."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 0,
+    "question": "Can I apply to multiple schemes?",
+    "answer": "Only one central scheme at a time generally; multiple where permitted."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 1,
+    "question": "How do I apply for scholarship on NSP?",
+    "answer": "(See official portal https://scholarships.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 2,
+    "question": "Which scholarships are on NSP?",
+    "answer": "(See official portal https://scholarships.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 3,
+    "question": "How do I check NSP status?",
+    "answer": "(See official portal https://scholarships.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 4,
+    "question": "What documents are needed for NSP?",
+    "answer": "(See official portal https://scholarships.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://scholarships.gov.in"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 0120-6619540 / email helpdesk@nsp.gov.in"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Per scheme cycle (application->verification->sanction)."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (scholarships.gov.in)"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 0120-6619540. Email: helpdesk@nsp.gov.in."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Per scheme cycle (application->verification->sanction)."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 0,
+    "question": "Are SWAYAM certificates free?",
+    "answer": "Courses are free; a fee applies only for the proctored certificate exam."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 1,
+    "question": "What is SWAYAM?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 2,
+    "question": "Are SWAYAM courses free?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 3,
+    "question": "How do I get a SWAYAM certificate?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 4,
+    "question": "Are SWAYAM credits valid?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://swayam.gov.in"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-121-9020 / email support@swayam.gov.in"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Course free; certificate exam fee applicable."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Self-paced; exam per schedule."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (swayam.gov.in)"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-121-9020. Email: support@swayam.gov.in."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Course free; certificate exam fee applicable."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Self-paced; exam per schedule."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 0,
+    "question": "Who can open an ABC account?",
+    "answer": "Students of ABC-participating higher education institutions."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 1,
+    "question": "What is ABC ID?",
+    "answer": "(See official portal https://abc.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 2,
+    "question": "How do I create an Academic Bank of Credits account?",
+    "answer": "(See official portal https://abc.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 3,
+    "question": "Can I transfer credits between universities?",
+    "answer": "(See official portal https://abc.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 4,
+    "question": "Which universities use ABC?",
+    "answer": "(See official portal https://abc.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://abc.gov.in"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-111-550 (via ABC/HEI) / email abc@ugc.gov.in"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Credits deposited per academic cycle."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (abc.gov.in)"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-111-550 (via ABC/HEI). Email: abc@ugc.gov.in."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Credits deposited per academic cycle."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 0,
+    "question": "Can I get my DL on DigiLocker?",
+    "answer": "Yes, issued DL/RC can be fetched in DigiLocker."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 1,
+    "question": "Is a driving test mandatory?",
+    "answer": "Yes, for permanent DL after learner licence period."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 2,
+    "question": "How do I apply for a driving licence online?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 3,
+    "question": "How do I check my RC status?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 4,
+    "question": "How do I renew my DL?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 5,
+    "question": "What are RTO fees?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 0120-4925505 / email helpdesk@parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 8,
+    "question": "Is there any fee?",
+    "answer": "As per state MV fee schedule; varies by service."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "RC/DL issued after RTO test/verification (days to weeks)."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Online (parivahan.gov.in) + RTO appointment"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 11,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 12,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 13,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 0120-4925505. Email: helpdesk@parivahan.gov.in."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "faq_index": 14,
+    "question": "Is there any fee for this service?",
+    "answer": "As per state MV fee schedule; varies by service."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 0,
+    "question": "What certificates can I get here?",
+    "answer": "Caste, income, residence, birth/death, and many scheme applications."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 1,
+    "question": "How do I apply for a caste certificate in Maharashtra?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 2,
+    "question": "What is Aaple Sarkar?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 3,
+    "question": "How do I track my certificate application?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 4,
+    "question": "Where are SETU centres?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 (MahaOnline) / email support@mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "As per state fee schedule per service."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Per service SLA (certificates usually 7-30 days)."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (aaplesarkar.mahaonline.gov.in) and CSC / SETU centres"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040 (MahaOnline). Email: support@mahaonline.gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "As per state fee schedule per service."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Per service SLA (certificates usually 7-30 days)."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 0,
+    "question": "What is 7/12 (Satbara)?",
+    "answer": "It is the land record showing ownership, area, crop, and tenure of a plot in Maharashtra."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 1,
+    "question": "How do I get 7/12 online in Maharashtra?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 2,
+    "question": "What is Satbara?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 3,
+    "question": "How do I check land mutation status?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 4,
+    "question": "Where do I get a certified 7/12?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://mahabhulekh.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 022-25250900 (Bhulekh support) / email mah bhulekh support via portal"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free view; nominal fee for certified copies."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Instant view; certified copy per taluka office process."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (mahabhulekh.maharashtra.gov.in)"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 022-25250900 (Bhulekh support). Email: mah bhulekh support via portal."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free view; nominal fee for certified copies."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Instant view; certified copy per taluka office process."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 0,
+    "question": "How do I add a member to my ration card?",
+    "answer": "Apply for modification at the rationing office / portal with proof."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 1,
+    "question": "How do I apply for a ration card in Maharashtra?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 2,
+    "question": "What are NFSA ration card types?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 3,
+    "question": "Where is my nearest ration shop?",
+    "answer": "(See official portal https://mahafood.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 4,
+    "question": "What is the official website for this service?",
+    "answer": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 5,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-222-362 (Toll-free, MahaFood) / email fcscrti-maha@gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 6,
+    "question": "Is there any fee?",
+    "answer": "As per state schedule (nominal)."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 7,
+    "question": "How long does it take?",
+    "answer": "Per district verification (weeks)."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 8,
+    "question": "Can I apply online?",
+    "answer": "Online (maha food portal) and rationing offices / CSC"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 9,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 10,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 11,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-222-362 (Toll-free, MahaFood). Email: fcscrti-maha@gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 12,
+    "question": "Is there any fee for this service?",
+    "answer": "As per state schedule (nominal)."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 13,
+    "question": "How long does this service take to process?",
+    "answer": "Per district verification (weeks)."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "faq_index": 14,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (maha food portal) and rationing offices / CSC"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 0,
+    "question": "Which schemes are on MahaDBT?",
+    "answer": "Post-matric scholarships (SC/ST/OBC/Minority/EBC) and other state DBT schemes."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 1,
+    "question": "How do I apply for Maharashtra scholarship?",
+    "answer": "(See official portal https://mahadbt.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 2,
+    "question": "What is MahaDBT?",
+    "answer": "(See official portal https://mahadbt.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 3,
+    "question": "How do I check MahaDBT status?",
+    "answer": "(See official portal https://mahadbt.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 4,
+    "question": "Which scholarships are on MahaDBT?",
+    "answer": "(See official portal https://mahadbt.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 022-49170000 (MahaDBT) / email mahadbt-support@gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Per scheme cycle."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (mahadbt.maharashtra.gov.in)"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 022-49170000 (MahaDBT). Email: mahadbt-support@gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Per scheme cycle."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 0,
+    "question": "Are Maharashtra RTO services on Parivahan?",
+    "answer": "Yes, DL/RC services use the national Parivahan/Sarathi platform with state integration."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 1,
+    "question": "How do I apply for DL in Maharashtra?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 2,
+    "question": "What are Maharashtra RTO fees?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 3,
+    "question": "How do I renew my DL in Mumbai/Pune?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 4,
+    "question": "Where is my RTO?",
+    "answer": "(See official portal https://transport.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 5,
+    "question": "What is the official website for this service?",
+    "answer": "https://transport.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 6,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 (state helpdesk) / email rft-maha@gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 7,
+    "question": "Is there any fee?",
+    "answer": "As per Maharashtra MV fee schedule."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 8,
+    "question": "How long does it take?",
+    "answer": "Per RTO SLA."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 9,
+    "question": "Can I apply online?",
+    "answer": "Online (transport.maharashtra.gov.in / Parivahan) + RTO"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 10,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 11,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040 (state helpdesk). Email: rft-maha@gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "As per Maharashtra MV fee schedule."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Per RTO SLA."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 0,
+    "question": "How do I apply for Driving Licence (Sarathi / Parivahan)?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 1,
+    "question": "What documents are required for Driving Licence (Sarathi / Parivahan)?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 2,
+    "question": "What is the fee for Driving Licence (Sarathi / Parivahan)?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 3,
+    "question": "Who is eligible for Driving Licence (Sarathi / Parivahan)?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 4,
+    "question": "How long does Driving Licence (Sarathi / Parivahan) take to process?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 5,
+    "question": "What is the official website for Driving Licence (Sarathi / Parivahan)?",
+    "answer": "(See official portal https://parivahan.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 6,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 0120-2459169 / helpdesk-sarathi@gov.in"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 8,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 11,
+    "question": "What is the official website for this service?",
+    "answer": "https://parivahan.gov.in"
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 0120-2459169. Email: helpdesk-sarathi@gov.in."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Learner's ~Rs.150; DL ~Rs.200+ (varies by state RTO)."
+  },
+  {
+    "service_id": "SVC-DL",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Learner's licence same day (online test); DL after driving test, ~7-30 days."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 0,
+    "question": "How do I apply for PAN Card (Permanent Account Number)?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 1,
+    "question": "What documents are required for PAN Card (Permanent Account Number)?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 2,
+    "question": "What is the fee for PAN Card (Permanent Account Number)?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 3,
+    "question": "Who is eligible for PAN Card (Permanent Account Number)?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 4,
+    "question": "How long does PAN Card (Permanent Account Number) take to process?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 5,
+    "question": "What is the official website for PAN Card (Permanent Account Number)?",
+    "answer": "(See official portal https://www.incometax.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 6,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-103-0025 / "
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 8,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 11,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.incometax.gov.in"
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-103-0025. Email: ."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 0,
+    "question": "How do I apply for Income Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 1,
+    "question": "What documents are required for Income Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 2,
+    "question": "What is the fee for Income Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 3,
+    "question": "Who is eligible for Income Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 4,
+    "question": "How long does Income Certificate (Maharashtra) take to process?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 5,
+    "question": "What is the official website for Income Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 6,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 / aaplesarkar.support@mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 8,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 11,
+    "question": "What is the official website for this service?",
+    "answer": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040. Email: aaplesarkar.support@mahaonline.gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Nominal (approx Rs.33-40 via Aaple Sarkar)."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "15 working days (as per RTS Act service standard)."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 0,
+    "question": "How do I apply for Domicile / Residence Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 1,
+    "question": "What documents are required for Domicile / Residence Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 2,
+    "question": "What is the fee for Domicile / Residence Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 3,
+    "question": "Who is eligible for Domicile / Residence Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 4,
+    "question": "How long does Domicile / Residence Certificate (Maharashtra) take to process?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 5,
+    "question": "What is the official website for Domicile / Residence Certificate (Maharashtra)?",
+    "answer": "(See official portal https://aaplesarkar.mahaonline.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 6,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-120-8040 / aaplesarkar.support@mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 8,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 11,
+    "question": "What is the official website for this service?",
+    "answer": "https://aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-120-8040. Email: aaplesarkar.support@mahaonline.gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Nominal (approx Rs.33-40)."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "15 working days (RTS standard)."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 0,
+    "question": "How do I apply for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 1,
+    "question": "What documents are required for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 2,
+    "question": "What is the fee for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 3,
+    "question": "Who is eligible for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 4,
+    "question": "How long does Mukhyamantri Majhi Ladki Bahin Yojana take to process?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 5,
+    "question": "What is the official website for Mukhyamantri Majhi Ladki Bahin Yojana?",
+    "answer": "(See official portal https://ladakibahin.maharashtra.gov.in for authoritative detail.)"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 6,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 7,
+    "question": "How do I contact support?",
+    "answer": "Helpline 181 / "
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 8,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 9,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 10,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 11,
+    "question": "What is the official website for this service?",
+    "answer": "https://ladakibahin.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 12,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 181. Email: ."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 13,
+    "question": "Is there any fee for this service?",
+    "answer": "Free."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "faq_index": 14,
+    "question": "How long does this service take to process?",
+    "answer": "Verification-dependent; benefits via DBT after approval."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Ujjwala Yojana (LPG)?",
+    "answer": "Provides deposit-free LPG connections to women from below-poverty-line households."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1906 / support@pmuy.gov.in"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.pmuy.gov.in"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1906. Email: support@pmuy.gov.in."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: BPL card / SECC details, Aadhaar, Bank account, Address proof"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 0,
+    "question": "What is NGDRBharat (Digitized Land Records)?",
+    "answer": "National Generic Document Registration System providing unified digital land/property registration across states."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.ngdrbharat.gov.in"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Sale deed, Aadhaar, Party identity proof, Encumbrance certificate"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH-REV."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 0,
+    "question": "What is India Post Services?",
+    "answer": "Postal, parcel, Speed Post, savings accounts, POSB, IPPB banking, and government agency services."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-2011 / customercare@indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-2011. Email: customercare@indiapost.gov.in."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Identity proof, Address proof, Passport-size photo"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MEITY; Department: DEP-NEGD."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 0,
+    "question": "What is National Apprenticeship (Apprenticeship India)?",
+    "answer": "National Apprenticeship Training scheme connecting apprentices with establishments for paid on-the-job training."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-233-1711 / support@apprenticeshipindia.gov.in"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://apprenticeshipindia.gov.in"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-233-1711. Email: support@apprenticeshipindia.gov.in."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Educational certificates, Aadhaar, Bank account, Category certificate (if applicable)"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-LAB; Department: DEP-LAB."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+    "answer": "Flagship skill-certification scheme offering free short-term training and certification to youth."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-233-7878 / support@pmkvyofficial.org"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.msde.gov.in"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-233-7878. Email: support@pmkvyofficial.org."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Educational proof, Bank account, Age proof"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-LAB; Department: DEP-LAB."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 0,
+    "question": "What is NIELIT Certification & Services?",
+    "answer": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / helpdesk@nielit.gov.in"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.nielit.gov.in"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: helpdesk@nielit.gov.in."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Educational certificates, Aadhaar, Photo"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MEITY; Department: DEP-NEGD."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 0,
+    "question": "What is Ayushman Bharat Health & Wellness Centres?",
+    "answer": "Network of Health & Wellness Centres delivering comprehensive primary health care at the community level."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 14555 / pmjay@nha.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://abdm.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 14555. Email: pmjay@nha.gov.in."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: ABHA ID, Aadhaar, Ration/ID proof"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-HEA; Department: DEP-MoHFW."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+    "answer": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.mygov.in"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Bank account"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-FIN; Department: DEP-CBDT."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+    "answer": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-0001 / Not Available"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.pmjdy.gov.in"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-11-0001. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Identity proof, Address proof"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-FIN; Department: DEP-CBDT."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-JDY",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 0,
+    "question": "What is Sukanya Samriddhi Yojana (SSY)?",
+    "answer": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.indiapost.gov.in"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Birth certificate of girl child, Parent guardian ID, Address proof, Photograph"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-FIN; Department: DEP-CBDT."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: Central"
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 0,
+    "question": "What is Maha Anna (Maharashtra Ration / NFSA)?",
+    "answer": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-222-362 / fcscrti-maha@gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://mahafood.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-222-362. Email: fcscrti-maha@gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income proof, Family details"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH-FOOD."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: MH"
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 0,
+    "question": "What is Maharashtra Chief Minister Relief Fund?",
+    "answer": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://www.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Identity proof, Distress/calamity proof, Bank account"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: MH"
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 0,
+    "question": "What is Maharashtra Farmer Welfare Schemes?",
+    "answer": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://mahaagri.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: 7/12 land record, Aadhaar, Bank account, Caste/category cert (if applicable)"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-AGR; Department: DEP-DARE."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: MH"
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 0,
+    "question": "What is Delhi Ration Card / e-District?",
+    "answer": "Delhi e-District portal for ration cards, certificates, and citizen services."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline 1076 / Not Available"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://edistrict.delhigovt.nic.in"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1076. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, DOB proof"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: DL"
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 0,
+    "question": "What is Uttar Pradesh e-District / Ration?",
+    "answer": "UP e-District portal for caste/income/residence certificates and ration services."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://edistrict.up.gov.in"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income proof"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: UP"
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 0,
+    "question": "What is Digital Gujarat Portal?",
+    "answer": "Gujarat's integrated portal for certificates, scholarships, and citizen services."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://digitalgujarat.gov.in"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income/caste proof"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: GJ"
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 0,
+    "question": "What is Karnataka Seva Sindhu / e-District?",
+    "answer": "Karnataka's integrated service delivery portal for certificates and schemes."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://sevasindhu.karnataka.gov.in"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income proof"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: KA"
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 0,
+    "question": "What is Tamil Nadu e-Sevai / e-District?",
+    "answer": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://eservices.tn.gov.in"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income proof"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: TN"
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 0,
+    "question": "What is West Bengal Duare Sarkar / e-District?",
+    "answer": "West Bengal e-District / Duare Sarkar camps for certificates and schemes."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://edistrict.wb.gov.in"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Address proof, Income proof"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: WB"
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 0,
+    "question": "What is Rajasthan e-Mitra / SSO?",
+    "answer": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 2,
+    "question": "How do I contact support?",
+    "answer": "Helpline Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 5,
+    "question": "Can I apply online?",
+    "answer": "Verification Required. Refer to official portal."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 6,
+    "question": "What is the official website for this service?",
+    "answer": "https://sso.rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 7,
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: Not Available. Email: Not Available."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 8,
+    "question": "Is there any fee for this service?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 9,
+    "question": "How long does this service take to process?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 10,
+    "question": "Can I apply for this service online?",
+    "answer": "Online (official portal) and designated offices"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 11,
+    "question": "What documents are required?",
+    "answer": "Required documents: Aadhaar, Mobile, Address proof"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 12,
+    "question": "Which ministry/department manages this service?",
+    "answer": "Ministry: MIN-MAH; Department: DEP-MAH."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 13,
+    "question": "Is this service available in my state?",
+    "answer": "Government level: State; State: RJ"
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "faq_index": 14,
+    "question": "How do I check the status of my application?",
+    "answer": "Check status on the official portal using your reference/acknowledgement number."
+  },
+  {
+    "service_id": "SVC-CSC",
+    "faq_index": 0,
+    "question": "What is Common Service Centres (CSC)?",
+    "answer": "CSC network provides public services (gov, finance, education) at village/urban kiosks."
+  },
+  {
+    "service_id": "SVC-CSC",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-CSC",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "1800-3000-3468 / helpdesk@csc.gov.in"
+  },
+  {
+    "service_id": "SVC-CSC",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-CSC",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "faq_index": 0,
+    "question": "What is BHIM / UPI (NPCI)?",
+    "answer": "Unified Payments Interface enabling instant bank-to-bank mobile payments."
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.bhimupi.org.in"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "faq_index": 0,
+    "question": "What is DigiYatra (Airport Biometric)?",
+    "answer": "Biometric-based seamless airport entry using a facial recognition ecosystem."
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://digiyatra.gov.in"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "faq_index": 0,
+    "question": "What is Maa Bharti / e-Governance (Rajasthan)?",
+    "answer": "Rajasthan state portal and SSO for citizen services."
+  },
+  {
+    "service_id": "SVC-MAA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://rajasthan.gov.in"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "faq_index": 0,
+    "question": "What is Andhra Pradesh e-Seva / MeeSeva?",
+    "answer": "AP MeeSeva portal for certificates and citizen services."
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://ap.meeseva.gov.in"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "faq_index": 0,
+    "question": "What is Telangana TS-ePASS / MeeSeva?",
+    "answer": "Telangana MeeSeva for certificates and welfare schemes."
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://ts.meeseva.telangana.gov.in"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "faq_index": 0,
+    "question": "What is Kerala e-District / KSWD?",
+    "answer": "Kerala e-District for certificates and services."
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://edistrict.kerala.gov.in"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "faq_index": 0,
+    "question": "What is CoWIN (Vaccination)?",
+    "answer": "Platform for COVID vaccination registration and certificates."
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.cowin.gov.in"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "1075 / support@cowin.gov.in"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "faq_index": 0,
+    "question": "What is AYUSH Centres / Ministries?",
+    "answer": "Ministry of AYUSH for traditional medicine systems (Yoga, Ayurveda)."
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://ayush.gov.in"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "faq_index": 0,
+    "question": "What is Anganwadi / ICDS Services?",
+    "answer": "Integrated Child Development Services: nutrition, health, preschool at Anganwadi centres."
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://wcd.nic.in"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "faq_index": 0,
+    "question": "What is POSHAN Abhiyaan?",
+    "answer": "National Nutrition Mission to reduce malnutrition."
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://poshanabhiyaan.gov.in"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "faq_index": 0,
+    "question": "What is Swachh Bharat Mission?",
+    "answer": "Mission to achieve universal sanitation and open-defecation free India."
+  },
+  {
+    "service_id": "SVC-SBM",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://swachhbharat.mygov.in"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-SBM",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "faq_index": 0,
+    "question": "What is AMRUT (Urban Water/Sewerage)?",
+    "answer": "Atal Mission for Rejuvenation and Urban Transformation: water, sewerage, urban transport."
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://amrut.mohua.gov.in"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Gram Sadak Yojana?",
+    "answer": "Scheme for all-weather rural road connectivity."
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://pmgsy.nic.in"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "faq_index": 0,
+    "question": "What is MGNREGA (Rural Employment)?",
+    "answer": "Mahatma Gandhi NREGA guarantees 100 days wage employment to rural households."
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://nrega.nic.in"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "faq_index": 0,
+    "question": "What is DAY-NULM (Urban Livelihood)?",
+    "answer": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission."
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://nulm.gov.in"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "faq_index": 0,
+    "question": "What is PMKVY 4.0 (Skill India)?",
+    "answer": "Updated PMKVY skill certification scheme."
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.pmkvyofficial.org"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "1800-233-7878 / support@pmkvyofficial.org"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "faq_index": 0,
+    "question": "What is DISHA / CSC 2.0?",
+    "answer": "Digital literacy and rural services through CSCs."
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.csc.gov.in"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "1800-3000-3468 / helpdesk@csc.gov.in"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "faq_index": 0,
+    "question": "What is Jal Jeevan Mission (Maharashtra)?",
+    "answer": "State implementation of JJM for functional household tap connections."
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://mjp.maharashtra.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "faq_index": 0,
+    "question": "What is Mahatma Jyotiba Phule Jan Arogya Yojana (MH)?",
+    "answer": "Maharashtra cashless health scheme for specified families."
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.jeevandayee.gov.in"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "155388 / Not Available"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Suraksha Bima Yojana?",
+    "answer": "Accident insurance cover Rs.2 lakh at Rs.20/year (already captured as RAKSHABANDHAN - duplicate skip)"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "faq_index": 0,
+    "question": "What is Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+    "answer": "Life insurance cover Rs.2 lakh at Rs.436/year."
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "faq_index": 0,
+    "question": "What is Atal Pension Yojana?",
+    "answer": "Guaranteed minimum pension of Rs.1000-5000 for unorganised workers."
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "faq_index": 0,
+    "question": "What is National Pension System?",
+    "answer": "Voluntary pension system for all citizens."
+  },
+  {
+    "service_id": "SVC-NPS",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-NPS",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "faq_index": 0,
+    "question": "What is Indian Railways / IRCTC Services?",
+    "answer": "Rail ticket booking, PNR, cancellations via IRCTC."
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.irctc.co.in"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "139 / Not Available"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "faq_index": 0,
+    "question": "What is Airport Authority / DigiYatra?",
+    "answer": "Airport services and passenger facilities."
+  },
+  {
+    "service_id": "SVC-AAI",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.aai.aero"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "Not Available / Not Available"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-AAI",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "faq_index": 0,
+    "question": "What is Passport Seva (Re-enrich)?",
+    "answer": "Passport issuance, renewal, miscellaneous services."
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "faq_index": 1,
+    "question": "What is the official website?",
+    "answer": "https://www.passportindia.gov.in"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "faq_index": 2,
+    "question": "Helpline?",
+    "answer": "1800-258-1800 / Not Available"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "faq_index": 3,
+    "question": "Is there a fee?",
+    "answer": "Verification Required"
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "faq_index": 4,
+    "question": "How long does it take?",
+    "answer": "Verification Required"
+  }
+]

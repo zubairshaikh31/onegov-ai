@@ -1,0 +1,81 @@
+{
+  "en": {
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+    "eligibility": "Any citizen with a smartphone; services may need respective IDs.",
+    "benefits": "One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+    "application_steps": [
+      "Download UMANG app / visit web.umang.gov.in.",
+      "Register with mobile OTP.",
+      "Browse departments and services.",
+      "Authenticate per service and transact."
+    ],
+    "faqs": [
+      "Which services are on UMANG?",
+      "What is UMANG app?",
+      "How do I register on UMANG?",
+      "Is UMANG free?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator"
+    ]
+  },
+  "hi": {
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+    "eligibility": "पात्रता: Any citizen with a smartphone; services may need respective IDs.",
+    "benefits": "लाभ: One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+    "application_steps": [
+      "Download UMANG app / visit web.umang.gov.in.",
+      "Register with mobile OTP.",
+      "Browse departments and services.",
+      "Authenticate per service and transact."
+    ],
+    "faqs": [
+      "Which services are on UMANG?",
+      "What is UMANG app?",
+      "How do I register on UMANG?",
+      "Is UMANG free?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator",
+      "umang",
+      "mobile governance"
+    ]
+  },
+  "mr": {
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "description": "Single mobile app aggregating central, state, and utility services (EPFO, income tax, passport, bill pay, etc.).",
+    "eligibility": "पात्रता: Any citizen with a smartphone; services may need respective IDs.",
+    "benefits": "फायदे: One app for many government services; multilingual; Aadhaar/PAN-based auth.",
+    "application_steps": [
+      "Download UMANG app / visit web.umang.gov.in.",
+      "Register with mobile OTP.",
+      "Browse departments and services.",
+      "Authenticate per service and transact."
+    ],
+    "faqs": [
+      "Which services are on UMANG?",
+      "What is UMANG app?",
+      "How do I register on UMANG?",
+      "Is UMANG free?",
+      "What is the official website for this service?"
+    ],
+    "keywords": [
+      "umang",
+      "mobile governance",
+      "government app",
+      "services aggregator",
+      "umang",
+      "mobile governance"
+    ]
+  }
+}

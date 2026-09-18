@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "references": [
+    {
+      "act": "Operational guidelines notified by MoAFW",
+      "rule": "PM-KISAN scheme guidelines",
+      "authority": "Ministry of Agriculture"
+    }
+  ]
+}

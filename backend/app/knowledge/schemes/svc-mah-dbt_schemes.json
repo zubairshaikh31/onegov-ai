@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0027",
+    "service_id": "SVC-MAH-DBT",
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "category_id": "CAT-STATE",
+    "government_level": "State",
+    "official_portal": "https://mahadbt.maharashtra.gov.in"
+  }
+]

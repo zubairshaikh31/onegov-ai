@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-DL",
+  "guide_md": "tutorials/md/svc-dl_guide.md",
+  "guide_html": "tutorials/html/svc-dl_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-dl_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2025-01-01",
+  "official_sources": [
+    "https://parivahan.gov.in"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "ai_summary": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked.",
+  "ai_explanation": "The scheme transfers Rs. 2,000 every four months to farmer families owning cultivable land, subject to exclusion criteria. Registration needs Aadhaar, a DBT bank account, and land records. Periodic e-KYC is mandatory to keep receiving benefits.",
+  "eligibility_summary": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+  "conversation_examples": [
+    {
+      "user": "I want PM-KISAN Samman Nidhi",
+      "bot": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. Apply: https://pmkisan.gov.in/BeneficiaryStatus.aspx. Helpline: 155261 / 1800115526."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with PM-KISAN Samman Nidhi. Use only official info from https://pmkisan.gov.in.",
+  "follow_up_questions": [
+    "How do I link Aadhaar to my bank for PM-KISAN?",
+    "What are the PM-KISAN exclusion criteria?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmkisan",
+    "status_svc-pmkisan",
+    "eligibility_svc-pmkisan"
+  ],
+  "recommended_services": [
+    "SVC-ENAM",
+    "SVC-AADHAAR",
+    "SVC-ENAM"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank account (DBT-linked)",
+    "Landholding records / Khatauni"
+  ],
+  "suggested_responses": [
+    "Visit https://pmkisan.gov.in",
+    "Call 155261 / 1800115526"
+  ],
+  "recommendation_weight": 1.0
+}

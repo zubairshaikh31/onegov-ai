@@ -1,0 +1,25 @@
+{
+  "name": "Indian Railways / IRCTC Services",
+  "description": "Rail ticket booking, PNR, cancellations via IRCTC.",
+  "benefits": "Online rail booking, PNR status.",
+  "eligibility": "All citizens.",
+  "documents": [
+    "ID proof"
+  ],
+  "steps": [
+    "Register IRCTC.",
+    "Book ticket.",
+    "Travel with ID."
+  ],
+  "faqs": [
+    "What is Indian Railways / IRCTC Services?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "irctc",
+    "rail booking"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-passport_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-passport_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-passport_guide.pdf"
+  }
+]

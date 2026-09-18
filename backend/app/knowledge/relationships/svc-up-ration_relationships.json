@@ -1,0 +1,8 @@
+{
+  "service_id": "SVC-UP-RATION",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [],
+  "alternative": [],
+  "chain_example": "SVC-UP-RATION"
+}

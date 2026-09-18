@@ -1,0 +1,129 @@
+{
+  "service_id": "SVC-UDYAM",
+  "name": "Udyam Registration (MSME)",
+  "category_id": "CAT-BUSINESS",
+  "sub_category": "MSME Registration",
+  "department_id": "DEP-MSME",
+  "ministry_id": "MIN-MSME",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Online registration of Micro, Small and Medium Enterprises to obtain a Udyam certificate and access schemes/incentives.",
+  "eligibility": "Enterprises meeting MSME investment/turnover thresholds (manufacturing/services).",
+  "benefits": "Priority credit, subsidies, tender preferences, easier compliance, scheme eligibility.",
+  "required_documents": [
+    "Aadhaar of proprietor/partner/director",
+    "PAN & GSTIN (if applicable)",
+    "Business bank account",
+    "Investment/turnover details"
+  ],
+  "optional_documents": [
+    "MSME previous registration (EM-II/UAM) for migration"
+  ],
+  "application_mode": "Online (udyamregistration.gov.in)",
+  "application_steps": [
+    "Visit udyamregistration.gov.in; Aadhaar-validate.",
+    "Enter PAN and business details.",
+    "Fill investment/turnover and activity.",
+    "Submit; download Udyam certificate instantly."
+  ],
+  "processing_time": "Instant certificate on submission.",
+  "fees": "Free (no government fee).",
+  "validity": "Valid until cancelled/updated; revalidate as per rules.",
+  "official_portal": "https://udyamregistration.gov.in",
+  "official_apply_link": "https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm",
+  "download_forms": "https://udyamregistration.gov.in",
+  "helpline_number": "1800-180-6763",
+  "email": "udyam@dcmsme.gov.in",
+  "office_locator_info": "MSME-DI offices; district centres.",
+  "faq": [
+    {
+      "q": "Is Aadhaar mandatory for Udyam?",
+      "a": "Yes, Aadhaar of the owner/partner/director is required for registration."
+    },
+    {
+      "q": "Is there a fee?",
+      "a": "No government fee for Udyam registration."
+    }
+  ],
+  "related_services": [
+    "SVC-STARTUP",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "keywords": [
+    "udyam",
+    "msme",
+    "udyog aadhaar",
+    "business registration",
+    "enterprise"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://udyamregistration.gov.in",
+  "ai_summary": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits.",
+  "ai_explanation": "Udyam Registration replaces Udyog Aadhaar. Enterprises self-declare with Aadhaar, PAN, GSTIN, and investment/turnover data to get a Udyam certificate, unlocking credit, subsidies, and tender benefits. It is free and instantaneous.",
+  "common_questions": [
+    "How do I register my MSME on Udyam?",
+    "Is Udyam free?",
+    "What documents are needed for Udyam?",
+    "What are MSME limits?",
+    "How do I apply for Udyam Registration (MSME)?",
+    "What documents are required for Udyam Registration (MSME)?",
+    "What is the fee for Udyam Registration (MSME)?",
+    "Who is eligible for Udyam Registration (MSME)?",
+    "How long does Udyam Registration (MSME) take to process?",
+    "What is the official website for Udyam Registration (MSME)?"
+  ],
+  "common_mistakes": [
+    "Wrong Aadhaar owner linkage",
+    "Not updating turnover causing classification error",
+    "Paying agents for free registration"
+  ],
+  "search_keywords": [
+    "udyam registration online",
+    "msme certificate download",
+    "udyam aadhaar"
+  ],
+  "suggested_followups": [
+    "What schemes are available for Udyam enterprises?",
+    "How do I update my Udyam certificate?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Udyam Registration (MSME)?",
+      "What documents are required for Udyam Registration (MSME)?",
+      "What is the fee for Udyam Registration (MSME)?",
+      "Who is eligible for Udyam Registration (MSME)?",
+      "How long does Udyam Registration (MSME) take to process?",
+      "What is the official website for Udyam Registration (MSME)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Udyam Registration (MSME)?",
+      "Can I track my Udyam Registration (MSME) application status online?",
+      "What should I do if my Udyam Registration (MSME) application is rejected?",
+      "Are there any state-specific rules for Udyam Registration (MSME) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "business",
+      "business registration",
+      "enterprise",
+      "msme",
+      "registration",
+      "startup",
+      "udyam"
+    ],
+    "content_hash": "6b1248c01aab5e805c7ccb48c32bf738e5c9ce0a16d418aaded50367a43f9573",
+    "source_type": "html",
+    "version": 1
+  }
+}

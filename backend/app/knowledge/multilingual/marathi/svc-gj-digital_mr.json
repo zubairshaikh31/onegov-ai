@@ -1,0 +1,18 @@
+{
+  "name": "डिजिटल गुजरात पोर्टल",
+  "description": "Gujarat's integrated portal for certificates, scholarships, and citizen services.",
+  "benefits": "Single-window certificates, scholarships, and schemes.",
+  "eligibility": "Gujarat residents per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income/caste proof"
+  ],
+  "steps": [
+    "Register on digitalgujarat.gov.in.",
+    "Select service; apply.",
+    "Track and download."
+  ],
+  "faqs": [],
+  "keywords": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "पैन कार्ड",
+  "description": "PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions.",
+  "benefits": "Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.",
+  "eligibility": "Individuals, companies, HUFs, and entities carrying out financial transactions in India.",
+  "documents": [
+    "Aadhaar (for instant e-PAN)",
+    "Proof of Identity",
+    "Proof of DOB"
+  ],
+  "steps": [
+    "Visit the Income Tax e-filing portal.",
+    "Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL.",
+    "Enter Aadhaar number and validate OTP.",
+    "Confirm details and submit.",
+    "Download e-PAN in PDF format."
+  ],
+  "faqs": [],
+  "keywords": []
+}

@@ -1,0 +1,87 @@
+{
+  "en": {
+    "name": "Ayushman Bharat PM-JAY",
+    "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+    "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+    "benefits": "Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+    "application_steps": [
+      "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+      "Visit Ayushman Bharat / CSC kendra with ID.",
+      "Create Ayushman card / e-card.",
+      "Visit empanelled hospital; show card at helpdesk.",
+      "Cashless admission and treatment; claim settled directly."
+    ],
+    "faqs": [
+      "How do I know if I am eligible?",
+      "Is there a premium to pay?",
+      "Am I eligible for Ayushman Bharat?",
+      "How do I make an Ayushman card?",
+      "Which hospitals accept PM-JAY?"
+    ],
+    "keywords": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha"
+    ]
+  },
+  "hi": {
+    "name": "Ayushman Bharat PM-JAY",
+    "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+    "eligibility": "पात्रता: Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+    "benefits": "लाभ: Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+    "application_steps": [
+      "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+      "Visit Ayushman Bharat / CSC kendra with ID.",
+      "Create Ayushman card / e-card.",
+      "Visit empanelled hospital; show card at helpdesk.",
+      "Cashless admission and treatment; claim settled directly."
+    ],
+    "faqs": [
+      "How do I know if I am eligible?",
+      "Is there a premium to pay?",
+      "Am I eligible for Ayushman Bharat?",
+      "How do I make an Ayushman card?",
+      "Which hospitals accept PM-JAY?"
+    ],
+    "keywords": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha",
+      "pmjay",
+      "ayushman bharat"
+    ]
+  },
+  "mr": {
+    "name": "Ayushman Bharat PM-JAY",
+    "description": "World's largest health assurance scheme providing Rs. 5 lakh per family per year for secondary and tertiary care hospitalization to eligible poor and vulnerable families.",
+    "eligibility": "पात्रता: Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+    "benefits": "फायदे: Cashless treatment at empanelled public/private hospitals; no cap on family size/age.",
+    "application_steps": [
+      "Check eligibility via pmjay.gov.in 'Am I Eligible'.",
+      "Visit Ayushman Bharat / CSC kendra with ID.",
+      "Create Ayushman card / e-card.",
+      "Visit empanelled hospital; show card at helpdesk.",
+      "Cashless admission and treatment; claim settled directly."
+    ],
+    "faqs": [
+      "How do I know if I am eligible?",
+      "Is there a premium to pay?",
+      "Am I eligible for Ayushman Bharat?",
+      "How do I make an Ayushman card?",
+      "Which hospitals accept PM-JAY?"
+    ],
+    "keywords": [
+      "pmjay",
+      "ayushman bharat",
+      "health insurance",
+      "cashless treatment",
+      "nha",
+      "pmjay",
+      "ayushman bharat"
+    ]
+  }
+}

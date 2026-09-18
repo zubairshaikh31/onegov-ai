@@ -1,0 +1,722 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "examples": [
+      {
+        "user": "I want Aadhaar Enrolment & Update",
+        "bot": "Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery. Apply: https://myaadhaar.uidai.gov.in. Helpline: 1947."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "examples": [
+      {
+        "user": "I want Passport Issuance (Passport Seva)",
+        "bot": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. Apply: https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink. Helpline: 1800-258-1800."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "examples": [
+      {
+        "user": "I want Voter ID / Electoral Roll Enrolment (Form 6)",
+        "bot": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. Apply: https://nvsp.in. Helpline: 1950."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "examples": [
+      {
+        "user": "I want PM-KISAN Samman Nidhi",
+        "bot": "PM-KISAN gives eligible farmer families Rs. 6,000/year in 3 DBT instalments; free, Aadhaar-linked. Apply: https://pmkisan.gov.in/BeneficiaryStatus.aspx. Helpline: 155261 / 1800115526."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "examples": [
+      {
+        "user": "I want eNAM (National Agriculture Market)",
+        "bot": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery. Apply: https://enam.gov.in/web/guest/registration. Helpline: 1800-270-0222."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "examples": [
+      {
+        "user": "I want Ayushman Bharat PM-JAY",
+        "bot": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. Apply: https://pmjay.gov.in/beneficiary-portal/. Helpline: 14555 / 1800-11-15555."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "examples": [
+      {
+        "user": "I want Ayushman Bharat Digital Mission (ABHA)",
+        "bot": "ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. Apply: https://abha.abdm.gov.in. Helpline: 1800-11-4477 / 1800-11-6644."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "examples": [
+      {
+        "user": "I want e-Shram (National Database of Unorganised Workers)",
+        "bot": "e-Shram registers unorganised workers (16-59, not EPFO/ESIC) for social security; free Aadhaar-based. Apply: https://eshram.gov.in. Helpline: 14434."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "examples": [
+      {
+        "user": "I want EPF / UAN Services (Employees' Provident Fund)",
+        "bot": "EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers. Apply: https://unifiedportal-mem.epfindia.gov.in/memberinterface/. Helpline: 1800-118-005 / 14434."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "examples": [
+      {
+        "user": "I want ESIC (Employees' State Insurance)",
+        "bot": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. Apply: https://www.esic.gov.in/insured-person. Helpline: 1800-11-2526."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "examples": [
+      {
+        "user": "I want National Career Service (NCS)",
+        "bot": "NCS is a free national job portal connecting job seekers with employers and counselling. Apply: https://www.ncs.gov.in. Helpline: 1800-425-1514."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "examples": [
+      {
+        "user": "I want Udyam Registration (MSME)",
+        "bot": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. Apply: https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm. Helpline: 1800-180-6763."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "examples": [
+      {
+        "user": "I want Startup India Recognition",
+        "bot": "Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities. Apply: https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html. Helpline: 1800-115-565."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-GEM",
+    "examples": [
+      {
+        "user": "I want GeM (Government e-Marketplace)",
+        "bot": "GeM is the national public procurement portal connecting government buyers with sellers/MSMEs. Apply: https://gem.gov.in/registration. Helpline: 1800-419-3436 / 1800-102-3436."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ITR",
+    "examples": [
+      {
+        "user": "I want Income Tax e-Filing & Return (ITR)",
+        "bot": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. Apply: https://www.incometax.gov.in/iec/foportal/. Helpline: 1800-103-0023 / 1961."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-GST",
+    "examples": [
+      {
+        "user": "I want GST Registration & Returns",
+        "bot": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. Apply: https://www.gst.gov.in/registration. Helpline: 1800-103-4786 / 14444."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "examples": [
+      {
+        "user": "I want DigiLocker",
+        "bot": "DigiLocker is a free digital document wallet issuing and storing verified e-documents via Aadhaar login. Apply: https://digilocker.gov.in/signin. Helpline: 1800-153-374 / support via portal."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "examples": [
+      {
+        "user": "I want UMANG (Unified Mobile App for New-age Governance)",
+        "bot": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services. Apply: https://web.umang.gov.in. Helpline: 1800-111-550."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Awas Yojana (Urban)",
+        "bot": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. Apply: https://pmaymis.gov.in/. Helpline: 1800-11-6446 / 011-23063285."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NSP",
+    "examples": [
+      {
+        "user": "I want National Scholarship Portal (NSP)",
+        "bot": "NSP is a one-stop portal for government scholarships with online apply and DBT to students. Apply: https://scholarships.gov.in/fresh/newstdRegFrm.action. Helpline: 0120-6619540."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "examples": [
+      {
+        "user": "I want SWAYAM (Free Online Courses)",
+        "bot": "SWAYAM offers free government online courses from school to PG, with paid certificates. Apply: https://swayam.gov.in. Helpline: 1800-121-9020."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ABC",
+    "examples": [
+      {
+        "user": "I want Academic Bank of Credits (ABC)",
+        "bot": "ABC is a national digital credit bank letting HEI students store and transfer academic credits. Apply: https://abc.gov.in. Helpline: 1800-111-550 (via ABC/HEI)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "examples": [
+      {
+        "user": "I want Parivahan (Vahan & Sarathi)",
+        "bot": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. Apply: https://parivahan.gov.in/parivahan//services. Helpline: 0120-4925505."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "examples": [
+      {
+        "user": "I want Aaple Sarkar / MahaOnline Citizen Services",
+        "bot": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. Apply: https://aaplesarkar.mahaonline.gov.in/en. Helpline: 1800-120-8040 (MahaOnline)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "examples": [
+      {
+        "user": "I want Mahabhulekh (7/12 & 8A Land Records)",
+        "bot": "Mahabhulekh provides online Maharashtra land records (7/12, 8A) for ownership and mutation status. Apply: https://mahabhulekh.maharashtra.gov.in. Helpline: 022-25250900 (Bhulekh support)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "examples": [
+      {
+        "user": "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+        "bot": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes. Apply: https://mahafood.gov.in. Helpline: 1800-222-362 (Toll-free, MahaFood)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "examples": [
+      {
+        "user": "I want MahaDBT (Maharashtra Scholarship & DBT)",
+        "bot": "MahaDBT is Maharashtra's portal for state scholarships and DBT benefits to students and citizens. Apply: https://mahadbt.maharashtra.gov.in. Helpline: 022-49170000 (MahaDBT)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "examples": [
+      {
+        "user": "I want Maharashtra Transport (RTO) Services",
+        "bot": "Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. Apply: https://transport.maharashtra.gov.in. Helpline: 1800-120-8040 (state helpdesk)."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DL",
+    "examples": [
+      {
+        "user": "I want Driving Licence (Sarathi / Parivahan)",
+        "bot": "Driving Licence (Sarathi / Parivahan) is a central government service under Ministry of Road Transport and Highways in the Transport category, available both. Apply: https://sarathi.parivahan.gov.in. Helpline: 0120-2459169."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PAN",
+    "examples": [
+      {
+        "user": "I want PAN Card (Permanent Account Number)",
+        "bot": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online. Apply: https://www.incometax.gov.in/iec/foportal/help/how-to-apply-for-instant-pan. Helpline: 1800-103-0025."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "examples": [
+      {
+        "user": "I want Income Certificate (Maharashtra)",
+        "bot": "Income Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online. Apply: https://aaplesarkar.mahaonline.gov.in. Helpline: 1800-120-8040."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "examples": [
+      {
+        "user": "I want Domicile / Residence Certificate (Maharashtra)",
+        "bot": "Domicile / Residence Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online. Apply: https://aaplesarkar.mahaonline.gov.in. Helpline: 1800-120-8040."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "examples": [
+      {
+        "user": "I want Mukhyamantri Majhi Ladki Bahin Yojana",
+        "bot": "Mukhyamantri Majhi Ladki Bahin Yojana is a state government service under Women and Child Development Department in the Welfare category, available both. Apply: https://ladakibahin.maharashtra.gov.in. Helpline: 181."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Ujjwala Yojana (LPG)",
+        "bot": "PM Ujjwala Yojana gives BPL women deposit-free LPG connections for clean cooking fuel. Apply: https://www.pmuy.gov.in. Helpline: 1906."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "examples": [
+      {
+        "user": "I want NGDRBharat (Digitized Land Records)",
+        "bot": "NGDRBharat is the national digital land/property registration platform enabling transparent deed registration. Apply: https://www.ngdrbharat.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "examples": [
+      {
+        "user": "I want India Post Services",
+        "bot": "India Post offers postal, parcel, and financial services including IPPB digital banking and savings accounts. Apply: https://www.indiapost.gov.in. Helpline: 1800-11-2011."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "examples": [
+      {
+        "user": "I want National Apprenticeship (Apprenticeship India)",
+        "bot": "Apprenticeship India links candidates to paid on-the-job training with certified establishments. Apply: https://apprenticeshipindia.gov.in. Helpline: 1800-233-1711."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "bot": "PMKVY provides free skill training and certification with placement support to Indian youth. Apply: https://www.pmkvyofficial.org. Helpline: 1800-233-7878."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "examples": [
+      {
+        "user": "I want NIELIT Certification & Services",
+        "bot": "NIELIT offers government-recognized electronics and IT certifications and digital literacy courses. Apply: https://www.nielit.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "examples": [
+      {
+        "user": "I want Ayushman Bharat Health & Wellness Centres",
+        "bot": "Ayushman Bharat Health & Wellness Centres provide free primary health care at the community level. Apply: https://pmjay.gov.in. Helpline: 14555."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "bot": "PMSBY offers Rs. 2 lakh accident insurance cover at just Rs. 20/year for adults with a bank account. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-JDY",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "bot": "PMJDY provides every household a zero-balance bank account with RuPay card and insurance cover. Apply: https://www.pmjdy.gov.in. Helpline: 1800-11-0001."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "examples": [
+      {
+        "user": "I want Sukanya Samriddhi Yojana (SSY)",
+        "bot": "SSY is a government small-savings scheme for girl children with tax-free high returns. Apply: https://www.indiapost.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "examples": [
+      {
+        "user": "I want Maha Anna (Maharashtra Ration / NFSA)",
+        "bot": "Maha Anna is Maharashtra's NFSA ration system providing subsidised foodgrains through PDS. Apply: https://mahafood.gov.in. Helpline: 1800-222-362."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "examples": [
+      {
+        "user": "I want Maharashtra Chief Minister Relief Fund",
+        "bot": "Maharashtra CM Relief Fund provides financial assistance to residents facing calamity or medical distress. Apply: https://www.maharashtra.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "examples": [
+      {
+        "user": "I want Maharashtra Farmer Welfare Schemes",
+        "bot": "Maharashtra farmer welfare schemes offer subsidies, crop insurance, and loan support via mahaagri.gov.in. Apply: https://mahaagri.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "examples": [
+      {
+        "user": "I want Delhi Ration Card / e-District",
+        "bot": "Delhi e-District provides online ration cards and certificates for Delhi residents. Apply: https://edistrict.delhigovt.nic.in. Helpline: 1076."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "examples": [
+      {
+        "user": "I want Uttar Pradesh e-District / Ration",
+        "bot": "UP e-District delivers certificates and ration services online for Uttar Pradesh residents. Apply: https://edistrict.up.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "examples": [
+      {
+        "user": "I want Digital Gujarat Portal",
+        "bot": "Digital Gujarat is the state single-window portal for certificates, scholarships, and services. Apply: https://digitalgujarat.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "examples": [
+      {
+        "user": "I want Karnataka Seva Sindhu / e-District",
+        "bot": "Seva Sindhu is Karnataka's single-window portal for citizen certificates and schemes. Apply: https://sevasindhu.karnataka.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "examples": [
+      {
+        "user": "I want Tamil Nadu e-Sevai / e-District",
+        "bot": "Tamil Nadu e-Sevai provides certificates and citizen services through centres and portal. Apply: https://eservices.tn.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "examples": [
+      {
+        "user": "I want West Bengal Duare Sarkar / e-District",
+        "bot": "West Bengal Duare Sarkar/e-District delivers certificates and schemes via camps and portal. Apply: https://edistrict.wb.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "examples": [
+      {
+        "user": "I want Rajasthan e-Mitra / SSO",
+        "bot": "Rajasthan SSO/e-Mitra is the single-sign-on gateway to state citizen services. Apply: https://sso.rajasthan.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-CSC",
+    "examples": [
+      {
+        "user": "I want Common Service Centres (CSC)",
+        "bot": "CSCs are government kiosks delivering digital public services locally. Apply: https://www.csc.gov.in. Helpline: 1800-3000-3468."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "examples": [
+      {
+        "user": "I want BHIM / UPI (NPCI)",
+        "bot": "BHIM/UPI is the government-backed instant mobile payment system. Apply: https://www.bhimupi.org.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "examples": [
+      {
+        "user": "I want DigiYatra (Airport Biometric)",
+        "bot": "DigiYatra enables biometric, paperless airport travel. Apply: https://digiyatra.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAA",
+    "examples": [
+      {
+        "user": "I want Maa Bharti / e-Governance (Rajasthan)",
+        "bot": "Rajasthan state e-governance via SSO. Apply: https://sso.rajasthan.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "examples": [
+      {
+        "user": "I want Andhra Pradesh e-Seva / MeeSeva",
+        "bot": "AP MeeSeva delivers citizen certificates online. Apply: https://ap.meeseva.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "examples": [
+      {
+        "user": "I want Telangana TS-ePASS / MeeSeva",
+        "bot": "Telangana MeeSeva citizen services portal. Apply: https://ts.meeseva.telangana.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "examples": [
+      {
+        "user": "I want Kerala e-District / KSWD",
+        "bot": "Kerala e-District citizen portal. Apply: https://edistrict.kerala.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "examples": [
+      {
+        "user": "I want CoWIN (Vaccination)",
+        "bot": "CoWIN manages vaccination registration and certificates. Apply: https://www.cowin.gov.in. Helpline: 1075."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "examples": [
+      {
+        "user": "I want AYUSH Centres / Ministries",
+        "bot": "AYUSH ministry promotes traditional Indian medicine. Apply: https://ayush.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "examples": [
+      {
+        "user": "I want Anganwadi / ICDS Services",
+        "bot": "ICDS/Anganwadi provides child nutrition and care. Apply: https://wcd.nic.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "examples": [
+      {
+        "user": "I want POSHAN Abhiyaan",
+        "bot": "POSHAN Abhiyaan is the national nutrition mission. Apply: https://poshanabhiyaan.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-SBM",
+    "examples": [
+      {
+        "user": "I want Swachh Bharat Mission",
+        "bot": "Swachh Bharat Mission promotes sanitation and ODF status. Apply: https://swachhbharat.mygov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "examples": [
+      {
+        "user": "I want AMRUT (Urban Water/Sewerage)",
+        "bot": "AMRUT improves urban water and sewerage infrastructure. Apply: https://amrut.mohua.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Gram Sadak Yojana",
+        "bot": "PMGSY builds all-weather rural roads. Apply: https://pmgsy.nic.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "examples": [
+      {
+        "user": "I want MGNREGA (Rural Employment)",
+        "bot": "MGNREGA guarantees rural wage employment. Apply: https://nrega.nic.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "examples": [
+      {
+        "user": "I want DAY-NULM (Urban Livelihood)",
+        "bot": "DAY-NULM supports urban livelihoods via SHGs. Apply: https://nulm.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "examples": [
+      {
+        "user": "I want PMKVY 4.0 (Skill India)",
+        "bot": "PMKVY 4.0 offers free skill training and certification. Apply: https://www.pmkvyofficial.org. Helpline: 1800-233-7878."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "examples": [
+      {
+        "user": "I want DISHA / CSC 2.0",
+        "bot": "DISHA promotes rural digital literacy via CSCs. Apply: https://www.csc.gov.in. Helpline: 1800-3000-3468."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "examples": [
+      {
+        "user": "I want Jal Jeevan Mission (Maharashtra)",
+        "bot": "Maharashtra JJM provides rural tap water connections. Apply: https://mjp.maharashtra.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "examples": [
+      {
+        "user": "I want Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+        "bot": "MJPJAY provides cashless health cover to eligible Maharashtra families. Apply: https://www.jeevandayee.gov.in. Helpline: 155388."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Suraksha Bima Yojana",
+        "bot": "PMSBY accident insurance. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "examples": [
+      {
+        "user": "I want Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "bot": "PMJJBY provides life insurance cover. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "examples": [
+      {
+        "user": "I want Atal Pension Yojana",
+        "bot": "Atal Pension Yojana gives guaranteed pension to unorganised workers. Apply: https://www.npscra.nsdl.co.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-NPS",
+    "examples": [
+      {
+        "user": "I want National Pension System",
+        "bot": "NPS is a voluntary pension system. Apply: https://www.npscra.nsdl.co.in. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "examples": [
+      {
+        "user": "I want Indian Railways / IRCTC Services",
+        "bot": "IRCTC provides online railway ticketing. Apply: https://www.irctc.co.in. Helpline: 139."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-AAI",
+    "examples": [
+      {
+        "user": "I want Airport Authority / DigiYatra",
+        "bot": "AAI manages airport services. Apply: https://www.aai.aero. Helpline: Not Available."
+      }
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "examples": [
+      {
+        "user": "I want Passport Seva (Re-enrich)",
+        "bot": "Passport Seva issues Indian passports. Apply: https://www.passportindia.gov.in. Helpline: 1800-258-1800."
+      }
+    ]
+  }
+]

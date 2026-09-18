@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-GST",
+  "ai_summary": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled.",
+  "ai_explanation": "Businesses above the turnover threshold register for GST to get a GSTIN, charge tax, and claim input tax credit. Returns (GSTR-1, GSTR-3B) are filed online. Registration is free but late returns incur fees. Aadhaar authentication is used.",
+  "eligibility_summary": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+  "conversation_examples": [
+    {
+      "user": "I want GST Registration & Returns",
+      "bot": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled. Apply: https://www.gst.gov.in/registration. Helpline: 1800-103-4786 / 14444."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with GST Registration & Returns. Use only official info from https://www.gst.gov.in.",
+  "follow_up_questions": [
+    "What is the difference between GSTR-1 and GSTR-3B?",
+    "How do I cancel GST registration?"
+  ],
+  "intent_examples": [
+    "apply_svc-gst",
+    "status_svc-gst",
+    "eligibility_svc-gst"
+  ],
+  "recommended_services": [
+    "SVC-ITR",
+    "SVC-ITR",
+    "SVC-UDYAM"
+  ],
+  "document_suggestions": [
+    "PAN",
+    "Aadhaar (verification)",
+    "Business registration",
+    "Address proof",
+    "Bank account",
+    "Photograph"
+  ],
+  "suggested_responses": [
+    "Visit https://www.gst.gov.in",
+    "Call 1800-103-4786 / 14444"
+  ],
+  "recommendation_weight": 1.0
+}

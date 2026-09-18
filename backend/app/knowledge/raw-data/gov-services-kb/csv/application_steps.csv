@@ -1,0 +1,71 @@
+service_id,step_no,instruction
+CEN-TRN-DL-009,1,Visit Sarathi Parivahan and select your state.
+CEN-TRN-DL-009,2,Apply for Learner's Licence and pay fees.
+CEN-TRN-DL-009,3,Take the online learner's test.
+CEN-TRN-DL-009,4,"After the mandatory period, apply for the driving licence."
+CEN-TRN-DL-009,5,Book and pass the driving test at the RTO.
+CEN-TRN-DL-009,6,Receive the DL by post / download.
+CEN-DIG-DIGILOCKER-010,1,Visit DigiLocker web/app and sign up.
+CEN-DIG-DIGILOCKER-010,2,Enter Aadhaar-linked mobile and verify OTP.
+CEN-DIG-DIGILOCKER-010,3,Set a security PIN and link Aadhaar.
+CEN-DIG-DIGILOCKER-010,4,Fetch issued documents from partner departments.
+CEN-EDU-SCHOLARSHIP-011,1,Register on the National Scholarship Portal.
+CEN-EDU-SCHOLARSHIP-011,2,Complete OTR (One Time Registration) with Aadhaar/eKYC.
+CEN-EDU-SCHOLARSHIP-011,3,Login and select applicable scholarship scheme.
+CEN-EDU-SCHOLARSHIP-011,4,Fill the form and upload documents.
+CEN-EDU-SCHOLARSHIP-011,5,Submit for institution and department verification.
+CEN-FIN-PAN-003,1,Visit the Income Tax e-filing portal.
+CEN-FIN-PAN-003,2,Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL.
+CEN-FIN-PAN-003,3,Enter Aadhaar number and validate OTP.
+CEN-FIN-PAN-003,4,Confirm details and submit.
+CEN-FIN-PAN-003,5,Download e-PAN in PDF format.
+CEN-FIN-ITR-004,1,Login to the Income Tax e-filing portal with PAN.
+CEN-FIN-ITR-004,2,Select the applicable ITR form and assessment year.
+CEN-FIN-ITR-004,3,Verify pre-filled data and enter income/deductions.
+CEN-FIN-ITR-004,4,"Compute tax, pay any dues, and submit."
+CEN-FIN-ITR-004,5,E-verify via Aadhaar OTP/net banking within the allowed window.
+CEN-BIZ-UDYAM-005,1,Visit the Udyam Registration portal.
+CEN-BIZ-UDYAM-005,2,Enter Aadhaar number and validate OTP.
+CEN-BIZ-UDYAM-005,3,"Enter PAN and business details (turnover, investment, activity)."
+CEN-BIZ-UDYAM-005,4,Submit the form and validate.
+CEN-BIZ-UDYAM-005,5,Download the Udyam Registration Certificate with URN.
+CEN-IDN-AADHAAR-001,1,Locate a nearby Aadhaar Seva Kendra / enrolment centre.
+CEN-IDN-AADHAAR-001,2,Book an appointment online via myAadhaar or walk in.
+CEN-IDN-AADHAAR-001,3,Fill the enrolment form and submit POI/POA documents.
+CEN-IDN-AADHAAR-001,4,"Provide biometrics (fingerprints, iris, photo)."
+CEN-IDN-AADHAAR-001,5,Collect the acknowledgement slip with Enrolment ID (EID).
+CEN-IDN-AADHAAR-001,6,Check Aadhaar status online and download e-Aadhaar once generated.
+CEN-IDN-PASSPORT-002,1,Register on the Passport Seva Online Portal.
+CEN-IDN-PASSPORT-002,2,Login and fill 'Apply for Fresh/Reissue of Passport'.
+CEN-IDN-PASSPORT-002,3,Pay the fee online and schedule a PSK appointment.
+CEN-IDN-PASSPORT-002,4,Visit the PSK with original documents for verification.
+CEN-IDN-PASSPORT-002,5,Complete police verification (if applicable).
+CEN-IDN-PASSPORT-002,6,Track status; passport is dispatched by post.
+CEN-AGR-PMKISAN-006,1,Visit the PM-KISAN portal and select 'New Farmer Registration'.
+CEN-AGR-PMKISAN-006,2,Enter Aadhaar and complete OTP verification.
+CEN-AGR-PMKISAN-006,3,Fill land and bank details.
+CEN-AGR-PMKISAN-006,4,Submit; complete eKYC (Aadhaar OTP/biometric).
+CEN-AGR-PMKISAN-006,5,Track beneficiary status online.
+CEN-HLT-PMJAY-007,1,Check eligibility on the PM-JAY beneficiary portal.
+CEN-HLT-PMJAY-007,2,Authenticate via Aadhaar OTP.
+CEN-HLT-PMJAY-007,3,Complete KYC and photo capture.
+CEN-HLT-PMJAY-007,4,Download the Ayushman card once approved.
+CEN-LAB-ESHRAM-008,1,Visit the e-Shram self-registration portal.
+CEN-LAB-ESHRAM-008,2,Enter Aadhaar-linked mobile and validate OTP.
+CEN-LAB-ESHRAM-008,3,"Fill personal, address, occupation and bank details."
+CEN-LAB-ESHRAM-008,4,Submit and download the e-Shram card with UAN.
+MH-REV-INCOME-101,1,Register/login on Aaple Sarkar (RTS) portal.
+MH-REV-INCOME-101,2,Select Revenue Department > Income Certificate.
+MH-REV-INCOME-101,3,Fill applicant details and upload documents.
+MH-REV-INCOME-101,4,Pay the fee online.
+MH-REV-INCOME-101,5,Track application; download the digitally signed certificate.
+MH-REV-DOMICILE-102,1,Login to Aaple Sarkar portal.
+MH-REV-DOMICILE-102,2,Select Revenue Department > Age Nationality and Domicile Certificate.
+MH-REV-DOMICILE-102,3,Fill the form and upload documents.
+MH-REV-DOMICILE-102,4,Pay fees and submit.
+MH-REV-DOMICILE-102,5,Download the digitally signed certificate.
+MH-WEL-LADKIBAHIN-103,1,Register on the Ladki Bahin portal or Narishakti Doot app.
+MH-WEL-LADKIBAHIN-103,2,Enter Aadhaar and personal details.
+MH-WEL-LADKIBAHIN-103,3,Upload eligibility documents.
+MH-WEL-LADKIBAHIN-103,4,Submit and note the application number.
+MH-WEL-LADKIBAHIN-103,5,Track approval and DBT credit status.

@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-PMKVY4",
+  "guide_md": "tutorials/md/svc-pmkvy4_guide.md",
+  "guide_html": "tutorials/html/svc-pmkvy4_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-pmkvy4_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.pmkvyofficial.org"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "ai_summary": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited.",
+  "ai_explanation": "Citizens apply online, pay a fee, and attend a PSK appointment for document checks and biometrics. Police verification follows for fresh passports. Tatkaal offers faster issue at higher cost. Passports are valid 10 years for adults.",
+  "common_questions": [
+    "How do I apply for a passport?",
+    "What are the passport fees?",
+    "How long does a passport take?",
+    "How do I renew my passport?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "I want a passport",
+      "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+    },
+    {
+      "user": "Need to renew my passport",
+      "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+    },
+    {
+      "user": "Travel abroad documents",
+      "bot": "For Passport Issuance (Passport Seva), Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. You can apply at https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-passport",
+    "status_svc-passport",
+    "eligibility_svc-passport"
+  ],
+  "user_utterances": [
+    "I want a passport",
+    "Need to renew my passport",
+    "Travel abroad documents",
+    "Lost my passport",
+    "Emergency passport",
+    "I want Passport Issuance (Passport Seva)",
+    "Need Passport Issuance (Passport Seva)",
+    "Passport Issuance (Passport Seva) help"
+  ],
+  "follow_up_questions": [
+    "What documents prove address for passport?",
+    "How do I track my passport application status?"
+  ],
+  "recommended_responses": [
+    "Visit https://passportindia.gov.in",
+    "Call helpline 1800-258-1800"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-258-1800"
+    }
+  ]
+}

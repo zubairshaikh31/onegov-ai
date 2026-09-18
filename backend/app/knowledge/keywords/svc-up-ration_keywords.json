@@ -1,0 +1,27 @@
+{
+  "service_id": "SVC-UP-RATION",
+  "keywords": [
+    "up edistrict",
+    "up ration",
+    "up certificate"
+  ],
+  "search_keywords": [
+    "up edistrict",
+    "up ration",
+    "up certificate"
+  ],
+  "aliases": [
+    "up edistrict",
+    "up ration",
+    "up certificate"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Uttar Pradesh e-District / Ration",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Uttar Pradesh e-District / Ration"
+  ]
+}

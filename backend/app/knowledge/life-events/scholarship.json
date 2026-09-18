@@ -1,0 +1,23 @@
+{
+  "event": "scholarship",
+  "services": [
+    "SVC-NSP",
+    "SVC-MAH-DBT",
+    "SVC-SWAYAM"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-NSP",
+    "SVC-MAH-DBT",
+    "SVC-SWAYAM"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-nsp_guide.md",
+    "tutorials/md/svc-mah-dbt_guide.md",
+    "tutorials/md/svc-swayam_guide.md"
+  ]
+}

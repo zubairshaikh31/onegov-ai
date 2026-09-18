@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-RAIL",
+  "references": [
+    {
+      "act": "Railway Act, 1989",
+      "rule": "Railway Passengers Rules",
+      "authority": "Ministry of Railways"
+    }
+  ]
+}

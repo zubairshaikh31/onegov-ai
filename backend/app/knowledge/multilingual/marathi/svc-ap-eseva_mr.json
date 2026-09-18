@@ -1,0 +1,20 @@
+{
+  "name": "Andhra Pradesh e-Seva / MeeSeva",
+  "description": "AP MeeSeva portal for certificates and citizen services.",
+  "benefits": "Online certificates and services.",
+  "eligibility": "Andhra Pradesh residents.",
+  "documents": [
+    "Aadhaar",
+    "Address proof"
+  ],
+  "steps": [
+    "Register.",
+    "Apply.",
+    "Download certificate."
+  ],
+  "faqs": [],
+  "keywords": [
+    "meeseva",
+    "ap citizen"
+  ]
+}

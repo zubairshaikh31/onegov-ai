@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Email/mobile for sign-up",
+    "mandatory": true,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  },
+  {
+    "name": "Institution enrollment for credit",
+    "mandatory": false,
+    "description": "",
+    "accepted_formats": "",
+    "common_mistakes": ""
+  }
+]

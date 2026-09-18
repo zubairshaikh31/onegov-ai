@@ -1,0 +1,20 @@
+{
+  "event": "property_purchase",
+  "services": [
+    "SVC-NGDR",
+    "SVC-MAH-REV"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-NGDR",
+    "SVC-MAH-REV"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-ngdr_guide.md",
+    "tutorials/md/svc-mah-rev_guide.md"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-NPS",
+  "ai_summary": "NPS is a voluntary pension system.",
+  "ai_explanation": "Voluntary pension system for all citizens.",
+  "eligibility_summary": "Citizens 18-70.",
+  "conversation_examples": [
+    {
+      "user": "I want National Pension System",
+      "bot": "NPS is a voluntary pension system. Apply: https://www.npscra.nsdl.co.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with National Pension System. Use only https://www.npscra.nsdl.co.in.",
+  "follow_up_questions": [
+    "What documents for National Pension System?",
+    "How long for National Pension System?"
+  ],
+  "intent_examples": [
+    "apply_svc-nps",
+    "status_svc-nps"
+  ],
+  "recommended_services": [
+    "SVC-JDY"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "suggested_responses": [
+    "Visit https://www.npscra.nsdl.co.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

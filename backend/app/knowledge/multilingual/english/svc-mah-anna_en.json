@@ -1,0 +1,30 @@
+{
+  "name": "Maha Anna (Maharashtra Ration / NFSA)",
+  "description": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+  "benefits": "Subsidised rice/wheat/cereals via Fair Price Shops; portability under One Nation One Ration Card.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "steps": [
+    "Apply via MahaFood portal / rationing office.",
+    "Verification by authority.",
+    "Issuance; avail PDS."
+  ],
+  "faqs": [
+    "What is Maha Anna (Maharashtra Ration / NFSA)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "maha anna",
+    "maharashtra ration",
+    "nfsa maharashtra",
+    "pds"
+  ]
+}

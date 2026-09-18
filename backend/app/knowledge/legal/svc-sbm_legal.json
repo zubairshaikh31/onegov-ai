@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-SBM",
+  "references": [
+    {
+      "act": "Swachh Bharat Mission (Gramin) guidelines",
+      "rule": "SBM operational guidelines",
+      "authority": "Ministry of Jal Shakti"
+    }
+  ]
+}

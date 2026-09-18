@@ -1,0 +1,23 @@
+id,name,ministry_id
+DEP-PSP,Passport Seva Programme,MIN-MEA
+DEP-ECI,Election Commission of India,MIN-ECI
+DEP-DARE,Department of Agriculture & Farmers Welfare,MIN-AGR
+DEP-NHA,National Health Authority,MIN-HEA
+DEP-MoHFW,MoHFW / NHM,MIN-HEA
+DEP-LAB,Ministry of Labour & Employment,MIN-LAB
+DEP-EPFO,Employees' Provident Fund Organisation,MIN-LAB
+DEP-ESIC,Employees' State Insurance Corporation,MIN-LAB
+DEP-MSME,MSME Development,MIN-MSME
+DEP-DPIIT,Startup India / DPIIT,MIN-DPIIT
+DEP-GEM,GeM Special Purpose Vehicle,MIN-GOI
+DEP-CBDT,Income Tax Department,MIN-CBDT
+DEP-GST,GST Network / CBIC,MIN-CBIC
+DEP-NEGD,NeGD / Digital India,MIN-MEITY
+DEP-MEITY,UIDAI / MeitY (Identity),MIN-MEITY
+DEP-PMAY,PMAY (Urban) Mission Directorate,MIN-HOU
+DEP-NSP,National Scholarship Division,MIN-EDU
+DEP-RTW,Transport / RTO,MIN-RTW
+DEP-MAH-ONLINE,MahaOnline / Aaple Sarkar,MIN-MAH
+DEP-MAH-REV,"Revenue Department, Maharashtra",MIN-MAH
+DEP-MAH-FOOD,"Food, Civil Supplies & Consumer Protection, Maharashtra",MIN-MAH
+DEP-MAH-DBT,"MahaDBT / Social Justice, Maharashtra",MIN-MAH

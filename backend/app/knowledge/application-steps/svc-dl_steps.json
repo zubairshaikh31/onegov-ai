@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "description": "Visit Sarathi Parivahan and select your state."
+  },
+  {
+    "step": 2,
+    "description": "Apply for Learner's Licence and pay fees."
+  },
+  {
+    "step": 3,
+    "description": "Take the online learner's test."
+  },
+  {
+    "step": 4,
+    "description": "After the mandatory period, apply for the driving licence."
+  },
+  {
+    "step": 5,
+    "description": "Book and pass the driving test at the RTO."
+  },
+  {
+    "step": 6,
+    "description": "Receive the DL by post / download."
+  }
+]

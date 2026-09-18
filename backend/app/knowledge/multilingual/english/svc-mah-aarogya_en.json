@@ -1,0 +1,26 @@
+{
+  "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+  "description": "Maharashtra cashless health scheme for specified families.",
+  "benefits": "Cashless treatment at empanelled hospitals.",
+  "eligibility": "Maharashtra families (yellow/orange ration card / eligible).",
+  "documents": [
+    "Ration card",
+    "Aadhaar"
+  ],
+  "steps": [
+    "Check eligibility.",
+    "Visit empanelled hospital.",
+    "Avail cashless treatment."
+  ],
+  "faqs": [
+    "What is Mahatma Jyotiba Phule Jan Arogya Yojana (MH)?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "mjpa",
+    "maharashtra health scheme"
+  ]
+}

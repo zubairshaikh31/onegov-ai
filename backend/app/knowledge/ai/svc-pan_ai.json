@@ -1,0 +1,35 @@
+{
+  "service_id": "SVC-PAN",
+  "ai_summary": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online.",
+  "ai_explanation": "PAN Card (Permanent Account Number) is PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions. Eligibility: Individuals, companies, HUFs, and entities carrying out financial transactions in India.. Benefits: Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.. You can apply online via https://www.incometax.gov.in. Processing time is typically e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days. and fees are Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST..",
+  "eligibility_summary": "Individuals, companies, HUFs, and entities carrying out financial transactions in India.",
+  "conversation_examples": [
+    {
+      "user": "I want PAN Card (Permanent Account Number)",
+      "bot": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online. Apply: https://www.incometax.gov.in/iec/foportal/help/how-to-apply-for-instant-pan. Helpline: 1800-103-0025."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with PAN Card (Permanent Account Number). Use only official info from https://www.incometax.gov.in.",
+  "follow_up_questions": [
+    "Do I need to visit an office in person for PAN Card (Permanent Account Number)?",
+    "Can I track my PAN Card (Permanent Account Number) application status online?",
+    "What should I do if my PAN Card (Permanent Account Number) application is rejected?",
+    "Are there any state-specific rules for PAN Card (Permanent Account Number) in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-pan",
+    "status_svc-pan",
+    "eligibility_svc-pan"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar (for instant e-PAN)",
+    "Proof of Identity",
+    "Proof of DOB"
+  ],
+  "suggested_responses": [
+    "Visit https://www.incometax.gov.in",
+    "Call 1800-103-0025"
+  ],
+  "recommendation_weight": 1.0
+}

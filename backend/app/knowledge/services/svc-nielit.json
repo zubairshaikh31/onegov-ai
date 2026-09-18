@@ -1,0 +1,52 @@
+{
+  "service_id": "SVC-NIELIT",
+  "name": "NIELIT Certification & Services",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Digital Skilling",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses.",
+  "eligibility": "Candidates per course (schooling/diploma as applicable).",
+  "benefits": "Govt-recognized IT/electronics certifications; employment readiness.",
+  "required_documents": [
+    "Educational certificates",
+    "Aadhaar",
+    "Photo"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Choose course on nielit.gov.in.",
+    "Apply online / at centre.",
+    "Complete training and examination; get certificate."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.nielit.gov.in",
+  "official_apply_link": "https://www.nielit.gov.in",
+  "download_forms": "https://www.nielit.gov.in",
+  "helpline_number": "Not Available",
+  "email": "helpdesk@nielit.gov.in",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.nielit.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "NIELIT offers government-recognized electronics and IT certifications and digital literacy courses.",
+  "ai_explanation": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "nielit",
+    "digital literacy",
+    "o level",
+    "it certification"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-ITR",
+  "references": [
+    {
+      "act": "Income Tax Act, 1961",
+      "rule": "Income Tax Rules, 1962",
+      "authority": "CBDT"
+    }
+  ]
+}

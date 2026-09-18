@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-RAJ-ECM",
+  "ai_summary": "Rajasthan SSO/e-Mitra is the single-sign-on gateway to state citizen services.",
+  "ai_explanation": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates.",
+  "eligibility_summary": "Rajasthan residents; SSO ID registration.",
+  "conversation_examples": [
+    {
+      "user": "I want Rajasthan e-Mitra / SSO",
+      "bot": "Rajasthan SSO/e-Mitra is the single-sign-on gateway to state citizen services. Apply: https://sso.rajasthan.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Rajasthan e-Mitra / SSO. Use only official info from https://sso.rajasthan.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-raj-ecm",
+    "status_svc-raj-ecm",
+    "eligibility_svc-raj-ecm"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Mobile",
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://sso.rajasthan.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

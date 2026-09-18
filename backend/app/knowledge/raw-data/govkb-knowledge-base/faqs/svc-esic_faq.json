@@ -1,0 +1,61 @@
+[
+  {
+    "question": "What is the wage ceiling for ESIC?",
+    "answer": "Rs. 21,000/month (Rs. 25,000 for persons with disability).",
+    "official": true
+  },
+  {
+    "question": "What is the ESIC wage limit?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I get a Pehchan card?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What does ESIC cover?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I claim ESIC sickness benefit?",
+    "answer": "(See official portal https://www.esic.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://www.esic.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-11-2526 / email webmaster@esic.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Contribution by employer (3.25%) and employee (0.75%) on wages.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Enrolment by employer; benefits as per claim processing.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Employer enrols; employee uses ESIC portal / dispensaries",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

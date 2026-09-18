@@ -1,0 +1,23 @@
+{
+  "service_id": "SVC-COWIN",
+  "keywords": [
+    "cowin",
+    "vaccination"
+  ],
+  "search_keywords": [
+    "cowin",
+    "vaccination"
+  ],
+  "aliases": [
+    "cowin",
+    "vaccination"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want CoWIN (Vaccination)"
+  ],
+  "nl_queries": [
+    "how to CoWIN (Vaccination)"
+  ]
+}

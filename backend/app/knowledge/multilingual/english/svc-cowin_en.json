@@ -1,0 +1,25 @@
+{
+  "name": "CoWIN (Vaccination)",
+  "description": "Platform for COVID vaccination registration and certificates.",
+  "benefits": "Vaccination slots and certificate.",
+  "eligibility": "All eligible citizens.",
+  "documents": [
+    "Aadhaar/ID"
+  ],
+  "steps": [
+    "Register on CoWIN.",
+    "Book slot.",
+    "Get certificate."
+  ],
+  "faqs": [
+    "What is CoWIN (Vaccination)?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "cowin",
+    "vaccination"
+  ]
+}

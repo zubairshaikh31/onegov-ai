@@ -1,0 +1,142 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "system_prompt": "You are OneGov AI assisting with Aadhaar Enrolment & Update. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "system_prompt": "You are OneGov AI assisting with Passport Issuance (Passport Seva). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "system_prompt": "You are OneGov AI assisting with Voter ID / Electoral Roll Enrolment (Form 6). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "system_prompt": "You are OneGov AI assisting with PM-KISAN Samman Nidhi. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "system_prompt": "You are OneGov AI assisting with eNAM (National Agriculture Market). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "system_prompt": "You are OneGov AI assisting with Ayushman Bharat PM-JAY. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "system_prompt": "You are OneGov AI assisting with Ayushman Bharat Digital Mission (ABHA). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "system_prompt": "You are OneGov AI assisting with e-Shram (National Database of Unorganised Workers). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "system_prompt": "You are OneGov AI assisting with EPF / UAN Services (Employees' Provident Fund). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "system_prompt": "You are OneGov AI assisting with ESIC (Employees' State Insurance). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-NCS",
+    "system_prompt": "You are OneGov AI assisting with National Career Service (NCS). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "system_prompt": "You are OneGov AI assisting with Udyam Registration (MSME). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "system_prompt": "You are OneGov AI assisting with Startup India Recognition. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-GEM",
+    "system_prompt": "You are OneGov AI assisting with GeM (Government e-Marketplace). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ITR",
+    "system_prompt": "You are OneGov AI assisting with Income Tax e-Filing & Return (ITR). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-GST",
+    "system_prompt": "You are OneGov AI assisting with GST Registration & Returns. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "system_prompt": "You are OneGov AI assisting with DigiLocker. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "system_prompt": "You are OneGov AI assisting with UMANG (Unified Mobile App for New-age Governance). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "system_prompt": "You are OneGov AI assisting with Pradhan Mantri Awas Yojana (Urban). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-NSP",
+    "system_prompt": "You are OneGov AI assisting with National Scholarship Portal (NSP). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "system_prompt": "You are OneGov AI assisting with SWAYAM (Free Online Courses). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-ABC",
+    "system_prompt": "You are OneGov AI assisting with Academic Bank of Credits (ABC). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "system_prompt": "You are OneGov AI assisting with Parivahan (Vahan & Sarathi). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "system_prompt": "You are OneGov AI assisting with Aaple Sarkar / MahaOnline Citizen Services. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "system_prompt": "You are OneGov AI assisting with Mahabhulekh (7/12 & 8A Land Records). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "system_prompt": "You are OneGov AI assisting with Maharashtra Ration Card / Food Supply (MahaFood). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "system_prompt": "You are OneGov AI assisting with MahaDBT (Maharashtra Scholarship & DBT). Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "system_prompt": "You are OneGov AI assisting with Maharashtra Transport (RTO) Services. Use official info only.",
+    "response_template": "{summary}\nApply: {apply_link}\nHelpline: {helpline}"
+  }
+]

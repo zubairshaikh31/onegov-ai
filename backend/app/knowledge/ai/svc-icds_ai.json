@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-ICDS",
+  "ai_summary": "ICDS/Anganwadi provides child nutrition and care.",
+  "ai_explanation": "Integrated Child Development Services: nutrition, health, preschool at Anganwadi centres.",
+  "eligibility_summary": "Children under 6, pregnant/lactating women.",
+  "conversation_examples": [
+    {
+      "user": "I want Anganwadi / ICDS Services",
+      "bot": "ICDS/Anganwadi provides child nutrition and care. Apply: https://wcd.nic.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Anganwadi / ICDS Services. Use only https://wcd.nic.in.",
+  "follow_up_questions": [
+    "What documents for Anganwadi / ICDS Services?",
+    "How long for Anganwadi / ICDS Services?"
+  ],
+  "intent_examples": [
+    "apply_svc-icds",
+    "status_svc-icds"
+  ],
+  "recommended_services": [
+    "SVC-POSHAN"
+  ],
+  "document_suggestions": [
+    "Address proof",
+    "Child birth proof"
+  ],
+  "suggested_responses": [
+    "Visit https://wcd.nic.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

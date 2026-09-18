@@ -1,0 +1,383 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "intents": [
+      "apply_svc-aadhaar",
+      "status_svc-aadhaar",
+      "eligibility_svc-aadhaar"
+    ],
+    "utterances": [
+      "How do I enrol for Aadhaar",
+      "Update my Aadhaar address",
+      "Download e Aadhaar",
+      "I want Aadhaar Enrolment & Update",
+      "Need Aadhaar Enrolment & Update",
+      "Aadhaar Enrolment & Update help"
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "intents": [
+      "apply_svc-passport",
+      "status_svc-passport",
+      "eligibility_svc-passport"
+    ],
+    "utterances": [
+      "I want a passport",
+      "Need to renew my passport",
+      "Travel abroad documents",
+      "Lost my passport",
+      "Emergency passport",
+      "I want Passport Issuance (Passport Seva)",
+      "Need Passport Issuance (Passport Seva)",
+      "Passport Issuance (Passport Seva) help"
+    ]
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "intents": [
+      "apply_svc-voter",
+      "status_svc-voter",
+      "eligibility_svc-voter"
+    ],
+    "utterances": [
+      "I want Voter ID / Electoral Roll Enrolment (Form 6)",
+      "Need Voter ID / Electoral Roll Enrolment (Form 6)",
+      "Voter ID / Electoral Roll Enrolment (Form 6) help"
+    ]
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "intents": [
+      "apply_svc-pmkisan",
+      "status_svc-pmkisan",
+      "eligibility_svc-pmkisan"
+    ],
+    "utterances": [
+      "Check my PM Kisan status",
+      "Register for farmer income support",
+      "PM Kisan payment pending",
+      "I want PM-KISAN Samman Nidhi",
+      "Need PM-KISAN Samman Nidhi",
+      "PM-KISAN Samman Nidhi help"
+    ]
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "intents": [
+      "apply_svc-enam",
+      "status_svc-enam",
+      "eligibility_svc-enam"
+    ],
+    "utterances": [
+      "I want eNAM (National Agriculture Market)",
+      "Need eNAM (National Agriculture Market)",
+      "eNAM (National Agriculture Market) help"
+    ]
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "intents": [
+      "apply_svc-pmjay",
+      "status_svc-pmjay",
+      "eligibility_svc-pmjay"
+    ],
+    "utterances": [
+      "I want Ayushman Bharat PM-JAY",
+      "Need Ayushman Bharat PM-JAY",
+      "Ayushman Bharat PM-JAY help"
+    ]
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "intents": [
+      "apply_svc-abdm",
+      "status_svc-abdm",
+      "eligibility_svc-abdm"
+    ],
+    "utterances": [
+      "I want Ayushman Bharat Digital Mission (ABHA)",
+      "Need Ayushman Bharat Digital Mission (ABHA)",
+      "Ayushman Bharat Digital Mission (ABHA) help"
+    ]
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "intents": [
+      "apply_svc-eshram",
+      "status_svc-eshram",
+      "eligibility_svc-eshram"
+    ],
+    "utterances": [
+      "I want e-Shram (National Database of Unorganised Workers)",
+      "Need e-Shram (National Database of Unorganised Workers)",
+      "e-Shram (National Database of Unorganised Workers) help"
+    ]
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "intents": [
+      "apply_svc-epfo",
+      "status_svc-epfo",
+      "eligibility_svc-epfo"
+    ],
+    "utterances": [
+      "I want EPF / UAN Services (Employees' Provident Fund)",
+      "Need EPF / UAN Services (Employees' Provident Fund)",
+      "EPF / UAN Services (Employees' Provident Fund) help"
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "intents": [
+      "apply_svc-esic",
+      "status_svc-esic",
+      "eligibility_svc-esic"
+    ],
+    "utterances": [
+      "I want ESIC (Employees' State Insurance)",
+      "Need ESIC (Employees' State Insurance)",
+      "ESIC (Employees' State Insurance) help"
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "intents": [
+      "apply_svc-ncs",
+      "status_svc-ncs",
+      "eligibility_svc-ncs"
+    ],
+    "utterances": [
+      "I want National Career Service (NCS)",
+      "Need National Career Service (NCS)",
+      "National Career Service (NCS) help"
+    ]
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "intents": [
+      "apply_svc-udyam",
+      "status_svc-udyam",
+      "eligibility_svc-udyam"
+    ],
+    "utterances": [
+      "I want Udyam Registration (MSME)",
+      "Need Udyam Registration (MSME)",
+      "Udyam Registration (MSME) help"
+    ]
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "intents": [
+      "apply_svc-startup",
+      "status_svc-startup",
+      "eligibility_svc-startup"
+    ],
+    "utterances": [
+      "I want Startup India Recognition",
+      "Need Startup India Recognition",
+      "Startup India Recognition help"
+    ]
+  },
+  {
+    "service_id": "SVC-GEM",
+    "intents": [
+      "apply_svc-gem",
+      "status_svc-gem",
+      "eligibility_svc-gem"
+    ],
+    "utterances": [
+      "I want GeM (Government e-Marketplace)",
+      "Need GeM (Government e-Marketplace)",
+      "GeM (Government e-Marketplace) help"
+    ]
+  },
+  {
+    "service_id": "SVC-ITR",
+    "intents": [
+      "apply_svc-itr",
+      "status_svc-itr",
+      "eligibility_svc-itr"
+    ],
+    "utterances": [
+      "File my income tax return",
+      "Which ITR form",
+      "Check refund status",
+      "I want Income Tax e-Filing & Return (ITR)",
+      "Need Income Tax e-Filing & Return (ITR)",
+      "Income Tax e-Filing & Return (ITR) help"
+    ]
+  },
+  {
+    "service_id": "SVC-GST",
+    "intents": [
+      "apply_svc-gst",
+      "status_svc-gst",
+      "eligibility_svc-gst"
+    ],
+    "utterances": [
+      "Register my business for GST",
+      "File GSTR 3B",
+      "GST threshold limit",
+      "I want GST Registration & Returns",
+      "Need GST Registration & Returns",
+      "GST Registration & Returns help"
+    ]
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "intents": [
+      "apply_svc-digilocker",
+      "status_svc-digilocker",
+      "eligibility_svc-digilocker"
+    ],
+    "utterances": [
+      "I want DigiLocker",
+      "Need DigiLocker",
+      "DigiLocker help"
+    ]
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "intents": [
+      "apply_svc-umang",
+      "status_svc-umang",
+      "eligibility_svc-umang"
+    ],
+    "utterances": [
+      "I want UMANG (Unified Mobile App for New-age Governance)",
+      "Need UMANG (Unified Mobile App for New-age Governance)",
+      "UMANG (Unified Mobile App for New-age Governance) help"
+    ]
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "intents": [
+      "apply_svc-pmayu",
+      "status_svc-pmayu",
+      "eligibility_svc-pmayu"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Awas Yojana (Urban)",
+      "Need Pradhan Mantri Awas Yojana (Urban)",
+      "Pradhan Mantri Awas Yojana (Urban) help"
+    ]
+  },
+  {
+    "service_id": "SVC-NSP",
+    "intents": [
+      "apply_svc-nsp",
+      "status_svc-nsp",
+      "eligibility_svc-nsp"
+    ],
+    "utterances": [
+      "I want National Scholarship Portal (NSP)",
+      "Need National Scholarship Portal (NSP)",
+      "National Scholarship Portal (NSP) help"
+    ]
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "intents": [
+      "apply_svc-swayam",
+      "status_svc-swayam",
+      "eligibility_svc-swayam"
+    ],
+    "utterances": [
+      "I want SWAYAM (Free Online Courses)",
+      "Need SWAYAM (Free Online Courses)",
+      "SWAYAM (Free Online Courses) help"
+    ]
+  },
+  {
+    "service_id": "SVC-ABC",
+    "intents": [
+      "apply_svc-abc",
+      "status_svc-abc",
+      "eligibility_svc-abc"
+    ],
+    "utterances": [
+      "I want Academic Bank of Credits (ABC)",
+      "Need Academic Bank of Credits (ABC)",
+      "Academic Bank of Credits (ABC) help"
+    ]
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "intents": [
+      "apply_svc-parivahan",
+      "status_svc-parivahan",
+      "eligibility_svc-parivahan"
+    ],
+    "utterances": [
+      "I want Parivahan (Vahan & Sarathi)",
+      "Need Parivahan (Vahan & Sarathi)",
+      "Parivahan (Vahan & Sarathi) help"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "intents": [
+      "apply_svc-mah-aaple",
+      "status_svc-mah-aaple",
+      "eligibility_svc-mah-aaple"
+    ],
+    "utterances": [
+      "I want Aaple Sarkar / MahaOnline Citizen Services",
+      "Need Aaple Sarkar / MahaOnline Citizen Services",
+      "Aaple Sarkar / MahaOnline Citizen Services help"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "intents": [
+      "apply_svc-mah-rev",
+      "status_svc-mah-rev",
+      "eligibility_svc-mah-rev"
+    ],
+    "utterances": [
+      "I want Mahabhulekh (7/12 & 8A Land Records)",
+      "Need Mahabhulekh (7/12 & 8A Land Records)",
+      "Mahabhulekh (7/12 & 8A Land Records) help"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "intents": [
+      "apply_svc-mah-food",
+      "status_svc-mah-food",
+      "eligibility_svc-mah-food"
+    ],
+    "utterances": [
+      "I want Maharashtra Ration Card / Food Supply (MahaFood)",
+      "Need Maharashtra Ration Card / Food Supply (MahaFood)",
+      "Maharashtra Ration Card / Food Supply (MahaFood) help"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "intents": [
+      "apply_svc-mah-dbt",
+      "status_svc-mah-dbt",
+      "eligibility_svc-mah-dbt"
+    ],
+    "utterances": [
+      "I want MahaDBT (Maharashtra Scholarship & DBT)",
+      "Need MahaDBT (Maharashtra Scholarship & DBT)",
+      "MahaDBT (Maharashtra Scholarship & DBT) help"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "intents": [
+      "apply_svc-mah-rto",
+      "status_svc-mah-rto",
+      "eligibility_svc-mah-rto"
+    ],
+    "utterances": [
+      "I want Maharashtra Transport (RTO) Services",
+      "Need Maharashtra Transport (RTO) Services",
+      "Maharashtra Transport (RTO) Services help"
+    ]
+  }
+]

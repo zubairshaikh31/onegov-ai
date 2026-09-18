@@ -1,0 +1,27 @@
+{
+  "name": "ईपीएफओ (भविष्य निधि)",
+  "description": "Mandatory provident fund, pension (EPS), and insurance (EDLI) for organised-sector employees; managed via UAN.",
+  "benefits": "Retirement corpus with interest, pension, withdrawal/advance facilities, transfer on job change.",
+  "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+  "documents": [
+    "UAN",
+    "Aadhaar (seeded)",
+    "Bank account",
+    "PAN (for certain withdrawals)"
+  ],
+  "steps": [
+    "Activate UAN on EPFO member portal / UMANG.",
+    "Seed Aadhaar, bank, PAN via KYC.",
+    "Raise claim (Form 19/10C/31) online.",
+    "Track claim status; amount credited to bank."
+  ],
+  "faqs": [],
+  "keywords": [
+    "epf",
+    "pf",
+    "uan",
+    "provident fund",
+    "epfindia",
+    "pension"
+  ]
+}

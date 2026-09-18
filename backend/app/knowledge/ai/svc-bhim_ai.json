@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-BHIM",
+  "ai_summary": "BHIM/UPI is the government-backed instant mobile payment system.",
+  "ai_explanation": "Unified Payments Interface enabling instant bank-to-bank mobile payments.",
+  "eligibility_summary": "Any Indian with a bank account and smartphone.",
+  "conversation_examples": [
+    {
+      "user": "I want BHIM / UPI (NPCI)",
+      "bot": "BHIM/UPI is the government-backed instant mobile payment system. Apply: https://www.bhimupi.org.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with BHIM / UPI (NPCI). Use only https://www.bhimupi.org.in.",
+  "follow_up_questions": [
+    "What documents for BHIM / UPI (NPCI)?",
+    "How long for BHIM / UPI (NPCI)?"
+  ],
+  "intent_examples": [
+    "apply_svc-bhim",
+    "status_svc-bhim"
+  ],
+  "recommended_services": [
+    "SVC-JDY"
+  ],
+  "document_suggestions": [
+    "Bank account",
+    "Mobile"
+  ],
+  "suggested_responses": [
+    "Visit https://www.bhimupi.org.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

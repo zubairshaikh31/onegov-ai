@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-SWAYAM",
+  "ai_summary": "SWAYAM offers free government online courses from school to PG, with paid certificates.",
+  "ai_explanation": "SWAYAM is India's national MOOC platform providing free courses designed by top institutions. Learners enrol, complete lectures and assignments, and can earn a certificate by paying a proctored exam fee. Credits may transfer where recognised.",
+  "common_questions": [
+    "What is SWAYAM?",
+    "Are SWAYAM courses free?",
+    "How do I get a SWAYAM certificate?",
+    "Are SWAYAM credits valid?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is SWAYAM?",
+      "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+    },
+    {
+      "user": "Are SWAYAM courses free?",
+      "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+    },
+    {
+      "user": "How do I get a SWAYAM certificate?",
+      "bot": "For SWAYAM (Free Online Courses), SWAYAM offers free government online courses from school to PG, with paid certificates. You can apply at https://swayam.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-swayam",
+    "status_svc-swayam",
+    "eligibility_svc-swayam"
+  ],
+  "user_utterances": [
+    "I want SWAYAM (Free Online Courses)",
+    "Need SWAYAM (Free Online Courses)",
+    "SWAYAM (Free Online Courses) help"
+  ],
+  "follow_up_questions": [
+    "Which institutions accept SWAYAM credit?",
+    "How do I take the SWAYAM exam?"
+  ],
+  "recommended_responses": [
+    "Visit https://swayam.gov.in",
+    "Call helpline 1800-121-9020"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://swayam.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-121-9020"
+    }
+  ]
+}

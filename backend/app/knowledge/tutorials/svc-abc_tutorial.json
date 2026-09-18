@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-ABC",
+  "guide_md": "tutorials/md/svc-abc_guide.md",
+  "guide_html": "tutorials/html/svc-abc_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-abc_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://abc.gov.in"
+  ]
+}

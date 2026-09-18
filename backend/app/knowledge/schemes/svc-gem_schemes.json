@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0014",
+    "service_id": "SVC-GEM",
+    "name": "GeM (Government e-Marketplace)",
+    "category_id": "CAT-BUSINESS",
+    "government_level": "Central",
+    "official_portal": "https://gem.gov.in"
+  }
+]

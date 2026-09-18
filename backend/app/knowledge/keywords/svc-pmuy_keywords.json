@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-PMUY",
+  "keywords": [
+    "ujjwala",
+    "lpg connection",
+    "pmuy",
+    "bpl gas"
+  ],
+  "search_keywords": [
+    "ujjwala",
+    "lpg connection",
+    "pmuy",
+    "bpl gas"
+  ],
+  "aliases": [
+    "ujjwala",
+    "lpg connection",
+    "pmuy",
+    "bpl gas"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Pradhan Mantri Ujjwala Yojana (LPG)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Pradhan Mantri Ujjwala Yojana (LPG)"
+  ]
+}

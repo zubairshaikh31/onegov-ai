@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-BHIM",
+  "guide_md": "tutorials/md/svc-bhim_guide.md",
+  "guide_html": "tutorials/html/svc-bhim_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-bhim_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.bhimupi.org.in"
+  ]
+}

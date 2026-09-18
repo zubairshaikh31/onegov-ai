@@ -1,0 +1,45 @@
+{
+  "keywords": [
+    "aadhaar",
+    "uidai",
+    "uid",
+    "enrolment",
+    "ekyc",
+    "biometric",
+    "identity"
+  ],
+  "aliases": [
+    "uidai",
+    "uid number",
+    "aadhar",
+    "aadhaar card",
+    "आधार",
+    "आधार कार्ड",
+    "आधार नोंदणी"
+  ],
+  "synonyms": [
+    "uidai",
+    "uid number",
+    "aadhar",
+    "aadhaar card",
+    "आधार",
+    "आधार कार्ड",
+    "आधार नोंदणी"
+  ],
+  "common_spelling_mistakes": [
+    "aadhar",
+    "adhaar",
+    "aadhar card"
+  ],
+  "voice_search_phrases": [
+    "How do I enrol for Aadhaar",
+    "Update my Aadhaar address",
+    "Download e Aadhaar"
+  ],
+  "natural_language_queries": [
+    "how to aadhaar",
+    "how to uidai",
+    "how to uid",
+    "Aadhaar Enrolment & Update apply online"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "method": "LANCZOS resampling, 4x upscale",
+  "note": "Upscaled from official low-res source. Enlarged but detail is interpolated, NOT recovered. For true HD use vector SVG recreation.",
+  "originals_untouched": true
+}

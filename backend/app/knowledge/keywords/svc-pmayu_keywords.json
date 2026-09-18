@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-PMAYU",
+  "keywords": [
+    "pmay",
+    "pm awas yojana",
+    "housing",
+    "clss",
+    "subsidy"
+  ],
+  "search_keywords": [
+    "pmay apply online",
+    "pmay subsidy status",
+    "pmay eligibility",
+    "clss home loan"
+  ],
+  "aliases": [
+    "pmay",
+    "pm awas yojana",
+    "housing",
+    "clss",
+    "subsidy"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Pradhan Mantri Awas Yojana (Urban)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Pradhan Mantri Awas Yojana (Urban)"
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Visit pmaymis.gov.in; check eligibility."
+  },
+  {
+    "step": 2,
+    "description": "Apply under beneficiary-led / CLSS component."
+  },
+  {
+    "step": 3,
+    "description": "Enter Aadhaar, income, bank, property details."
+  },
+  {
+    "step": 4,
+    "description": "Verification by ULB/state."
+  },
+  {
+    "step": 5,
+    "description": "Subsidy/assistance as per component."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-gem_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-gem_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-gem_guide.pdf"
+  }
+]

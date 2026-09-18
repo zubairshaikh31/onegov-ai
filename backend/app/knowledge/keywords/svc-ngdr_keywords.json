@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-NGDR",
+  "keywords": [
+    "ngdrbharat",
+    "land registration",
+    "property registration",
+    "digitized land"
+  ],
+  "search_keywords": [
+    "ngdrbharat",
+    "land registration",
+    "property registration",
+    "digitized land"
+  ],
+  "aliases": [
+    "ngdrbharat",
+    "land registration",
+    "property registration",
+    "digitized land"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want NGDRBharat (Digitized Land Records)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply NGDRBharat (Digitized Land Records)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Pradhan Mantri Ujjwala Yojana (LPG)",
+  "description": "Provides deposit-free LPG connections to women from below-poverty-line households.",
+  "benefits": "Deposit-free LPG connection; cheaper cooking fuel; health benefits.",
+  "eligibility": "Women (18+) from BPL households as per SECC criteria.",
+  "documents": [
+    "BPL card / SECC details",
+    "Aadhaar",
+    "Bank account",
+    "Address proof"
+  ],
+  "steps": [
+    "Visit pmuy.gov.in or nearest LPG distributor.",
+    "Submit KYC with Aadhaar/bank/BPL proof.",
+    "Get deposit-free connection and cylinder."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Ujjwala Yojana (LPG)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "ujjwala",
+    "lpg connection",
+    "pmuy",
+    "bpl gas"
+  ]
+}

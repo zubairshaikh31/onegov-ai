@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0011",
+    "service_id": "SVC-NCS",
+    "name": "National Career Service (NCS)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://ncs.gov.in"
+  }
+]

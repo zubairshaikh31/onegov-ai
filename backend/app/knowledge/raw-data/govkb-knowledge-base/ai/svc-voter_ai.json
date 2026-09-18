@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-VOTER",
+  "ai_summary": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP.",
+  "ai_explanation": "Any Indian citizen aged 18 can enrol in the electoral roll using Form 6 on NVSP. After BLO verification the name is added and an e-EPIC can be downloaded. The Voter ID also works as ID/address proof.",
+  "common_questions": [
+    "How do I apply for a Voter ID?",
+    "How do I correct my name in the voter list?",
+    "What is Form 6?",
+    "How do I download e-EPIC?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for a Voter ID?",
+      "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+    },
+    {
+      "user": "How do I correct my name in the voter list?",
+      "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+    },
+    {
+      "user": "What is Form 6?",
+      "bot": "For Voter ID / Electoral Roll Enrolment (Form 6), ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP. You can apply at https://nvsp.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-voter",
+    "status_svc-voter",
+    "eligibility_svc-voter"
+  ],
+  "user_utterances": [
+    "I want Voter ID / Electoral Roll Enrolment (Form 6)",
+    "Need Voter ID / Electoral Roll Enrolment (Form 6)",
+    "Voter ID / Electoral Roll Enrolment (Form 6) help"
+  ],
+  "follow_up_questions": [
+    "How do I correct my address in the voter roll?",
+    "What is the difference between EPIC and e-EPIC?"
+  ],
+  "recommended_responses": [
+    "Visit https://voterportal.eci.gov.in",
+    "Call helpline 1950"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://nvsp.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1950"
+    }
+  ]
+}

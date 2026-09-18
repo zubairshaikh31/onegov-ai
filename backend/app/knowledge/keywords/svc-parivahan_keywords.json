@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "keywords": [
+    "parivahan",
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "rc",
+    "rto"
+  ],
+  "search_keywords": [
+    "driving licence apply online",
+    "vahan rc status",
+    "parivahan sarathi",
+    "rto appointment"
+  ],
+  "aliases": [
+    "parivahan",
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "rc",
+    "rto"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Parivahan (Vahan & Sarathi)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Parivahan (Vahan & Sarathi)"
+  ]
+}

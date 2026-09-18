@@ -1,0 +1,41 @@
+{
+  "service_id": "SVC-GST",
+  "name": "GST Registration & Returns",
+  "category": "CAT-FINANCE",
+  "sub_category": "Indirect Tax",
+  "department": "DEP-GST",
+  "ministry": "MIN-CBIC",
+  "central_state": "Central",
+  "state": null,
+  "description": "Goods and Services Tax registration, return filing, and compliance for businesses via the GST portal.",
+  "benefits": "Legal tax identity, input tax credit, interstate trade, compliance certificates.",
+  "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+  "required_documents": [
+    "PAN",
+    "Aadhaar (verification)",
+    "Business registration",
+    "Address proof",
+    "Bank account",
+    "Photograph"
+  ],
+  "optional_documents": [
+    "Authorisation letter"
+  ],
+  "fees": "No government registration fee; late fees for delayed returns.",
+  "processing_time": "Registration usually within 7-30 days; returns monthly/quarterly.",
+  "validity": "GSTIN valid until cancellation/suspension.",
+  "application_mode": "Online (gst.gov.in)",
+  "official_website": "https://www.gst.gov.in",
+  "official_apply_link": "https://www.gst.gov.in/registration",
+  "download_forms": "https://www.gst.gov.in/help/returns",
+  "helpline": "1800-103-4786 / 14444",
+  "email": "webmaster@cgst.gov.in",
+  "office_locator": "GST Seva Kendras / state tax offices.",
+  "working_hours": "",
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://www.gst.gov.in",
+  "collection_method": "official_portal"
+}

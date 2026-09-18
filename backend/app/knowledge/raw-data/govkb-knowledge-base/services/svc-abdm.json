@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-ABDM",
+  "name": "Ayushman Bharat Digital Mission (ABHA)",
+  "category": "CAT-HEALTH",
+  "sub_category": "Digital Health",
+  "department": "DEP-MoHFW",
+  "ministry": "MIN-HEA",
+  "central_state": "Central",
+  "state": null,
+  "description": "Creates a digital health ecosystem: ABHA ID, Health ID, Personal Health Records (PHR), and interoperable health information exchange.",
+  "benefits": "Single health ID to link records across providers; consent-based sharing; easier continuity of care.",
+  "eligibility": "Any Indian resident (voluntary opt-in).",
+  "required_documents": [
+    "Aadhaar / Driving Licence / any govt ID for ABHA creation"
+  ],
+  "optional_documents": [
+    "Mobile number for OTP"
+  ],
+  "fees": "Free.",
+  "processing_time": "Instant ABHA creation.",
+  "validity": "Until cancelled by user; voluntary.",
+  "application_mode": "Online (abdm.gov.in / ABHA app) and via health facilities",
+  "official_website": "https://abdm.gov.in",
+  "official_apply_link": "https://abha.abdm.gov.in",
+  "download_forms": "https://abdm.gov.in",
+  "helpline": "1800-11-4477 / 1800-11-6644",
+  "email": "support@abdm.gov.in",
+  "office_locator": "ABDM-enabled health facilities and CSCs.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://abdm.gov.in",
+  "collection_method": "official_portal"
+}

@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-EPFO",
+  "ai_summary": "EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers.",
+  "ai_explanation": "Employees contribute to EPF with employer matching; the UAN ties multiple member IDs across jobs. Members can seed KYC and file online claims for withdrawal, transfer, or advances. Balance and status are checkable via UMANG or the member portal.",
+  "eligibility_summary": "Employees with basic wage up to statutory limit in establishments covered under EPF Act.",
+  "conversation_examples": [
+    {
+      "user": "I want EPF / UAN Services (Employees' Provident Fund)",
+      "bot": "EPFO manages EPF/EPS/EDLI for organised employees via UAN; online claims and transfers. Apply: https://unifiedportal-mem.epfindia.gov.in/memberinterface/. Helpline: 1800-118-005 / 14434."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with EPF / UAN Services (Employees' Provident Fund). Use only official info from https://www.epfindia.gov.in.",
+  "follow_up_questions": [
+    "How do I merge multiple UANs?",
+    "What is the EPF interest rate?"
+  ],
+  "intent_examples": [
+    "apply_svc-epfo",
+    "status_svc-epfo",
+    "eligibility_svc-epfo"
+  ],
+  "recommended_services": [
+    "SVC-ESIC",
+    "SVC-ESIC",
+    "SVC-ESHRAM"
+  ],
+  "document_suggestions": [
+    "UAN",
+    "Aadhaar (seeded)",
+    "Bank account",
+    "PAN (for certain withdrawals)"
+  ],
+  "suggested_responses": [
+    "Visit https://www.epfindia.gov.in",
+    "Call 1800-118-005 / 14434"
+  ],
+  "recommendation_weight": 1.0
+}

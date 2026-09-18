@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-ATAL",
+  "references": [
+    {
+      "act": "Atal Pension Yojana Scheme, 2015",
+      "rule": "NPS Trust guidelines",
+      "authority": "PFRDA"
+    }
+  ]
+}

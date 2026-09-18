@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-MGNREGA",
+  "ai_summary": "MGNREGA guarantees rural wage employment.",
+  "ai_explanation": "Mahatma Gandhi NREGA guarantees 100 days wage employment to rural households.",
+  "eligibility_summary": "Rural households willing to do unskilled manual work.",
+  "conversation_examples": [
+    {
+      "user": "I want MGNREGA (Rural Employment)",
+      "bot": "MGNREGA guarantees rural wage employment. Apply: https://nrega.nic.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with MGNREGA (Rural Employment). Use only https://nrega.nic.in.",
+  "follow_up_questions": [
+    "What documents for MGNREGA (Rural Employment)?",
+    "How long for MGNREGA (Rural Employment)?"
+  ],
+  "intent_examples": [
+    "apply_svc-mgnrega",
+    "status_svc-mgnrega"
+  ],
+  "recommended_services": [
+    "SVC-EShramCard"
+  ],
+  "document_suggestions": [
+    "Job card (issued on demand)",
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://nrega.nic.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-NCS",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [
+    "SVC-ESHRAM"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-NCS"
+}

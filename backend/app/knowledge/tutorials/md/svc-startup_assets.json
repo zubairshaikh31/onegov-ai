@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-startup_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-startup_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-startup_guide.pdf"
+  }
+]

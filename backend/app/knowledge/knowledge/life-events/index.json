@@ -1,0 +1,685 @@
+{
+  "birth": {
+    "event": "birth",
+    "services": [
+      "SVC-AADHAAR",
+      "SVC-VOTER",
+      "SVC-MAH-DOMICILE"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-AADHAAR",
+      "SVC-VOTER",
+      "SVC-MAH-DOMICILE"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-aadhaar_guide.md",
+      "tutorials/md/svc-voter_guide.md",
+      "tutorials/md/svc-mah-domicile_guide.md"
+    ]
+  },
+  "business": {
+    "services": [
+      "SVC-UDYAM",
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business registration",
+      "Bank account"
+    ],
+    "schemes": [
+      "Udyam",
+      "Startup India",
+      "GeM"
+    ]
+  },
+  "business_registration": {
+    "event": "business_registration",
+    "services": [
+      "SVC-UDYAM",
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-UDYAM",
+      "SVC-STARTUP",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-udyam_guide.md",
+      "tutorials/md/svc-startup_guide.md",
+      "tutorials/md/svc-gem_guide.md",
+      "tutorials/md/svc-gst_guide.md"
+    ]
+  },
+  "child_birth": {
+    "event": "child_birth",
+    "services": [
+      "SVC-AADHAAR",
+      "SVC-MAH-DOMICILE"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-AADHAAR",
+      "SVC-MAH-DOMICILE"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-aadhaar_guide.md",
+      "tutorials/md/svc-mah-domicile_guide.md"
+    ]
+  },
+  "college_admission": {
+    "event": "college_admission",
+    "services": [
+      "SVC-NSP",
+      "SVC-SWAYAM",
+      "SVC-ABC",
+      "SVC-DIGILOCKER"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NSP",
+      "SVC-SWAYAM",
+      "SVC-ABC",
+      "SVC-DIGILOCKER"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-nsp_guide.md",
+      "tutorials/md/svc-swayam_guide.md",
+      "tutorials/md/svc-abc_guide.md",
+      "tutorials/md/svc-digilocker_guide.md"
+    ]
+  },
+  "construction": {
+    "event": "construction",
+    "services": [
+      "SVC-PMAYU",
+      "SVC-NGDR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PMAYU",
+      "SVC-NGDR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-pmayu_guide.md",
+      "tutorials/md/svc-ngdr_guide.md"
+    ]
+  },
+  "death": {
+    "event": "death",
+    "services": [
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "disability": {
+    "event": "disability",
+    "services": [
+      "SVC-ESIC",
+      "SVC-PMJAY",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-ESIC",
+      "SVC-PMJAY",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-esic_guide.md",
+      "tutorials/md/svc-pmjay_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "divorce": {
+    "event": "divorce",
+    "services": [
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "driving_licence": {
+    "event": "driving_licence",
+    "services": [
+      "SVC-DL",
+      "SVC-PARIVAHAN",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-DL",
+      "SVC-PARIVAHAN",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-dl_guide.md",
+      "tutorials/md/svc-parivahan_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "electricity_connection": {
+    "event": "electricity_connection",
+    "services": [
+      "SVC-MAH-AAPLE"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-MAH-AAPLE"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-mah-aaple_guide.md"
+    ]
+  },
+  "farmer": {
+    "event": "farmer",
+    "services": [
+      "SVC-PMKISAN",
+      "SVC-ENAM",
+      "SVC-AADHAAR",
+      "SVC-MAH-SHETKARI"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PMKISAN",
+      "SVC-ENAM",
+      "SVC-AADHAAR",
+      "SVC-MAH-SHETKARI"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-pmkisan_guide.md",
+      "tutorials/md/svc-enam_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md",
+      "tutorials/md/svc-mah-shetkari_guide.md"
+    ]
+  },
+  "first_job": {
+    "event": "first_job",
+    "services": [
+      "SVC-NCS",
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NCS",
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-ESHRAM"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-ncs_guide.md",
+      "tutorials/md/svc-epfo_guide.md",
+      "tutorials/md/svc-esic_guide.md",
+      "tutorials/md/svc-eshram_guide.md"
+    ]
+  },
+  "foreign_travel": {
+    "event": "foreign_travel",
+    "services": [
+      "SVC-PASSPORT",
+      "SVC-PARIVAHAN"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PASSPORT",
+      "SVC-PARIVAHAN"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-passport_guide.md",
+      "tutorials/md/svc-parivahan_guide.md"
+    ]
+  },
+  "government_job": {
+    "event": "government_job",
+    "services": [
+      "SVC-NCS",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NCS",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-ncs_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "gst_registration": {
+    "event": "gst_registration",
+    "services": [
+      "SVC-GST",
+      "SVC-UDYAM",
+      "SVC-ITR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-GST",
+      "SVC-UDYAM",
+      "SVC-ITR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-gst_guide.md",
+      "tutorials/md/svc-udyam_guide.md",
+      "tutorials/md/svc-itr_guide.md"
+    ]
+  },
+  "job": {
+    "services": [
+      "SVC-NCS",
+      "SVC-EPFO",
+      "SVC-ESIC",
+      "SVC-ESHRAM",
+      "SVC-UDYAM"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Bank account",
+      "Educational certificates"
+    ],
+    "schemes": [
+      "EPF",
+      "ESIC",
+      "e-Shram"
+    ]
+  },
+  "marriage": {
+    "event": "marriage",
+    "services": [
+      "SVC-VOTER",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-VOTER",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-voter_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "medical_emergency": {
+    "event": "medical_emergency",
+    "services": [
+      "SVC-PMJAY",
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PMJAY",
+      "SVC-ABDM",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-pmjay_guide.md",
+      "tutorials/md/svc-abdm_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "msme": {
+    "event": "msme",
+    "services": [
+      "SVC-UDYAM",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-UDYAM",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-udyam_guide.md",
+      "tutorials/md/svc-gem_guide.md",
+      "tutorials/md/svc-gst_guide.md"
+    ]
+  },
+  "passport": {
+    "event": "passport",
+    "services": [
+      "SVC-PASSPORT",
+      "SVC-AADHAAR",
+      "SVC-DIGILOCKER"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PASSPORT",
+      "SVC-AADHAAR",
+      "SVC-DIGILOCKER"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-passport_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md",
+      "tutorials/md/svc-digilocker_guide.md"
+    ]
+  },
+  "property_purchase": {
+    "event": "property_purchase",
+    "services": [
+      "SVC-NGDR",
+      "SVC-MAH-REV"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NGDR",
+      "SVC-MAH-REV"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-ngdr_guide.md",
+      "tutorials/md/svc-mah-rev_guide.md"
+    ]
+  },
+  "retirement": {
+    "event": "retirement",
+    "services": [
+      "SVC-EPFO",
+      "SVC-PMJAY",
+      "SVC-AADHAAR"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-EPFO",
+      "SVC-PMJAY",
+      "SVC-AADHAAR"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-epfo_guide.md",
+      "tutorials/md/svc-pmjay_guide.md",
+      "tutorials/md/svc-aadhaar_guide.md"
+    ]
+  },
+  "scholarship": {
+    "event": "scholarship",
+    "services": [
+      "SVC-NSP",
+      "SVC-MAH-DBT",
+      "SVC-SWAYAM"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NSP",
+      "SVC-MAH-DBT",
+      "SVC-SWAYAM"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-nsp_guide.md",
+      "tutorials/md/svc-mah-dbt_guide.md",
+      "tutorials/md/svc-swayam_guide.md"
+    ]
+  },
+  "senior_citizen": {
+    "event": "senior_citizen",
+    "services": [
+      "SVC-PMJAY",
+      "SVC-EPFO",
+      "SVC-JDY"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PMJAY",
+      "SVC-EPFO",
+      "SVC-JDY"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-pmjay_guide.md",
+      "tutorials/md/svc-epfo_guide.md",
+      "tutorials/md/svc-jdy_guide.md"
+    ]
+  },
+  "startup": {
+    "event": "startup",
+    "services": [
+      "SVC-STARTUP",
+      "SVC-UDYAM",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-STARTUP",
+      "SVC-UDYAM",
+      "SVC-GEM",
+      "SVC-GST"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-startup_guide.md",
+      "tutorials/md/svc-udyam_guide.md",
+      "tutorials/md/svc-gem_guide.md",
+      "tutorials/md/svc-gst_guide.md"
+    ]
+  },
+  "student": {
+    "event": "student",
+    "services": [
+      "SVC-NSP",
+      "SVC-SWAYAM",
+      "SVC-ABC",
+      "SVC-DIGILOCKER"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-NSP",
+      "SVC-SWAYAM",
+      "SVC-ABC",
+      "SVC-DIGILOCKER"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-nsp_guide.md",
+      "tutorials/md/svc-swayam_guide.md",
+      "tutorials/md/svc-abc_guide.md",
+      "tutorials/md/svc-digilocker_guide.md"
+    ]
+  },
+  "travel": {
+    "services": [
+      "SVC-PASSPORT",
+      "SVC-PARIVAHAN"
+    ],
+    "documents": [
+      "Passport",
+      "Visa"
+    ],
+    "schemes": []
+  },
+  "vehicle": {
+    "services": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER",
+      "SVC-MAH-RTO"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Vehicle invoice",
+      "Insurance"
+    ],
+    "schemes": []
+  },
+  "vehicle_purchase": {
+    "event": "vehicle_purchase",
+    "services": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-PARIVAHAN",
+      "SVC-DIGILOCKER"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-parivahan_guide.md",
+      "tutorials/md/svc-digilocker_guide.md"
+    ]
+  },
+  "water_connection": {
+    "event": "water_connection",
+    "services": [
+      "SVC-MAH-AAPLE"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-MAH-AAPLE"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-mah-aaple_guide.md"
+    ]
+  },
+  "women": {
+    "event": "women",
+    "services": [
+      "SVC-MAH-LADKI",
+      "SVC-SUKANYA",
+      "SVC-PMUY",
+      "SVC-JDY"
+    ],
+    "documents": [
+      "Aadhaar",
+      "Address proof",
+      "Category/Income certificate (where applicable)"
+    ],
+    "schemes": [
+      "SVC-MAH-LADKI",
+      "SVC-SUKANYA",
+      "SVC-PMUY",
+      "SVC-JDY"
+    ],
+    "tutorials": [
+      "tutorials/md/svc-mah-ladki_guide.md",
+      "tutorials/md/svc-sukanya_guide.md",
+      "tutorials/md/svc-pmuy_guide.md",
+      "tutorials/md/svc-jdy_guide.md"
+    ]
+  }
+}

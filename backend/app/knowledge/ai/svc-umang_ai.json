@@ -1,0 +1,36 @@
+{
+  "service_id": "SVC-UMANG",
+  "ai_summary": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services.",
+  "ai_explanation": "UMANG consolidates many government services into one app, letting citizens access EPFO, tax, passport, bill payments, and state services with a single login. It is multilingual and free, with per-service authentication.",
+  "eligibility_summary": "Any citizen with a smartphone; services may need respective IDs.",
+  "conversation_examples": [
+    {
+      "user": "I want UMANG (Unified Mobile App for New-age Governance)",
+      "bot": "UMANG is a single mobile/portal aggregator for hundreds of central and state government services. Apply: https://web.umang.gov.in. Helpline: 1800-111-550."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with UMANG (Unified Mobile App for New-age Governance). Use only official info from https://umang.gov.in.",
+  "follow_up_questions": [
+    "How do I use UMANG for EPFO?",
+    "Which Maharashtra services are on UMANG?"
+  ],
+  "intent_examples": [
+    "apply_svc-umang",
+    "status_svc-umang",
+    "eligibility_svc-umang"
+  ],
+  "recommended_services": [
+    "SVC-DIGILOCKER",
+    "SVC-EPFO",
+    "SVC-ITR"
+  ],
+  "document_suggestions": [
+    "Mobile number",
+    "Service-specific IDs (Aadhaar/PAN/UAN)"
+  ],
+  "suggested_responses": [
+    "Visit https://umang.gov.in",
+    "Call 1800-111-550"
+  ],
+  "recommendation_weight": 1.0
+}

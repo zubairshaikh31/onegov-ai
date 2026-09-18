@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-APPREN",
+  "name": "National Apprenticeship (Apprenticeship India)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Apprenticeship",
+  "department_id": "DEP-LAB",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National Apprenticeship Training scheme connecting apprentices with establishments for paid on-the-job training.",
+  "eligibility": "ITI/diploma/degree holders (aged 14+ for certain categories) per Apprentices Act.",
+  "benefits": "Stipend during training; industry experience; certification; employment pathway.",
+  "required_documents": [
+    "Educational certificates",
+    "Aadhaar",
+    "Bank account",
+    "Category certificate (if applicable)"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Register on apprenticeshipindia.gov.in as candidate.",
+    "Search establishments and apply.",
+    "Sign contract; undergo training with stipend."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://apprenticeshipindia.gov.in",
+  "official_apply_link": "https://apprenticeshipindia.gov.in",
+  "download_forms": "https://apprenticeshipindia.gov.in",
+  "helpline_number": "1800-233-1711",
+  "email": "support@apprenticeshipindia.gov.in",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://apprenticeshipindia.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Apprenticeship India links candidates to paid on-the-job training with certified establishments.",
+  "ai_explanation": "National Apprenticeship Training scheme connecting apprentices with establishments for paid on-the-job training.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "apprenticeship",
+    "nats",
+    "skill training",
+    "stipend"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

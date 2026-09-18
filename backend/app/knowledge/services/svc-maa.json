@@ -1,0 +1,48 @@
+{
+  "service_id": "SVC-MAA",
+  "name": "Maa Bharti / e-Governance (Rajasthan)",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen (Rajasthan)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "RJ",
+  "description": "Rajasthan state portal and SSO for citizen services.",
+  "eligibility": "Rajasthan residents with SSO ID.",
+  "benefits": "Unified access to state services.",
+  "required_documents": [
+    "Aadhaar"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Create SSO ID.",
+    "Apply via service.",
+    "Track status."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://rajasthan.gov.in",
+  "official_apply_link": "https://sso.rajasthan.gov.in",
+  "download_forms": "https://rajasthan.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://rajasthan.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "Rajasthan state e-governance via SSO.",
+  "ai_explanation": "Rajasthan state portal and SSO for citizen services.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "rajasthan sso",
+    "maa bharti"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

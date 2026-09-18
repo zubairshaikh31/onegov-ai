@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0023",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Parivahan (Vahan & Sarathi)",
+    "category_id": "CAT-TRANSPORT",
+    "government_level": "Central",
+    "official_portal": "https://parivahan.gov.in"
+  }
+]

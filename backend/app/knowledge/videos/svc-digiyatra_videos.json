@@ -1,0 +1,19 @@
+{
+  "service_id": "SVC-DIGIYATRA",
+  "videos": [
+    {
+      "title": "DigiYatra (Airport Biometric) - Official Info",
+      "youtube_url": "",
+      "channel": "Refer to official ministry/MeitY/NIC/PIB YouTube channel",
+      "channel_url": "",
+      "duration": "",
+      "language": "en",
+      "type": "official",
+      "department": "MIN-MEITY",
+      "thumbnail": "",
+      "description": "Search official MIN-MEITY YouTube channel for DigiYatra (Airport Biometric).",
+      "verified": false,
+      "source": "Official Government YouTube (lookup required)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ई-श्रम (असंगठित श्रमिक)",
+  "description": "National database and registration of unorganised sector workers to extend social security benefits.",
+  "benefits": "e-Shram card; eligibility for future social security/welfare schemes; portability.",
+  "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar.",
+  "documents": [
+    "Aadhaar",
+    "Bank account",
+    "Mobile linked to Aadhaar"
+  ],
+  "steps": [
+    "Visit eshram.gov.in; self-register with Aadhaar OTP.",
+    "Fill personal, occupation, and bank details.",
+    "Submit; download e-Shram card (UAN).",
+    "Update details as needed."
+  ],
+  "faqs": [],
+  "keywords": [
+    "e shram",
+    "unorganised worker",
+    "labour card",
+    "eshram card",
+    "social security"
+  ]
+}

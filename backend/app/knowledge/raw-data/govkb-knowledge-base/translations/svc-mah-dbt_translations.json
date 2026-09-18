@@ -1,0 +1,87 @@
+{
+  "en": {
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "description": "Maharashtra's integrated DBT portal for state scholarships and benefits to eligible students/citizens.",
+    "eligibility": "Maharashtra residents meeting scheme criteria (caste/income/merit).",
+    "benefits": "Direct benefit transfer of scholarships and schemes to bank account; single window.",
+    "application_steps": [
+      "Register on MahaDBT portal.",
+      "Complete profile with Aadhaar/bank/certificates.",
+      "Select eligible schemes; apply.",
+      "Institute/DC verification.",
+      "DBT to bank account."
+    ],
+    "faqs": [
+      "Which schemes are on MahaDBT?",
+      "How do I apply for Maharashtra scholarship?",
+      "What is MahaDBT?",
+      "How do I check MahaDBT status?",
+      "Which scholarships are on MahaDBT?"
+    ],
+    "keywords": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student"
+    ]
+  },
+  "hi": {
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "description": "Maharashtra's integrated DBT portal for state scholarships and benefits to eligible students/citizens.",
+    "eligibility": "पात्रता: Maharashtra residents meeting scheme criteria (caste/income/merit).",
+    "benefits": "लाभ: Direct benefit transfer of scholarships and schemes to bank account; single window.",
+    "application_steps": [
+      "Register on MahaDBT portal.",
+      "Complete profile with Aadhaar/bank/certificates.",
+      "Select eligible schemes; apply.",
+      "Institute/DC verification.",
+      "DBT to bank account."
+    ],
+    "faqs": [
+      "Which schemes are on MahaDBT?",
+      "How do I apply for Maharashtra scholarship?",
+      "What is MahaDBT?",
+      "How do I check MahaDBT status?",
+      "Which scholarships are on MahaDBT?"
+    ],
+    "keywords": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student",
+      "mahadbt",
+      "maharashtra scholarship"
+    ]
+  },
+  "mr": {
+    "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+    "description": "Maharashtra's integrated DBT portal for state scholarships and benefits to eligible students/citizens.",
+    "eligibility": "पात्रता: Maharashtra residents meeting scheme criteria (caste/income/merit).",
+    "benefits": "फायदे: Direct benefit transfer of scholarships and schemes to bank account; single window.",
+    "application_steps": [
+      "Register on MahaDBT portal.",
+      "Complete profile with Aadhaar/bank/certificates.",
+      "Select eligible schemes; apply.",
+      "Institute/DC verification.",
+      "DBT to bank account."
+    ],
+    "faqs": [
+      "Which schemes are on MahaDBT?",
+      "How do I apply for Maharashtra scholarship?",
+      "What is MahaDBT?",
+      "How do I check MahaDBT status?",
+      "Which scholarships are on MahaDBT?"
+    ],
+    "keywords": [
+      "mahadbt",
+      "maharashtra scholarship",
+      "dbt",
+      "post matric scholarship",
+      "student",
+      "mahadbt",
+      "maharashtra scholarship"
+    ]
+  }
+}

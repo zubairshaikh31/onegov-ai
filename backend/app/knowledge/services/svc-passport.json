@@ -1,0 +1,133 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "name": "Passport Issuance (Passport Seva)",
+  "category_id": "CAT-IDENTITY",
+  "sub_category": "Travel Document",
+  "department_id": "DEP-PSP",
+  "ministry_id": "MIN-MEA",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Issuance/renewal of Indian passports (ordinary, Tatkaal, diplomatic/official) by the Ministry of External Affairs through Passport Seva Kendras (PSK) and Post Office PSKs.",
+  "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+  "benefits": "Internationally recognised travel document; enables visa-free/visa-on-arrival access; Tatkaal for urgent issue.",
+  "required_documents": [
+    "Proof of Date of Birth",
+    "Proof of Address (current)",
+    "Proof of nationality / old passport (if renewing)",
+    "Annexure as applicable"
+  ],
+  "optional_documents": [
+    "Marriage certificate (name change)",
+    "ECNR eligibility proof"
+  ],
+  "application_mode": "Online application + in-person appointment at PSK",
+  "application_steps": [
+    "Register on passportindia.gov.in and fill the application form.",
+    "Pay fee and book appointment at nearest PSK/PopSK.",
+    "Visit PSK with originals + photocopies for document verification and biometric capture.",
+    "Police verification (for fresh passports) at registered address.",
+    "Passport printed and dispatched; track status online."
+  ],
+  "processing_time": "Tatkaal: ~1-3 days post verification. Normal: ~30 days (post police verification).",
+  "fees": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18).",
+  "validity": "10 years for adults; 5 years or till age 18 for minors.",
+  "official_portal": "https://passportindia.gov.in",
+  "official_apply_link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+  "download_forms": "https://passportindia.gov.in/AppOnlineProject/online/freshFormSubmission",
+  "helpline_number": "1800-258-1800",
+  "email": "passport.helpdesk@mea.gov.in",
+  "office_locator_info": "PSK/PopSK locator at https://passportindia.gov.in -> 'Locate PSK'",
+  "faq": [
+    {
+      "q": "Can I apply from a different state than my address?",
+      "a": "You must apply from your current address jurisdiction; police verification happens at the address given."
+    },
+    {
+      "q": "What is the difference between Normal and Tatkaal?",
+      "a": "Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR",
+    "SVC-VOTER"
+  ],
+  "keywords": [
+    "passport",
+    "passport seva",
+    "psk",
+    "tatkaal",
+    "travel document",
+    "mea"
+  ],
+  "languages_available": "English, Hindi",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://passportindia.gov.in",
+  "ai_summary": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited.",
+  "ai_explanation": "Citizens apply online, pay a fee, and attend a PSK appointment for document checks and biometrics. Police verification follows for fresh passports. Tatkaal offers faster issue at higher cost. Passports are valid 10 years for adults.",
+  "common_questions": [
+    "How do I apply for a passport?",
+    "What are the passport fees?",
+    "How long does a passport take?",
+    "How do I renew my passport?",
+    "How do I apply for Passport (Fresh / Reissue)?",
+    "What documents are required for Passport (Fresh / Reissue)?",
+    "What is the fee for Passport (Fresh / Reissue)?",
+    "Who is eligible for Passport (Fresh / Reissue)?",
+    "How long does Passport (Fresh / Reissue) take to process?",
+    "What is the official website for Passport (Fresh / Reissue)?"
+  ],
+  "common_mistakes": [
+    "Mismatch between address proof and application",
+    "Booking appointment before document readiness",
+    "Wrong annexure selection"
+  ],
+  "search_keywords": [
+    "passport apply online",
+    "passport seva kendra near me",
+    "tatkaal passport fees",
+    "passport renewal"
+  ],
+  "suggested_followups": [
+    "What documents prove address for passport?",
+    "How do I track my passport application status?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0",
+  "_sourceA": {
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_common_questions": [
+      "How do I apply for Passport (Fresh / Reissue)?",
+      "What documents are required for Passport (Fresh / Reissue)?",
+      "What is the fee for Passport (Fresh / Reissue)?",
+      "Who is eligible for Passport (Fresh / Reissue)?",
+      "How long does Passport (Fresh / Reissue) take to process?",
+      "What is the official website for Passport (Fresh / Reissue)?"
+    ],
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Passport (Fresh / Reissue)?",
+      "Can I track my Passport (Fresh / Reissue) application status online?",
+      "What should I do if my Passport (Fresh / Reissue) application is rejected?",
+      "Are there any state-specific rules for Passport (Fresh / Reissue) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "fresh",
+      "identity",
+      "mea",
+      "passport",
+      "psk",
+      "reissue",
+      "tatkaal",
+      "travel"
+    ],
+    "content_hash": "994bfac4cb2c67c488008693354ef8f0ca58002576c7562a9fbbda02b12aaaf5",
+    "source_type": "html",
+    "version": 1
+  }
+}

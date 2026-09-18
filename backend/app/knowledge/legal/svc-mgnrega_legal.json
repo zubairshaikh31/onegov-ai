@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-MGNREGA",
+  "references": [
+    {
+      "act": "Mahatma Gandhi NREGA Act, 2005",
+      "rule": "NREGA Scheme, 2006",
+      "authority": "Ministry of Rural Development"
+    }
+  ]
+}

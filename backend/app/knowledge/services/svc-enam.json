@@ -1,0 +1,81 @@
+{
+  "service_id": "SVC-ENAM",
+  "name": "eNAM (National Agriculture Market)",
+  "category_id": "CAT-AGR",
+  "sub_category": "Agriculture Marketing",
+  "department_id": "DEP-DARE",
+  "ministry_id": "MIN-AGR",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Online trading platform integrating APMC mandis to create a unified national market for agricultural commodities.",
+  "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis.",
+  "benefits": "Better price discovery, transparent bidding, wider buyer reach, reduced intermediaries.",
+  "required_documents": [
+    "Bank account",
+    "Aadhaar",
+    "Trader licence (for traders)",
+    "GST (traders if applicable)"
+  ],
+  "optional_documents": [
+    "FPO registration"
+  ],
+  "application_mode": "Online (enam.gov.in) and via mandi terminals",
+  "application_steps": [
+    "Register on enam.gov.in as farmer/trader.",
+    "Link APMC mandi and bank account.",
+    "List produce with quality/grade.",
+    "Participate in e-auction; buyer bids.",
+    "Payment settled to farmer account post-trade."
+  ],
+  "processing_time": "Trade settlement as per mandi rules (typically within mandated days).",
+  "fees": "Transaction charges as per APMC bye-laws; platform access free for farmers.",
+  "validity": "Account active while KYC valid.",
+  "official_portal": "https://enam.gov.in",
+  "official_apply_link": "https://enam.gov.in/web/guest/registration",
+  "download_forms": "https://enam.gov.in",
+  "helpline_number": "1800-270-0222",
+  "email": "enam@agtech.gov.in",
+  "office_locator_info": "Linked APMC mandis across participating states.",
+  "faq": [
+    {
+      "q": "Which states are covered?",
+      "a": "Most states with APMC integration; check the mandi list on the portal."
+    }
+  ],
+  "related_services": [
+    "SVC-PMKISAN"
+  ],
+  "keywords": [
+    "enam",
+    "e nam",
+    "agri market",
+    "mandi",
+    "farmers trading"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://enam.gov.in",
+  "ai_summary": "eNAM is a unified online agriculture trading platform linking APMC mandis for transparent price discovery.",
+  "ai_explanation": "eNAM lets farmers and traders transact across mandis through e-auction, improving price discovery and reducing middlemen. Farmers register free and link their mandi and bank account; traders need a licence.",
+  "common_questions": [
+    "What is eNAM?",
+    "How do I sell on eNAM?",
+    "Which mandis are on eNAM?"
+  ],
+  "common_mistakes": [
+    "Assuming all mandis are integrated",
+    "Not grading produce before listing"
+  ],
+  "search_keywords": [
+    "enam registration",
+    "enam mandi list",
+    "sell crops online"
+  ],
+  "suggested_followups": [
+    "How do I grade my produce for eNAM?",
+    "What are eNAM transaction charges?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

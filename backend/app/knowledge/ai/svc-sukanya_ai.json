@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-SUKANYA",
+  "ai_summary": "SSY is a government small-savings scheme for girl children with tax-free high returns.",
+  "ai_explanation": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns.",
+  "eligibility_summary": "Parents/guardians of a girl child below age 10; one account per child (max 2 per family).",
+  "conversation_examples": [
+    {
+      "user": "I want Sukanya Samriddhi Yojana (SSY)",
+      "bot": "SSY is a government small-savings scheme for girl children with tax-free high returns. Apply: https://www.indiapost.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Sukanya Samriddhi Yojana (SSY). Use only official info from https://www.indiapost.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-sukanya",
+    "status_svc-sukanya",
+    "eligibility_svc-sukanya"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Birth certificate of girl child",
+    "Parent guardian ID",
+    "Address proof",
+    "Photograph"
+  ],
+  "suggested_responses": [
+    "Visit https://www.indiapost.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

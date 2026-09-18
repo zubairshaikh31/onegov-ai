@@ -1,0 +1,40 @@
+{
+  "name": "Startup India Recognition",
+  "description": "DPIIT recognition of startups to avail tax benefits, easier compliance, IPR fast-track, and funding access.",
+  "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation.",
+  "benefits": "Tax exemption (80-IAC/Section 56), faster patents, self-certification, government tenders, Fund of Funds.",
+  "application_steps": [
+    "Incorporate the entity.",
+    "Register on startupindia.gov.in.",
+    "Apply for DPIIT recognition with details.",
+    "Self-certify and submit; get recognition number.",
+    "Avail benefits (tax/patent/tender)."
+  ],
+  "faqs": [
+    "What is the age/turnover limit for a startup?",
+    "Am I eligible for Startup India?",
+    "How do I get DPIIT recognition?",
+    "What tax benefits do startups get?",
+    "How do I apply for Startup India?"
+  ],
+  "keywords": [
+    "startup india",
+    "dpiit",
+    "startup recognition",
+    "entrepreneur",
+    "tax exemption"
+  ],
+  "documents": [
+    "Incorporation certificate",
+    "PAN",
+    "Description of innovation",
+    "Director/Promoter details"
+  ],
+  "steps": [
+    "Incorporate the entity.",
+    "Register on startupindia.gov.in.",
+    "Apply for DPIIT recognition with details.",
+    "Self-certify and submit; get recognition number.",
+    "Avail benefits (tax/patent/tender)."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-PMSBY",
+  "ai_summary": "PMSBY accident insurance.",
+  "ai_explanation": "Accident insurance cover Rs.2 lakh at Rs.20/year (already captured as RAKSHABANDHAN - duplicate skip)",
+  "eligibility_summary": "Adults 18-70 with bank account.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Suraksha Bima Yojana",
+      "bot": "PMSBY accident insurance. Apply: https://www.jansuraksha.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Suraksha Bima Yojana. Use only https://www.jansuraksha.gov.in.",
+  "follow_up_questions": [
+    "What documents for Pradhan Mantri Suraksha Bima Yojana?",
+    "How long for Pradhan Mantri Suraksha Bima Yojana?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmsby",
+    "status_svc-pmsby"
+  ],
+  "recommended_services": [
+    "SVC-JDY"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "suggested_responses": [
+    "Visit https://www.jansuraksha.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

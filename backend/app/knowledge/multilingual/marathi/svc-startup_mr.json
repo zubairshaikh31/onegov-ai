@@ -1,0 +1,27 @@
+{
+  "name": "स्टार्टअप इंडिया मान्यता",
+  "description": "DPIIT recognition of startups to avail tax benefits, easier compliance, IPR fast-track, and funding access.",
+  "benefits": "Tax exemption (80-IAC/Section 56), faster patents, self-certification, government tenders, Fund of Funds.",
+  "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation.",
+  "documents": [
+    "Incorporation certificate",
+    "PAN",
+    "Description of innovation",
+    "Director/Promoter details"
+  ],
+  "steps": [
+    "Incorporate the entity.",
+    "Register on startupindia.gov.in.",
+    "Apply for DPIIT recognition with details.",
+    "Self-certify and submit; get recognition number.",
+    "Avail benefits (tax/patent/tender)."
+  ],
+  "faqs": [],
+  "keywords": [
+    "startup india",
+    "dpiit",
+    "startup recognition",
+    "entrepreneur",
+    "tax exemption"
+  ]
+}

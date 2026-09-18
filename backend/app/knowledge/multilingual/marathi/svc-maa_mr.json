@@ -1,0 +1,19 @@
+{
+  "name": "Maa Bharti / e-Governance (Rajasthan)",
+  "description": "Rajasthan state portal and SSO for citizen services.",
+  "benefits": "Unified access to state services.",
+  "eligibility": "Rajasthan residents with SSO ID.",
+  "documents": [
+    "Aadhaar"
+  ],
+  "steps": [
+    "Create SSO ID.",
+    "Apply via service.",
+    "Track status."
+  ],
+  "faqs": [],
+  "keywords": [
+    "rajasthan sso",
+    "maa bharti"
+  ]
+}

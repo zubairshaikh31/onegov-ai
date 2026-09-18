@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-AYUSH",
+  "ai_summary": "AYUSH ministry promotes traditional Indian medicine.",
+  "ai_explanation": "Ministry of AYUSH for traditional medicine systems (Yoga, Ayurveda).",
+  "eligibility_summary": "Citizens seeking AYUSH care.",
+  "conversation_examples": [
+    {
+      "user": "I want AYUSH Centres / Ministries",
+      "bot": "AYUSH ministry promotes traditional Indian medicine. Apply: https://ayush.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with AYUSH Centres / Ministries. Use only https://ayush.gov.in.",
+  "follow_up_questions": [
+    "What documents for AYUSH Centres / Ministries?",
+    "How long for AYUSH Centres / Ministries?"
+  ],
+  "intent_examples": [
+    "apply_svc-ayush",
+    "status_svc-ayush"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "ID proof"
+  ],
+  "suggested_responses": [
+    "Visit https://ayush.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,34 @@
+{
+  "service_id": "SVC-NCS",
+  "ai_summary": "NCS is a free national job portal connecting job seekers with employers and counselling.",
+  "ai_explanation": "NCS offers a unified platform where job seekers register, build resumes, and apply to vacancies, while employers post jobs. It also provides career counselling and training information through Model Career Centres.",
+  "eligibility_summary": "Any job seeker (citizen) or employer in India.",
+  "conversation_examples": [
+    {
+      "user": "I want National Career Service (NCS)",
+      "bot": "NCS is a free national job portal connecting job seekers with employers and counselling. Apply: https://www.ncs.gov.in. Helpline: 1800-425-1514."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with National Career Service (NCS). Use only official info from https://ncs.gov.in.",
+  "follow_up_questions": [
+    "How do I post a job as an employer on NCS?",
+    "What career counselling does NCS offer?"
+  ],
+  "intent_examples": [
+    "apply_svc-ncs",
+    "status_svc-ncs",
+    "eligibility_svc-ncs"
+  ],
+  "recommended_services": [
+    "SVC-ESHRAM"
+  ],
+  "document_suggestions": [
+    "Mobile / email for registration",
+    "Aadhaar (optional for verification)"
+  ],
+  "suggested_responses": [
+    "Visit https://ncs.gov.in",
+    "Call 1800-425-1514"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,48 @@
+{
+  "service_id": "SVC-AYUSH",
+  "name": "AYUSH Centres / Ministries",
+  "category_id": "CAT-HEALTH",
+  "sub_category": "Traditional Medicine",
+  "department_id": "DEP-MoHFW",
+  "ministry_id": "MIN-HEA",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Ministry of AYUSH for traditional medicine systems (Yoga, Ayurveda).",
+  "eligibility": "Citizens seeking AYUSH care.",
+  "benefits": "Traditional healthcare services and info.",
+  "required_documents": [
+    "ID proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit AYUSH centre/portal.",
+    "Avail services."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://ayush.gov.in",
+  "official_apply_link": "https://ayush.gov.in",
+  "download_forms": "https://ayush.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://ayush.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "AYUSH ministry promotes traditional Indian medicine.",
+  "ai_explanation": "Ministry of AYUSH for traditional medicine systems (Yoga, Ayurveda).",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "ayush",
+    "yoga",
+    "ayurveda"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

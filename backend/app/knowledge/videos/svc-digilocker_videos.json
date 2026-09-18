@@ -1,0 +1,19 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "videos": [
+    {
+      "title": "DigiLocker - Official Information",
+      "youtube_url": "",
+      "channel": "Refer to official ministry/MeitY/NIC/PIB YouTube channel",
+      "channel_url": "",
+      "duration": "",
+      "language": "en",
+      "type": "official",
+      "department": "MIN-MEITY",
+      "thumbnail": "",
+      "description": "Search official MIN-MEITY YouTube channel for DigiLocker.",
+      "verified": false,
+      "source": "Official Government YouTube (lookup required)"
+    }
+  ]
+}

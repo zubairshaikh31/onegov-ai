@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0001",
+    "service_id": "SVC-AADHAAR",
+    "name": "Aadhaar Enrolment & Update",
+    "category_id": "CAT-IDENTITY",
+    "government_level": "Central",
+    "official_portal": "https://uidai.gov.in"
+  }
+]

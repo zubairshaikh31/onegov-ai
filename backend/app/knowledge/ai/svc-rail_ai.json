@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-RAIL",
+  "ai_summary": "IRCTC provides online railway ticketing.",
+  "ai_explanation": "Rail ticket booking, PNR, cancellations via IRCTC.",
+  "eligibility_summary": "All citizens.",
+  "conversation_examples": [
+    {
+      "user": "I want Indian Railways / IRCTC Services",
+      "bot": "IRCTC provides online railway ticketing. Apply: https://www.irctc.co.in. Helpline: 139."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Indian Railways / IRCTC Services. Use only https://www.irctc.co.in.",
+  "follow_up_questions": [
+    "What documents for Indian Railways / IRCTC Services?",
+    "How long for Indian Railways / IRCTC Services?"
+  ],
+  "intent_examples": [
+    "apply_svc-rail",
+    "status_svc-rail"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "ID proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.irctc.co.in",
+    "Call 139"
+  ],
+  "recommendation_weight": 1.0
+}

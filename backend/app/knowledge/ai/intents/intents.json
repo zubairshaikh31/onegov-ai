@@ -1,0 +1,855 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "intents": [
+      "apply_svc-aadhaar",
+      "status_svc-aadhaar",
+      "eligibility_svc-aadhaar"
+    ],
+    "utterances": [
+      "I want Aadhaar Enrolment & Update"
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "intents": [
+      "apply_svc-passport",
+      "status_svc-passport",
+      "eligibility_svc-passport"
+    ],
+    "utterances": [
+      "I want Passport Issuance (Passport Seva)"
+    ]
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "intents": [
+      "apply_svc-voter",
+      "status_svc-voter",
+      "eligibility_svc-voter"
+    ],
+    "utterances": [
+      "I want Voter ID / Electoral Roll Enrolment (Form 6)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "intents": [
+      "apply_svc-pmkisan",
+      "status_svc-pmkisan",
+      "eligibility_svc-pmkisan"
+    ],
+    "utterances": [
+      "I want PM-KISAN Samman Nidhi"
+    ]
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "intents": [
+      "apply_svc-enam",
+      "status_svc-enam",
+      "eligibility_svc-enam"
+    ],
+    "utterances": [
+      "I want eNAM (National Agriculture Market)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "intents": [
+      "apply_svc-pmjay",
+      "status_svc-pmjay",
+      "eligibility_svc-pmjay"
+    ],
+    "utterances": [
+      "I want Ayushman Bharat PM-JAY"
+    ]
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "intents": [
+      "apply_svc-abdm",
+      "status_svc-abdm",
+      "eligibility_svc-abdm"
+    ],
+    "utterances": [
+      "I want Ayushman Bharat Digital Mission (ABHA)"
+    ]
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "intents": [
+      "apply_svc-eshram",
+      "status_svc-eshram",
+      "eligibility_svc-eshram"
+    ],
+    "utterances": [
+      "I want e-Shram (National Database of Unorganised Workers)"
+    ]
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "intents": [
+      "apply_svc-epfo",
+      "status_svc-epfo",
+      "eligibility_svc-epfo"
+    ],
+    "utterances": [
+      "I want EPF / UAN Services (Employees' Provident Fund)"
+    ]
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "intents": [
+      "apply_svc-esic",
+      "status_svc-esic",
+      "eligibility_svc-esic"
+    ],
+    "utterances": [
+      "I want ESIC (Employees' State Insurance)"
+    ]
+  },
+  {
+    "service_id": "SVC-NCS",
+    "intents": [
+      "apply_svc-ncs",
+      "status_svc-ncs",
+      "eligibility_svc-ncs"
+    ],
+    "utterances": [
+      "I want National Career Service (NCS)"
+    ]
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "intents": [
+      "apply_svc-udyam",
+      "status_svc-udyam",
+      "eligibility_svc-udyam"
+    ],
+    "utterances": [
+      "I want Udyam Registration (MSME)"
+    ]
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "intents": [
+      "apply_svc-startup",
+      "status_svc-startup",
+      "eligibility_svc-startup"
+    ],
+    "utterances": [
+      "I want Startup India Recognition"
+    ]
+  },
+  {
+    "service_id": "SVC-GEM",
+    "intents": [
+      "apply_svc-gem",
+      "status_svc-gem",
+      "eligibility_svc-gem"
+    ],
+    "utterances": [
+      "I want GeM (Government e-Marketplace)"
+    ]
+  },
+  {
+    "service_id": "SVC-ITR",
+    "intents": [
+      "apply_svc-itr",
+      "status_svc-itr",
+      "eligibility_svc-itr"
+    ],
+    "utterances": [
+      "I want Income Tax e-Filing & Return (ITR)"
+    ]
+  },
+  {
+    "service_id": "SVC-GST",
+    "intents": [
+      "apply_svc-gst",
+      "status_svc-gst",
+      "eligibility_svc-gst"
+    ],
+    "utterances": [
+      "I want GST Registration & Returns"
+    ]
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "intents": [
+      "apply_svc-digilocker",
+      "status_svc-digilocker",
+      "eligibility_svc-digilocker"
+    ],
+    "utterances": [
+      "I want DigiLocker"
+    ]
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "intents": [
+      "apply_svc-umang",
+      "status_svc-umang",
+      "eligibility_svc-umang"
+    ],
+    "utterances": [
+      "I want UMANG (Unified Mobile App for New-age Governance)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "intents": [
+      "apply_svc-pmayu",
+      "status_svc-pmayu",
+      "eligibility_svc-pmayu"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Awas Yojana (Urban)"
+    ]
+  },
+  {
+    "service_id": "SVC-NSP",
+    "intents": [
+      "apply_svc-nsp",
+      "status_svc-nsp",
+      "eligibility_svc-nsp"
+    ],
+    "utterances": [
+      "I want National Scholarship Portal (NSP)"
+    ]
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "intents": [
+      "apply_svc-swayam",
+      "status_svc-swayam",
+      "eligibility_svc-swayam"
+    ],
+    "utterances": [
+      "I want SWAYAM (Free Online Courses)"
+    ]
+  },
+  {
+    "service_id": "SVC-ABC",
+    "intents": [
+      "apply_svc-abc",
+      "status_svc-abc",
+      "eligibility_svc-abc"
+    ],
+    "utterances": [
+      "I want Academic Bank of Credits (ABC)"
+    ]
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "intents": [
+      "apply_svc-parivahan",
+      "status_svc-parivahan",
+      "eligibility_svc-parivahan"
+    ],
+    "utterances": [
+      "I want Parivahan (Vahan & Sarathi)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "intents": [
+      "apply_svc-mah-aaple",
+      "status_svc-mah-aaple",
+      "eligibility_svc-mah-aaple"
+    ],
+    "utterances": [
+      "I want Aaple Sarkar / MahaOnline Citizen Services"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "intents": [
+      "apply_svc-mah-rev",
+      "status_svc-mah-rev",
+      "eligibility_svc-mah-rev"
+    ],
+    "utterances": [
+      "I want Mahabhulekh (7/12 & 8A Land Records)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "intents": [
+      "apply_svc-mah-food",
+      "status_svc-mah-food",
+      "eligibility_svc-mah-food"
+    ],
+    "utterances": [
+      "I want Maharashtra Ration Card / Food Supply (MahaFood)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "intents": [
+      "apply_svc-mah-dbt",
+      "status_svc-mah-dbt",
+      "eligibility_svc-mah-dbt"
+    ],
+    "utterances": [
+      "I want MahaDBT (Maharashtra Scholarship & DBT)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "intents": [
+      "apply_svc-mah-rto",
+      "status_svc-mah-rto",
+      "eligibility_svc-mah-rto"
+    ],
+    "utterances": [
+      "I want Maharashtra Transport (RTO) Services"
+    ]
+  },
+  {
+    "service_id": "SVC-DL",
+    "intents": [
+      "apply_svc-dl",
+      "status_svc-dl",
+      "eligibility_svc-dl"
+    ],
+    "utterances": [
+      "I want Driving Licence (Sarathi / Parivahan)"
+    ]
+  },
+  {
+    "service_id": "SVC-PAN",
+    "intents": [
+      "apply_svc-pan",
+      "status_svc-pan",
+      "eligibility_svc-pan"
+    ],
+    "utterances": [
+      "I want PAN Card (Permanent Account Number)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "intents": [
+      "apply_svc-mah-income",
+      "status_svc-mah-income",
+      "eligibility_svc-mah-income"
+    ],
+    "utterances": [
+      "I want Income Certificate (Maharashtra)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "intents": [
+      "apply_svc-mah-domicile",
+      "status_svc-mah-domicile",
+      "eligibility_svc-mah-domicile"
+    ],
+    "utterances": [
+      "I want Domicile / Residence Certificate (Maharashtra)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "intents": [
+      "apply_svc-mah-ladki",
+      "status_svc-mah-ladki",
+      "eligibility_svc-mah-ladki"
+    ],
+    "utterances": [
+      "I want Mukhyamantri Majhi Ladki Bahin Yojana"
+    ]
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "intents": [
+      "apply_svc-pmuy",
+      "status_svc-pmuy",
+      "eligibility_svc-pmuy"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Ujjwala Yojana (LPG)"
+    ]
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "intents": [
+      "apply_svc-ngdr",
+      "status_svc-ngdr",
+      "eligibility_svc-ngdr"
+    ],
+    "utterances": [
+      "I want NGDRBharat (Digitized Land Records)"
+    ]
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "intents": [
+      "apply_svc-indiapost",
+      "status_svc-indiapost",
+      "eligibility_svc-indiapost"
+    ],
+    "utterances": [
+      "I want India Post Services"
+    ]
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "intents": [
+      "apply_svc-appren",
+      "status_svc-appren",
+      "eligibility_svc-appren"
+    ],
+    "utterances": [
+      "I want National Apprenticeship (Apprenticeship India)"
+    ]
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "intents": [
+      "apply_svc-msde",
+      "status_svc-msde",
+      "eligibility_svc-msde"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
+    ]
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "intents": [
+      "apply_svc-nielit",
+      "status_svc-nielit",
+      "eligibility_svc-nielit"
+    ],
+    "utterances": [
+      "I want NIELIT Certification & Services"
+    ]
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "intents": [
+      "apply_svc-ayushman",
+      "status_svc-ayushman",
+      "eligibility_svc-ayushman"
+    ],
+    "utterances": [
+      "I want Ayushman Bharat Health & Wellness Centres"
+    ]
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "intents": [
+      "apply_svc-rakshabandhan",
+      "status_svc-rakshabandhan",
+      "eligibility_svc-rakshabandhan"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Suraksha Bima Yojana (PMSBY)"
+    ]
+  },
+  {
+    "service_id": "SVC-JDY",
+    "intents": [
+      "apply_svc-jdy",
+      "status_svc-jdy",
+      "eligibility_svc-jdy"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Jan Dhan Yojana (PMJDY)"
+    ]
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "intents": [
+      "apply_svc-sukanya",
+      "status_svc-sukanya",
+      "eligibility_svc-sukanya"
+    ],
+    "utterances": [
+      "I want Sukanya Samriddhi Yojana (SSY)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "intents": [
+      "apply_svc-mah-anna",
+      "status_svc-mah-anna",
+      "eligibility_svc-mah-anna"
+    ],
+    "utterances": [
+      "I want Maha Anna (Maharashtra Ration / NFSA)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "intents": [
+      "apply_svc-mah-cmrelief",
+      "status_svc-mah-cmrelief",
+      "eligibility_svc-mah-cmrelief"
+    ],
+    "utterances": [
+      "I want Maharashtra Chief Minister Relief Fund"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "intents": [
+      "apply_svc-mah-shetkari",
+      "status_svc-mah-shetkari",
+      "eligibility_svc-mah-shetkari"
+    ],
+    "utterances": [
+      "I want Maharashtra Farmer Welfare Schemes"
+    ]
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "intents": [
+      "apply_svc-dl-ration",
+      "status_svc-dl-ration",
+      "eligibility_svc-dl-ration"
+    ],
+    "utterances": [
+      "I want Delhi Ration Card / e-District"
+    ]
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "intents": [
+      "apply_svc-up-ration",
+      "status_svc-up-ration",
+      "eligibility_svc-up-ration"
+    ],
+    "utterances": [
+      "I want Uttar Pradesh e-District / Ration"
+    ]
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "intents": [
+      "apply_svc-gj-digital",
+      "status_svc-gj-digital",
+      "eligibility_svc-gj-digital"
+    ],
+    "utterances": [
+      "I want Digital Gujarat Portal"
+    ]
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "intents": [
+      "apply_svc-ka-edistrict",
+      "status_svc-ka-edistrict",
+      "eligibility_svc-ka-edistrict"
+    ],
+    "utterances": [
+      "I want Karnataka Seva Sindhu / e-District"
+    ]
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "intents": [
+      "apply_svc-tn-esevai",
+      "status_svc-tn-esevai",
+      "eligibility_svc-tn-esevai"
+    ],
+    "utterances": [
+      "I want Tamil Nadu e-Sevai / e-District"
+    ]
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "intents": [
+      "apply_svc-wb-duare",
+      "status_svc-wb-duare",
+      "eligibility_svc-wb-duare"
+    ],
+    "utterances": [
+      "I want West Bengal Duare Sarkar / e-District"
+    ]
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "intents": [
+      "apply_svc-raj-ecm",
+      "status_svc-raj-ecm",
+      "eligibility_svc-raj-ecm"
+    ],
+    "utterances": [
+      "I want Rajasthan e-Mitra / SSO"
+    ]
+  },
+  {
+    "service_id": "SVC-CSC",
+    "intents": [
+      "apply_svc-csc",
+      "status_svc-csc"
+    ],
+    "utterances": [
+      "I want Common Service Centres (CSC)"
+    ]
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "intents": [
+      "apply_svc-bhim",
+      "status_svc-bhim"
+    ],
+    "utterances": [
+      "I want BHIM / UPI (NPCI)"
+    ]
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "intents": [
+      "apply_svc-digiyatra",
+      "status_svc-digiyatra"
+    ],
+    "utterances": [
+      "I want DigiYatra (Airport Biometric)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAA",
+    "intents": [
+      "apply_svc-maa",
+      "status_svc-maa"
+    ],
+    "utterances": [
+      "I want Maa Bharti / e-Governance (Rajasthan)"
+    ]
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "intents": [
+      "apply_svc-ap-eseva",
+      "status_svc-ap-eseva"
+    ],
+    "utterances": [
+      "I want Andhra Pradesh e-Seva / MeeSeva"
+    ]
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "intents": [
+      "apply_svc-telangana-ts",
+      "status_svc-telangana-ts"
+    ],
+    "utterances": [
+      "I want Telangana TS-ePASS / MeeSeva"
+    ]
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "intents": [
+      "apply_svc-kerala-ek",
+      "status_svc-kerala-ek"
+    ],
+    "utterances": [
+      "I want Kerala e-District / KSWD"
+    ]
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "intents": [
+      "apply_svc-cowin",
+      "status_svc-cowin"
+    ],
+    "utterances": [
+      "I want CoWIN (Vaccination)"
+    ]
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "intents": [
+      "apply_svc-ayush",
+      "status_svc-ayush"
+    ],
+    "utterances": [
+      "I want AYUSH Centres / Ministries"
+    ]
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "intents": [
+      "apply_svc-icds",
+      "status_svc-icds"
+    ],
+    "utterances": [
+      "I want Anganwadi / ICDS Services"
+    ]
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "intents": [
+      "apply_svc-poshan",
+      "status_svc-poshan"
+    ],
+    "utterances": [
+      "I want POSHAN Abhiyaan"
+    ]
+  },
+  {
+    "service_id": "SVC-SBM",
+    "intents": [
+      "apply_svc-sbm",
+      "status_svc-sbm"
+    ],
+    "utterances": [
+      "I want Swachh Bharat Mission"
+    ]
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "intents": [
+      "apply_svc-amrut",
+      "status_svc-amrut"
+    ],
+    "utterances": [
+      "I want AMRUT (Urban Water/Sewerage)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "intents": [
+      "apply_svc-pmgsy",
+      "status_svc-pmgsy"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Gram Sadak Yojana"
+    ]
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "intents": [
+      "apply_svc-mgnrega",
+      "status_svc-mgnrega"
+    ],
+    "utterances": [
+      "I want MGNREGA (Rural Employment)"
+    ]
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "intents": [
+      "apply_svc-daynulm",
+      "status_svc-daynulm"
+    ],
+    "utterances": [
+      "I want DAY-NULM (Urban Livelihood)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "intents": [
+      "apply_svc-pmkvy4",
+      "status_svc-pmkvy4"
+    ],
+    "utterances": [
+      "I want PMKVY 4.0 (Skill India)"
+    ]
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "intents": [
+      "apply_svc-disha",
+      "status_svc-disha"
+    ],
+    "utterances": [
+      "I want DISHA / CSC 2.0"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "intents": [
+      "apply_svc-mah-jal",
+      "status_svc-mah-jal"
+    ],
+    "utterances": [
+      "I want Jal Jeevan Mission (Maharashtra)"
+    ]
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "intents": [
+      "apply_svc-mah-aarogya",
+      "status_svc-mah-aarogya"
+    ],
+    "utterances": [
+      "I want Mahatma Jyotiba Phule Jan Arogya Yojana (MH)"
+    ]
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "intents": [
+      "apply_svc-pmsby",
+      "status_svc-pmsby"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Suraksha Bima Yojana"
+    ]
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "intents": [
+      "apply_svc-pmsvm",
+      "status_svc-pmsvm"
+    ],
+    "utterances": [
+      "I want Pradhan Mantri Jeevan Jyoti Bima Yojana"
+    ]
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "intents": [
+      "apply_svc-atal",
+      "status_svc-atal"
+    ],
+    "utterances": [
+      "I want Atal Pension Yojana"
+    ]
+  },
+  {
+    "service_id": "SVC-NPS",
+    "intents": [
+      "apply_svc-nps",
+      "status_svc-nps"
+    ],
+    "utterances": [
+      "I want National Pension System"
+    ]
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "intents": [
+      "apply_svc-rail",
+      "status_svc-rail"
+    ],
+    "utterances": [
+      "I want Indian Railways / IRCTC Services"
+    ]
+  },
+  {
+    "service_id": "SVC-AAI",
+    "intents": [
+      "apply_svc-aai",
+      "status_svc-aai"
+    ],
+    "utterances": [
+      "I want Airport Authority / DigiYatra"
+    ]
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "intents": [
+      "apply_svc-passport-seva",
+      "status_svc-passport-seva"
+    ],
+    "utterances": [
+      "I want Passport Seva (Re-enrich)"
+    ]
+  }
+]

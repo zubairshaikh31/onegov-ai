@@ -1,0 +1,29 @@
+{
+  "name": "आयकर रिटर्न दाखिल",
+  "description": "Online filing of Income Tax Returns, PAN services, and tax payments by the Income Tax Department.",
+  "benefits": "Legal compliance, refund claims, proof of income, easier loans/visa.",
+  "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+  "documents": [
+    "PAN",
+    "Aadhaar (linked)",
+    "Form 16 / 16A",
+    "Bank statements",
+    "Investment proofs"
+  ],
+  "steps": [
+    "Register/login on incometax.gov.in.",
+    "Choose correct ITR form.",
+    "Pre-fill and enter income/deductions.",
+    "Validate, pay tax (if any), submit.",
+    "Verify via Aadhaar OTP / EVC / send ITR-V."
+  ],
+  "faqs": [],
+  "keywords": [
+    "income tax",
+    "itr",
+    "efiling",
+    "tax return",
+    "pan",
+    "cbdt"
+  ]
+}

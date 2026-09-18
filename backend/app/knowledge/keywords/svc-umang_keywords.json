@@ -1,0 +1,29 @@
+{
+  "service_id": "SVC-UMANG",
+  "keywords": [
+    "umang",
+    "mobile governance",
+    "government app",
+    "services aggregator"
+  ],
+  "search_keywords": [
+    "umang app download",
+    "umang services list",
+    "umang epfo claim"
+  ],
+  "aliases": [
+    "umang",
+    "mobile governance",
+    "government app",
+    "services aggregator"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want UMANG (Unified Mobile App for New-age Governance)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply UMANG (Unified Mobile App for New-age Governance)"
+  ]
+}

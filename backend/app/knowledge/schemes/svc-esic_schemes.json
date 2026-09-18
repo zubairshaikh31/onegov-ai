@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0010",
+    "service_id": "SVC-ESIC",
+    "name": "ESIC (Employees' State Insurance)",
+    "category_id": "CAT-LABOUR",
+    "government_level": "Central",
+    "official_portal": "https://www.esic.gov.in"
+  }
+]

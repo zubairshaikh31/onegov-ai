@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Create ABC ID via abc.gov.in / institutional link."
+  },
+  {
+    "step": 2,
+    "description": "HEI deposits earned credits."
+  },
+  {
+    "step": 3,
+    "description": "View and manage credit stack."
+  },
+  {
+    "step": 4,
+    "description": "Transfer/redeem per framework."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-PMJAY",
+  "keywords": [
+    "pmjay",
+    "ayushman bharat",
+    "health insurance",
+    "cashless treatment",
+    "nha"
+  ],
+  "search_keywords": [
+    "pmjay eligibility check",
+    "ayushman card download",
+    "pmjay hospital list",
+    "ayushman bharat benefits"
+  ],
+  "aliases": [
+    "pmjay",
+    "ayushman bharat",
+    "health insurance",
+    "cashless treatment",
+    "nha"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Ayushman Bharat PM-JAY",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Ayushman Bharat PM-JAY"
+  ]
+}

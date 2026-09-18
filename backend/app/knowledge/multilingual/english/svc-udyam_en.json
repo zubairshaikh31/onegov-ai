@@ -1,0 +1,38 @@
+{
+  "name": "Udyam Registration (MSME)",
+  "description": "Online registration of Micro, Small and Medium Enterprises to obtain a Udyam certificate and access schemes/incentives.",
+  "eligibility": "Enterprises meeting MSME investment/turnover thresholds (manufacturing/services).",
+  "benefits": "Priority credit, subsidies, tender preferences, easier compliance, scheme eligibility.",
+  "application_steps": [
+    "Visit udyamregistration.gov.in; Aadhaar-validate.",
+    "Enter PAN and business details.",
+    "Fill investment/turnover and activity.",
+    "Submit; download Udyam certificate instantly."
+  ],
+  "faqs": [
+    "Is Aadhaar mandatory for Udyam?",
+    "Is there a fee?",
+    "How do I register my MSME on Udyam?",
+    "Is Udyam free?",
+    "What documents are needed for Udyam?"
+  ],
+  "keywords": [
+    "udyam",
+    "msme",
+    "udyog aadhaar",
+    "business registration",
+    "enterprise"
+  ],
+  "documents": [
+    "Aadhaar of proprietor/partner/director",
+    "PAN & GSTIN (if applicable)",
+    "Business bank account",
+    "Investment/turnover details"
+  ],
+  "steps": [
+    "Visit udyamregistration.gov.in; Aadhaar-validate.",
+    "Enter PAN and business details.",
+    "Fill investment/turnover and activity.",
+    "Submit; download Udyam certificate instantly."
+  ]
+}

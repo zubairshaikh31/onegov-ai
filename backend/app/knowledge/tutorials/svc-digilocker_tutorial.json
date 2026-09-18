@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-DIGILOCKER",
+  "guide_md": "tutorials/md/svc-digilocker_guide.md",
+  "guide_html": "tutorials/html/svc-digilocker_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-digilocker_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://www.digilocker.gov.in"
+  ]
+}

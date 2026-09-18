@@ -1,0 +1,79 @@
+{
+  "service_id": "SVC-NCS",
+  "name": "National Career Service (NCS)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Employment Exchange",
+  "department_id": "DEP-LAB",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Online platform for job seekers and employers with job matching, career counselling, and training listings.",
+  "eligibility": "Any job seeker (citizen) or employer in India.",
+  "benefits": "Free job search, resume builder, career counselling, vacancy posting.",
+  "required_documents": [
+    "Mobile / email for registration",
+    "Aadhaar (optional for verification)"
+  ],
+  "optional_documents": [
+    "Resume",
+    "Skill certificates"
+  ],
+  "application_mode": "Online (ncs.gov.in) and career centres",
+  "application_steps": [
+    "Register as Job Seeker on ncs.gov.in.",
+    "Build profile / resume.",
+    "Search and apply to vacancies.",
+    "Attend counselling / interviews scheduled."
+  ],
+  "processing_time": "Instant registration; application response per employer.",
+  "fees": "Free.",
+  "validity": "Profile active; keep updated.",
+  "official_portal": "https://ncs.gov.in",
+  "official_apply_link": "https://www.ncs.gov.in",
+  "download_forms": "https://ncs.gov.in",
+  "helpline_number": "1800-425-1514",
+  "email": "contactncs@gov.in",
+  "office_locator_info": "Model Career Centres and local employment exchanges.",
+  "faq": [
+    {
+      "q": "Is NCS free?",
+      "a": "Yes, registration and job search are free for all."
+    }
+  ],
+  "related_services": [
+    "SVC-ESHRAM"
+  ],
+  "keywords": [
+    "ncs",
+    "national career service",
+    "job search",
+    "employment",
+    "career"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://ncs.gov.in",
+  "ai_summary": "NCS is a free national job portal connecting job seekers with employers and counselling.",
+  "ai_explanation": "NCS offers a unified platform where job seekers register, build resumes, and apply to vacancies, while employers post jobs. It also provides career counselling and training information through Model Career Centres.",
+  "common_questions": [
+    "How do I register on NCS?",
+    "How do I find jobs on NCS?",
+    "Is NCS free?"
+  ],
+  "common_mistakes": [
+    "Treating it as the only job source",
+    "Incomplete profile lowering matches"
+  ],
+  "search_keywords": [
+    "ncs registration",
+    "government jobs ncs",
+    "free job portal india"
+  ],
+  "suggested_followups": [
+    "How do I post a job as an employer on NCS?",
+    "What career counselling does NCS offer?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

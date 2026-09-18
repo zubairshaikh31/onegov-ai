@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Register as buyer or seller on gem.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Complete organization and bank/KYC."
+  },
+  {
+    "step": 3,
+    "description": "List products/services (sellers) or create demand (buyers)."
+  },
+  {
+    "step": 4,
+    "description": "Transact via bid/RA; order and fulfil."
+  }
+]

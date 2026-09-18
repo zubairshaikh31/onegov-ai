@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What is 7/12 (Satbara)?",
+    "answer": "It is the land record showing ownership, area, crop, and tenure of a plot in Maharashtra.",
+    "official": true
+  },
+  {
+    "question": "How do I get 7/12 online in Maharashtra?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is Satbara?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I check land mutation status?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Where do I get a certified 7/12?",
+    "answer": "(See official portal https://mahabhulekh.maharashtra.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://mahabhulekh.maharashtra.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 022-25250900 (Bhulekh support) / email mah bhulekh support via portal",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free view; nominal fee for certified copies.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Instant view; certified copy per taluka office process.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (mahabhulekh.maharashtra.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 022-25250900 (Bhulekh support). Email: mah bhulekh support via portal.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Free view; nominal fee for certified copies.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "How long does this service take to process?",
+    "answer": "Instant view; certified copy per taluka office process.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

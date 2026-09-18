@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on the Ladki Bahin portal or Narishakti Doot app."
+  },
+  {
+    "step": 2,
+    "description": "Enter Aadhaar and personal details."
+  },
+  {
+    "step": 3,
+    "description": "Upload eligibility documents."
+  },
+  {
+    "step": 4,
+    "description": "Submit and note the application number."
+  },
+  {
+    "step": 5,
+    "description": "Track approval and DBT credit status."
+  }
+]

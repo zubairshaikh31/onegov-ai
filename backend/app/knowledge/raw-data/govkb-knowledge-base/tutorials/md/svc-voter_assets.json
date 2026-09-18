@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-voter_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-voter_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-voter_guide.pdf"
+  }
+]

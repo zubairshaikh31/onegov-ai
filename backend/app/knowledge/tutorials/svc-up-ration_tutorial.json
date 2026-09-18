@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-UP-RATION",
+  "guide_md": "tutorials/md/svc-up-ration_guide.md",
+  "guide_html": "tutorials/html/svc-up-ration_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-up-ration_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://edistrict.up.gov.in"
+  ]
+}

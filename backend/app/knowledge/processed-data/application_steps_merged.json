@@ -1,0 +1,767 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "step_order": 1,
+    "description": "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "step_order": 2,
+    "description": "Fill enrolment/update form and submit supporting documents."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "step_order": 3,
+    "description": "Provide biometric (fingerprints, iris) and photograph."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "step_order": 4,
+    "description": "Collect acknowledgement slip with Enrolment ID (EID)."
+  },
+  {
+    "service_id": "SVC-AADHAAR",
+    "step_order": 5,
+    "description": "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "step_order": 1,
+    "description": "Register on passportindia.gov.in and fill the application form."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "step_order": 2,
+    "description": "Pay fee and book appointment at nearest PSK/PopSK."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "step_order": 3,
+    "description": "Visit PSK with originals + photocopies for document verification and biometric capture."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "step_order": 4,
+    "description": "Police verification (for fresh passports) at registered address."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "step_order": 5,
+    "description": "Passport printed and dispatched; track status online."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "step_order": 1,
+    "description": "Visit nvsp.in or voterportal.eci.gov.in and register/login."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "step_order": 2,
+    "description": "Fill Form 6 (new enrolment) with details and upload documents."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "step_order": 3,
+    "description": "Submit and note reference number."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "step_order": 4,
+    "description": "BLO verifies at residence; name added to draft roll."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "step_order": 5,
+    "description": "Download e-EPIC once approved."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "step_order": 1,
+    "description": "Visit pmkisan.gov.in -> 'New Farmer Registration'."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "step_order": 2,
+    "description": "Enter Aadhaar and land/account details."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "step_order": 3,
+    "description": "Verify and submit; note registration number."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "step_order": 4,
+    "description": "District/State validates land records."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "step_order": 5,
+    "description": "Instalments credited to bank account; check status online."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "step_order": 1,
+    "description": "Register on enam.gov.in as farmer/trader."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "step_order": 2,
+    "description": "Link APMC mandi and bank account."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "step_order": 3,
+    "description": "List produce with quality/grade."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "step_order": 4,
+    "description": "Participate in e-auction; buyer bids."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "step_order": 5,
+    "description": "Payment settled to farmer account post-trade."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "step_order": 1,
+    "description": "Check eligibility via pmjay.gov.in 'Am I Eligible'."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "step_order": 2,
+    "description": "Visit Ayushman Bharat / CSC kendra with ID."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "step_order": 3,
+    "description": "Create Ayushman card / e-card."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "step_order": 4,
+    "description": "Visit empanelled hospital; show card at helpdesk."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "step_order": 5,
+    "description": "Cashless admission and treatment; claim settled directly."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "step_order": 1,
+    "description": "Visit abdm.gov.in or ABHA app."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "step_order": 2,
+    "description": "Authenticate with Aadhaar OTP or other ID."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "step_order": 3,
+    "description": "Create 14-digit ABHA number / Health ID."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "step_order": 4,
+    "description": "Link PHR address and records from providers."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "step_order": 5,
+    "description": "Manage consent for record sharing."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "step_order": 1,
+    "description": "Visit eshram.gov.in; self-register with Aadhaar OTP."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "step_order": 2,
+    "description": "Fill personal, occupation, and bank details."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "step_order": 3,
+    "description": "Submit; download e-Shram card (UAN)."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "step_order": 4,
+    "description": "Update details as needed."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "step_order": 1,
+    "description": "Activate UAN on EPFO member portal / UMANG."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "step_order": 2,
+    "description": "Seed Aadhaar, bank, PAN via KYC."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "step_order": 3,
+    "description": "Raise claim (Form 19/10C/31) online."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "step_order": 4,
+    "description": "Track claim status; amount credited to bank."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "step_order": 1,
+    "description": "Employer registers establishment and enrols employees (Form 1)."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "step_order": 2,
+    "description": "Employee gets Insurance/Pehchan card."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "step_order": 3,
+    "description": "Avail treatment at ESIC dispensary/hospital with card."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "step_order": 4,
+    "description": "File claims (sickness/maternity) online if applicable."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "step_order": 1,
+    "description": "Register as Job Seeker on ncs.gov.in."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "step_order": 2,
+    "description": "Build profile / resume."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "step_order": 3,
+    "description": "Search and apply to vacancies."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "step_order": 4,
+    "description": "Attend counselling / interviews scheduled."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "step_order": 1,
+    "description": "Visit udyamregistration.gov.in; Aadhaar-validate."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "step_order": 2,
+    "description": "Enter PAN and business details."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "step_order": 3,
+    "description": "Fill investment/turnover and activity."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "step_order": 4,
+    "description": "Submit; download Udyam certificate instantly."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "step_order": 1,
+    "description": "Incorporate the entity."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "step_order": 2,
+    "description": "Register on startupindia.gov.in."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "step_order": 3,
+    "description": "Apply for DPIIT recognition with details."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "step_order": 4,
+    "description": "Self-certify and submit; get recognition number."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "step_order": 5,
+    "description": "Avail benefits (tax/patent/tender)."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "step_order": 1,
+    "description": "Register as buyer or seller on gem.gov.in."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "step_order": 2,
+    "description": "Complete organization and bank/KYC."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "step_order": 3,
+    "description": "List products/services (sellers) or create demand (buyers)."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "step_order": 4,
+    "description": "Transact via bid/RA; order and fulfil."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "step_order": 1,
+    "description": "Register/login on incometax.gov.in."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "step_order": 2,
+    "description": "Choose correct ITR form."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "step_order": 3,
+    "description": "Pre-fill and enter income/deductions."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "step_order": 4,
+    "description": "Validate, pay tax (if any), submit."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "step_order": 5,
+    "description": "Verify via Aadhaar OTP / EVC / send ITR-V."
+  },
+  {
+    "service_id": "SVC-GST",
+    "step_order": 1,
+    "description": "Apply Part-A (Form GST REG-01) on gst.gov.in."
+  },
+  {
+    "service_id": "SVC-GST",
+    "step_order": 2,
+    "description": "Get ARN; complete Part-B with documents."
+  },
+  {
+    "service_id": "SVC-GST",
+    "step_order": 3,
+    "description": "Aadhaar authentication / verification."
+  },
+  {
+    "service_id": "SVC-GST",
+    "step_order": 4,
+    "description": "GSTIN allotted on approval."
+  },
+  {
+    "service_id": "SVC-GST",
+    "step_order": 5,
+    "description": "File returns (GSTR-1/3B) periodically."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "step_order": 1,
+    "description": "Sign up at digilocker.gov.in with Aadhaar OTP."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "step_order": 2,
+    "description": "Link mobile; set username/password."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "step_order": 3,
+    "description": "Fetch issued documents from registered issuers."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "step_order": 4,
+    "description": "Upload personal documents; share via URI/QR."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "step_order": 1,
+    "description": "Download UMANG app / visit web.umang.gov.in."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "step_order": 2,
+    "description": "Register with mobile OTP."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "step_order": 3,
+    "description": "Browse departments and services."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "step_order": 4,
+    "description": "Authenticate per service and transact."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "step_order": 1,
+    "description": "Visit pmaymis.gov.in; check eligibility."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "step_order": 2,
+    "description": "Apply under beneficiary-led / CLSS component."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "step_order": 3,
+    "description": "Enter Aadhaar, income, bank, property details."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "step_order": 4,
+    "description": "Verification by ULB/state."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "step_order": 5,
+    "description": "Subsidy/assistance as per component."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "step_order": 1,
+    "description": "Register on scholarships.gov.in as student."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "step_order": 2,
+    "description": "Find eligible schemes; fill application."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "step_order": 3,
+    "description": "Upload documents; submit."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "step_order": 4,
+    "description": "Institute and nodal verification."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "step_order": 5,
+    "description": "Sanction and DBT to bank."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "step_order": 1,
+    "description": "Sign up on swayam.gov.in."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "step_order": 2,
+    "description": "Browse and enrol in courses."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "step_order": 3,
+    "description": "Attend video lectures, assignments."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "step_order": 4,
+    "description": "Take proctored exam (optional, paid) for certificate."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "step_order": 1,
+    "description": "Create ABC ID via abc.gov.in / institutional link."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "step_order": 2,
+    "description": "HEI deposits earned credits."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "step_order": 3,
+    "description": "View and manage credit stack."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "step_order": 4,
+    "description": "Transfer/redeem per framework."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "step_order": 1,
+    "description": "Visit parivahan.gov.in -> Vahan/Sarathi."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "step_order": 2,
+    "description": "Apply for RC/DL/LL with details and documents."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "step_order": 3,
+    "description": "Pay fees and book RTO slot."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "step_order": 4,
+    "description": "Visit RTO for test/verification."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "step_order": 5,
+    "description": "Receive RC/DL (digital via DigiLocker)."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "step_order": 1,
+    "description": "Register on Aaple Sarkar portal."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "step_order": 2,
+    "description": "Select department/service (certificate/scheme)."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "step_order": 3,
+    "description": "Fill form and upload documents."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "step_order": 4,
+    "description": "Submit; track application."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "step_order": 5,
+    "description": "Collect certificate (online download / SETU centre)."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "step_order": 1,
+    "description": "Visit mahabhulekh.maharashtra.gov.in."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "step_order": 2,
+    "description": "Select district and 7/12 (Satbara) or 8A."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "step_order": 3,
+    "description": "Enter village/survey/Gat number."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "step_order": 4,
+    "description": "View and download extract (print)."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "step_order": 1,
+    "description": "Apply via Maharashtra food supply portal / CSC."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "step_order": 2,
+    "description": "Submit family and Aadhaar details."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "step_order": 3,
+    "description": "Verification by rationing authority."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "step_order": 4,
+    "description": "Ration card issued; avail PDS."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "step_order": 1,
+    "description": "Register on MahaDBT portal."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "step_order": 2,
+    "description": "Complete profile with Aadhaar/bank/certificates."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "step_order": 3,
+    "description": "Select eligible schemes; apply."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "step_order": 4,
+    "description": "Institute/DC verification."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "step_order": 5,
+    "description": "DBT to bank account."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "step_order": 1,
+    "description": "Use Parivahan/Sarathi or state portal."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "step_order": 2,
+    "description": "Apply for DL/RC/permit; pay fees."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "step_order": 3,
+    "description": "Book RTO slot; visit for test."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "step_order": 4,
+    "description": "Receive documents (digital via DigiLocker)."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 1,
+    "description": "Visit Sarathi Parivahan and select your state."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 2,
+    "description": "Apply for Learner's Licence and pay fees."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 3,
+    "description": "Take the online learner's test."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 4,
+    "description": "After the mandatory period, apply for the driving licence."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 5,
+    "description": "Book and pass the driving test at the RTO."
+  },
+  {
+    "service_id": "SVC-DL",
+    "step_order": 6,
+    "description": "Receive the DL by post / download."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "step_order": 1,
+    "description": "Visit the Income Tax e-filing portal."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "step_order": 2,
+    "description": "Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "step_order": 3,
+    "description": "Enter Aadhaar number and validate OTP."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "step_order": 4,
+    "description": "Confirm details and submit."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "step_order": 5,
+    "description": "Download e-PAN in PDF format."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "step_order": 1,
+    "description": "Register/login on Aaple Sarkar (RTS) portal."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "step_order": 2,
+    "description": "Select Revenue Department > Income Certificate."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "step_order": 3,
+    "description": "Fill applicant details and upload documents."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "step_order": 4,
+    "description": "Pay the fee online."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "step_order": 5,
+    "description": "Track application; download the digitally signed certificate."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "step_order": 1,
+    "description": "Login to Aaple Sarkar portal."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "step_order": 2,
+    "description": "Select Revenue Department > Age Nationality and Domicile Certificate."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "step_order": 3,
+    "description": "Fill the form and upload documents."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "step_order": 4,
+    "description": "Pay fees and submit."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "step_order": 5,
+    "description": "Download the digitally signed certificate."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "step_order": 1,
+    "description": "Register on the Ladki Bahin portal or Narishakti Doot app."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "step_order": 2,
+    "description": "Enter Aadhaar and personal details."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "step_order": 3,
+    "description": "Upload eligibility documents."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "step_order": 4,
+    "description": "Submit and note the application number."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "step_order": 5,
+    "description": "Track approval and DBT credit status."
+  }
+]

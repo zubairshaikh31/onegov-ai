@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-TN-ESEVAI",
+  "ai_summary": "Tamil Nadu e-Sevai provides certificates and citizen services through centres and portal.",
+  "ai_explanation": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services.",
+  "eligibility_summary": "Tamil Nadu residents per service criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Tamil Nadu e-Sevai / e-District",
+      "bot": "Tamil Nadu e-Sevai provides certificates and citizen services through centres and portal. Apply: https://eservices.tn.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Tamil Nadu e-Sevai / e-District. Use only official info from https://eservices.tn.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-tn-esevai",
+    "status_svc-tn-esevai",
+    "eligibility_svc-tn-esevai"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "suggested_responses": [
+    "Visit https://eservices.tn.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

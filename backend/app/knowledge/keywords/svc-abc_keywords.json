@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-ABC",
+  "keywords": [
+    "abc",
+    "academic bank of credits",
+    "ugc",
+    "credit transfer",
+    "higher education"
+  ],
+  "search_keywords": [
+    "abc id create",
+    "academic bank of credits login",
+    "credit transfer india"
+  ],
+  "aliases": [
+    "abc",
+    "academic bank of credits",
+    "ugc",
+    "credit transfer",
+    "higher education"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Academic Bank of Credits (ABC)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Academic Bank of Credits (ABC)"
+  ]
+}

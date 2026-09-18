@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-PMAYU",
+  "ai_summary": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house.",
+  "ai_explanation": "PMAY-U aims 'Housing for All' in urban areas via Credit Linked Subsidy (CLSS) and direct construction support. Eligible households without a pucca house apply online or via ULBs; subsidy is credited to the loan account.",
+  "common_questions": [
+    "Am I eligible for PMAY?",
+    "How do I apply for PMAY subsidy?",
+    "What is CLSS?",
+    "What are PMAY income limits?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "Am I eligible for PMAY?",
+      "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+    },
+    {
+      "user": "How do I apply for PMAY subsidy?",
+      "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+    },
+    {
+      "user": "What is CLSS?",
+      "bot": "For Pradhan Mantri Awas Yojana (Urban), PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. You can apply at https://pmaymis.gov.in/."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-pmayu",
+    "status_svc-pmayu",
+    "eligibility_svc-pmayu"
+  ],
+  "user_utterances": [
+    "I want Pradhan Mantri Awas Yojana (Urban)",
+    "Need Pradhan Mantri Awas Yojana (Urban)",
+    "Pradhan Mantri Awas Yojana (Urban) help"
+  ],
+  "follow_up_questions": [
+    "What are the PMAY-U income limits?",
+    "How is the CLSS subsidy calculated?"
+  ],
+  "recommended_responses": [
+    "Visit https://pmaymis.gov.in",
+    "Call helpline 1800-11-6446 / 011-23063285"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://pmaymis.gov.in/"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-11-6446 / 011-23063285"
+    }
+  ]
+}

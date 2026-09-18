@@ -1,0 +1,1223 @@
+[
+  {
+    "service_id": "CEN-TRN-DL-009",
+    "name": "Driving Licence (Sarathi / Parivahan)",
+    "category": "Transport",
+    "sub_category": "Licensing",
+    "department": "Ministry of Road Transport and Highways",
+    "ministry": "Ministry of Road Transport and Highways",
+    "gov_level": "central",
+    "description": "Application for learner's licence, driving licence, and renewals through the Parivahan Sarathi portal.",
+    "eligibility": "Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test.",
+    "benefits": "Legal authorisation to drive; valid identity/address proof.",
+    "application_mode": "both",
+    "processing_time": "Learner's licence same day (online test); DL after driving test, ~7-30 days.",
+    "fees": "Learner's ~Rs.150; DL ~Rs.200+ (varies by state RTO).",
+    "validity": "20 years or until age 40 (whichever earlier), then renewable.",
+    "official_portal": "https://parivahan.gov.in",
+    "official_apply_link": "https://sarathi.parivahan.gov.in",
+    "helpline_number": "0120-2459169",
+    "email": "helpdesk-sarathi@gov.in",
+    "office_locator": "Regional Transport Office (RTO) locator on Parivahan.",
+    "languages_available": [
+      "en",
+      "hi",
+      "regional"
+    ],
+    "keywords": [
+      "driving licence",
+      "sarathi",
+      "parivahan",
+      "rto",
+      "learner licence"
+    ],
+    "documents_required": [
+      "Proof of Age",
+      "Proof of Address",
+      "Passport photos"
+    ],
+    "documents_optional": [
+      "Medical certificate (Form 1A for certain categories)"
+    ],
+    "application_steps": [
+      "Visit Sarathi Parivahan and select your state.",
+      "Apply for Learner's Licence and pay fees.",
+      "Take the online learner's test.",
+      "After the mandatory period, apply for the driving licence.",
+      "Book and pass the driving test at the RTO.",
+      "Receive the DL by post / download."
+    ],
+    "source_url": "https://parivahan.gov.in/parivahan/",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "0b7f1cad46e25d2407b6ddd933f0e620f4952c985ace22e35c78955464fd4848",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Driving Licence (Sarathi / Parivahan)?",
+      "What documents are required for Driving Licence (Sarathi / Parivahan)?",
+      "What is the fee for Driving Licence (Sarathi / Parivahan)?",
+      "Who is eligible for Driving Licence (Sarathi / Parivahan)?",
+      "How long does Driving Licence (Sarathi / Parivahan) take to process?",
+      "What is the official website for Driving Licence (Sarathi / Parivahan)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Driving Licence (Sarathi / Parivahan) is a central government service under Ministry of Road Transport and Highways in the Transport category, available both.",
+    "ai_explanation": "Driving Licence (Sarathi / Parivahan) is Application for learner's licence, driving licence, and renewals through the Parivahan Sarathi portal. Eligibility: Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test.. Benefits: Legal authorisation to drive; valid identity/address proof.. You can apply both via https://parivahan.gov.in. Processing time is typically Learner's licence same day (online test); DL after driving test, ~7-30 days. and fees are Learner's ~Rs.150; DL ~Rs.200+ (varies by state RTO)..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Driving Licence (Sarathi / Parivahan)?",
+      "Can I track my Driving Licence (Sarathi / Parivahan) application status online?",
+      "What should I do if my Driving Licence (Sarathi / Parivahan) application is rejected?",
+      "Are there any state-specific rules for Driving Licence (Sarathi / Parivahan) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "driving",
+      "driving licence",
+      "learner licence",
+      "licence",
+      "parivahan",
+      "rto",
+      "sarathi",
+      "transport"
+    ]
+  },
+  {
+    "service_id": "CEN-DIG-DIGILOCKER-010",
+    "name": "DigiLocker",
+    "category": "Digital Services",
+    "sub_category": "Document Wallet",
+    "department": "National e-Governance Division",
+    "ministry": "Ministry of Electronics and Information Technology",
+    "gov_level": "central",
+    "description": "Cloud-based platform for issuance and verification of documents and certificates in digital format.",
+    "eligibility": "Any Indian citizen with an Aadhaar-linked mobile number.",
+    "benefits": "Access to authentic digital documents (DL, RC, marksheets, PAN) legally at par with originals.",
+    "application_mode": "online",
+    "processing_time": "Instant account creation.",
+    "fees": "Free.",
+    "validity": "Ongoing.",
+    "official_portal": "https://digilocker.gov.in",
+    "official_apply_link": "https://www.digilocker.gov.in/dashboard",
+    "helpline_number": "",
+    "email": "support@digilocker.gov.in",
+    "office_locator": "Online only.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "digilocker",
+      "digital documents",
+      "e-documents",
+      "certificate",
+      "wallet"
+    ],
+    "documents_required": [
+      "Aadhaar-linked mobile number"
+    ],
+    "documents_optional": [],
+    "application_steps": [
+      "Visit DigiLocker web/app and sign up.",
+      "Enter Aadhaar-linked mobile and verify OTP.",
+      "Set a security PIN and link Aadhaar.",
+      "Fetch issued documents from partner departments."
+    ],
+    "source_url": "https://digilocker.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "9907774c2e184601aa804627b67c87dd381148196dcbdcbe24ed32a488b1cc03",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for DigiLocker?",
+      "What documents are required for DigiLocker?",
+      "What is the fee for DigiLocker?",
+      "Who is eligible for DigiLocker?",
+      "How long does DigiLocker take to process?",
+      "What is the official website for DigiLocker?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "DigiLocker is a central government service under National e-Governance Division in the Digital Services category, available online.",
+    "ai_explanation": "DigiLocker is Cloud-based platform for issuance and verification of documents and certificates in digital format. Eligibility: Any Indian citizen with an Aadhaar-linked mobile number.. Benefits: Access to authentic digital documents (DL, RC, marksheets, PAN) legally at par with originals.. You can apply online via https://digilocker.gov.in. Processing time is typically Instant account creation. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for DigiLocker?",
+      "Can I track my DigiLocker application status online?",
+      "What should I do if my DigiLocker application is rejected?",
+      "Are there any state-specific rules for DigiLocker in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "certificate",
+      "digilocker",
+      "digital",
+      "digital documents",
+      "e-documents",
+      "services",
+      "wallet"
+    ]
+  },
+  {
+    "service_id": "CEN-EDU-SCHOLARSHIP-011",
+    "name": "National Scholarship Portal (NSP)",
+    "category": "Education",
+    "sub_category": "Scholarships",
+    "department": "Department of Higher Education",
+    "ministry": "Ministry of Education",
+    "gov_level": "central",
+    "description": "Single-window platform for students to apply for various central and state government scholarships.",
+    "eligibility": "Students meeting scheme-specific income, category and academic criteria.",
+    "benefits": "Financial assistance for tuition, maintenance and other academic expenses via DBT.",
+    "application_mode": "online",
+    "processing_time": "Scheme-dependent; verified by institution and department.",
+    "fees": "Free.",
+    "validity": "Per academic year; renewable.",
+    "official_portal": "https://scholarships.gov.in",
+    "official_apply_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction",
+    "helpline_number": "0120-6619540",
+    "email": "helpdesk@nsp.gov.in",
+    "office_locator": "Through educational institutions.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "scholarship",
+      "nsp",
+      "student",
+      "education",
+      "financial aid"
+    ],
+    "documents_required": [
+      "Aadhaar",
+      "Income certificate",
+      "Caste certificate (if applicable)",
+      "Bank details",
+      "Marksheets"
+    ],
+    "documents_optional": [
+      "Domicile certificate",
+      "Disability certificate"
+    ],
+    "application_steps": [
+      "Register on the National Scholarship Portal.",
+      "Complete OTR (One Time Registration) with Aadhaar/eKYC.",
+      "Login and select applicable scholarship scheme.",
+      "Fill the form and upload documents.",
+      "Submit for institution and department verification."
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "54c7c9ae6c67ce54409c11f7f2f235b95deea7222e2b32b4a57de40df9ae42be",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for National Scholarship Portal (NSP)?",
+      "What documents are required for National Scholarship Portal (NSP)?",
+      "What is the fee for National Scholarship Portal (NSP)?",
+      "Who is eligible for National Scholarship Portal (NSP)?",
+      "How long does National Scholarship Portal (NSP) take to process?",
+      "What is the official website for National Scholarship Portal (NSP)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "National Scholarship Portal (NSP) is a central government service under Department of Higher Education in the Education category, available online.",
+    "ai_explanation": "National Scholarship Portal (NSP) is Single-window platform for students to apply for various central and state government scholarships. Eligibility: Students meeting scheme-specific income, category and academic criteria.. Benefits: Financial assistance for tuition, maintenance and other academic expenses via DBT.. You can apply online via https://scholarships.gov.in. Processing time is typically Scheme-dependent; verified by institution and department. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for National Scholarship Portal (NSP)?",
+      "Can I track my National Scholarship Portal (NSP) application status online?",
+      "What should I do if my National Scholarship Portal (NSP) application is rejected?",
+      "Are there any state-specific rules for National Scholarship Portal (NSP) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "education",
+      "financial aid",
+      "national",
+      "nsp",
+      "portal",
+      "scholarship",
+      "student"
+    ]
+  },
+  {
+    "service_id": "CEN-FIN-PAN-003",
+    "name": "PAN Card (Permanent Account Number)",
+    "category": "Finance",
+    "sub_category": "Tax Identity",
+    "department": "Income Tax Department",
+    "ministry": "Ministry of Finance",
+    "gov_level": "central",
+    "description": "PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions.",
+    "eligibility": "Individuals, companies, HUFs, and entities carrying out financial transactions in India.",
+    "benefits": "Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.",
+    "application_mode": "online",
+    "processing_time": "e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days.",
+    "fees": "Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST.",
+    "validity": "Lifetime.",
+    "official_portal": "https://www.incometax.gov.in",
+    "official_apply_link": "https://www.incometax.gov.in/iec/foportal/help/how-to-apply-for-instant-pan",
+    "helpline_number": "1800-103-0025",
+    "email": "",
+    "office_locator": "NSDL/UTIITSL PAN centres via portal.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "pan",
+      "tax",
+      "income tax",
+      "e-pan",
+      "financial id"
+    ],
+    "documents_required": [
+      "Aadhaar (for instant e-PAN)",
+      "Proof of Identity",
+      "Proof of DOB"
+    ],
+    "documents_optional": [
+      "Proof of Address (for corrections)"
+    ],
+    "application_steps": [
+      "Visit the Income Tax e-filing portal.",
+      "Select 'Instant e-PAN' (Aadhaar-based) or apply via NSDL/UTIITSL.",
+      "Enter Aadhaar number and validate OTP.",
+      "Confirm details and submit.",
+      "Download e-PAN in PDF format."
+    ],
+    "source_url": "https://www.incometax.gov.in/iec/foportal/",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "02d85b10c296607f79040be04f7d495a680e05cc86f9066b5b40659bc04b386e",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for PAN Card (Permanent Account Number)?",
+      "What documents are required for PAN Card (Permanent Account Number)?",
+      "What is the fee for PAN Card (Permanent Account Number)?",
+      "Who is eligible for PAN Card (Permanent Account Number)?",
+      "How long does PAN Card (Permanent Account Number) take to process?",
+      "What is the official website for PAN Card (Permanent Account Number)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "PAN Card (Permanent Account Number) is a central government service under Income Tax Department in the Finance category, available online.",
+    "ai_explanation": "PAN Card (Permanent Account Number) is PAN is a 10-character alphanumeric identifier issued for all tax-related and high-value financial transactions. Eligibility: Individuals, companies, HUFs, and entities carrying out financial transactions in India.. Benefits: Mandatory for filing income tax returns, opening bank accounts, and high-value transactions.. You can apply online via https://www.incometax.gov.in. Processing time is typically e-PAN via Aadhaar: instant to 10 minutes; physical card: 15 days. and fees are Instant e-PAN free; regular PAN Rs.93 (Indian address) + GST..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for PAN Card (Permanent Account Number)?",
+      "Can I track my PAN Card (Permanent Account Number) application status online?",
+      "What should I do if my PAN Card (Permanent Account Number) application is rejected?",
+      "Are there any state-specific rules for PAN Card (Permanent Account Number) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "account",
+      "card",
+      "e-pan",
+      "finance",
+      "financial id",
+      "income tax",
+      "number",
+      "pan",
+      "permanent",
+      "tax"
+    ]
+  },
+  {
+    "service_id": "CEN-FIN-ITR-004",
+    "name": "Income Tax Return (ITR) Filing",
+    "category": "Finance",
+    "sub_category": "Taxation",
+    "department": "Income Tax Department",
+    "ministry": "Ministry of Finance",
+    "gov_level": "central",
+    "description": "Annual filing of income tax returns by taxpayers through the e-filing portal.",
+    "eligibility": "Individuals/entities with taxable income above the exemption limit or seeking refunds.",
+    "benefits": "Legal compliance, tax refunds, income proof for loans/visas.",
+    "application_mode": "online",
+    "processing_time": "Refund processing: typically 7-45 days after e-verification.",
+    "fees": "Free filing; late fee up to Rs.5000 under Section 234F if after due date.",
+    "validity": "Per assessment year.",
+    "official_portal": "https://www.incometax.gov.in",
+    "official_apply_link": "https://www.incometax.gov.in/iec/foportal/",
+    "helpline_number": "1800-103-0025",
+    "email": "",
+    "office_locator": "TRP (Tax Return Preparer) locator on portal.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "itr",
+      "income tax return",
+      "efiling",
+      "tax",
+      "refund"
+    ],
+    "documents_required": [
+      "PAN",
+      "Aadhaar",
+      "Form 16 / income proofs",
+      "Bank details"
+    ],
+    "documents_optional": [
+      "Investment proofs (80C etc.)",
+      "Home loan interest certificate"
+    ],
+    "application_steps": [
+      "Login to the Income Tax e-filing portal with PAN.",
+      "Select the applicable ITR form and assessment year.",
+      "Verify pre-filled data and enter income/deductions.",
+      "Compute tax, pay any dues, and submit.",
+      "E-verify via Aadhaar OTP/net banking within the allowed window."
+    ],
+    "source_url": "https://www.incometax.gov.in/iec/foportal/",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "ae84a262d4fa779621bd85664cf2baec0813c20add4d2652a9ebd69ef19c2b4f",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Income Tax Return (ITR) Filing?",
+      "What documents are required for Income Tax Return (ITR) Filing?",
+      "What is the fee for Income Tax Return (ITR) Filing?",
+      "Who is eligible for Income Tax Return (ITR) Filing?",
+      "How long does Income Tax Return (ITR) Filing take to process?",
+      "What is the official website for Income Tax Return (ITR) Filing?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Income Tax Return (ITR) Filing is a central government service under Income Tax Department in the Finance category, available online.",
+    "ai_explanation": "Income Tax Return (ITR) Filing is Annual filing of income tax returns by taxpayers through the e-filing portal. Eligibility: Individuals/entities with taxable income above the exemption limit or seeking refunds.. Benefits: Legal compliance, tax refunds, income proof for loans/visas.. You can apply online via https://www.incometax.gov.in. Processing time is typically Refund processing: typically 7-45 days after e-verification. and fees are Free filing; late fee up to Rs.5000 under Section 234F if after due date..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Income Tax Return (ITR) Filing?",
+      "Can I track my Income Tax Return (ITR) Filing application status online?",
+      "What should I do if my Income Tax Return (ITR) Filing application is rejected?",
+      "Are there any state-specific rules for Income Tax Return (ITR) Filing in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "efiling",
+      "filing",
+      "finance",
+      "income",
+      "income tax return",
+      "itr",
+      "refund",
+      "return",
+      "tax"
+    ]
+  },
+  {
+    "service_id": "CEN-BIZ-UDYAM-005",
+    "name": "Udyam Registration (MSME)",
+    "category": "Business",
+    "sub_category": "Enterprise Registration",
+    "department": "Ministry of Micro, Small and Medium Enterprises",
+    "ministry": "Ministry of MSME",
+    "gov_level": "central",
+    "description": "Free online registration for Micro, Small and Medium Enterprises to obtain a Udyam Registration Number.",
+    "eligibility": "Any micro, small or medium enterprise (manufacturing or services) as per turnover/investment criteria.",
+    "benefits": "Access to collateral-free loans, subsidies, priority sector lending, and government tenders.",
+    "application_mode": "online",
+    "processing_time": "Instant to a few days; registration certificate generated online.",
+    "fees": "Free (no charges for Udyam registration).",
+    "validity": "Permanent (subject to annual data update).",
+    "official_portal": "https://udyamregistration.gov.in",
+    "official_apply_link": "https://udyamregistration.gov.in/UdyamRegistration.aspx",
+    "helpline_number": "011-23063800",
+    "email": "champions@gov.in",
+    "office_locator": "MSME-DI / Champions Control Rooms.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "udyam",
+      "msme",
+      "business registration",
+      "enterprise",
+      "startup"
+    ],
+    "documents_required": [
+      "Aadhaar of proprietor/partner/director",
+      "PAN",
+      "GSTIN (if applicable)"
+    ],
+    "documents_optional": [
+      "Bank account details",
+      "NIC activity code"
+    ],
+    "application_steps": [
+      "Visit the Udyam Registration portal.",
+      "Enter Aadhaar number and validate OTP.",
+      "Enter PAN and business details (turnover, investment, activity).",
+      "Submit the form and validate.",
+      "Download the Udyam Registration Certificate with URN."
+    ],
+    "source_url": "https://udyamregistration.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "6b1248c01aab5e805c7ccb48c32bf738e5c9ce0a16d418aaded50367a43f9573",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Udyam Registration (MSME)?",
+      "What documents are required for Udyam Registration (MSME)?",
+      "What is the fee for Udyam Registration (MSME)?",
+      "Who is eligible for Udyam Registration (MSME)?",
+      "How long does Udyam Registration (MSME) take to process?",
+      "What is the official website for Udyam Registration (MSME)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Udyam Registration (MSME) is a central government service under Ministry of Micro, Small and Medium Enterprises in the Business category, available online.",
+    "ai_explanation": "Udyam Registration (MSME) is Free online registration for Micro, Small and Medium Enterprises to obtain a Udyam Registration Number. Eligibility: Any micro, small or medium enterprise (manufacturing or services) as per turnover/investment criteria.. Benefits: Access to collateral-free loans, subsidies, priority sector lending, and government tenders.. You can apply online via https://udyamregistration.gov.in. Processing time is typically Instant to a few days; registration certificate generated online. and fees are Free (no charges for Udyam registration)..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Udyam Registration (MSME)?",
+      "Can I track my Udyam Registration (MSME) application status online?",
+      "What should I do if my Udyam Registration (MSME) application is rejected?",
+      "Are there any state-specific rules for Udyam Registration (MSME) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "business",
+      "business registration",
+      "enterprise",
+      "msme",
+      "registration",
+      "startup",
+      "udyam"
+    ]
+  },
+  {
+    "service_id": "CEN-IDN-AADHAAR-001",
+    "name": "Aadhaar Enrolment / Update",
+    "category": "Identity",
+    "sub_category": "Unique ID",
+    "department": "Unique Identification Authority of India (UIDAI)",
+    "ministry": "Ministry of Electronics and Information Technology",
+    "gov_level": "central",
+    "description": "Aadhaar is a 12-digit unique identity number issued to residents of India based on biometric and demographic data.",
+    "eligibility": "Any resident of India, including infants and children, regardless of age or gender.",
+    "benefits": "Universally accepted proof of identity and address; enables access to subsidies, benefits and services (DBT).",
+    "application_mode": "both",
+    "processing_time": "Enrolment: up to 90 days for Aadhaar generation; updates: 30 days.",
+    "fees": "First enrolment free. Demographic update Rs.50, biometric update Rs.100 (as notified).",
+    "validity": "Lifetime (updates required when details change).",
+    "official_portal": "https://uidai.gov.in",
+    "official_apply_link": "https://myaadhaar.uidai.gov.in",
+    "helpline_number": "1947",
+    "email": "help@uidai.gov.in",
+    "office_locator": "https://appointments.uidai.gov.in (Aadhaar Seva Kendra locator)",
+    "languages_available": [
+      "en",
+      "hi",
+      "regional"
+    ],
+    "keywords": [
+      "aadhaar",
+      "uid",
+      "identity",
+      "kyc",
+      "enrolment"
+    ],
+    "documents_required": [
+      "Proof of Identity (POI)",
+      "Proof of Address (POA)",
+      "Date of Birth proof"
+    ],
+    "documents_optional": [
+      "Proof of Relationship (for children)"
+    ],
+    "application_steps": [
+      "Locate a nearby Aadhaar Seva Kendra / enrolment centre.",
+      "Book an appointment online via myAadhaar or walk in.",
+      "Fill the enrolment form and submit POI/POA documents.",
+      "Provide biometrics (fingerprints, iris, photo).",
+      "Collect the acknowledgement slip with Enrolment ID (EID).",
+      "Check Aadhaar status online and download e-Aadhaar once generated."
+    ],
+    "source_url": "https://uidai.gov.in/en/my-aadhaar/get-aadhaar.html",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "e8491a29c81fd3e643fa0401932bf8f1f6c0a5678a0e0e015b87a861ec91d2a5",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Aadhaar Enrolment / Update?",
+      "What documents are required for Aadhaar Enrolment / Update?",
+      "What is the fee for Aadhaar Enrolment / Update?",
+      "Who is eligible for Aadhaar Enrolment / Update?",
+      "How long does Aadhaar Enrolment / Update take to process?",
+      "What is the official website for Aadhaar Enrolment / Update?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Aadhaar Enrolment / Update is a central government service under Unique Identification Authority of India (UIDAI) in the Identity category, available both.",
+    "ai_explanation": "Aadhaar Enrolment / Update is Aadhaar is a 12-digit unique identity number issued to residents of India based on biometric and demographic data. Eligibility: Any resident of India, including infants and children, regardless of age or gender.. Benefits: Universally accepted proof of identity and address; enables access to subsidies, benefits and services (DBT).. You can apply both via https://uidai.gov.in. Processing time is typically Enrolment: up to 90 days for Aadhaar generation; updates: 30 days. and fees are First enrolment free. Demographic update Rs.50, biometric update Rs.100 (as notified)..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Aadhaar Enrolment / Update?",
+      "Can I track my Aadhaar Enrolment / Update application status online?",
+      "What should I do if my Aadhaar Enrolment / Update application is rejected?",
+      "Are there any state-specific rules for Aadhaar Enrolment / Update in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "aadhaar",
+      "enrolment",
+      "identity",
+      "kyc",
+      "uid",
+      "update"
+    ]
+  },
+  {
+    "service_id": "CEN-IDN-PASSPORT-002",
+    "name": "Passport (Fresh / Reissue)",
+    "category": "Identity",
+    "sub_category": "Travel Document",
+    "department": "Consular, Passport and Visa Division",
+    "ministry": "Ministry of External Affairs",
+    "gov_level": "central",
+    "description": "Issuance of Indian passport for international travel through the Passport Seva online portal.",
+    "eligibility": "Indian citizens. Minors apply through parents/guardians.",
+    "benefits": "Internationally recognised travel document and proof of Indian citizenship.",
+    "application_mode": "online",
+    "processing_time": "Normal: 30-45 days; Tatkaal: 1-3 working days (post police verification norms).",
+    "fees": "Rs.1500 (36 pages, normal) to Rs.3500+ (Tatkaal); varies by pages/type.",
+    "validity": "10 years for adults; 5 years or until age 18 for minors.",
+    "official_portal": "https://www.passportindia.gov.in",
+    "official_apply_link": "https://portal2.passportindia.gov.in",
+    "helpline_number": "1800-258-1800",
+    "email": "",
+    "office_locator": "Passport Seva Kendra (PSK) / Post Office PSK locator on portal.",
+    "languages_available": [
+      "en",
+      "hi"
+    ],
+    "keywords": [
+      "passport",
+      "travel",
+      "psk",
+      "tatkaal",
+      "mea"
+    ],
+    "documents_required": [
+      "Proof of Address",
+      "Proof of Date of Birth",
+      "Aadhaar/identity proof"
+    ],
+    "documents_optional": [
+      "Annexures (name change, NOC)"
+    ],
+    "application_steps": [
+      "Register on the Passport Seva Online Portal.",
+      "Login and fill 'Apply for Fresh/Reissue of Passport'.",
+      "Pay the fee online and schedule a PSK appointment.",
+      "Visit the PSK with original documents for verification.",
+      "Complete police verification (if applicable).",
+      "Track status; passport is dispatched by post."
+    ],
+    "source_url": "https://www.passportindia.gov.in/psp",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "994bfac4cb2c67c488008693354ef8f0ca58002576c7562a9fbbda02b12aaaf5",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Passport (Fresh / Reissue)?",
+      "What documents are required for Passport (Fresh / Reissue)?",
+      "What is the fee for Passport (Fresh / Reissue)?",
+      "Who is eligible for Passport (Fresh / Reissue)?",
+      "How long does Passport (Fresh / Reissue) take to process?",
+      "What is the official website for Passport (Fresh / Reissue)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Passport (Fresh / Reissue) is a central government service under Consular, Passport and Visa Division in the Identity category, available online.",
+    "ai_explanation": "Passport (Fresh / Reissue) is Issuance of Indian passport for international travel through the Passport Seva online portal. Eligibility: Indian citizens. Minors apply through parents/guardians.. Benefits: Internationally recognised travel document and proof of Indian citizenship.. You can apply online via https://www.passportindia.gov.in. Processing time is typically Normal: 30-45 days; Tatkaal: 1-3 working days (post police verification norms). and fees are Rs.1500 (36 pages, normal) to Rs.3500+ (Tatkaal); varies by pages/type..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Passport (Fresh / Reissue)?",
+      "Can I track my Passport (Fresh / Reissue) application status online?",
+      "What should I do if my Passport (Fresh / Reissue) application is rejected?",
+      "Are there any state-specific rules for Passport (Fresh / Reissue) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "fresh",
+      "identity",
+      "mea",
+      "passport",
+      "psk",
+      "reissue",
+      "tatkaal",
+      "travel"
+    ]
+  },
+  {
+    "service_id": "CEN-AGR-PMKISAN-006",
+    "name": "PM-KISAN Samman Nidhi",
+    "category": "Agriculture",
+    "sub_category": "Income Support",
+    "department": "Department of Agriculture & Farmers Welfare",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "gov_level": "central",
+    "description": "Direct income support of Rs.6000 per year in three instalments to eligible landholding farmer families.",
+    "eligibility": "Landholding farmer families, subject to exclusion criteria (income tax payers, institutional landholders excluded).",
+    "benefits": "Rs.6000/year paid directly to bank accounts via DBT.",
+    "application_mode": "both",
+    "processing_time": "Verification-dependent; instalments released tri-annually.",
+    "fees": "Free.",
+    "validity": "Ongoing while eligible.",
+    "official_portal": "https://pmkisan.gov.in",
+    "official_apply_link": "https://pmkisan.gov.in/RegistrationFormNew.aspx",
+    "helpline_number": "155261",
+    "email": "pmkisan-ict@gov.in",
+    "office_locator": "Common Service Centres (CSC) / village revenue officers.",
+    "languages_available": [
+      "en",
+      "hi",
+      "regional"
+    ],
+    "keywords": [
+      "pm kisan",
+      "farmer",
+      "income support",
+      "dbt",
+      "agriculture"
+    ],
+    "documents_required": [
+      "Aadhaar",
+      "Landholding papers",
+      "Bank account details"
+    ],
+    "documents_optional": [
+      "Ration card"
+    ],
+    "application_steps": [
+      "Visit the PM-KISAN portal and select 'New Farmer Registration'.",
+      "Enter Aadhaar and complete OTP verification.",
+      "Fill land and bank details.",
+      "Submit; complete eKYC (Aadhaar OTP/biometric).",
+      "Track beneficiary status online."
+    ],
+    "source_url": "https://pmkisan.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "d3080500247ef379908c38da8bac1be14050b62d1583bcc606ea915a8950d741",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for PM-KISAN Samman Nidhi?",
+      "What documents are required for PM-KISAN Samman Nidhi?",
+      "What is the fee for PM-KISAN Samman Nidhi?",
+      "Who is eligible for PM-KISAN Samman Nidhi?",
+      "How long does PM-KISAN Samman Nidhi take to process?",
+      "What is the official website for PM-KISAN Samman Nidhi?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "PM-KISAN Samman Nidhi is a central government service under Department of Agriculture & Farmers Welfare in the Agriculture category, available both.",
+    "ai_explanation": "PM-KISAN Samman Nidhi is Direct income support of Rs.6000 per year in three instalments to eligible landholding farmer families. Eligibility: Landholding farmer families, subject to exclusion criteria (income tax payers, institutional landholders excluded).. Benefits: Rs.6000/year paid directly to bank accounts via DBT.. You can apply both via https://pmkisan.gov.in. Processing time is typically Verification-dependent; instalments released tri-annually. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for PM-KISAN Samman Nidhi?",
+      "Can I track my PM-KISAN Samman Nidhi application status online?",
+      "What should I do if my PM-KISAN Samman Nidhi application is rejected?",
+      "Are there any state-specific rules for PM-KISAN Samman Nidhi in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "agriculture",
+      "dbt",
+      "farmer",
+      "income support",
+      "kisan",
+      "nidhi",
+      "pm kisan",
+      "samman"
+    ]
+  },
+  {
+    "service_id": "CEN-HLT-PMJAY-007",
+    "name": "Ayushman Bharat PM-JAY (Ayushman Card)",
+    "category": "Healthcare",
+    "sub_category": "Health Insurance",
+    "department": "National Health Authority",
+    "ministry": "Ministry of Health and Family Welfare",
+    "gov_level": "central",
+    "description": "Health assurance scheme providing up to Rs.5 lakh per family per year for secondary and tertiary care hospitalisation.",
+    "eligibility": "Families identified as per SECC deprivation criteria / eligible categories.",
+    "benefits": "Cashless treatment up to Rs.5 lakh/family/year at empanelled hospitals.",
+    "application_mode": "both",
+    "processing_time": "Ayushman card generation: instant to a few days after eligibility check.",
+    "fees": "Free.",
+    "validity": "Annual coverage, renewable while eligible.",
+    "official_portal": "https://pmjay.gov.in",
+    "official_apply_link": "https://beneficiary.nha.gov.in",
+    "helpline_number": "14555",
+    "email": "",
+    "office_locator": "Empanelled hospitals & Ayushman Mitra desks; CSC centres.",
+    "languages_available": [
+      "en",
+      "hi",
+      "regional"
+    ],
+    "keywords": [
+      "ayushman",
+      "pmjay",
+      "health insurance",
+      "abha",
+      "hospital"
+    ],
+    "documents_required": [
+      "Aadhaar",
+      "Ration card / mobile number"
+    ],
+    "documents_optional": [
+      "SECC reference"
+    ],
+    "application_steps": [
+      "Check eligibility on the PM-JAY beneficiary portal.",
+      "Authenticate via Aadhaar OTP.",
+      "Complete KYC and photo capture.",
+      "Download the Ayushman card once approved."
+    ],
+    "source_url": "https://pmjay.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "dee82bec285c3b0b4a8c5269d70562b4b01a72b3b6ee52b9d94fc22cc61427bf",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "What documents are required for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "What is the fee for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "Who is eligible for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "How long does Ayushman Bharat PM-JAY (Ayushman Card) take to process?",
+      "What is the official website for Ayushman Bharat PM-JAY (Ayushman Card)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Ayushman Bharat PM-JAY (Ayushman Card) is a central government service under National Health Authority in the Healthcare category, available both.",
+    "ai_explanation": "Ayushman Bharat PM-JAY (Ayushman Card) is Health assurance scheme providing up to Rs.5 lakh per family per year for secondary and tertiary care hospitalisation. Eligibility: Families identified as per SECC deprivation criteria / eligible categories.. Benefits: Cashless treatment up to Rs.5 lakh/family/year at empanelled hospitals.. You can apply both via https://pmjay.gov.in. Processing time is typically Ayushman card generation: instant to a few days after eligibility check. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Ayushman Bharat PM-JAY (Ayushman Card)?",
+      "Can I track my Ayushman Bharat PM-JAY (Ayushman Card) application status online?",
+      "What should I do if my Ayushman Bharat PM-JAY (Ayushman Card) application is rejected?",
+      "Are there any state-specific rules for Ayushman Bharat PM-JAY (Ayushman Card) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "abha",
+      "ayushman",
+      "bharat",
+      "card",
+      "health insurance",
+      "healthcare",
+      "hospital",
+      "jay",
+      "pmjay"
+    ]
+  },
+  {
+    "service_id": "CEN-LAB-ESHRAM-008",
+    "name": "e-Shram Card (Unorganised Workers)",
+    "category": "Labour",
+    "sub_category": "Worker Registration",
+    "department": "Ministry of Labour and Employment",
+    "ministry": "Ministry of Labour and Employment",
+    "gov_level": "central",
+    "description": "National database registration for unorganised workers providing a Universal Account Number (UAN) e-Shram card.",
+    "eligibility": "Unorganised workers aged 16-59 not covered under EPFO/ESIC.",
+    "benefits": "Accidental insurance cover and access to social security schemes.",
+    "application_mode": "online",
+    "processing_time": "Instant card generation on successful registration.",
+    "fees": "Free.",
+    "validity": "Lifetime UAN.",
+    "official_portal": "https://eshram.gov.in",
+    "official_apply_link": "https://eshram.gov.in/self-registration",
+    "helpline_number": "14434",
+    "email": "eshramcare-mole@gov.in",
+    "office_locator": "Common Service Centres (CSC).",
+    "languages_available": [
+      "en",
+      "hi",
+      "regional"
+    ],
+    "keywords": [
+      "eshram",
+      "unorganised worker",
+      "uan",
+      "labour",
+      "social security"
+    ],
+    "documents_required": [
+      "Aadhaar linked mobile",
+      "Bank account details"
+    ],
+    "documents_optional": [
+      "Occupation details"
+    ],
+    "application_steps": [
+      "Visit the e-Shram self-registration portal.",
+      "Enter Aadhaar-linked mobile and validate OTP.",
+      "Fill personal, address, occupation and bank details.",
+      "Submit and download the e-Shram card with UAN."
+    ],
+    "source_url": "https://eshram.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "a31af96edf3cfc969a0e9a19bf4c1c42ceeedea96250fdbdaa181093b266a2b3",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for e-Shram Card (Unorganised Workers)?",
+      "What documents are required for e-Shram Card (Unorganised Workers)?",
+      "What is the fee for e-Shram Card (Unorganised Workers)?",
+      "Who is eligible for e-Shram Card (Unorganised Workers)?",
+      "How long does e-Shram Card (Unorganised Workers) take to process?",
+      "What is the official website for e-Shram Card (Unorganised Workers)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "e-Shram Card (Unorganised Workers) is a central government service under Ministry of Labour and Employment in the Labour category, available online.",
+    "ai_explanation": "e-Shram Card (Unorganised Workers) is National database registration for unorganised workers providing a Universal Account Number (UAN) e-Shram card. Eligibility: Unorganised workers aged 16-59 not covered under EPFO/ESIC.. Benefits: Accidental insurance cover and access to social security schemes.. You can apply online via https://eshram.gov.in. Processing time is typically Instant card generation on successful registration. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for e-Shram Card (Unorganised Workers)?",
+      "Can I track my e-Shram Card (Unorganised Workers) application status online?",
+      "What should I do if my e-Shram Card (Unorganised Workers) application is rejected?",
+      "Are there any state-specific rules for e-Shram Card (Unorganised Workers) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "card",
+      "eshram",
+      "labour",
+      "shram",
+      "social security",
+      "uan",
+      "unorganised",
+      "unorganised worker",
+      "workers"
+    ]
+  },
+  {
+    "service_id": "MH-REV-INCOME-101",
+    "name": "Income Certificate (Maharashtra)",
+    "category": "Certificates",
+    "sub_category": "Revenue",
+    "department": "Revenue Department",
+    "ministry": "Government of Maharashtra",
+    "gov_level": "state",
+    "state": "Maharashtra",
+    "description": "Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes.",
+    "eligibility": "Residents of Maharashtra requiring proof of family income.",
+    "benefits": "Required for scholarships, fee concessions, reservations and welfare schemes.",
+    "application_mode": "online",
+    "processing_time": "15 working days (as per RTS Act service standard).",
+    "fees": "Nominal (approx Rs.33-40 via Aaple Sarkar).",
+    "validity": "Typically 1 year (financial year based).",
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+    "official_apply_link": "https://aaplesarkar.mahaonline.gov.in",
+    "helpline_number": "1800-120-8040",
+    "email": "aaplesarkar.support@mahaonline.gov.in",
+    "office_locator": "Setu / CSC / Tahsildar office.",
+    "languages_available": [
+      "en",
+      "mr"
+    ],
+    "keywords": [
+      "income certificate",
+      "maharashtra",
+      "aaple sarkar",
+      "revenue",
+      "utpanna dakhla"
+    ],
+    "documents_required": [
+      "Aadhaar / ID proof",
+      "Address proof",
+      "Income proof (salary slip/self-declaration)",
+      "Ration card"
+    ],
+    "documents_optional": [
+      "Talathi report",
+      "Affidavit"
+    ],
+    "application_steps": [
+      "Register/login on Aaple Sarkar (RTS) portal.",
+      "Select Revenue Department > Income Certificate.",
+      "Fill applicant details and upload documents.",
+      "Pay the fee online.",
+      "Track application; download the digitally signed certificate."
+    ],
+    "source_url": "https://aaplesarkar.mahaonline.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "3d4e8731fba845c44db3f4646ea51a2cf5962dc5062b1b63e83947faf3b708d8",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Income Certificate (Maharashtra)?",
+      "What documents are required for Income Certificate (Maharashtra)?",
+      "What is the fee for Income Certificate (Maharashtra)?",
+      "Who is eligible for Income Certificate (Maharashtra)?",
+      "How long does Income Certificate (Maharashtra) take to process?",
+      "What is the official website for Income Certificate (Maharashtra)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Income Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+    "ai_explanation": "Income Certificate (Maharashtra) is Certificate stating the annual income of a family, issued through Aaple Sarkar / MahaOnline for various welfare and scholarship purposes. Eligibility: Residents of Maharashtra requiring proof of family income.. Benefits: Required for scholarships, fee concessions, reservations and welfare schemes.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (as per RTS Act service standard). and fees are Nominal (approx Rs.33-40 via Aaple Sarkar)..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Income Certificate (Maharashtra)?",
+      "Can I track my Income Certificate (Maharashtra) application status online?",
+      "What should I do if my Income Certificate (Maharashtra) application is rejected?",
+      "Are there any state-specific rules for Income Certificate (Maharashtra) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "income",
+      "income certificate",
+      "maharashtra",
+      "revenue",
+      "utpanna dakhla"
+    ]
+  },
+  {
+    "service_id": "MH-REV-DOMICILE-102",
+    "name": "Domicile / Residence Certificate (Maharashtra)",
+    "category": "Certificates",
+    "sub_category": "Revenue",
+    "department": "Revenue Department",
+    "ministry": "Government of Maharashtra",
+    "gov_level": "state",
+    "state": "Maharashtra",
+    "description": "Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar.",
+    "eligibility": "Persons residing in Maharashtra for the qualifying period as per rules.",
+    "benefits": "Required for education admissions, government jobs and domicile-based benefits.",
+    "application_mode": "online",
+    "processing_time": "15 working days (RTS standard).",
+    "fees": "Nominal (approx Rs.33-40).",
+    "validity": "Generally lifetime / as accepted by the requesting authority.",
+    "official_portal": "https://aaplesarkar.mahaonline.gov.in",
+    "official_apply_link": "https://aaplesarkar.mahaonline.gov.in",
+    "helpline_number": "1800-120-8040",
+    "email": "aaplesarkar.support@mahaonline.gov.in",
+    "office_locator": "Setu / CSC / Tahsildar office.",
+    "languages_available": [
+      "en",
+      "mr"
+    ],
+    "keywords": [
+      "domicile",
+      "residence certificate",
+      "maharashtra",
+      "vasti dakhla",
+      "aaple sarkar"
+    ],
+    "documents_required": [
+      "Aadhaar / ID proof",
+      "Address proof",
+      "Proof of residence period",
+      "School leaving certificate"
+    ],
+    "documents_optional": [
+      "Birth certificate",
+      "Affidavit"
+    ],
+    "application_steps": [
+      "Login to Aaple Sarkar portal.",
+      "Select Revenue Department > Age Nationality and Domicile Certificate.",
+      "Fill the form and upload documents.",
+      "Pay fees and submit.",
+      "Download the digitally signed certificate."
+    ],
+    "source_url": "https://aaplesarkar.mahaonline.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "cd9b9ad026407c4f4bcfad3105464132590e095cbadf4ec4f9f4a8e101d5105e",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Domicile / Residence Certificate (Maharashtra)?",
+      "What documents are required for Domicile / Residence Certificate (Maharashtra)?",
+      "What is the fee for Domicile / Residence Certificate (Maharashtra)?",
+      "Who is eligible for Domicile / Residence Certificate (Maharashtra)?",
+      "How long does Domicile / Residence Certificate (Maharashtra) take to process?",
+      "What is the official website for Domicile / Residence Certificate (Maharashtra)?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Domicile / Residence Certificate (Maharashtra) is a state government service under Revenue Department in the Certificates category, available online.",
+    "ai_explanation": "Domicile / Residence Certificate (Maharashtra) is Certificate confirming that the applicant is a permanent resident of Maharashtra, issued via Aaple Sarkar. Eligibility: Persons residing in Maharashtra for the qualifying period as per rules.. Benefits: Required for education admissions, government jobs and domicile-based benefits.. You can apply online via https://aaplesarkar.mahaonline.gov.in. Processing time is typically 15 working days (RTS standard). and fees are Nominal (approx Rs.33-40)..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Domicile / Residence Certificate (Maharashtra)?",
+      "Can I track my Domicile / Residence Certificate (Maharashtra) application status online?",
+      "What should I do if my Domicile / Residence Certificate (Maharashtra) application is rejected?",
+      "Are there any state-specific rules for Domicile / Residence Certificate (Maharashtra) in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "aaple sarkar",
+      "certificate",
+      "certificates",
+      "domicile",
+      "maharashtra",
+      "residence",
+      "residence certificate",
+      "vasti dakhla"
+    ]
+  },
+  {
+    "service_id": "MH-WEL-LADKIBAHIN-103",
+    "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "category": "Welfare",
+    "sub_category": "Women Empowerment",
+    "department": "Women and Child Development Department",
+    "ministry": "Government of Maharashtra",
+    "gov_level": "state",
+    "state": "Maharashtra",
+    "description": "State scheme providing monthly financial assistance to eligible women residents of Maharashtra.",
+    "eligibility": "Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified.",
+    "benefits": "Monthly financial assistance credited via DBT to eligible women.",
+    "application_mode": "both",
+    "processing_time": "Verification-dependent; benefits via DBT after approval.",
+    "fees": "Free.",
+    "validity": "Ongoing while eligible.",
+    "official_portal": "https://ladakibahin.maharashtra.gov.in",
+    "official_apply_link": "https://ladakibahin.maharashtra.gov.in",
+    "helpline_number": "181",
+    "email": "",
+    "office_locator": "Anganwadi centres, Setu, CSC, ward offices.",
+    "languages_available": [
+      "mr",
+      "en"
+    ],
+    "keywords": [
+      "ladki bahin",
+      "women scheme",
+      "maharashtra",
+      "dbt",
+      "financial assistance"
+    ],
+    "documents_required": [
+      "Aadhaar",
+      "Domicile certificate",
+      "Income certificate",
+      "Bank account (Aadhaar linked)",
+      "Ration card"
+    ],
+    "documents_optional": [
+      "Marriage certificate (if domicile via spouse)"
+    ],
+    "application_steps": [
+      "Register on the Ladki Bahin portal or Narishakti Doot app.",
+      "Enter Aadhaar and personal details.",
+      "Upload eligibility documents.",
+      "Submit and note the application number.",
+      "Track approval and DBT credit status."
+    ],
+    "source_url": "https://ladakibahin.maharashtra.gov.in",
+    "source_type": "html",
+    "last_updated": "2025-01-01",
+    "content_hash": "732792e6cd2998f74753c8aeaed7b3b7f89103dcacb9238aa7d55529593c0bdc",
+    "collected_at": "2026-07-25T17:25:31.345552+00:00",
+    "version": 1,
+    "ai_common_questions": [
+      "How do I apply for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "What documents are required for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "What is the fee for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "Who is eligible for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "How long does Mukhyamantri Majhi Ladki Bahin Yojana take to process?",
+      "What is the official website for Mukhyamantri Majhi Ladki Bahin Yojana?"
+    ],
+    "ai_common_mistakes": [
+      "Uploading documents that do not match the name/details on record.",
+      "Using an expired or unlinked mobile number for OTP verification.",
+      "Submitting low-resolution or oversized document scans.",
+      "Selecting the wrong state/district or service category.",
+      "Not saving the application/reference number after submission."
+    ],
+    "ai_summary": "Mukhyamantri Majhi Ladki Bahin Yojana is a state government service under Women and Child Development Department in the Welfare category, available both.",
+    "ai_explanation": "Mukhyamantri Majhi Ladki Bahin Yojana is State scheme providing monthly financial assistance to eligible women residents of Maharashtra. Eligibility: Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified.. Benefits: Monthly financial assistance credited via DBT to eligible women.. You can apply both via https://ladakibahin.maharashtra.gov.in. Processing time is typically Verification-dependent; benefits via DBT after approval. and fees are Free..",
+    "ai_followup_questions": [
+      "Do I need to visit an office in person for Mukhyamantri Majhi Ladki Bahin Yojana?",
+      "Can I track my Mukhyamantri Majhi Ladki Bahin Yojana application status online?",
+      "What should I do if my Mukhyamantri Majhi Ladki Bahin Yojana application is rejected?",
+      "Are there any state-specific rules for Mukhyamantri Majhi Ladki Bahin Yojana in Maharashtra?"
+    ],
+    "ai_search_keywords": [
+      "bahin",
+      "dbt",
+      "financial assistance",
+      "ladki",
+      "ladki bahin",
+      "maharashtra",
+      "majhi",
+      "mukhyamantri",
+      "welfare",
+      "women scheme",
+      "yojana"
+    ]
+  }
+]

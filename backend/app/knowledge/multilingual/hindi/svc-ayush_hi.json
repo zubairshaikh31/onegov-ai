@@ -1,0 +1,19 @@
+{
+  "name": "AYUSH Centres / Ministries",
+  "description": "Ministry of AYUSH for traditional medicine systems (Yoga, Ayurveda).",
+  "benefits": "Traditional healthcare services and info.",
+  "eligibility": "Citizens seeking AYUSH care.",
+  "documents": [
+    "ID proof"
+  ],
+  "steps": [
+    "Visit AYUSH centre/portal.",
+    "Avail services."
+  ],
+  "faqs": [],
+  "keywords": [
+    "ayush",
+    "yoga",
+    "ayurveda"
+  ]
+}

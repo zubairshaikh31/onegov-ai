@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-NGDR",
+  "name": "NGDRBharat (Digitized Land Records)",
+  "category_id": "CAT-CERT",
+  "sub_category": "Land Records",
+  "department_id": "DEP-MAH-REV",
+  "ministry_id": "MIN-MAH",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "National Generic Document Registration System providing unified digital land/property registration across states.",
+  "eligibility": "State residents using integrated land registration offices.",
+  "benefits": "Transparent, faster property registration; digital records; reduced fraud.",
+  "required_documents": [
+    "Sale deed",
+    "Aadhaar",
+    "Party identity proof",
+    "Encumbrance certificate"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit state NGDRBharat/Registration portal.",
+    "Fill deed details and upload documents.",
+    "Pay stamp duty; book appointment; sign digitally."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.ngdrbharat.gov.in",
+  "official_apply_link": "https://www.ngdrbharat.gov.in",
+  "download_forms": "https://www.ngdrbharat.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.ngdrbharat.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "NGDRBharat is the national digital land/property registration platform enabling transparent deed registration.",
+  "ai_explanation": "National Generic Document Registration System providing unified digital land/property registration across states.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "ngdrbharat",
+    "land registration",
+    "property registration",
+    "digitized land"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

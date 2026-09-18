@@ -1,0 +1,737 @@
+[
+  {
+    "id": "KW-0001",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "aadhaar"
+  },
+  {
+    "id": "KW-0002",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "uidai"
+  },
+  {
+    "id": "KW-0003",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "uid"
+  },
+  {
+    "id": "KW-0004",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "enrolment"
+  },
+  {
+    "id": "KW-0005",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "ekyc"
+  },
+  {
+    "id": "KW-0006",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "biometric"
+  },
+  {
+    "id": "KW-0007",
+    "service_id": "SVC-AADHAAR",
+    "keyword": "identity"
+  },
+  {
+    "id": "KW-0008",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "passport"
+  },
+  {
+    "id": "KW-0009",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "passport seva"
+  },
+  {
+    "id": "KW-0010",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "psk"
+  },
+  {
+    "id": "KW-0011",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "tatkaal"
+  },
+  {
+    "id": "KW-0012",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "travel document"
+  },
+  {
+    "id": "KW-0013",
+    "service_id": "SVC-PASSPORT",
+    "keyword": "mea"
+  },
+  {
+    "id": "KW-0014",
+    "service_id": "SVC-VOTER",
+    "keyword": "voter id"
+  },
+  {
+    "id": "KW-0015",
+    "service_id": "SVC-VOTER",
+    "keyword": "epic"
+  },
+  {
+    "id": "KW-0016",
+    "service_id": "SVC-VOTER",
+    "keyword": "form 6"
+  },
+  {
+    "id": "KW-0017",
+    "service_id": "SVC-VOTER",
+    "keyword": "electoral roll"
+  },
+  {
+    "id": "KW-0018",
+    "service_id": "SVC-VOTER",
+    "keyword": "voter registration"
+  },
+  {
+    "id": "KW-0019",
+    "service_id": "SVC-VOTER",
+    "keyword": "eci"
+  },
+  {
+    "id": "KW-0020",
+    "service_id": "SVC-PMKISAN",
+    "keyword": "pm kisan"
+  },
+  {
+    "id": "KW-0021",
+    "service_id": "SVC-PMKISAN",
+    "keyword": "pmkisan"
+  },
+  {
+    "id": "KW-0022",
+    "service_id": "SVC-PMKISAN",
+    "keyword": "farmer scheme"
+  },
+  {
+    "id": "KW-0023",
+    "service_id": "SVC-PMKISAN",
+    "keyword": "income support"
+  },
+  {
+    "id": "KW-0024",
+    "service_id": "SVC-PMKISAN",
+    "keyword": "dbt agriculture"
+  },
+  {
+    "id": "KW-0025",
+    "service_id": "SVC-ENAM",
+    "keyword": "enam"
+  },
+  {
+    "id": "KW-0026",
+    "service_id": "SVC-ENAM",
+    "keyword": "e nam"
+  },
+  {
+    "id": "KW-0027",
+    "service_id": "SVC-ENAM",
+    "keyword": "agri market"
+  },
+  {
+    "id": "KW-0028",
+    "service_id": "SVC-ENAM",
+    "keyword": "mandi"
+  },
+  {
+    "id": "KW-0029",
+    "service_id": "SVC-ENAM",
+    "keyword": "farmers trading"
+  },
+  {
+    "id": "KW-0030",
+    "service_id": "SVC-PMJAY",
+    "keyword": "pmjay"
+  },
+  {
+    "id": "KW-0031",
+    "service_id": "SVC-PMJAY",
+    "keyword": "ayushman bharat"
+  },
+  {
+    "id": "KW-0032",
+    "service_id": "SVC-PMJAY",
+    "keyword": "health insurance"
+  },
+  {
+    "id": "KW-0033",
+    "service_id": "SVC-PMJAY",
+    "keyword": "cashless treatment"
+  },
+  {
+    "id": "KW-0034",
+    "service_id": "SVC-PMJAY",
+    "keyword": "nha"
+  },
+  {
+    "id": "KW-0035",
+    "service_id": "SVC-ABDM",
+    "keyword": "abdm"
+  },
+  {
+    "id": "KW-0036",
+    "service_id": "SVC-ABDM",
+    "keyword": "abha"
+  },
+  {
+    "id": "KW-0037",
+    "service_id": "SVC-ABDM",
+    "keyword": "health id"
+  },
+  {
+    "id": "KW-0038",
+    "service_id": "SVC-ABDM",
+    "keyword": "digital health"
+  },
+  {
+    "id": "KW-0039",
+    "service_id": "SVC-ABDM",
+    "keyword": "phr"
+  },
+  {
+    "id": "KW-0040",
+    "service_id": "SVC-ESHRAM",
+    "keyword": "e shram"
+  },
+  {
+    "id": "KW-0041",
+    "service_id": "SVC-ESHRAM",
+    "keyword": "unorganised worker"
+  },
+  {
+    "id": "KW-0042",
+    "service_id": "SVC-ESHRAM",
+    "keyword": "labour card"
+  },
+  {
+    "id": "KW-0043",
+    "service_id": "SVC-ESHRAM",
+    "keyword": "eshram card"
+  },
+  {
+    "id": "KW-0044",
+    "service_id": "SVC-ESHRAM",
+    "keyword": "social security"
+  },
+  {
+    "id": "KW-0045",
+    "service_id": "SVC-EPFO",
+    "keyword": "epf"
+  },
+  {
+    "id": "KW-0046",
+    "service_id": "SVC-EPFO",
+    "keyword": "pf"
+  },
+  {
+    "id": "KW-0047",
+    "service_id": "SVC-EPFO",
+    "keyword": "uan"
+  },
+  {
+    "id": "KW-0048",
+    "service_id": "SVC-EPFO",
+    "keyword": "provident fund"
+  },
+  {
+    "id": "KW-0049",
+    "service_id": "SVC-EPFO",
+    "keyword": "epfindia"
+  },
+  {
+    "id": "KW-0050",
+    "service_id": "SVC-EPFO",
+    "keyword": "pension"
+  },
+  {
+    "id": "KW-0051",
+    "service_id": "SVC-ESIC",
+    "keyword": "esic"
+  },
+  {
+    "id": "KW-0052",
+    "service_id": "SVC-ESIC",
+    "keyword": "employee state insurance"
+  },
+  {
+    "id": "KW-0053",
+    "service_id": "SVC-ESIC",
+    "keyword": "pehchan card"
+  },
+  {
+    "id": "KW-0054",
+    "service_id": "SVC-ESIC",
+    "keyword": "social security"
+  },
+  {
+    "id": "KW-0055",
+    "service_id": "SVC-ESIC",
+    "keyword": "medical benefit"
+  },
+  {
+    "id": "KW-0056",
+    "service_id": "SVC-NCS",
+    "keyword": "ncs"
+  },
+  {
+    "id": "KW-0057",
+    "service_id": "SVC-NCS",
+    "keyword": "national career service"
+  },
+  {
+    "id": "KW-0058",
+    "service_id": "SVC-NCS",
+    "keyword": "job search"
+  },
+  {
+    "id": "KW-0059",
+    "service_id": "SVC-NCS",
+    "keyword": "employment"
+  },
+  {
+    "id": "KW-0060",
+    "service_id": "SVC-NCS",
+    "keyword": "career"
+  },
+  {
+    "id": "KW-0061",
+    "service_id": "SVC-UDYAM",
+    "keyword": "udyam"
+  },
+  {
+    "id": "KW-0062",
+    "service_id": "SVC-UDYAM",
+    "keyword": "msme"
+  },
+  {
+    "id": "KW-0063",
+    "service_id": "SVC-UDYAM",
+    "keyword": "udyog aadhaar"
+  },
+  {
+    "id": "KW-0064",
+    "service_id": "SVC-UDYAM",
+    "keyword": "business registration"
+  },
+  {
+    "id": "KW-0065",
+    "service_id": "SVC-UDYAM",
+    "keyword": "enterprise"
+  },
+  {
+    "id": "KW-0066",
+    "service_id": "SVC-STARTUP",
+    "keyword": "startup india"
+  },
+  {
+    "id": "KW-0067",
+    "service_id": "SVC-STARTUP",
+    "keyword": "dpiit"
+  },
+  {
+    "id": "KW-0068",
+    "service_id": "SVC-STARTUP",
+    "keyword": "startup recognition"
+  },
+  {
+    "id": "KW-0069",
+    "service_id": "SVC-STARTUP",
+    "keyword": "entrepreneur"
+  },
+  {
+    "id": "KW-0070",
+    "service_id": "SVC-STARTUP",
+    "keyword": "tax exemption"
+  },
+  {
+    "id": "KW-0071",
+    "service_id": "SVC-GEM",
+    "keyword": "gem"
+  },
+  {
+    "id": "KW-0072",
+    "service_id": "SVC-GEM",
+    "keyword": "government e marketplace"
+  },
+  {
+    "id": "KW-0073",
+    "service_id": "SVC-GEM",
+    "keyword": "public procurement"
+  },
+  {
+    "id": "KW-0074",
+    "service_id": "SVC-GEM",
+    "keyword": "seller registration"
+  },
+  {
+    "id": "KW-0075",
+    "service_id": "SVC-GEM",
+    "keyword": "tender"
+  },
+  {
+    "id": "KW-0076",
+    "service_id": "SVC-ITR",
+    "keyword": "income tax"
+  },
+  {
+    "id": "KW-0077",
+    "service_id": "SVC-ITR",
+    "keyword": "itr"
+  },
+  {
+    "id": "KW-0078",
+    "service_id": "SVC-ITR",
+    "keyword": "efiling"
+  },
+  {
+    "id": "KW-0079",
+    "service_id": "SVC-ITR",
+    "keyword": "tax return"
+  },
+  {
+    "id": "KW-0080",
+    "service_id": "SVC-ITR",
+    "keyword": "pan"
+  },
+  {
+    "id": "KW-0081",
+    "service_id": "SVC-ITR",
+    "keyword": "cbdt"
+  },
+  {
+    "id": "KW-0082",
+    "service_id": "SVC-GST",
+    "keyword": "gst"
+  },
+  {
+    "id": "KW-0083",
+    "service_id": "SVC-GST",
+    "keyword": "gst registration"
+  },
+  {
+    "id": "KW-0084",
+    "service_id": "SVC-GST",
+    "keyword": "gstin"
+  },
+  {
+    "id": "KW-0085",
+    "service_id": "SVC-GST",
+    "keyword": "returns"
+  },
+  {
+    "id": "KW-0086",
+    "service_id": "SVC-GST",
+    "keyword": "gst portal"
+  },
+  {
+    "id": "KW-0087",
+    "service_id": "SVC-GST",
+    "keyword": "indirect tax"
+  },
+  {
+    "id": "KW-0088",
+    "service_id": "SVC-DIGILOCKER",
+    "keyword": "digilocker"
+  },
+  {
+    "id": "KW-0089",
+    "service_id": "SVC-DIGILOCKER",
+    "keyword": "digital locker"
+  },
+  {
+    "id": "KW-0090",
+    "service_id": "SVC-DIGILOCKER",
+    "keyword": "e documents"
+  },
+  {
+    "id": "KW-0091",
+    "service_id": "SVC-DIGILOCKER",
+    "keyword": "meity"
+  },
+  {
+    "id": "KW-0092",
+    "service_id": "SVC-DIGILOCKER",
+    "keyword": "paperless"
+  },
+  {
+    "id": "KW-0093",
+    "service_id": "SVC-UMANG",
+    "keyword": "umang"
+  },
+  {
+    "id": "KW-0094",
+    "service_id": "SVC-UMANG",
+    "keyword": "mobile governance"
+  },
+  {
+    "id": "KW-0095",
+    "service_id": "SVC-UMANG",
+    "keyword": "government app"
+  },
+  {
+    "id": "KW-0096",
+    "service_id": "SVC-UMANG",
+    "keyword": "services aggregator"
+  },
+  {
+    "id": "KW-0097",
+    "service_id": "SVC-PMAYU",
+    "keyword": "pmay"
+  },
+  {
+    "id": "KW-0098",
+    "service_id": "SVC-PMAYU",
+    "keyword": "pm awas yojana"
+  },
+  {
+    "id": "KW-0099",
+    "service_id": "SVC-PMAYU",
+    "keyword": "housing"
+  },
+  {
+    "id": "KW-0100",
+    "service_id": "SVC-PMAYU",
+    "keyword": "clss"
+  },
+  {
+    "id": "KW-0101",
+    "service_id": "SVC-PMAYU",
+    "keyword": "subsidy"
+  },
+  {
+    "id": "KW-0102",
+    "service_id": "SVC-NSP",
+    "keyword": "nsp"
+  },
+  {
+    "id": "KW-0103",
+    "service_id": "SVC-NSP",
+    "keyword": "national scholarship portal"
+  },
+  {
+    "id": "KW-0104",
+    "service_id": "SVC-NSP",
+    "keyword": "scholarship"
+  },
+  {
+    "id": "KW-0105",
+    "service_id": "SVC-NSP",
+    "keyword": "student"
+  },
+  {
+    "id": "KW-0106",
+    "service_id": "SVC-NSP",
+    "keyword": "dbt"
+  },
+  {
+    "id": "KW-0107",
+    "service_id": "SVC-SWAYAM",
+    "keyword": "swayam"
+  },
+  {
+    "id": "KW-0108",
+    "service_id": "SVC-SWAYAM",
+    "keyword": "online courses"
+  },
+  {
+    "id": "KW-0109",
+    "service_id": "SVC-SWAYAM",
+    "keyword": "mooc"
+  },
+  {
+    "id": "KW-0110",
+    "service_id": "SVC-SWAYAM",
+    "keyword": "free education"
+  },
+  {
+    "id": "KW-0111",
+    "service_id": "SVC-SWAYAM",
+    "keyword": "certificate"
+  },
+  {
+    "id": "KW-0112",
+    "service_id": "SVC-ABC",
+    "keyword": "abc"
+  },
+  {
+    "id": "KW-0113",
+    "service_id": "SVC-ABC",
+    "keyword": "academic bank of credits"
+  },
+  {
+    "id": "KW-0114",
+    "service_id": "SVC-ABC",
+    "keyword": "ugc"
+  },
+  {
+    "id": "KW-0115",
+    "service_id": "SVC-ABC",
+    "keyword": "credit transfer"
+  },
+  {
+    "id": "KW-0116",
+    "service_id": "SVC-ABC",
+    "keyword": "higher education"
+  },
+  {
+    "id": "KW-0117",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "parivahan"
+  },
+  {
+    "id": "KW-0118",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "vahan"
+  },
+  {
+    "id": "KW-0119",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "sarathi"
+  },
+  {
+    "id": "KW-0120",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "driving licence"
+  },
+  {
+    "id": "KW-0121",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "rc"
+  },
+  {
+    "id": "KW-0122",
+    "service_id": "SVC-PARIVAHAN",
+    "keyword": "rto"
+  },
+  {
+    "id": "KW-0123",
+    "service_id": "SVC-MAH-AAPLE",
+    "keyword": "aaple sarkar"
+  },
+  {
+    "id": "KW-0124",
+    "service_id": "SVC-MAH-AAPLE",
+    "keyword": "mahaonline"
+  },
+  {
+    "id": "KW-0125",
+    "service_id": "SVC-MAH-AAPLE",
+    "keyword": "maharashtra certificate"
+  },
+  {
+    "id": "KW-0126",
+    "service_id": "SVC-MAH-AAPLE",
+    "keyword": "caste certificate"
+  },
+  {
+    "id": "KW-0127",
+    "service_id": "SVC-MAH-AAPLE",
+    "keyword": "income certificate"
+  },
+  {
+    "id": "KW-0128",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "mahabhulekh"
+  },
+  {
+    "id": "KW-0129",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "satbara"
+  },
+  {
+    "id": "KW-0130",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "7/12"
+  },
+  {
+    "id": "KW-0131",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "8a"
+  },
+  {
+    "id": "KW-0132",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "land records"
+  },
+  {
+    "id": "KW-0133",
+    "service_id": "SVC-MAH-REV",
+    "keyword": "maharashtra revenue"
+  },
+  {
+    "id": "KW-0134",
+    "service_id": "SVC-MAH-FOOD",
+    "keyword": "maharashtra ration card"
+  },
+  {
+    "id": "KW-0135",
+    "service_id": "SVC-MAH-FOOD",
+    "keyword": "mahafood"
+  },
+  {
+    "id": "KW-0136",
+    "service_id": "SVC-MAH-FOOD",
+    "keyword": "pds"
+  },
+  {
+    "id": "KW-0137",
+    "service_id": "SVC-MAH-FOOD",
+    "keyword": "nfsa"
+  },
+  {
+    "id": "KW-0138",
+    "service_id": "SVC-MAH-FOOD",
+    "keyword": "food supply"
+  },
+  {
+    "id": "KW-0139",
+    "service_id": "SVC-MAH-DBT",
+    "keyword": "mahadbt"
+  },
+  {
+    "id": "KW-0140",
+    "service_id": "SVC-MAH-DBT",
+    "keyword": "maharashtra scholarship"
+  },
+  {
+    "id": "KW-0141",
+    "service_id": "SVC-MAH-DBT",
+    "keyword": "dbt"
+  },
+  {
+    "id": "KW-0142",
+    "service_id": "SVC-MAH-DBT",
+    "keyword": "post matric scholarship"
+  },
+  {
+    "id": "KW-0143",
+    "service_id": "SVC-MAH-DBT",
+    "keyword": "student"
+  },
+  {
+    "id": "KW-0144",
+    "service_id": "SVC-MAH-RTO",
+    "keyword": "maharashtra rto"
+  },
+  {
+    "id": "KW-0145",
+    "service_id": "SVC-MAH-RTO",
+    "keyword": "driving licence maharashtra"
+  },
+  {
+    "id": "KW-0146",
+    "service_id": "SVC-MAH-RTO",
+    "keyword": "transport department"
+  },
+  {
+    "id": "KW-0147",
+    "service_id": "SVC-MAH-RTO",
+    "keyword": "rc maharashtra"
+  }
+]

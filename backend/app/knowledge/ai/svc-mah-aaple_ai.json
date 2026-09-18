@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-MAH-AAPLE",
+  "ai_summary": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes.",
+  "ai_explanation": "Maharashtra's Aaple Sarkar / MahaOnline portal lets residents apply for caste, income, residence, and other certificates plus state schemes from one place, with online tracking and SETU centre support. It is the gateway to most Maharashtra e-services.",
+  "eligibility_summary": "Residents of Maharashtra; service-specific criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Aaple Sarkar / MahaOnline Citizen Services",
+      "bot": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. Apply: https://aaplesarkar.mahaonline.gov.in/en. Helpline: 1800-120-8040 (MahaOnline)."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Aaple Sarkar / MahaOnline Citizen Services. Use only official info from https://aaplesarkar.mahaonline.gov.in.",
+  "follow_up_questions": [
+    "How do I get a Maharashtra domicile certificate?",
+    "What is the caste certificate processing time in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-aaple",
+    "status_svc-mah-aaple",
+    "eligibility_svc-mah-aaple"
+  ],
+  "recommended_services": [
+    "SVC-MAH-REV",
+    "SVC-MAH-DBT",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Address proof",
+    "Service-specific documents"
+  ],
+  "suggested_responses": [
+    "Visit https://aaplesarkar.mahaonline.gov.in",
+    "Call 1800-120-8040 (MahaOnline)"
+  ],
+  "recommendation_weight": 1.0
+}

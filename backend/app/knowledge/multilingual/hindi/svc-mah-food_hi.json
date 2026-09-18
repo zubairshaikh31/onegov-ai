@@ -1,0 +1,26 @@
+{
+  "name": "महाराष्ट्र राशन कार्ड",
+  "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+  "benefits": "Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "steps": [
+    "Apply via Maharashtra food supply portal / CSC.",
+    "Submit family and Aadhaar details.",
+    "Verification by rationing authority.",
+    "Ration card issued; avail PDS."
+  ],
+  "faqs": [],
+  "keywords": [
+    "maharashtra ration card",
+    "mahafood",
+    "pds",
+    "nfsa",
+    "food supply"
+  ]
+}

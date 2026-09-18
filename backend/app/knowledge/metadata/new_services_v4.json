@@ -1,0 +1,682 @@
+[
+  {
+    "id": "SVC-PMUY",
+    "name": "Pradhan Mantri Ujjwala Yojana (LPG)",
+    "category_id": "CAT-HOUSING",
+    "sub_category": "Household Energy",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.pmuy.gov.in",
+    "apply_link": "https://www.pmuy.gov.in",
+    "helpline": "1906",
+    "email": "support@pmuy.gov.in",
+    "description": "Provides deposit-free LPG connections to women from below-poverty-line households.",
+    "eligibility": "Women (18+) from BPL households as per SECC criteria.",
+    "benefits": "Deposit-free LPG connection; cheaper cooking fuel; health benefits.",
+    "docs": [
+      "BPL card / SECC details",
+      "Aadhaar",
+      "Bank account",
+      "Address proof"
+    ],
+    "steps": [
+      "Visit pmuy.gov.in or nearest LPG distributor.",
+      "Submit KYC with Aadhaar/bank/BPL proof.",
+      "Get deposit-free connection and cylinder."
+    ],
+    "keywords": [
+      "ujjwala",
+      "lpg connection",
+      "pmuy",
+      "bpl gas"
+    ],
+    "ai_summary": "PM Ujjwala Yojana gives BPL women deposit-free LPG connections for clean cooking fuel."
+  },
+  {
+    "id": "SVC-NGDR",
+    "name": "NGDRBharat (Digitized Land Records)",
+    "category_id": "CAT-STATE",
+    "sub_category": "Land Records",
+    "dept": "DEP-MAH-REV",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.ngdrbharat.gov.in",
+    "apply_link": "https://www.ngdrbharat.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "National Generic Document Registration System providing unified digital land/property registration across states.",
+    "eligibility": "State residents using integrated land registration offices.",
+    "benefits": "Transparent, faster property registration; digital records; reduced fraud.",
+    "docs": [
+      "Sale deed",
+      "Aadhaar",
+      "Party identity proof",
+      "Encumbrance certificate"
+    ],
+    "steps": [
+      "Visit state NGDRBharat/Registration portal.",
+      "Fill deed details and upload documents.",
+      "Pay stamp duty; book appointment; sign digitally."
+    ],
+    "keywords": [
+      "ngdrbharat",
+      "land registration",
+      "property registration",
+      "digitized land"
+    ],
+    "ai_summary": "NGDRBharat is the national digital land/property registration platform enabling transparent deed registration."
+  },
+  {
+    "id": "SVC-INDIAPOST",
+    "name": "India Post Services",
+    "category_id": "CAT-DIGITAL",
+    "sub_category": "Postal & Financial",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.indiapost.gov.in",
+    "apply_link": "https://www.indiapost.gov.in",
+    "helpline": "1800-11-2011",
+    "email": "customercare@indiapost.gov.in",
+    "description": "Postal, parcel, Speed Post, savings accounts, POSB, IPPB banking, and government agency services.",
+    "eligibility": "Open to all citizens; accounts per India Post schemes.",
+    "benefits": "Nationwide postal + financial inclusion; IPPB digital banking; agency services.",
+    "docs": [
+      "Aadhaar",
+      "Identity proof",
+      "Address proof",
+      "Passport-size photo"
+    ],
+    "steps": [
+      "Visit nearest post office or indiapost.gov.in.",
+      "Open account / avail service with KYC.",
+      "Use IPPB app for digital banking."
+    ],
+    "keywords": [
+      "india post",
+      "speed post",
+      "ippb",
+      "post office savings",
+      "posb"
+    ],
+    "ai_summary": "India Post offers postal, parcel, and financial services including IPPB digital banking and savings accounts."
+  },
+  {
+    "id": "SVC-APPREN",
+    "name": "National Apprenticeship (Apprenticeship India)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Apprenticeship",
+    "dept": "DEP-LAB",
+    "ministry": "MIN-LAB",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://apprenticeshipindia.gov.in",
+    "apply_link": "https://apprenticeshipindia.gov.in",
+    "helpline": "1800-233-1711",
+    "email": "support@apprenticeshipindia.gov.in",
+    "description": "National Apprenticeship Training scheme connecting apprentices with establishments for paid on-the-job training.",
+    "eligibility": "ITI/diploma/degree holders (aged 14+ for certain categories) per Apprentices Act.",
+    "benefits": "Stipend during training; industry experience; certification; employment pathway.",
+    "docs": [
+      "Educational certificates",
+      "Aadhaar",
+      "Bank account",
+      "Category certificate (if applicable)"
+    ],
+    "steps": [
+      "Register on apprenticeshipindia.gov.in as candidate.",
+      "Search establishments and apply.",
+      "Sign contract; undergo training with stipend."
+    ],
+    "keywords": [
+      "apprenticeship",
+      "nats",
+      "skill training",
+      "stipend"
+    ],
+    "ai_summary": "Apprenticeship India links candidates to paid on-the-job training with certified establishments."
+  },
+  {
+    "id": "SVC-MSDE",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category_id": "CAT-LABOUR",
+    "sub_category": "Skill Development",
+    "dept": "DEP-LAB",
+    "ministry": "MIN-LAB",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.msde.gov.in",
+    "apply_link": "https://www.pmkvyofficial.org",
+    "helpline": "1800-233-7878",
+    "email": "support@pmkvyofficial.org",
+    "description": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+    "eligibility": "Indian youth (often 15-45) seeking skill certification.",
+    "benefits": "Free training, certification, placement support, monetary reward on certification.",
+    "docs": [
+      "Aadhaar",
+      "Educational proof",
+      "Bank account",
+      "Age proof"
+    ],
+    "steps": [
+      "Find PMKVY training centre (Training Partner).",
+      "Enrol with Aadhaar and documents.",
+      "Complete training; appear for assessment; get certificate."
+    ],
+    "keywords": [
+      "pmkvy",
+      "skill india",
+      "skill certification",
+      "training"
+    ],
+    "ai_summary": "PMKVY provides free skill training and certification with placement support to Indian youth."
+  },
+  {
+    "id": "SVC-NIELIT",
+    "name": "NIELIT Certification & Services",
+    "category_id": "CAT-DIGITAL",
+    "sub_category": "Digital Skilling",
+    "dept": "DEP-NEGD",
+    "ministry": "MIN-MEITY",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.nielit.gov.in",
+    "apply_link": "https://www.nielit.gov.in",
+    "helpline": "Not Available",
+    "email": "helpdesk@nielit.gov.in",
+    "description": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses.",
+    "eligibility": "Candidates per course (schooling/diploma as applicable).",
+    "benefits": "Govt-recognized IT/electronics certifications; employment readiness.",
+    "docs": [
+      "Educational certificates",
+      "Aadhaar",
+      "Photo"
+    ],
+    "steps": [
+      "Choose course on nielit.gov.in.",
+      "Apply online / at centre.",
+      "Complete training and examination; get certificate."
+    ],
+    "keywords": [
+      "nielit",
+      "digital literacy",
+      "o level",
+      "it certification"
+    ],
+    "ai_summary": "NIELIT offers government-recognized electronics and IT certifications and digital literacy courses."
+  },
+  {
+    "id": "SVC-AYUSHMAN",
+    "name": "Ayushman Bharat Health & Wellness Centres",
+    "category_id": "CAT-HEALTH",
+    "sub_category": "Primary Health",
+    "dept": "DEP-MoHFW",
+    "ministry": "MIN-HEA",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://abdm.gov.in",
+    "apply_link": "https://pmjay.gov.in",
+    "helpline": "14555",
+    "email": "pmjay@nha.gov.in",
+    "description": "Network of Health & Wellness Centres delivering comprehensive primary health care at the community level.",
+    "eligibility": "All residents; ABHA-linked services; PM-JAY for eligible families.",
+    "benefits": "Free essential health services, screenings, and referrals at HWCs.",
+    "docs": [
+      "ABHA ID",
+      "Aadhaar",
+      "Ration/ID proof"
+    ],
+    "steps": [
+      "Locate nearest Health & Wellness Centre.",
+      "Register with ABHA/Aadhaar.",
+      "Avail free primary care services."
+    ],
+    "keywords": [
+      "health and wellness centre",
+      "hwc",
+      "ayushman primary care",
+      "abha"
+    ],
+    "ai_summary": "Ayushman Bharat Health & Wellness Centres provide free primary health care at the community level."
+  },
+  {
+    "id": "SVC-RAKSHABANDHAN",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "category_id": "CAT-FINANCE",
+    "sub_category": "Insurance",
+    "dept": "DEP-CBDT",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.mygov.in",
+    "apply_link": "https://www.jansuraksha.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year.",
+    "eligibility": "Indian citizens aged 18-70 with a linked bank account.",
+    "benefits": "Low-cost accidental death/disablement cover; auto-debit enrolment.",
+    "docs": [
+      "Aadhaar",
+      "Bank account"
+    ],
+    "steps": [
+      "Visit bank or jansuraksha.gov.in.",
+      "Give consent for auto-debit of Rs. 20.",
+      "Get enrolled; download certificate."
+    ],
+    "keywords": [
+      "pmsby",
+      "accident insurance",
+      "jansuraksha",
+      "suraksha bima"
+    ],
+    "ai_summary": "PMSBY offers Rs. 2 lakh accident insurance cover at just Rs. 20/year for adults with a bank account."
+  },
+  {
+    "id": "SVC-JDY",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category_id": "CAT-FINANCE",
+    "sub_category": "Financial Inclusion",
+    "dept": "DEP-CBDT",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.pmjdy.gov.in",
+    "apply_link": "https://www.pmjdy.gov.in",
+    "helpline": "1800-11-0001",
+    "email": "Not Available",
+    "description": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance.",
+    "eligibility": "Any Indian citizen (resident) above 10 years; one account per person.",
+    "benefits": "Zero-balance account, RuPay card, accident insurance, overdraft, DBT access.",
+    "docs": [
+      "Aadhaar",
+      "Identity proof",
+      "Address proof"
+    ],
+    "steps": [
+      "Visit bank/Bank Mitra with Aadhaar and proof.",
+      "Open account; get RuPay card.",
+      "Avail DBT and insurance benefits."
+    ],
+    "keywords": [
+      "jan dhan",
+      "pmjdy",
+      "zero balance account",
+      "financial inclusion"
+    ],
+    "ai_summary": "PMJDY provides every household a zero-balance bank account with RuPay card and insurance cover."
+  },
+  {
+    "id": "SVC-SUKANYA",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category_id": "CAT-FINANCE",
+    "sub_category": "Girl Child Savings",
+    "dept": "DEP-CBDT",
+    "ministry": "MIN-GOI",
+    "level": "Central",
+    "state": null,
+    "official_portal": "https://www.indiapost.gov.in",
+    "apply_link": "https://www.indiapost.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns.",
+    "eligibility": "Parents/guardians of a girl child below age 10; one account per child (max 2 per family).",
+    "benefits": "High interest (govt-set), tax-free, partial withdrawal for education/marriage at 18+.",
+    "docs": [
+      "Birth certificate of girl child",
+      "Parent guardian ID",
+      "Address proof",
+      "Photograph"
+    ],
+    "steps": [
+      "Open at post office or authorised bank.",
+      "Deposit yearly (min Rs. 250).",
+      "Manage until maturity at age 21."
+    ],
+    "keywords": [
+      "sukanya samriddhi",
+      "ssy",
+      "girl child scheme",
+      "small savings"
+    ],
+    "ai_summary": "SSY is a government small-savings scheme for girl children with tax-free high returns."
+  },
+  {
+    "id": "SVC-MAH-ANNA",
+    "name": "Maha Anna (Maharashtra Ration / NFSA)",
+    "category_id": "CAT-STATE",
+    "sub_category": "Food & PDS (Maharashtra)",
+    "dept": "DEP-MAH-FOOD",
+    "ministry": "MIN-MAH",
+    "level": "State",
+    "state": "MH",
+    "official_portal": "https://mahafood.gov.in",
+    "apply_link": "https://mahafood.gov.in",
+    "helpline": "1800-222-362",
+    "email": "fcscrti-maha@gov.in",
+    "description": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+    "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+    "benefits": "Subsidised rice/wheat/cereals via Fair Price Shops; portability under One Nation One Ration Card.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof",
+      "Family details"
+    ],
+    "steps": [
+      "Apply via MahaFood portal / rationing office.",
+      "Verification by authority.",
+      "Issuance; avail PDS."
+    ],
+    "keywords": [
+      "maha anna",
+      "maharashtra ration",
+      "nfsa maharashtra",
+      "pds"
+    ],
+    "ai_summary": "Maha Anna is Maharashtra's NFSA ration system providing subsidised foodgrains through PDS."
+  },
+  {
+    "id": "SVC-MAH-CMRELIEF",
+    "name": "Maharashtra Chief Minister Relief Fund",
+    "category_id": "CAT-STATE",
+    "sub_category": "Relief & Welfare (Maharashtra)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-MAH",
+    "level": "State",
+    "state": "MH",
+    "official_portal": "https://www.maharashtra.gov.in",
+    "apply_link": "https://www.maharashtra.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "State relief fund assisting citizens in distress, natural calamities, and medical emergencies.",
+    "eligibility": "Maharashtra residents in notified distress/calamity situations.",
+    "benefits": "Financial assistance for calamity, medical, and ex-gratia support.",
+    "docs": [
+      "Identity proof",
+      "Distress/calamity proof",
+      "Bank account"
+    ],
+    "steps": [
+      "Apply through district administration / online portal.",
+      "Verification of distress.",
+      "Disbursement of relief."
+    ],
+    "keywords": [
+      "cm relief fund",
+      "maharashtra relief",
+      "distress assistance"
+    ],
+    "ai_summary": "Maharashtra CM Relief Fund provides financial assistance to residents facing calamity or medical distress."
+  },
+  {
+    "id": "SVC-MAH-SHETKARI",
+    "name": "Maharashtra Farmer Welfare Schemes",
+    "category_id": "CAT-STATE",
+    "sub_category": "Agriculture (Maharashtra)",
+    "dept": "DEP-DARE",
+    "ministry": "MIN-MAH",
+    "level": "State",
+    "state": "MH",
+    "official_portal": "https://mahaagri.gov.in",
+    "apply_link": "https://mahaagri.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "State agriculture department schemes: farm loans, subsidies, crop insurance (PMFBY state window), and support.",
+    "eligibility": "Maharashtra farmers with land records; scheme-specific criteria.",
+    "benefits": "Input subsidies, loan waiver/relief, crop insurance, drip/solar subsidies.",
+    "docs": [
+      "7/12 land record",
+      "Aadhaar",
+      "Bank account",
+      "Caste/category cert (if applicable)"
+    ],
+    "steps": [
+      "Visit mahaagri.gov.in.",
+      "Select scheme; apply with land/identity docs.",
+      "Verification; benefit disbursal."
+    ],
+    "keywords": [
+      "maharashtra farmer",
+      "mahaagri",
+      "crop insurance",
+      "farm subsidy"
+    ],
+    "ai_summary": "Maharashtra farmer welfare schemes offer subsidies, crop insurance, and loan support via mahaagri.gov.in."
+  },
+  {
+    "id": "SVC-DL-RATION",
+    "name": "Delhi Ration Card / e-District",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Delhi)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "DL",
+    "official_portal": "https://edistrict.delhigovt.nic.in",
+    "apply_link": "https://edistrict.delhigovt.nic.in",
+    "helpline": "1076",
+    "email": "Not Available",
+    "description": "Delhi e-District portal for ration cards, certificates, and citizen services.",
+    "eligibility": "Delhi residents as per service criteria.",
+    "benefits": "Online certificates, ration card, and department services.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "DOB proof"
+    ],
+    "steps": [
+      "Register on edistrict.delhigovt.nic.in.",
+      "Apply for service; upload docs.",
+      "Track and download certificate."
+    ],
+    "keywords": [
+      "delhi edistrict",
+      "delhi ration",
+      "delhi certificate"
+    ],
+    "ai_summary": "Delhi e-District provides online ration cards and certificates for Delhi residents."
+  },
+  {
+    "id": "SVC-UP-RATION",
+    "name": "Uttar Pradesh e-District / Ration",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Uttar Pradesh)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "UP",
+    "official_portal": "https://edistrict.up.gov.in",
+    "apply_link": "https://edistrict.up.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "UP e-District portal for caste/income/residence certificates and ration services.",
+    "eligibility": "Uttar Pradesh residents per service criteria.",
+    "benefits": "Online certificates and scheme applications.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof"
+    ],
+    "steps": [
+      "Register on edistrict.up.gov.in.",
+      "Apply and upload documents.",
+      "Verify and collect certificate."
+    ],
+    "keywords": [
+      "up edistrict",
+      "up ration",
+      "up certificate"
+    ],
+    "ai_summary": "UP e-District delivers certificates and ration services online for Uttar Pradesh residents."
+  },
+  {
+    "id": "SVC-GJ-DIGITAL",
+    "name": "Digital Gujarat Portal",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Gujarat)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "GJ",
+    "official_portal": "https://digitalgujarat.gov.in",
+    "apply_link": "https://digitalgujarat.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Gujarat's integrated portal for certificates, scholarships, and citizen services.",
+    "eligibility": "Gujarat residents per service criteria.",
+    "benefits": "Single-window certificates, scholarships, and schemes.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income/caste proof"
+    ],
+    "steps": [
+      "Register on digitalgujarat.gov.in.",
+      "Select service; apply.",
+      "Track and download."
+    ],
+    "keywords": [
+      "digital gujarat",
+      "gujarat services",
+      "gujarat scholarship"
+    ],
+    "ai_summary": "Digital Gujarat is the state single-window portal for certificates, scholarships, and services."
+  },
+  {
+    "id": "SVC-KA-EDISTRICT",
+    "name": "Karnataka Seva Sindhu / e-District",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Karnataka)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "KA",
+    "official_portal": "https://sevasindhu.karnataka.gov.in",
+    "apply_link": "https://sevasindhu.karnataka.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Karnataka's integrated service delivery portal for certificates and schemes.",
+    "eligibility": "Karnataka residents per service criteria.",
+    "benefits": "Online certificates, ration, and welfare schemes.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof"
+    ],
+    "steps": [
+      "Register on sevasindhu.karnataka.gov.in.",
+      "Apply; upload docs.",
+      "Track and download."
+    ],
+    "keywords": [
+      "seva sindhu",
+      "karnataka edistrict",
+      "karnataka services"
+    ],
+    "ai_summary": "Seva Sindhu is Karnataka's single-window portal for citizen certificates and schemes."
+  },
+  {
+    "id": "SVC-TN-ESEVAI",
+    "name": "Tamil Nadu e-Sevai / e-District",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Tamil Nadu)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "TN",
+    "official_portal": "https://eservices.tn.gov.in",
+    "apply_link": "https://eservices.tn.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services.",
+    "eligibility": "Tamil Nadu residents per service criteria.",
+    "benefits": "Online/offline certificates and service delivery.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof"
+    ],
+    "steps": [
+      "Visit e-Sevai centre or portal.",
+      "Apply; upload docs.",
+      "Collect certificate."
+    ],
+    "keywords": [
+      "tn esevai",
+      "tamil nadu edistrict",
+      "tn certificate"
+    ],
+    "ai_summary": "Tamil Nadu e-Sevai provides certificates and citizen services through centres and portal."
+  },
+  {
+    "id": "SVC-WB-DUARE",
+    "name": "West Bengal Duare Sarkar / e-District",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (West Bengal)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "WB",
+    "official_portal": "https://edistrict.wb.gov.in",
+    "apply_link": "https://edistrict.wb.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "West Bengal e-District / Duare Sarkar camps for certificates and schemes.",
+    "eligibility": "West Bengal residents per service criteria.",
+    "benefits": "Doorstep certificate and scheme enrolment camps.",
+    "docs": [
+      "Aadhaar",
+      "Address proof",
+      "Income proof"
+    ],
+    "steps": [
+      "Attend Duare Sarkar camp or apply online.",
+      "Submit documents.",
+      "Receive service."
+    ],
+    "keywords": [
+      "duare sarkar",
+      "wb edistrict",
+      "west bengal services"
+    ],
+    "ai_summary": "West Bengal Duare Sarkar/e-District delivers certificates and schemes via camps and portal."
+  },
+  {
+    "id": "SVC-RAJ-ECM",
+    "name": "Rajasthan e-Mitra / SSO",
+    "category_id": "CAT-STATE",
+    "sub_category": "Citizen Services (Rajasthan)",
+    "dept": "DEP-MAH",
+    "ministry": "MIN-GOI",
+    "level": "State",
+    "state": "RJ",
+    "official_portal": "https://sso.rajasthan.gov.in",
+    "apply_link": "https://sso.rajasthan.gov.in",
+    "helpline": "Not Available",
+    "email": "Not Available",
+    "description": "Rajasthan SSO / e-Mitra single-sign-on for state services and certificates.",
+    "eligibility": "Rajasthan residents; SSO ID registration.",
+    "benefits": "Unified access to hundreds of state services via e-Mitra kiosks.",
+    "docs": [
+      "Aadhaar",
+      "Mobile",
+      "Address proof"
+    ],
+    "steps": [
+      "Create SSO ID on sso.rajasthan.gov.in.",
+      "Use e-Mitra for services.",
+      "Track and download."
+    ],
+    "keywords": [
+      "rajasthan sso",
+      "emitra",
+      "rajasthan services"
+    ],
+    "ai_summary": "Rajasthan SSO/e-Mitra is the single-sign-on gateway to state citizen services."
+  }
+]

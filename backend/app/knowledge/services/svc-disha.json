@@ -1,0 +1,47 @@
+{
+  "service_id": "SVC-DISHA",
+  "name": "DISHA / CSC 2.0",
+  "category_id": "CAT-DIGITAL",
+  "sub_category": "Digital Literacy",
+  "department_id": "DEP-NEGD",
+  "ministry_id": "MIN-MEITY",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Digital literacy and rural services through CSCs.",
+  "eligibility": "Rural citizens.",
+  "benefits": "Digital literacy, services.",
+  "required_documents": [
+    "Aadhaar"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Visit CSC.",
+    "Enroll in course/service."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.csc.gov.in",
+  "official_apply_link": "https://www.csc.gov.in",
+  "download_forms": "https://www.csc.gov.in",
+  "helpline_number": "1800-3000-3468",
+  "email": "helpdesk@csc.gov.in",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.csc.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "DISHA promotes rural digital literacy via CSCs.",
+  "ai_explanation": "Digital literacy and rural services through CSCs.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "disha",
+    "digital literacy"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

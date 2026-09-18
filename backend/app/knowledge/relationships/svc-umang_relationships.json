@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-UMANG",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [
+    "SVC-DIGILOCKER",
+    "SVC-EPFO",
+    "SVC-ITR"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-UMANG"
+}

@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-ITR",
+  "ai_summary": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked.",
+  "ai_explanation": "Taxpayers file annual returns on the e-Filing portal using the appropriate ITR form, pre-filling data where available. After paying any due tax they verify the return via Aadhaar OTP or EVC. PAN must be linked to Aadhaar. Late filing attracts Section 234F fees.",
+  "eligibility_summary": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover).",
+  "conversation_examples": [
+    {
+      "user": "I want Income Tax e-Filing & Return (ITR)",
+      "bot": "Income Tax e-Filing lets taxpayers file ITRs, pay tax, and claim refunds online; Aadhaar-PAN linked. Apply: https://www.incometax.gov.in/iec/foportal/. Helpline: 1800-103-0023 / 1961."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Income Tax e-Filing & Return (ITR). Use only official info from https://www.incometax.gov.in.",
+  "follow_up_questions": [
+    "What are the ITR deadlines?",
+    "How do I respond to a tax notice?"
+  ],
+  "intent_examples": [
+    "apply_svc-itr",
+    "status_svc-itr",
+    "eligibility_svc-itr"
+  ],
+  "recommended_services": [
+    "SVC-GST",
+    "SVC-GST",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "PAN",
+    "Aadhaar (linked)",
+    "Form 16 / 16A",
+    "Bank statements",
+    "Investment proofs"
+  ],
+  "suggested_responses": [
+    "Visit https://www.incometax.gov.in",
+    "Call 1800-103-0023 / 1961"
+  ],
+  "recommendation_weight": 1.0
+}

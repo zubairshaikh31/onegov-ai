@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-PMJAY",
+  "ai_summary": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility.",
+  "ai_explanation": "PM-JAY covers secondary/tertiary hospitalization costs up to Rs. 5 lakh per family per year for poor and vulnerable households identified via SECC. Beneficiaries get an Ayushman card and receive cashless treatment at empanelled hospitals with no out-of-pocket premium.",
+  "eligibility_summary": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand.",
+  "conversation_examples": [
+    {
+      "user": "I want Ayushman Bharat PM-JAY",
+      "bot": "PM-JAY gives eligible families Rs. 5 lakh/year cashless hospitalization; free, SECC-based eligibility. Apply: https://pmjay.gov.in/beneficiary-portal/. Helpline: 14555 / 1800-11-15555."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Ayushman Bharat PM-JAY. Use only official info from https://pmjay.gov.in.",
+  "follow_up_questions": [
+    "How do I link ABHA with my Ayushman card?",
+    "What is not covered under PM-JAY?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmjay",
+    "status_svc-pmjay",
+    "eligibility_svc-pmjay"
+  ],
+  "recommended_services": [
+    "SVC-ABDM",
+    "SVC-ABDM",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Ayushman card / ABHA",
+    "Eligibility confirmation (SECC/Rural-Urban)",
+    "ID proof (Aadhaar/Voter/ration)"
+  ],
+  "suggested_responses": [
+    "Visit https://pmjay.gov.in",
+    "Call 14555 / 1800-11-15555"
+  ],
+  "recommendation_weight": 1.0
+}

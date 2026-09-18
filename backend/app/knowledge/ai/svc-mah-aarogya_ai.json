@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-MAH-AAROGYA",
+  "ai_summary": "MJPJAY provides cashless health cover to eligible Maharashtra families.",
+  "ai_explanation": "Maharashtra cashless health scheme for specified families.",
+  "eligibility_summary": "Maharashtra families (yellow/orange ration card / eligible).",
+  "conversation_examples": [
+    {
+      "user": "I want Mahatma Jyotiba Phule Jan Arogya Yojana (MH)",
+      "bot": "MJPJAY provides cashless health cover to eligible Maharashtra families. Apply: https://www.jeevandayee.gov.in. Helpline: 155388."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Mahatma Jyotiba Phule Jan Arogya Yojana (MH). Use only https://www.jeevandayee.gov.in.",
+  "follow_up_questions": [
+    "What documents for Mahatma Jyotiba Phule Jan Arogya Yojana (MH)?",
+    "How long for Mahatma Jyotiba Phule Jan Arogya Yojana (MH)?"
+  ],
+  "intent_examples": [
+    "apply_svc-mah-aarogya",
+    "status_svc-mah-aarogya"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Ration card",
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://www.jeevandayee.gov.in",
+    "Call 155388"
+  ],
+  "recommendation_weight": 1.0
+}

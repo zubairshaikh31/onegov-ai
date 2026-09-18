@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Visit udyamregistration.gov.in; Aadhaar-validate."
+  },
+  {
+    "step": 2,
+    "description": "Enter PAN and business details."
+  },
+  {
+    "step": 3,
+    "description": "Fill investment/turnover and activity."
+  },
+  {
+    "step": 4,
+    "description": "Submit; download Udyam certificate instantly."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-AAPLE",
+  "ai_summary": "Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes.",
+  "ai_explanation": "Maharashtra's Aaple Sarkar / MahaOnline portal lets residents apply for caste, income, residence, and other certificates plus state schemes from one place, with online tracking and SETU centre support. It is the gateway to most Maharashtra e-services.",
+  "common_questions": [
+    "How do I apply for a caste certificate in Maharashtra?",
+    "What is Aaple Sarkar?",
+    "How do I track my certificate application?",
+    "Where are SETU centres?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for a caste certificate in Maharashtra?",
+      "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+    },
+    {
+      "user": "What is Aaple Sarkar?",
+      "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+    },
+    {
+      "user": "How do I track my certificate application?",
+      "bot": "For Aaple Sarkar / MahaOnline Citizen Services, Aaple Sarkar (MahaOnline) is Maharashtra's single-window portal for certificates and schemes. You can apply at https://aaplesarkar.mahaonline.gov.in/en."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-mah-aaple",
+    "status_svc-mah-aaple",
+    "eligibility_svc-mah-aaple"
+  ],
+  "user_utterances": [
+    "I want Aaple Sarkar / MahaOnline Citizen Services",
+    "Need Aaple Sarkar / MahaOnline Citizen Services",
+    "Aaple Sarkar / MahaOnline Citizen Services help"
+  ],
+  "follow_up_questions": [
+    "How do I get a Maharashtra domicile certificate?",
+    "What is the caste certificate processing time in Maharashtra?"
+  ],
+  "recommended_responses": [
+    "Visit https://aaplesarkar.mahaonline.gov.in",
+    "Call helpline 1800-120-8040 (MahaOnline)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://aaplesarkar.mahaonline.gov.in/en"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-120-8040 (MahaOnline)"
+    }
+  ]
+}

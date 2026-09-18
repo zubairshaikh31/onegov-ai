@@ -1,0 +1,51 @@
+{
+  "service_id": "SVC-WB-DUARE",
+  "name": "West Bengal Duare Sarkar / e-District",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen Services (West Bengal)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "WB",
+  "description": "West Bengal e-District / Duare Sarkar camps for certificates and schemes.",
+  "eligibility": "West Bengal residents per service criteria.",
+  "benefits": "Doorstep certificate and scheme enrolment camps.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Attend Duare Sarkar camp or apply online.",
+    "Submit documents.",
+    "Receive service."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://edistrict.wb.gov.in",
+  "official_apply_link": "https://edistrict.wb.gov.in",
+  "download_forms": "https://edistrict.wb.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://edistrict.wb.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "West Bengal Duare Sarkar/e-District delivers certificates and schemes via camps and portal.",
+  "ai_explanation": "West Bengal e-District / Duare Sarkar camps for certificates and schemes.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "duare sarkar",
+    "wb edistrict",
+    "west bengal services"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

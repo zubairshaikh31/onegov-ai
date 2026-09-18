@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MIN-MEA",
+    "name": "Ministry of External Affairs",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-ECI",
+    "name": "Election Commission of India",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-AGR",
+    "name": "Ministry of Agriculture & Farmers Welfare",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-HEA",
+    "name": "Ministry of Health & Family Welfare",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-LAB",
+    "name": "Ministry of Labour & Employment",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-MSME",
+    "name": "Ministry of Micro, Small and Medium Enterprises",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-DPIIT",
+    "name": "Department for Promotion of Industry and Internal Trade",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-CBDT",
+    "name": "Central Board of Direct Taxes",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-CBIC",
+    "name": "Central Board of Indirect Taxes and Customs",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-MEITY",
+    "name": "Ministry of Electronics and Information Technology",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-HOU",
+    "name": "Ministry of Housing and Urban Affairs",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-EDU",
+    "name": "Ministry of Education",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-RTW",
+    "name": "Ministry of Road Transport and Highways",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-GOI",
+    "name": "Government of India (cross-ministry)",
+    "level": "Central",
+    "state_id": null
+  },
+  {
+    "id": "MIN-MAH",
+    "name": "Government of Maharashtra",
+    "level": "State",
+    "state_id": "MH"
+  }
+]

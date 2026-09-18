@@ -1,0 +1,23 @@
+{
+  "event": "birth",
+  "services": [
+    "SVC-AADHAAR",
+    "SVC-VOTER",
+    "SVC-MAH-DOMICILE"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-AADHAAR",
+    "SVC-VOTER",
+    "SVC-MAH-DOMICILE"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-aadhaar_guide.md",
+    "tutorials/md/svc-voter_guide.md",
+    "tutorials/md/svc-mah-domicile_guide.md"
+  ]
+}

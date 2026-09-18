@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-PASSPORT-SEVA",
+  "ai_summary": "Passport Seva issues Indian passports.",
+  "ai_explanation": "Passport issuance, renewal, miscellaneous services.",
+  "eligibility_summary": "Indian citizens.",
+  "conversation_examples": [
+    {
+      "user": "I want Passport Seva (Re-enrich)",
+      "bot": "Passport Seva issues Indian passports. Apply: https://www.passportindia.gov.in. Helpline: 1800-258-1800."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Passport Seva (Re-enrich). Use only https://www.passportindia.gov.in.",
+  "follow_up_questions": [
+    "What documents for Passport Seva (Re-enrich)?",
+    "How long for Passport Seva (Re-enrich)?"
+  ],
+  "intent_examples": [
+    "apply_svc-passport-seva",
+    "status_svc-passport-seva"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Birth cert",
+    "Address proof",
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://www.passportindia.gov.in",
+    "Call 1800-258-1800"
+  ],
+  "recommendation_weight": 1.0
+}

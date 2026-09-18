@@ -1,0 +1,36 @@
+{
+  "name": "Academic Bank of Credits (ABC)",
+  "description": "National digital storehouse of academic credits earned from HEIs, enabling transfer and accumulation.",
+  "eligibility": "Students of participating Higher Education Institutions.",
+  "benefits": "Store credits, transfer across institutions, flexible degree pathways.",
+  "application_steps": [
+    "Create ABC ID via abc.gov.in / institutional link.",
+    "HEI deposits earned credits.",
+    "View and manage credit stack.",
+    "Transfer/redeem per framework."
+  ],
+  "faqs": [
+    "Who can open an ABC account?",
+    "What is ABC ID?",
+    "How do I create an Academic Bank of Credits account?",
+    "Can I transfer credits between universities?",
+    "Which universities use ABC?"
+  ],
+  "keywords": [
+    "abc",
+    "academic bank of credits",
+    "ugc",
+    "credit transfer",
+    "higher education"
+  ],
+  "documents": [
+    "Aadhaar / ABC ID",
+    "Student HEI enrollment"
+  ],
+  "steps": [
+    "Create ABC ID via abc.gov.in / institutional link.",
+    "HEI deposits earned credits.",
+    "View and manage credit stack.",
+    "Transfer/redeem per framework."
+  ]
+}

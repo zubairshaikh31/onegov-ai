@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-EPFO",
+  "references": [
+    {
+      "act": "Employees' Provident Funds & Misc. Provisions Act, 1952",
+      "rule": "EPF Scheme, 1952",
+      "authority": "Ministry of Labour"
+    }
+  ]
+}

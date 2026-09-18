@@ -1,0 +1,84 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+  "category_id": "CAT-STATE",
+  "sub_category": "Food & Public Distribution (Maharashtra)",
+  "department_id": "DEP-MAH-FOOD",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "Maharashtra ration card issuance and PDS entitlements under NFSA/state schemes.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "benefits": "Subsidised foodgrains via PDS; priority/APL/BPL categories.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "optional_documents": [
+    "Earlier ration card"
+  ],
+  "application_mode": "Online (maha food portal) and rationing offices / CSC",
+  "application_steps": [
+    "Apply via Maharashtra food supply portal / CSC.",
+    "Submit family and Aadhaar details.",
+    "Verification by rationing authority.",
+    "Ration card issued; avail PDS."
+  ],
+  "processing_time": "Per district verification (weeks).",
+  "fees": "As per state schedule (nominal).",
+  "validity": "Until cancellation/update.",
+  "official_portal": "https://mahafood.gov.in",
+  "official_apply_link": "https://mahafood.gov.in",
+  "download_forms": "https://mahafood.gov.in",
+  "helpline_number": "1800-222-362 (Toll-free, MahaFood)",
+  "email": "fcscrti-maha@gov.in",
+  "office_locator_info": "District Supply Offices; Fair Price Shops.",
+  "faq": [
+    {
+      "q": "How do I add a member to my ration card?",
+      "a": "Apply for modification at the rationing office / portal with proof."
+    }
+  ],
+  "related_services": [
+    "SVC-MAH-AAPLE",
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "maharashtra ration card",
+    "mahafood",
+    "pds",
+    "nfsa",
+    "food supply"
+  ],
+  "languages_available": "Marathi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://mahafood.gov.in",
+  "ai_summary": "Maharashtra ration cards (MahaFood) provide subsidised PDS foodgrains under NFSA/state schemes.",
+  "ai_explanation": "The Maharashtra Food, Civil Supplies department issues ration cards classifying households (Priority/APL/BPL) for subsidised foodgrains through Fair Price Shops under NFSA and state schemes. Aadhaar-seeded cards enable DBT/portability.",
+  "common_questions": [
+    "How do I apply for a ration card in Maharashtra?",
+    "What are NFSA ration card types?",
+    "How do I add a member to my ration card?",
+    "Where is my nearest ration shop?"
+  ],
+  "common_mistakes": [
+    "Not seeding Aadhaar",
+    "Wrong category selection",
+    "Duplicate cards"
+  ],
+  "search_keywords": [
+    "maharashtra ration card apply",
+    "mahafood login",
+    "pds shop near me",
+    "nfsa maharashtra"
+  ],
+  "suggested_followups": [
+    "How do I transfer my ration card to another district?",
+    "What is One Nation One Ration Card in Maharashtra?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

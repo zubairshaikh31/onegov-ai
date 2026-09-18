@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-ABDM",
+  "ai_summary": "ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers.",
+  "ai_explanation": "ABDM builds a digital health infrastructure where residents create an ABHA ID to consolidate health records and share them with providers on a consent basis. It is free and voluntary, improving continuity of care.",
+  "common_questions": [
+    "What is ABHA ID?",
+    "How do I create a Health ID?",
+    "Is ABHA mandatory?",
+    "How is my data protected?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is ABHA ID?",
+      "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+    },
+    {
+      "user": "How do I create a Health ID?",
+      "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+    },
+    {
+      "user": "Is ABHA mandatory?",
+      "bot": "For Ayushman Bharat Digital Mission (ABHA), ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers. You can apply at https://abha.abdm.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-abdm",
+    "status_svc-abdm",
+    "eligibility_svc-abdm"
+  ],
+  "user_utterances": [
+    "I want Ayushman Bharat Digital Mission (ABHA)",
+    "Need Ayushman Bharat Digital Mission (ABHA)",
+    "Ayushman Bharat Digital Mission (ABHA) help"
+  ],
+  "follow_up_questions": [
+    "How do I link my hospital records to ABHA?",
+    "How do I revoke data consent?"
+  ],
+  "recommended_responses": [
+    "Visit https://abdm.gov.in",
+    "Call helpline 1800-11-4477 / 1800-11-6644"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://abha.abdm.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-11-4477 / 1800-11-6644"
+    }
+  ]
+}

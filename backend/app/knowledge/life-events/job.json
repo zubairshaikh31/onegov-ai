@@ -1,0 +1,19 @@
+{
+  "services": [
+    "SVC-NCS",
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-ESHRAM",
+    "SVC-UDYAM"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Bank account",
+    "Educational certificates"
+  ],
+  "schemes": [
+    "EPF",
+    "ESIC",
+    "e-Shram"
+  ]
+}

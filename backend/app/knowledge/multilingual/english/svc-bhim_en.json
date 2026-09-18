@@ -1,0 +1,27 @@
+{
+  "name": "BHIM / UPI (NPCI)",
+  "description": "Unified Payments Interface enabling instant bank-to-bank mobile payments.",
+  "benefits": "Instant, low-cost digital payments.",
+  "eligibility": "Any Indian with a bank account and smartphone.",
+  "documents": [
+    "Bank account",
+    "Mobile"
+  ],
+  "steps": [
+    "Install BHIM app.",
+    "Link bank + UPI PIN.",
+    "Send/receive money."
+  ],
+  "faqs": [
+    "What is BHIM / UPI (NPCI)?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "bhim",
+    "upi",
+    "digital payment"
+  ]
+}

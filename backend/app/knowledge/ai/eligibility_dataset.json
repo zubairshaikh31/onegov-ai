@@ -1,0 +1,322 @@
+[
+  {
+    "service_id": "SVC-AADHAAR",
+    "eligibility": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders."
+  },
+  {
+    "service_id": "SVC-PASSPORT",
+    "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent."
+  },
+  {
+    "service_id": "SVC-VOTER",
+    "eligibility": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency."
+  },
+  {
+    "service_id": "SVC-PMKISAN",
+    "eligibility": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories."
+  },
+  {
+    "service_id": "SVC-ENAM",
+    "eligibility": "Farmers, traders, and FPOs registered with linked APMC mandis."
+  },
+  {
+    "service_id": "SVC-PMJAY",
+    "eligibility": "Based on SECC deprivation criteria and socio-economic parameters; beneficiaries identified via NHA database. States may expand."
+  },
+  {
+    "service_id": "SVC-ABDM",
+    "eligibility": "Any Indian resident (voluntary opt-in)."
+  },
+  {
+    "service_id": "SVC-ESHRAM",
+    "eligibility": "Unorganised workers aged 16-59, not members of EPFO/ESIC, with Aadhaar."
+  },
+  {
+    "service_id": "SVC-EPFO",
+    "eligibility": "Employees with basic wage up to statutory limit in establishments covered under EPF Act."
+  },
+  {
+    "service_id": "SVC-ESIC",
+    "eligibility": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments."
+  },
+  {
+    "service_id": "SVC-NCS",
+    "eligibility": "Any job seeker (citizen) or employer in India."
+  },
+  {
+    "service_id": "SVC-UDYAM",
+    "eligibility": "Enterprises meeting MSME investment/turnover thresholds (manufacturing/services)."
+  },
+  {
+    "service_id": "SVC-STARTUP",
+    "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation."
+  },
+  {
+    "service_id": "SVC-GEM",
+    "eligibility": "Sellers (including MSMEs) and government buyers; sellers need business registration, bank, tax details."
+  },
+  {
+    "service_id": "SVC-ITR",
+    "eligibility": "Individuals/entities with taxable income or mandated filing (e.g., refund, foreign asset, high turnover)."
+  },
+  {
+    "service_id": "SVC-GST",
+    "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual)."
+  },
+  {
+    "service_id": "SVC-DIGILOCKER",
+    "eligibility": "Indian citizens with Aadhaar (used for sign-up)."
+  },
+  {
+    "service_id": "SVC-UMANG",
+    "eligibility": "Any citizen with a smartphone; services may need respective IDs."
+  },
+  {
+    "service_id": "SVC-PMAYU",
+    "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply."
+  },
+  {
+    "service_id": "SVC-NSP",
+    "eligibility": "Students meeting scheme-specific criteria (merit, income, category, institution)."
+  },
+  {
+    "service_id": "SVC-SWAYAM",
+    "eligibility": "Open to all learners; some courses have eligibility for credit/ exam."
+  },
+  {
+    "service_id": "SVC-ABC",
+    "eligibility": "Students of participating Higher Education Institutions."
+  },
+  {
+    "service_id": "SVC-PARIVAHAN",
+    "eligibility": "Vehicle owners and driving licence applicants as per Motor Vehicles Act."
+  },
+  {
+    "service_id": "SVC-MAH-AAPLE",
+    "eligibility": "Residents of Maharashtra; service-specific criteria."
+  },
+  {
+    "service_id": "SVC-MAH-REV",
+    "eligibility": "Landowners / general public for non-certified view; certified copies per process."
+  },
+  {
+    "service_id": "SVC-MAH-FOOD",
+    "eligibility": "Maharashtra households meeting NFSA/state poverty criteria."
+  },
+  {
+    "service_id": "SVC-MAH-DBT",
+    "eligibility": "Maharashtra residents meeting scheme criteria (caste/income/merit)."
+  },
+  {
+    "service_id": "SVC-MAH-RTO",
+    "eligibility": "Maharashtra residents / vehicle owners / licence applicants."
+  },
+  {
+    "service_id": "SVC-DL",
+    "eligibility": "Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test."
+  },
+  {
+    "service_id": "SVC-PAN",
+    "eligibility": "Individuals, companies, HUFs, and entities carrying out financial transactions in India."
+  },
+  {
+    "service_id": "SVC-MAH-INCOME",
+    "eligibility": "Residents of Maharashtra requiring proof of family income."
+  },
+  {
+    "service_id": "SVC-MAH-DOMICILE",
+    "eligibility": "Persons residing in Maharashtra for the qualifying period as per rules."
+  },
+  {
+    "service_id": "SVC-MAH-LADKI",
+    "eligibility": "Women aged 21-65 residing in Maharashtra, meeting income and other criteria as notified."
+  },
+  {
+    "service_id": "SVC-PMUY",
+    "eligibility": "Women (18+) from BPL households as per SECC criteria."
+  },
+  {
+    "service_id": "SVC-NGDR",
+    "eligibility": "State residents using integrated land registration offices."
+  },
+  {
+    "service_id": "SVC-INDIAPOST",
+    "eligibility": "Open to all citizens; accounts per India Post schemes."
+  },
+  {
+    "service_id": "SVC-APPREN",
+    "eligibility": "ITI/diploma/degree holders (aged 14+ for certain categories) per Apprentices Act."
+  },
+  {
+    "service_id": "SVC-MSDE",
+    "eligibility": "Indian youth (often 15-45) seeking skill certification."
+  },
+  {
+    "service_id": "SVC-NIELIT",
+    "eligibility": "Candidates per course (schooling/diploma as applicable)."
+  },
+  {
+    "service_id": "SVC-AYUSHMAN",
+    "eligibility": "All residents; ABHA-linked services; PM-JAY for eligible families."
+  },
+  {
+    "service_id": "SVC-RAKSHABANDHAN",
+    "eligibility": "Indian citizens aged 18-70 with a linked bank account."
+  },
+  {
+    "service_id": "SVC-JDY",
+    "eligibility": "Any Indian citizen (resident) above 10 years; one account per person."
+  },
+  {
+    "service_id": "SVC-SUKANYA",
+    "eligibility": "Parents/guardians of a girl child below age 10; one account per child (max 2 per family)."
+  },
+  {
+    "service_id": "SVC-MAH-ANNA",
+    "eligibility": "Maharashtra households meeting NFSA/state poverty criteria."
+  },
+  {
+    "service_id": "SVC-MAH-CMRELIEF",
+    "eligibility": "Maharashtra residents in notified distress/calamity situations."
+  },
+  {
+    "service_id": "SVC-MAH-SHETKARI",
+    "eligibility": "Maharashtra farmers with land records; scheme-specific criteria."
+  },
+  {
+    "service_id": "SVC-DL-RATION",
+    "eligibility": "Delhi residents as per service criteria."
+  },
+  {
+    "service_id": "SVC-UP-RATION",
+    "eligibility": "Uttar Pradesh residents per service criteria."
+  },
+  {
+    "service_id": "SVC-GJ-DIGITAL",
+    "eligibility": "Gujarat residents per service criteria."
+  },
+  {
+    "service_id": "SVC-KA-EDISTRICT",
+    "eligibility": "Karnataka residents per service criteria."
+  },
+  {
+    "service_id": "SVC-TN-ESEVAI",
+    "eligibility": "Tamil Nadu residents per service criteria."
+  },
+  {
+    "service_id": "SVC-WB-DUARE",
+    "eligibility": "West Bengal residents per service criteria."
+  },
+  {
+    "service_id": "SVC-RAJ-ECM",
+    "eligibility": "Rajasthan residents; SSO ID registration."
+  },
+  {
+    "service_id": "SVC-CSC",
+    "eligibility": "Village-level entrepreneurs and citizens seeking assisted services."
+  },
+  {
+    "service_id": "SVC-BHIM",
+    "eligibility": "Any Indian with a bank account and smartphone."
+  },
+  {
+    "service_id": "SVC-DIGIYATRA",
+    "eligibility": "Domestic air travellers with valid ID and ticket."
+  },
+  {
+    "service_id": "SVC-MAA",
+    "eligibility": "Rajasthan residents with SSO ID."
+  },
+  {
+    "service_id": "SVC-AP-ESEVA",
+    "eligibility": "Andhra Pradesh residents."
+  },
+  {
+    "service_id": "SVC-TELANGANA-TS",
+    "eligibility": "Telangana residents."
+  },
+  {
+    "service_id": "SVC-KERALA-EK",
+    "eligibility": "Kerala residents."
+  },
+  {
+    "service_id": "SVC-COWIN",
+    "eligibility": "All eligible citizens."
+  },
+  {
+    "service_id": "SVC-AYUSH",
+    "eligibility": "Citizens seeking AYUSH care."
+  },
+  {
+    "service_id": "SVC-ICDS",
+    "eligibility": "Children under 6, pregnant/lactating women."
+  },
+  {
+    "service_id": "SVC-POSHAN",
+    "eligibility": "Children, pregnant/lactating women."
+  },
+  {
+    "service_id": "SVC-SBM",
+    "eligibility": "Households / gram panchayats."
+  },
+  {
+    "service_id": "SVC-AMRUT",
+    "eligibility": "Urban local bodies / residents."
+  },
+  {
+    "service_id": "SVC-PMGSY",
+    "eligibility": "Rural habitations."
+  },
+  {
+    "service_id": "SVC-MGNREGA",
+    "eligibility": "Rural households willing to do unskilled manual work."
+  },
+  {
+    "service_id": "SVC-DAYNULM",
+    "eligibility": "Urban poor / self-help groups."
+  },
+  {
+    "service_id": "SVC-PMKVY4",
+    "eligibility": "Indian youth seeking certification."
+  },
+  {
+    "service_id": "SVC-DISHA",
+    "eligibility": "Rural citizens."
+  },
+  {
+    "service_id": "SVC-MAH-JAL",
+    "eligibility": "Rural Maharashtra households."
+  },
+  {
+    "service_id": "SVC-MAH-AAROGYA",
+    "eligibility": "Maharashtra families (yellow/orange ration card / eligible)."
+  },
+  {
+    "service_id": "SVC-PMSBY",
+    "eligibility": "Adults 18-70 with bank account."
+  },
+  {
+    "service_id": "SVC-PMSVM",
+    "eligibility": "Adults 18-50 with bank account."
+  },
+  {
+    "service_id": "SVC-ATAL",
+    "eligibility": "Adults 18-40 in unorganised sector."
+  },
+  {
+    "service_id": "SVC-NPS",
+    "eligibility": "Citizens 18-70."
+  },
+  {
+    "service_id": "SVC-RAIL",
+    "eligibility": "All citizens."
+  },
+  {
+    "service_id": "SVC-AAI",
+    "eligibility": "Air travellers."
+  },
+  {
+    "service_id": "SVC-PASSPORT-SEVA",
+    "eligibility": "Indian citizens."
+  }
+]

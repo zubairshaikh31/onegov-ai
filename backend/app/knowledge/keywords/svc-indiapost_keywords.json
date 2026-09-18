@@ -1,0 +1,33 @@
+{
+  "service_id": "SVC-INDIAPOST",
+  "keywords": [
+    "india post",
+    "speed post",
+    "ippb",
+    "post office savings",
+    "posb"
+  ],
+  "search_keywords": [
+    "india post",
+    "speed post",
+    "ippb",
+    "post office savings",
+    "posb"
+  ],
+  "aliases": [
+    "india post",
+    "speed post",
+    "ippb",
+    "post office savings",
+    "posb"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want India Post Services",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply India Post Services"
+  ]
+}

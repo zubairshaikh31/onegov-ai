@@ -1,0 +1,28 @@
+{
+  "name": "Tamil Nadu e-Sevai / e-District",
+  "description": "Tamil Nadu e-Sevai centres and portal for certificates and citizen services.",
+  "benefits": "Online/offline certificates and service delivery.",
+  "eligibility": "Tamil Nadu residents per service criteria.",
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof"
+  ],
+  "steps": [
+    "Visit e-Sevai centre or portal.",
+    "Apply; upload docs.",
+    "Collect certificate."
+  ],
+  "faqs": [
+    "What is Tamil Nadu e-Sevai / e-District?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "tn esevai",
+    "tamil nadu edistrict",
+    "tn certificate"
+  ]
+}

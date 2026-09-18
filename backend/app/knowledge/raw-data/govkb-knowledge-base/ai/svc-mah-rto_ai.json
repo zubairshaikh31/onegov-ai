@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-RTO",
+  "ai_summary": "Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan.",
+  "ai_explanation": "Maharashtra's Transport Department runs RTO services for driving licences, vehicle registration, permits, and taxes, largely through the national Parivahan/Sarathi platform with state-specific fee schedules and faceless services where available.",
+  "common_questions": [
+    "How do I apply for DL in Maharashtra?",
+    "What are Maharashtra RTO fees?",
+    "How do I renew my DL in Mumbai/Pune?",
+    "Where is my RTO?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I apply for DL in Maharashtra?",
+      "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+    },
+    {
+      "user": "What are Maharashtra RTO fees?",
+      "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+    },
+    {
+      "user": "How do I renew my DL in Mumbai/Pune?",
+      "bot": "For Maharashtra Transport (RTO) Services, Maharashtra Transport Department provides DL/RC/permit services via state RTOs integrated with Parivahan. You can apply at https://transport.maharashtra.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-mah-rto",
+    "status_svc-mah-rto",
+    "eligibility_svc-mah-rto"
+  ],
+  "user_utterances": [
+    "I want Maharashtra Transport (RTO) Services",
+    "Need Maharashtra Transport (RTO) Services",
+    "Maharashtra Transport (RTO) Services help"
+  ],
+  "follow_up_questions": [
+    "What are Maharashtra green tax rules?",
+    "How do I book an RTO slot in Maharashtra?"
+  ],
+  "recommended_responses": [
+    "Visit https://transport.maharashtra.gov.in",
+    "Call helpline 1800-120-8040 (state helpdesk)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://transport.maharashtra.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-120-8040 (state helpdesk)"
+    }
+  ]
+}

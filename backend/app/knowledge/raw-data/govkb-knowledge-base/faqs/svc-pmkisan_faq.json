@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Why is my instalment pending?",
+    "answer": "Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal.",
+    "official": true
+  },
+  {
+    "question": "Are tenant farmers eligible?",
+    "answer": "Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries.",
+    "official": true
+  },
+  {
+    "question": "How do I register for PM-KISAN?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Why is my PM-KISAN payment pending?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I do PM-KISAN e-KYC?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Am I eligible for PM-KISAN?",
+    "answer": "(See official portal https://pmkisan.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://pmkisan.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 155261 / 1800115526 / email pmkisan-ict@gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Free.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Instalments released periodically; first credit after verification (weeks).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (pmkisan.gov.in), CSC, or nearest agriculture office",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

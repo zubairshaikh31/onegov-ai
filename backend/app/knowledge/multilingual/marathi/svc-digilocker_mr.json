@@ -1,0 +1,23 @@
+{
+  "name": "डिजीलॉकर",
+  "description": "Digital locker to store and share verified electronic documents issued by government agencies; reduce physical paperwork.",
+  "benefits": "Instant access to issued documents (marksheets, licences), verified e-documents, paperless verification.",
+  "eligibility": "Indian citizens with Aadhaar (used for sign-up).",
+  "documents": [
+    "Aadhaar (for sign-up/authentication)"
+  ],
+  "steps": [
+    "Sign up at digilocker.gov.in with Aadhaar OTP.",
+    "Link mobile; set username/password.",
+    "Fetch issued documents from registered issuers.",
+    "Upload personal documents; share via URI/QR."
+  ],
+  "faqs": [],
+  "keywords": [
+    "digilocker",
+    "digital locker",
+    "e documents",
+    "meity",
+    "paperless"
+  ]
+}

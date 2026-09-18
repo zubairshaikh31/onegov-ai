@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-PMAYU",
+  "name": "Pradhan Mantri Awas Yojana (Urban)",
+  "category": "CAT-HOUSING",
+  "sub_category": "Housing for All",
+  "department": "DEP-PMAY",
+  "ministry": "MIN-HOU",
+  "central_state": "Central",
+  "state": null,
+  "description": "Credit-linked subsidy and affordable housing support for urban poor/EWS/LIG/MIG to own a pucca house.",
+  "benefits": "Interest subsidy on home loan (CLSS) and support for house construction.",
+  "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+  "required_documents": [
+    "Aadhaar",
+    "Income proof",
+    "Address proof",
+    "Bank account",
+    "Property/land documents"
+  ],
+  "optional_documents": [
+    "Caste/category certificate"
+  ],
+  "fees": "Free to apply.",
+  "processing_time": "Verification and sanction per state/ULB cycle.",
+  "validity": "Benefit once per family.",
+  "application_mode": "Online (pmaymis.gov.in) and via urban local bodies",
+  "official_website": "https://pmaymis.gov.in",
+  "official_apply_link": "https://pmaymis.gov.in/",
+  "download_forms": "https://pmaymis.gov.in/",
+  "helpline": "1800-11-6446 / 011-23063285",
+  "email": "pmaymis-moihua@gov.in",
+  "office_locator": "Urban Local Bodies / State Nodal Agencies.",
+  "working_hours": "",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://pmaymis.gov.in",
+  "collection_method": "official_portal"
+}

@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-AYUSHMAN",
+  "keywords": [
+    "health and wellness centre",
+    "hwc",
+    "ayushman primary care",
+    "abha"
+  ],
+  "search_keywords": [
+    "health and wellness centre",
+    "hwc",
+    "ayushman primary care",
+    "abha"
+  ],
+  "aliases": [
+    "health and wellness centre",
+    "hwc",
+    "ayushman primary care",
+    "abha"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Ayushman Bharat Health & Wellness Centres",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Ayushman Bharat Health & Wellness Centres"
+  ]
+}

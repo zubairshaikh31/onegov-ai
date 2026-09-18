@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0005",
+    "service_id": "SVC-ENAM",
+    "name": "eNAM (National Agriculture Market)",
+    "category_id": "CAT-AGR",
+    "government_level": "Central",
+    "official_portal": "https://enam.gov.in"
+  }
+]

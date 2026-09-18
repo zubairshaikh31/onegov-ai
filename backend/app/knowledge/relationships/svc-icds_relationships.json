@@ -1,0 +1,12 @@
+{
+  "service_id": "SVC-ICDS",
+  "prerequisite": [
+    "SVC-POSHAN"
+  ],
+  "dependent": [],
+  "complementary": [
+    "SVC-POSHAN"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-ICDS -> SVC-POSHAN"
+}

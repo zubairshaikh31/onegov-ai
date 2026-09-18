@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-VOTER",
+  "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+  "category": "CAT-IDENTITY",
+  "sub_category": "Voter Registration",
+  "department": "DEP-ECI",
+  "ministry": "MIN-ECI",
+  "central_state": "Central",
+  "state": null,
+  "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+  "benefits": "Right to vote in elections; EPIC serves as identity and address proof.",
+  "eligibility": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+  "required_documents": [
+    "Age proof (birth certificate / class 10 cert)",
+    "Address proof",
+    "Passport-size photo (online)",
+    "Declaration of ordinary residence"
+  ],
+  "optional_documents": [
+    "Aadhaar (for identity linkage, voluntary)"
+  ],
+  "fees": "Free.",
+  "processing_time": "Typically 2-4 weeks after verification; before each summary revision.",
+  "validity": "Until deletion on account of death, shift, or disqualification.",
+  "application_mode": "Online (NVSP / Voter Helpline app) and offline (BLO/ERO)",
+  "official_website": "https://voterportal.eci.gov.in",
+  "official_apply_link": "https://nvsp.in",
+  "download_forms": "https://voterportal.eci.gov.in/forms",
+  "helpline": "1950",
+  "email": "eci@eci.gov.in",
+  "office_locator": "District Electoral Officer / ERO offices; locate via NVSP.",
+  "working_hours": "",
+  "languages_available": "Hindi, English and regional languages",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://voterportal.eci.gov.in",
+  "collection_method": "official_portal"
+}

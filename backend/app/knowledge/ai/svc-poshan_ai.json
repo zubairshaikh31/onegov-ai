@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-POSHAN",
+  "ai_summary": "POSHAN Abhiyaan is the national nutrition mission.",
+  "ai_explanation": "National Nutrition Mission to reduce malnutrition.",
+  "eligibility_summary": "Children, pregnant/lactating women.",
+  "conversation_examples": [
+    {
+      "user": "I want POSHAN Abhiyaan",
+      "bot": "POSHAN Abhiyaan is the national nutrition mission. Apply: https://poshanabhiyaan.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with POSHAN Abhiyaan. Use only https://poshanabhiyaan.gov.in.",
+  "follow_up_questions": [
+    "What documents for POSHAN Abhiyaan?",
+    "How long for POSHAN Abhiyaan?"
+  ],
+  "intent_examples": [
+    "apply_svc-poshan",
+    "status_svc-poshan"
+  ],
+  "recommended_services": [
+    "SVC-ICDS"
+  ],
+  "document_suggestions": [
+    "ID proof"
+  ],
+  "suggested_responses": [
+    "Visit https://poshanabhiyaan.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

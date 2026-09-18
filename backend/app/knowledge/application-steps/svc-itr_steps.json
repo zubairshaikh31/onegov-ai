@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register/login on incometax.gov.in."
+  },
+  {
+    "step": 2,
+    "description": "Choose correct ITR form."
+  },
+  {
+    "step": 3,
+    "description": "Pre-fill and enter income/deductions."
+  },
+  {
+    "step": 4,
+    "description": "Validate, pay tax (if any), submit."
+  },
+  {
+    "step": 5,
+    "description": "Verify via Aadhaar OTP / EVC / send ITR-V."
+  }
+]

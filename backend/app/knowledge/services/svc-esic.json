@@ -1,0 +1,83 @@
+{
+  "service_id": "SVC-ESIC",
+  "name": "ESIC (Employees' State Insurance)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Social Insurance",
+  "department_id": "DEP-ESIC",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Social security and health insurance scheme for workers in covered establishments (medical, sickness, maternity, disability benefits).",
+  "eligibility": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+  "benefits": "Cashless medical care for worker and family, sickness/maternity benefits, disability and dependent benefits.",
+  "required_documents": [
+    "IP number / UAN",
+    "ESIC card / Pehchan card",
+    "Aadhaar",
+    "Bank account"
+  ],
+  "optional_documents": [
+    "Employer certificate"
+  ],
+  "application_mode": "Employer enrols; employee uses ESIC portal / dispensaries",
+  "application_steps": [
+    "Employer registers establishment and enrols employees (Form 1).",
+    "Employee gets Insurance/Pehchan card.",
+    "Avail treatment at ESIC dispensary/hospital with card.",
+    "File claims (sickness/maternity) online if applicable."
+  ],
+  "processing_time": "Enrolment by employer; benefits as per claim processing.",
+  "fees": "Contribution by employer (3.25%) and employee (0.75%) on wages.",
+  "validity": "Coverage while in covered employment; continue via scheme provisions.",
+  "official_portal": "https://www.esic.gov.in",
+  "official_apply_link": "https://www.esic.gov.in/insured-person",
+  "download_forms": "https://www.esic.gov.in/downloads/forms",
+  "helpline_number": "1800-11-2526",
+  "email": "webmaster@esic.gov.in",
+  "office_locator_info": "ESIC dispensaries, hospitals, and regional offices.",
+  "faq": [
+    {
+      "q": "What is the wage ceiling for ESIC?",
+      "a": "Rs. 21,000/month (Rs. 25,000 for persons with disability)."
+    }
+  ],
+  "related_services": [
+    "SVC-EPFO",
+    "SVC-ESHRAM"
+  ],
+  "keywords": [
+    "esic",
+    "employee state insurance",
+    "pehchan card",
+    "social security",
+    "medical benefit"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.esic.gov.in",
+  "ai_summary": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment.",
+  "ai_explanation": "ESIC is a contributory social insurance scheme where employer and employee contribute a percentage of wages. Covered workers and their families get cashless medical care plus sickness, maternity, and disability benefits. Enrolment is done by the employer.",
+  "common_questions": [
+    "What is the ESIC wage limit?",
+    "How do I get a Pehchan card?",
+    "What does ESIC cover?",
+    "How do I claim ESIC sickness benefit?"
+  ],
+  "common_mistakes": [
+    "Confusing ESIC with EPF",
+    "Not updating family details for medical cover"
+  ],
+  "search_keywords": [
+    "esic benefits",
+    "pehchan card download",
+    "esic wage limit",
+    "esic claim"
+  ],
+  "suggested_followups": [
+    "How do I find my nearest ESIC dispensary?",
+    "Can I avail ESIC after leaving the job?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

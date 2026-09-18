@@ -1,0 +1,22 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "synonyms": [
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "आरटीओ",
+    "ड्रायव्हिंग लायसन्स"
+  ],
+  "aliases": [
+    "vahan",
+    "sarathi",
+    "driving licence",
+    "आरटीओ",
+    "ड्रायव्हिंग लायसन्स"
+  ],
+  "spelling_mistakes": [
+    "parivahan",
+    "parivahan",
+    "vahan sarathi"
+  ]
+}

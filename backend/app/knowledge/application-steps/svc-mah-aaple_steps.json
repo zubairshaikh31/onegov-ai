@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on Aaple Sarkar portal."
+  },
+  {
+    "step": 2,
+    "description": "Select department/service (certificate/scheme)."
+  },
+  {
+    "step": 3,
+    "description": "Fill form and upload documents."
+  },
+  {
+    "step": 4,
+    "description": "Submit; track application."
+  },
+  {
+    "step": 5,
+    "description": "Collect certificate (online download / SETU centre)."
+  }
+]

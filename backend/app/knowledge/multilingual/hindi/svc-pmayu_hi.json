@@ -1,0 +1,28 @@
+{
+  "name": "प्रधानमंत्री आवास योजना (शहरी)",
+  "description": "Credit-linked subsidy and affordable housing support for urban poor/EWS/LIG/MIG to own a pucca house.",
+  "benefits": "Interest subsidy on home loan (CLSS) and support for house construction.",
+  "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+  "documents": [
+    "Aadhaar",
+    "Income proof",
+    "Address proof",
+    "Bank account",
+    "Property/land documents"
+  ],
+  "steps": [
+    "Visit pmaymis.gov.in; check eligibility.",
+    "Apply under beneficiary-led / CLSS component.",
+    "Enter Aadhaar, income, bank, property details.",
+    "Verification by ULB/state.",
+    "Subsidy/assistance as per component."
+  ],
+  "faqs": [],
+  "keywords": [
+    "pmay",
+    "pm awas yojana",
+    "housing",
+    "clss",
+    "subsidy"
+  ]
+}

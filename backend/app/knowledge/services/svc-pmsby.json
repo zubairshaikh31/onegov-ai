@@ -1,0 +1,46 @@
+{
+  "service_id": "SVC-PMSBY",
+  "name": "Pradhan Mantri Suraksha Bima Yojana",
+  "category_id": "CAT-FINANCE2",
+  "sub_category": "Insurance",
+  "department_id": "DEP-CBDT",
+  "ministry_id": "MIN-FIN",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Accident insurance cover Rs.2 lakh at Rs.20/year (already captured as RAKSHABANDHAN - duplicate skip)",
+  "eligibility": "Adults 18-70 with bank account.",
+  "benefits": "Accidental death/disablement cover.",
+  "required_documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Enroll via bank."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.jansuraksha.gov.in",
+  "official_apply_link": "https://www.jansuraksha.gov.in",
+  "download_forms": "https://www.jansuraksha.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.jansuraksha.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "PMSBY accident insurance.",
+  "ai_explanation": "Accident insurance cover Rs.2 lakh at Rs.20/year (already captured as RAKSHABANDHAN - duplicate skip)",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "pmsby"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

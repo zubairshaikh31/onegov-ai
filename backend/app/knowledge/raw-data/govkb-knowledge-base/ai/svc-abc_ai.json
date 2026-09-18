@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-ABC",
+  "ai_summary": "ABC is a national digital credit bank letting HEI students store and transfer academic credits.",
+  "ai_explanation": "The Academic Bank of Credits gives each student an ABC ID to accumulate credits earned from participating universities, which can later be transferred toward a degree under the National Credit Framework. It promotes flexible, multiple-entry learning.",
+  "common_questions": [
+    "What is ABC ID?",
+    "How do I create an Academic Bank of Credits account?",
+    "Can I transfer credits between universities?",
+    "Which universities use ABC?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "What is ABC ID?",
+      "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+    },
+    {
+      "user": "How do I create an Academic Bank of Credits account?",
+      "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+    },
+    {
+      "user": "Can I transfer credits between universities?",
+      "bot": "For Academic Bank of Credits (ABC), ABC is a national digital credit bank letting HEI students store and transfer academic credits. You can apply at https://abc.gov.in."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-abc",
+    "status_svc-abc",
+    "eligibility_svc-abc"
+  ],
+  "user_utterances": [
+    "I want Academic Bank of Credits (ABC)",
+    "Need Academic Bank of Credits (ABC)",
+    "Academic Bank of Credits (ABC) help"
+  ],
+  "follow_up_questions": [
+    "How do I link my ABC ID with my university?",
+    "What is the National Credit Framework?"
+  ],
+  "recommended_responses": [
+    "Visit https://abc.gov.in",
+    "Call helpline 1800-111-550 (via ABC/HEI)"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://abc.gov.in"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-111-550 (via ABC/HEI)"
+    }
+  ]
+}

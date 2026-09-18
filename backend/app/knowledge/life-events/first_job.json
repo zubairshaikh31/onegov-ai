@@ -1,0 +1,26 @@
+{
+  "event": "first_job",
+  "services": [
+    "SVC-NCS",
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-ESHRAM"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-NCS",
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-ESHRAM"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-ncs_guide.md",
+    "tutorials/md/svc-epfo_guide.md",
+    "tutorials/md/svc-esic_guide.md",
+    "tutorials/md/svc-eshram_guide.md"
+  ]
+}

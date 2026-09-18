@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-PMUY",
+  "ai_summary": "PM Ujjwala Yojana gives BPL women deposit-free LPG connections for clean cooking fuel.",
+  "ai_explanation": "Provides deposit-free LPG connections to women from below-poverty-line households.",
+  "eligibility_summary": "Women (18+) from BPL households as per SECC criteria.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Ujjwala Yojana (LPG)",
+      "bot": "PM Ujjwala Yojana gives BPL women deposit-free LPG connections for clean cooking fuel. Apply: https://www.pmuy.gov.in. Helpline: 1906."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Ujjwala Yojana (LPG). Use only official info from https://www.pmuy.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-pmuy",
+    "status_svc-pmuy",
+    "eligibility_svc-pmuy"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "BPL card / SECC details",
+    "Aadhaar",
+    "Bank account",
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.pmuy.gov.in",
+    "Call 1906"
+  ],
+  "recommendation_weight": 1.0
+}

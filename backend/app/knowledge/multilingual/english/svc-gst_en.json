@@ -1,0 +1,43 @@
+{
+  "name": "GST Registration & Returns",
+  "description": "Goods and Services Tax registration, return filing, and compliance for businesses via the GST portal.",
+  "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+  "benefits": "Legal tax identity, input tax credit, interstate trade, compliance certificates.",
+  "application_steps": [
+    "Apply Part-A (Form GST REG-01) on gst.gov.in.",
+    "Get ARN; complete Part-B with documents.",
+    "Aadhaar authentication / verification.",
+    "GSTIN allotted on approval.",
+    "File returns (GSTR-1/3B) periodically."
+  ],
+  "faqs": [
+    "What is the GST turnover threshold?",
+    "Do I need GST registration?",
+    "How do I register for GST?",
+    "What is the GST threshold?",
+    "How do I file GSTR-3B?"
+  ],
+  "keywords": [
+    "gst",
+    "gst registration",
+    "gstin",
+    "returns",
+    "gst portal",
+    "indirect tax"
+  ],
+  "documents": [
+    "PAN",
+    "Aadhaar (verification)",
+    "Business registration",
+    "Address proof",
+    "Bank account",
+    "Photograph"
+  ],
+  "steps": [
+    "Apply Part-A (Form GST REG-01) on gst.gov.in.",
+    "Get ARN; complete Part-B with documents.",
+    "Aadhaar authentication / verification.",
+    "GSTIN allotted on approval.",
+    "File returns (GSTR-1/3B) periodically."
+  ]
+}

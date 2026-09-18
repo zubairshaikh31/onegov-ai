@@ -1,0 +1,884 @@
+[
+  {
+    "id": "DOC-0001",
+    "service_id": "SVC-AADHAAR",
+    "name": "Proof of Identity (PoI)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0002",
+    "service_id": "SVC-AADHAAR",
+    "name": "Proof of Address (PoA)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0003",
+    "service_id": "SVC-AADHAAR",
+    "name": "Date of Birth proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0004",
+    "service_id": "SVC-AADHAAR",
+    "name": "Introducer / Head of Family based enrolment where documents unavailable",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0005",
+    "service_id": "SVC-PASSPORT",
+    "name": "Proof of Date of Birth",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0006",
+    "service_id": "SVC-PASSPORT",
+    "name": "Proof of Address (current)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0007",
+    "service_id": "SVC-PASSPORT",
+    "name": "Proof of nationality / old passport (if renewing)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0008",
+    "service_id": "SVC-PASSPORT",
+    "name": "Annexure as applicable",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0009",
+    "service_id": "SVC-PASSPORT",
+    "name": "Marriage certificate (name change)",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0010",
+    "service_id": "SVC-PASSPORT",
+    "name": "ECNR eligibility proof",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0011",
+    "service_id": "SVC-VOTER",
+    "name": "Age proof (birth certificate / class 10 cert)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0012",
+    "service_id": "SVC-VOTER",
+    "name": "Address proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0013",
+    "service_id": "SVC-VOTER",
+    "name": "Passport-size photo (online)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0014",
+    "service_id": "SVC-VOTER",
+    "name": "Declaration of ordinary residence",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0015",
+    "service_id": "SVC-VOTER",
+    "name": "Aadhaar (for identity linkage, voluntary)",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0016",
+    "service_id": "SVC-PMKISAN",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0017",
+    "service_id": "SVC-PMKISAN",
+    "name": "Bank account (DBT-linked)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0018",
+    "service_id": "SVC-PMKISAN",
+    "name": "Landholding records / Khatauni",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0019",
+    "service_id": "SVC-PMKISAN",
+    "name": "Samagra / state ID where integrated",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0020",
+    "service_id": "SVC-ENAM",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0021",
+    "service_id": "SVC-ENAM",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0022",
+    "service_id": "SVC-ENAM",
+    "name": "Trader licence (for traders)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0023",
+    "service_id": "SVC-ENAM",
+    "name": "GST (traders if applicable)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0024",
+    "service_id": "SVC-ENAM",
+    "name": "FPO registration",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0025",
+    "service_id": "SVC-PMJAY",
+    "name": "Ayushman card / ABHA",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0026",
+    "service_id": "SVC-PMJAY",
+    "name": "Eligibility confirmation (SECC/Rural-Urban)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0027",
+    "service_id": "SVC-PMJAY",
+    "name": "ID proof (Aadhaar/Voter/ration)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0028",
+    "service_id": "SVC-PMJAY",
+    "name": "PMJAY e-card print",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0029",
+    "service_id": "SVC-ABDM",
+    "name": "Aadhaar / Driving Licence / any govt ID for ABHA creation",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0030",
+    "service_id": "SVC-ABDM",
+    "name": "Mobile number for OTP",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0031",
+    "service_id": "SVC-ESHRAM",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0032",
+    "service_id": "SVC-ESHRAM",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0033",
+    "service_id": "SVC-ESHRAM",
+    "name": "Mobile linked to Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0034",
+    "service_id": "SVC-ESHRAM",
+    "name": "Occupation / skill details",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0035",
+    "service_id": "SVC-EPFO",
+    "name": "UAN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0036",
+    "service_id": "SVC-EPFO",
+    "name": "Aadhaar (seeded)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0037",
+    "service_id": "SVC-EPFO",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0038",
+    "service_id": "SVC-EPFO",
+    "name": "PAN (for certain withdrawals)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0039",
+    "service_id": "SVC-EPFO",
+    "name": "Form 15G/15H",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0040",
+    "service_id": "SVC-EPFO",
+    "name": "Employer certificate",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0041",
+    "service_id": "SVC-ESIC",
+    "name": "IP number / UAN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0042",
+    "service_id": "SVC-ESIC",
+    "name": "ESIC card / Pehchan card",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0043",
+    "service_id": "SVC-ESIC",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0044",
+    "service_id": "SVC-ESIC",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0045",
+    "service_id": "SVC-ESIC",
+    "name": "Employer certificate",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0046",
+    "service_id": "SVC-NCS",
+    "name": "Mobile / email for registration",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0047",
+    "service_id": "SVC-NCS",
+    "name": "Aadhaar (optional for verification)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0048",
+    "service_id": "SVC-NCS",
+    "name": "Resume",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0049",
+    "service_id": "SVC-NCS",
+    "name": "Skill certificates",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0050",
+    "service_id": "SVC-UDYAM",
+    "name": "Aadhaar of proprietor/partner/director",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0051",
+    "service_id": "SVC-UDYAM",
+    "name": "PAN & GSTIN (if applicable)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0052",
+    "service_id": "SVC-UDYAM",
+    "name": "Business bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0053",
+    "service_id": "SVC-UDYAM",
+    "name": "Investment/turnover details",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0054",
+    "service_id": "SVC-UDYAM",
+    "name": "MSME previous registration (EM-II/UAM) for migration",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0055",
+    "service_id": "SVC-STARTUP",
+    "name": "Incorporation certificate",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0056",
+    "service_id": "SVC-STARTUP",
+    "name": "PAN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0057",
+    "service_id": "SVC-STARTUP",
+    "name": "Description of innovation",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0058",
+    "service_id": "SVC-STARTUP",
+    "name": "Director/Promoter details",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0059",
+    "service_id": "SVC-STARTUP",
+    "name": "Pitch deck",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0060",
+    "service_id": "SVC-STARTUP",
+    "name": "IPR details",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0061",
+    "service_id": "SVC-GEM",
+    "name": "Business registration / Udyam",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0062",
+    "service_id": "SVC-GEM",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0063",
+    "service_id": "SVC-GEM",
+    "name": "PAN/GSTIN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0064",
+    "service_id": "SVC-GEM",
+    "name": "Product catalogue",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0065",
+    "service_id": "SVC-GEM",
+    "name": "Brand authorization",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0066",
+    "service_id": "SVC-ITR",
+    "name": "PAN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0067",
+    "service_id": "SVC-ITR",
+    "name": "Aadhaar (linked)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0068",
+    "service_id": "SVC-ITR",
+    "name": "Form 16 / 16A",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0069",
+    "service_id": "SVC-ITR",
+    "name": "Bank statements",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0070",
+    "service_id": "SVC-ITR",
+    "name": "Investment proofs",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0071",
+    "service_id": "SVC-ITR",
+    "name": "Capital gains statements",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0072",
+    "service_id": "SVC-ITR",
+    "name": "Donation receipts",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0073",
+    "service_id": "SVC-GST",
+    "name": "PAN",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0074",
+    "service_id": "SVC-GST",
+    "name": "Aadhaar (verification)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0075",
+    "service_id": "SVC-GST",
+    "name": "Business registration",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0076",
+    "service_id": "SVC-GST",
+    "name": "Address proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0077",
+    "service_id": "SVC-GST",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0078",
+    "service_id": "SVC-GST",
+    "name": "Photograph",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0079",
+    "service_id": "SVC-GST",
+    "name": "Authorisation letter",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0080",
+    "service_id": "SVC-DIGILOCKER",
+    "name": "Aadhaar (for sign-up/authentication)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0081",
+    "service_id": "SVC-DIGILOCKER",
+    "name": "Mobile number",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0082",
+    "service_id": "SVC-UMANG",
+    "name": "Mobile number",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0083",
+    "service_id": "SVC-UMANG",
+    "name": "Service-specific IDs (Aadhaar/PAN/UAN)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0084",
+    "service_id": "SVC-UMANG",
+    "name": "Bank details for payments",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0085",
+    "service_id": "SVC-PMAYU",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0086",
+    "service_id": "SVC-PMAYU",
+    "name": "Income proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0087",
+    "service_id": "SVC-PMAYU",
+    "name": "Address proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0088",
+    "service_id": "SVC-PMAYU",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0089",
+    "service_id": "SVC-PMAYU",
+    "name": "Property/land documents",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0090",
+    "service_id": "SVC-PMAYU",
+    "name": "Caste/category certificate",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0091",
+    "service_id": "SVC-NSP",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0092",
+    "service_id": "SVC-NSP",
+    "name": "Institution ID",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0093",
+    "service_id": "SVC-NSP",
+    "name": "Income certificate",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0094",
+    "service_id": "SVC-NSP",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0095",
+    "service_id": "SVC-NSP",
+    "name": "Previous marksheets",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0096",
+    "service_id": "SVC-NSP",
+    "name": "Caste/disability certificate",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0097",
+    "service_id": "SVC-SWAYAM",
+    "name": "Email/mobile for sign-up",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0098",
+    "service_id": "SVC-SWAYAM",
+    "name": "Institution enrollment for credit",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0099",
+    "service_id": "SVC-ABC",
+    "name": "Aadhaar / ABC ID",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0100",
+    "service_id": "SVC-ABC",
+    "name": "Student HEI enrollment",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0101",
+    "service_id": "SVC-ABC",
+    "name": "Previous credit records",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0102",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Aadhaar (where enabled)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0103",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Address/age proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0104",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Vehicle invoice/insurance (RC)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0105",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Passport photo (DL)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0106",
+    "service_id": "SVC-PARIVAHAN",
+    "name": "Medical certificate (age/transport)",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0107",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0108",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Address proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0109",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Service-specific documents",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0110",
+    "service_id": "SVC-MAH-AAPLE",
+    "name": "Earlier certificates",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0111",
+    "service_id": "SVC-MAH-REV",
+    "name": "Survey number / village / district details",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0112",
+    "service_id": "SVC-MAH-REV",
+    "name": "Owner name",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0113",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0114",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Address proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0115",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Income proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0116",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Family details",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0117",
+    "service_id": "SVC-MAH-FOOD",
+    "name": "Earlier ration card",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0118",
+    "service_id": "SVC-MAH-DBT",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0119",
+    "service_id": "SVC-MAH-DBT",
+    "name": "Bank account",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0120",
+    "service_id": "SVC-MAH-DBT",
+    "name": "Income/caste certificate",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0121",
+    "service_id": "SVC-MAH-DBT",
+    "name": "Marksheets",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0122",
+    "service_id": "SVC-MAH-DBT",
+    "name": "Disability/category certificates",
+    "mandatory": false,
+    "category": "optional"
+  },
+  {
+    "id": "DOC-0123",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Aadhaar",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0124",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Address/age proof",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0125",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Vehicle docs (RC)",
+    "mandatory": true,
+    "category": "required"
+  },
+  {
+    "id": "DOC-0126",
+    "service_id": "SVC-MAH-RTO",
+    "name": "Medical certificate",
+    "mandatory": false,
+    "category": "optional"
+  }
+]

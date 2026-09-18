@@ -1,0 +1,23 @@
+{
+  "event": "gst_registration",
+  "services": [
+    "SVC-GST",
+    "SVC-UDYAM",
+    "SVC-ITR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-GST",
+    "SVC-UDYAM",
+    "SVC-ITR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-gst_guide.md",
+    "tutorials/md/svc-udyam_guide.md",
+    "tutorials/md/svc-itr_guide.md"
+  ]
+}

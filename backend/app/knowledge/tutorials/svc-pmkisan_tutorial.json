@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-PMKISAN",
+  "guide_md": "tutorials/md/svc-pmkisan_guide.md",
+  "guide_html": "tutorials/html/svc-pmkisan_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-pmkisan_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://pmkisan.gov.in"
+  ]
+}

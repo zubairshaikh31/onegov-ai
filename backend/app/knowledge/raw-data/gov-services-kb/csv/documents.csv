@@ -1,0 +1,64 @@
+service_id,name,is_required
+CEN-TRN-DL-009,Proof of Age,True
+CEN-TRN-DL-009,Proof of Address,True
+CEN-TRN-DL-009,Passport photos,True
+CEN-TRN-DL-009,Medical certificate (Form 1A for certain categories),False
+CEN-DIG-DIGILOCKER-010,Aadhaar-linked mobile number,True
+CEN-EDU-SCHOLARSHIP-011,Aadhaar,True
+CEN-EDU-SCHOLARSHIP-011,Income certificate,True
+CEN-EDU-SCHOLARSHIP-011,Caste certificate (if applicable),True
+CEN-EDU-SCHOLARSHIP-011,Bank details,True
+CEN-EDU-SCHOLARSHIP-011,Marksheets,True
+CEN-EDU-SCHOLARSHIP-011,Domicile certificate,False
+CEN-EDU-SCHOLARSHIP-011,Disability certificate,False
+CEN-FIN-PAN-003,Aadhaar (for instant e-PAN),True
+CEN-FIN-PAN-003,Proof of Identity,True
+CEN-FIN-PAN-003,Proof of DOB,True
+CEN-FIN-PAN-003,Proof of Address (for corrections),False
+CEN-FIN-ITR-004,PAN,True
+CEN-FIN-ITR-004,Aadhaar,True
+CEN-FIN-ITR-004,Form 16 / income proofs,True
+CEN-FIN-ITR-004,Bank details,True
+CEN-FIN-ITR-004,Investment proofs (80C etc.),False
+CEN-FIN-ITR-004,Home loan interest certificate,False
+CEN-BIZ-UDYAM-005,Aadhaar of proprietor/partner/director,True
+CEN-BIZ-UDYAM-005,PAN,True
+CEN-BIZ-UDYAM-005,GSTIN (if applicable),True
+CEN-BIZ-UDYAM-005,Bank account details,False
+CEN-BIZ-UDYAM-005,NIC activity code,False
+CEN-IDN-AADHAAR-001,Proof of Identity (POI),True
+CEN-IDN-AADHAAR-001,Proof of Address (POA),True
+CEN-IDN-AADHAAR-001,Date of Birth proof,True
+CEN-IDN-AADHAAR-001,Proof of Relationship (for children),False
+CEN-IDN-PASSPORT-002,Proof of Address,True
+CEN-IDN-PASSPORT-002,Proof of Date of Birth,True
+CEN-IDN-PASSPORT-002,Aadhaar/identity proof,True
+CEN-IDN-PASSPORT-002,"Annexures (name change, NOC)",False
+CEN-AGR-PMKISAN-006,Aadhaar,True
+CEN-AGR-PMKISAN-006,Landholding papers,True
+CEN-AGR-PMKISAN-006,Bank account details,True
+CEN-AGR-PMKISAN-006,Ration card,False
+CEN-HLT-PMJAY-007,Aadhaar,True
+CEN-HLT-PMJAY-007,Ration card / mobile number,True
+CEN-HLT-PMJAY-007,SECC reference,False
+CEN-LAB-ESHRAM-008,Aadhaar linked mobile,True
+CEN-LAB-ESHRAM-008,Bank account details,True
+CEN-LAB-ESHRAM-008,Occupation details,False
+MH-REV-INCOME-101,Aadhaar / ID proof,True
+MH-REV-INCOME-101,Address proof,True
+MH-REV-INCOME-101,Income proof (salary slip/self-declaration),True
+MH-REV-INCOME-101,Ration card,True
+MH-REV-INCOME-101,Talathi report,False
+MH-REV-INCOME-101,Affidavit,False
+MH-REV-DOMICILE-102,Aadhaar / ID proof,True
+MH-REV-DOMICILE-102,Address proof,True
+MH-REV-DOMICILE-102,Proof of residence period,True
+MH-REV-DOMICILE-102,School leaving certificate,True
+MH-REV-DOMICILE-102,Birth certificate,False
+MH-REV-DOMICILE-102,Affidavit,False
+MH-WEL-LADKIBAHIN-103,Aadhaar,True
+MH-WEL-LADKIBAHIN-103,Domicile certificate,True
+MH-WEL-LADKIBAHIN-103,Income certificate,True
+MH-WEL-LADKIBAHIN-103,Bank account (Aadhaar linked),True
+MH-WEL-LADKIBAHIN-103,Ration card,True
+MH-WEL-LADKIBAHIN-103,Marriage certificate (if domicile via spouse),False

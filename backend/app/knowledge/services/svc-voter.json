@@ -1,0 +1,89 @@
+{
+  "service_id": "SVC-VOTER",
+  "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+  "category_id": "CAT-IDENTITY",
+  "sub_category": "Voter Registration",
+  "department_id": "DEP-ECI",
+  "ministry_id": "MIN-ECI",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Registration of names in the electoral roll and issuance of Electors Photo Identity Card (EPIC / Voter ID) by the Election Commission of India.",
+  "eligibility": "Indian citizen, 18+ years on qualifying date, ordinary resident of the constituency.",
+  "benefits": "Right to vote in elections; EPIC serves as identity and address proof.",
+  "required_documents": [
+    "Age proof (birth certificate / class 10 cert)",
+    "Address proof",
+    "Passport-size photo (online)",
+    "Declaration of ordinary residence"
+  ],
+  "optional_documents": [
+    "Aadhaar (for identity linkage, voluntary)"
+  ],
+  "application_mode": "Online (NVSP / Voter Helpline app) and offline (BLO/ERO)",
+  "application_steps": [
+    "Visit nvsp.in or voterportal.eci.gov.in and register/login.",
+    "Fill Form 6 (new enrolment) with details and upload documents.",
+    "Submit and note reference number.",
+    "BLO verifies at residence; name added to draft roll.",
+    "Download e-EPIC once approved."
+  ],
+  "processing_time": "Typically 2-4 weeks after verification; before each summary revision.",
+  "fees": "Free.",
+  "validity": "Until deletion on account of death, shift, or disqualification.",
+  "official_portal": "https://voterportal.eci.gov.in",
+  "official_apply_link": "https://nvsp.in",
+  "download_forms": "https://voterportal.eci.gov.in/forms",
+  "helpline_number": "1950",
+  "email": "eci@eci.gov.in",
+  "office_locator_info": "District Electoral Officer / ERO offices; locate via NVSP.",
+  "faq": [
+    {
+      "q": "Can NRI citizens enrol?",
+      "a": "Yes, under Form 6A if aged 18+ and not enrolled in India."
+    },
+    {
+      "q": "Is Aadhaar mandatory for voter enrolment?",
+      "a": "No, Aadhaar is voluntary for identity; other documents are accepted."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "voter id",
+    "epic",
+    "form 6",
+    "electoral roll",
+    "voter registration",
+    "eci"
+  ],
+  "languages_available": "Hindi, English and regional languages",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://voterportal.eci.gov.in",
+  "ai_summary": "ECI issues Voter ID (EPIC) to citizens 18+ via Form 6; free, online through NVSP.",
+  "ai_explanation": "Any Indian citizen aged 18 can enrol in the electoral roll using Form 6 on NVSP. After BLO verification the name is added and an e-EPIC can be downloaded. The Voter ID also works as ID/address proof.",
+  "common_questions": [
+    "How do I apply for a Voter ID?",
+    "How do I correct my name in the voter list?",
+    "What is Form 6?",
+    "How do I download e-EPIC?"
+  ],
+  "common_mistakes": [
+    "Applying in two constituencies",
+    "Wrong date of birth proof",
+    "Not updating address after moving"
+  ],
+  "search_keywords": [
+    "voter id apply online",
+    "form 6 download",
+    "e epic download",
+    "voter list check"
+  ],
+  "suggested_followups": [
+    "How do I correct my address in the voter roll?",
+    "What is the difference between EPIC and e-EPIC?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

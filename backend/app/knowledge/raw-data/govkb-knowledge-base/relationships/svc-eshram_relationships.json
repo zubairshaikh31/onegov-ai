@@ -1,0 +1,14 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "prerequisite": [
+    "SVC-AADHAAR"
+  ],
+  "dependent": [],
+  "alternative": [],
+  "complementary": [
+    "SVC-EPFO",
+    "SVC-ESIC",
+    "SVC-AADHAAR"
+  ],
+  "chain_example": "SVC-ESHRAM -> SVC-EPFO -> SVC-ESIC -> SVC-AADHAAR"
+}

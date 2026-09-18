@@ -1,0 +1,29 @@
+id,service_id,name,number,email,hours
+HEL-0001,SVC-AADHAAR,Aadhaar Enrolment & Update Helpline,1947,help@uidai.gov.in,Refer to official portal
+HEL-0002,SVC-PASSPORT,Passport Issuance (Passport Seva) Helpline,1800-258-1800,passport.helpdesk@mea.gov.in,Refer to official portal
+HEL-0003,SVC-VOTER,Voter ID / Electoral Roll Enrolment (Form 6) Helpline,1950,eci@eci.gov.in,Refer to official portal
+HEL-0004,SVC-PMKISAN,PM-KISAN Samman Nidhi Helpline,155261 / 1800115526,pmkisan-ict@gov.in,Refer to official portal
+HEL-0005,SVC-ENAM,eNAM (National Agriculture Market) Helpline,1800-270-0222,enam@agtech.gov.in,Refer to official portal
+HEL-0006,SVC-PMJAY,Ayushman Bharat PM-JAY Helpline,14555 / 1800-11-15555,pmjay@nha.gov.in,Refer to official portal
+HEL-0007,SVC-ABDM,Ayushman Bharat Digital Mission (ABHA) Helpline,1800-11-4477 / 1800-11-6644,support@abdm.gov.in,Refer to official portal
+HEL-0008,SVC-ESHRAM,e-Shram (National Database of Unorganised Workers) Helpline,14434,eshram@gov.in,Refer to official portal
+HEL-0009,SVC-EPFO,EPF / UAN Services (Employees' Provident Fund) Helpline,1800-118-005 / 14434,epfindia@gov.in,Refer to official portal
+HEL-0010,SVC-ESIC,ESIC (Employees' State Insurance) Helpline,1800-11-2526,webmaster@esic.gov.in,Refer to official portal
+HEL-0011,SVC-NCS,National Career Service (NCS) Helpline,1800-425-1514,contactncs@gov.in,Refer to official portal
+HEL-0012,SVC-UDYAM,Udyam Registration (MSME) Helpline,1800-180-6763,udyam@dcmsme.gov.in,Refer to official portal
+HEL-0013,SVC-STARTUP,Startup India Recognition Helpline,1800-115-565,support@startupindia.gov.in,Refer to official portal
+HEL-0014,SVC-GEM,GeM (Government e-Marketplace) Helpline,1800-419-3436 / 1800-102-3436,helpdesk-gem@gem.gov.in,Refer to official portal
+HEL-0015,SVC-ITR,Income Tax e-Filing & Return (ITR) Helpline,1800-103-0023 / 1961,efilingwebmanager@incometax.gov.in,Refer to official portal
+HEL-0016,SVC-GST,GST Registration & Returns Helpline,1800-103-4786 / 14444,webmaster@cgst.gov.in,Refer to official portal
+HEL-0017,SVC-DIGILOCKER,DigiLocker Helpline,1800-153-374 / support via portal,support.digilocker@digitalindia.gov.in,Refer to official portal
+HEL-0018,SVC-UMANG,UMANG (Unified Mobile App for New-age Governance) Helpline,1800-111-550,helpdesk@umang.gov.in,Refer to official portal
+HEL-0019,SVC-PMAYU,Pradhan Mantri Awas Yojana (Urban) Helpline,1800-11-6446 / 011-23063285,pmaymis-moihua@gov.in,Refer to official portal
+HEL-0020,SVC-NSP,National Scholarship Portal (NSP) Helpline,0120-6619540,helpdesk@nsp.gov.in,Refer to official portal
+HEL-0021,SVC-SWAYAM,SWAYAM (Free Online Courses) Helpline,1800-121-9020,support@swayam.gov.in,Refer to official portal
+HEL-0022,SVC-ABC,Academic Bank of Credits (ABC) Helpline,1800-111-550 (via ABC/HEI),abc@ugc.gov.in,Refer to official portal
+HEL-0023,SVC-PARIVAHAN,Parivahan (Vahan & Sarathi) Helpline,0120-4925505,helpdesk@parivahan.gov.in,Refer to official portal
+HEL-0024,SVC-MAH-AAPLE,Aaple Sarkar / MahaOnline Citizen Services Helpline,1800-120-8040 (MahaOnline),support@mahaonline.gov.in,Refer to official portal
+HEL-0025,SVC-MAH-REV,Mahabhulekh (7/12 & 8A Land Records) Helpline,022-25250900 (Bhulekh support),mah bhulekh support via portal,Refer to official portal
+HEL-0026,SVC-MAH-FOOD,Maharashtra Ration Card / Food Supply (MahaFood) Helpline,"1800-222-362 (Toll-free, MahaFood)",fcscrti-maha@gov.in,Refer to official portal
+HEL-0027,SVC-MAH-DBT,MahaDBT (Maharashtra Scholarship & DBT) Helpline,022-49170000 (MahaDBT),mahadbt-support@gov.in,Refer to official portal
+HEL-0028,SVC-MAH-RTO,Maharashtra Transport (RTO) Services Helpline,1800-120-8040 (state helpdesk),rft-maha@gov.in,Refer to official portal

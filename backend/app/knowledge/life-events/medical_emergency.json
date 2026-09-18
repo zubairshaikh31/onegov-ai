@@ -1,0 +1,23 @@
+{
+  "event": "medical_emergency",
+  "services": [
+    "SVC-PMJAY",
+    "SVC-ABDM",
+    "SVC-AADHAAR"
+  ],
+  "documents": [
+    "Aadhaar",
+    "Address proof",
+    "Category/Income certificate (where applicable)"
+  ],
+  "schemes": [
+    "SVC-PMJAY",
+    "SVC-ABDM",
+    "SVC-AADHAAR"
+  ],
+  "tutorials": [
+    "tutorials/md/svc-pmjay_guide.md",
+    "tutorials/md/svc-abdm_guide.md",
+    "tutorials/md/svc-aadhaar_guide.md"
+  ]
+}

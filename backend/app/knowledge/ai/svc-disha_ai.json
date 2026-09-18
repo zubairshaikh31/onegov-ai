@@ -1,0 +1,32 @@
+{
+  "service_id": "SVC-DISHA",
+  "ai_summary": "DISHA promotes rural digital literacy via CSCs.",
+  "ai_explanation": "Digital literacy and rural services through CSCs.",
+  "eligibility_summary": "Rural citizens.",
+  "conversation_examples": [
+    {
+      "user": "I want DISHA / CSC 2.0",
+      "bot": "DISHA promotes rural digital literacy via CSCs. Apply: https://www.csc.gov.in. Helpline: 1800-3000-3468."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with DISHA / CSC 2.0. Use only https://www.csc.gov.in.",
+  "follow_up_questions": [
+    "What documents for DISHA / CSC 2.0?",
+    "How long for DISHA / CSC 2.0?"
+  ],
+  "intent_examples": [
+    "apply_svc-disha",
+    "status_svc-disha"
+  ],
+  "recommended_services": [
+    "SVC-CSC"
+  ],
+  "document_suggestions": [
+    "Aadhaar"
+  ],
+  "suggested_responses": [
+    "Visit https://www.csc.gov.in",
+    "Call 1800-3000-3468"
+  ],
+  "recommendation_weight": 1.0
+}

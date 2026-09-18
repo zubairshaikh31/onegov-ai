@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "ai_summary": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited.",
+  "ai_explanation": "Citizens apply online, pay a fee, and attend a PSK appointment for document checks and biometrics. Police verification follows for fresh passports. Tatkaal offers faster issue at higher cost. Passports are valid 10 years for adults.",
+  "eligibility_summary": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+  "conversation_examples": [
+    {
+      "user": "I want Passport Issuance (Passport Seva)",
+      "bot": "Passport Seva issues Indian passports online with in-person verification at PSKs; Normal ~30 days, Tatkaal expedited. Apply: https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink. Helpline: 1800-258-1800."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Passport Issuance (Passport Seva). Use only official info from https://passportindia.gov.in.",
+  "follow_up_questions": [
+    "What documents prove address for passport?",
+    "How do I track my passport application status?"
+  ],
+  "intent_examples": [
+    "apply_svc-passport",
+    "status_svc-passport",
+    "eligibility_svc-passport"
+  ],
+  "recommended_services": [
+    "SVC-DIGILOCKER",
+    "SVC-AADHAAR",
+    "SVC-VOTER"
+  ],
+  "document_suggestions": [
+    "Proof of Date of Birth",
+    "Proof of Address (current)",
+    "Proof of nationality / old passport (if renewing)",
+    "Annexure as applicable"
+  ],
+  "suggested_responses": [
+    "Visit https://passportindia.gov.in",
+    "Call 1800-258-1800"
+  ],
+  "recommendation_weight": 1.0
+}

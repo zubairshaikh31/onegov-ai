@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-08-02T09:28:11Z",
+  "version": "3.0.0",
+  "count": 33,
+  "services": [
+    {
+      "service_id": "SVC-AADHAAR",
+      "name": "Aadhaar Enrolment & Update",
+      "category_id": "CAT-IDENTITY",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-aadhaar.json",
+        "faq": "faqs/svc-aadhaar_faq.json",
+        "tutorial_md": "tutorials/md/svc-aadhaar_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PASSPORT",
+      "name": "Passport Issuance (Passport Seva)",
+      "category_id": "CAT-IDENTITY",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-passport.json",
+        "faq": "faqs/svc-passport_faq.json",
+        "tutorial_md": "tutorials/md/svc-passport_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-VOTER",
+      "name": "Voter ID / Electoral Roll Enrolment (Form 6)",
+      "category_id": "CAT-IDENTITY",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-voter.json",
+        "faq": "faqs/svc-voter_faq.json",
+        "tutorial_md": "tutorials/md/svc-voter_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PMKISAN",
+      "name": "PM-KISAN Samman Nidhi",
+      "category_id": "CAT-AGR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-pmkisan.json",
+        "faq": "faqs/svc-pmkisan_faq.json",
+        "tutorial_md": "tutorials/md/svc-pmkisan_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ENAM",
+      "name": "eNAM (National Agriculture Market)",
+      "category_id": "CAT-AGR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-enam.json",
+        "faq": "faqs/svc-enam_faq.json",
+        "tutorial_md": "tutorials/md/svc-enam_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PMJAY",
+      "name": "Ayushman Bharat PM-JAY",
+      "category_id": "CAT-HEALTH",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-pmjay.json",
+        "faq": "faqs/svc-pmjay_faq.json",
+        "tutorial_md": "tutorials/md/svc-pmjay_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ABDM",
+      "name": "Ayushman Bharat Digital Mission (ABHA)",
+      "category_id": "CAT-HEALTH",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-abdm.json",
+        "faq": "faqs/svc-abdm_faq.json",
+        "tutorial_md": "tutorials/md/svc-abdm_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ESHRAM",
+      "name": "e-Shram (National Database of Unorganised Workers)",
+      "category_id": "CAT-LABOUR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-eshram.json",
+        "faq": "faqs/svc-eshram_faq.json",
+        "tutorial_md": "tutorials/md/svc-eshram_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-EPFO",
+      "name": "EPF / UAN Services (Employees' Provident Fund)",
+      "category_id": "CAT-LABOUR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-epfo.json",
+        "faq": "faqs/svc-epfo_faq.json",
+        "tutorial_md": "tutorials/md/svc-epfo_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ESIC",
+      "name": "ESIC (Employees' State Insurance)",
+      "category_id": "CAT-LABOUR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-esic.json",
+        "faq": "faqs/svc-esic_faq.json",
+        "tutorial_md": "tutorials/md/svc-esic_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-NCS",
+      "name": "National Career Service (NCS)",
+      "category_id": "CAT-LABOUR",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-ncs.json",
+        "faq": "faqs/svc-ncs_faq.json",
+        "tutorial_md": "tutorials/md/svc-ncs_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-UDYAM",
+      "name": "Udyam Registration (MSME)",
+      "category_id": "CAT-BUSINESS",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-udyam.json",
+        "faq": "faqs/svc-udyam_faq.json",
+        "tutorial_md": "tutorials/md/svc-udyam_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-STARTUP",
+      "name": "Startup India Recognition",
+      "category_id": "CAT-BUSINESS",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-startup.json",
+        "faq": "faqs/svc-startup_faq.json",
+        "tutorial_md": "tutorials/md/svc-startup_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-GEM",
+      "name": "GeM (Government e-Marketplace)",
+      "category_id": "CAT-BUSINESS",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-gem.json",
+        "faq": "faqs/svc-gem_faq.json",
+        "tutorial_md": "tutorials/md/svc-gem_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ITR",
+      "name": "Income Tax e-Filing & Return (ITR)",
+      "category_id": "CAT-FINANCE",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-itr.json",
+        "faq": "faqs/svc-itr_faq.json",
+        "tutorial_md": "tutorials/md/svc-itr_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-GST",
+      "name": "GST Registration & Returns",
+      "category_id": "CAT-FINANCE",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-gst.json",
+        "faq": "faqs/svc-gst_faq.json",
+        "tutorial_md": "tutorials/md/svc-gst_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-DIGILOCKER",
+      "name": "DigiLocker",
+      "category_id": "CAT-DIGITAL",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-digilocker.json",
+        "faq": "faqs/svc-digilocker_faq.json",
+        "tutorial_md": "tutorials/md/svc-digilocker_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-UMANG",
+      "name": "UMANG (Unified Mobile App for New-age Governance)",
+      "category_id": "CAT-DIGITAL",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-umang.json",
+        "faq": "faqs/svc-umang_faq.json",
+        "tutorial_md": "tutorials/md/svc-umang_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PMAYU",
+      "name": "Pradhan Mantri Awas Yojana (Urban)",
+      "category_id": "CAT-HOUSING",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-pmayu.json",
+        "faq": "faqs/svc-pmayu_faq.json",
+        "tutorial_md": "tutorials/md/svc-pmayu_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-NSP",
+      "name": "National Scholarship Portal (NSP)",
+      "category_id": "CAT-EDUCATION",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-nsp.json",
+        "faq": "faqs/svc-nsp_faq.json",
+        "tutorial_md": "tutorials/md/svc-nsp_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-SWAYAM",
+      "name": "SWAYAM (Free Online Courses)",
+      "category_id": "CAT-EDUCATION",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-swayam.json",
+        "faq": "faqs/svc-swayam_faq.json",
+        "tutorial_md": "tutorials/md/svc-swayam_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-ABC",
+      "name": "Academic Bank of Credits (ABC)",
+      "category_id": "CAT-EDUCATION",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-abc.json",
+        "faq": "faqs/svc-abc_faq.json",
+        "tutorial_md": "tutorials/md/svc-abc_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PARIVAHAN",
+      "name": "Parivahan (Vahan & Sarathi)",
+      "category_id": "CAT-TRANSPORT",
+      "government_level": "Central",
+      "files": {
+        "service": "services/svc-parivahan.json",
+        "faq": "faqs/svc-parivahan_faq.json",
+        "tutorial_md": "tutorials/md/svc-parivahan_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-AAPLE",
+      "name": "Aaple Sarkar / MahaOnline Citizen Services",
+      "category_id": "CAT-STATE",
+      "government_level": "State",
+      "files": {
+        "service": "services/svc-mah-aaple.json",
+        "faq": "faqs/svc-mah-aaple_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-aaple_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-REV",
+      "name": "Mahabhulekh (7/12 & 8A Land Records)",
+      "category_id": "CAT-STATE",
+      "government_level": "State",
+      "files": {
+        "service": "services/svc-mah-rev.json",
+        "faq": "faqs/svc-mah-rev_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-rev_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-FOOD",
+      "name": "Maharashtra Ration Card / Food Supply (MahaFood)",
+      "category_id": "CAT-STATE",
+      "government_level": "State",
+      "files": {
+        "service": "services/svc-mah-food.json",
+        "faq": "faqs/svc-mah-food_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-food_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-DBT",
+      "name": "MahaDBT (Maharashtra Scholarship & DBT)",
+      "category_id": "CAT-STATE",
+      "government_level": "State",
+      "files": {
+        "service": "services/svc-mah-dbt.json",
+        "faq": "faqs/svc-mah-dbt_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-dbt_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-RTO",
+      "name": "Maharashtra Transport (RTO) Services",
+      "category_id": "CAT-STATE",
+      "government_level": "State",
+      "files": {
+        "service": "services/svc-mah-rto.json",
+        "faq": "faqs/svc-mah-rto_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-rto_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-DL",
+      "name": "Driving Licence (Sarathi / Parivahan)",
+      "category_id": "Transport",
+      "government_level": "central",
+      "files": {
+        "service": "services/svc-dl.json",
+        "faq": "faqs/svc-dl_faq.json",
+        "tutorial_md": "tutorials/md/svc-dl_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-PAN",
+      "name": "PAN Card (Permanent Account Number)",
+      "category_id": "Finance",
+      "government_level": "central",
+      "files": {
+        "service": "services/svc-pan.json",
+        "faq": "faqs/svc-pan_faq.json",
+        "tutorial_md": "tutorials/md/svc-pan_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-INCOME",
+      "name": "Income Certificate (Maharashtra)",
+      "category_id": "Certificates",
+      "government_level": "state",
+      "files": {
+        "service": "services/svc-mah-income.json",
+        "faq": "faqs/svc-mah-income_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-income_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-DOMICILE",
+      "name": "Domicile / Residence Certificate (Maharashtra)",
+      "category_id": "Certificates",
+      "government_level": "state",
+      "files": {
+        "service": "services/svc-mah-domicile.json",
+        "faq": "faqs/svc-mah-domicile_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-domicile_guide.md"
+      }
+    },
+    {
+      "service_id": "SVC-MAH-LADKI",
+      "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+      "category_id": "Welfare",
+      "government_level": "state",
+      "files": {
+        "service": "services/svc-mah-ladki.json",
+        "faq": "faqs/svc-mah-ladki_faq.json",
+        "tutorial_md": "tutorials/md/svc-mah-ladki_guide.md"
+      }
+    }
+  ]
+}

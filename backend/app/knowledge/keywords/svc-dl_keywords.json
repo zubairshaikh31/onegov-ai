@@ -1,0 +1,42 @@
+{
+  "service_id": "SVC-DL",
+  "keywords": [
+    "driving",
+    "driving licence",
+    "learner licence",
+    "licence",
+    "parivahan",
+    "rto",
+    "sarathi",
+    "transport"
+  ],
+  "search_keywords": [
+    "driving",
+    "driving licence",
+    "learner licence",
+    "licence",
+    "parivahan",
+    "rto",
+    "sarathi",
+    "transport"
+  ],
+  "aliases": [
+    "driving",
+    "driving licence",
+    "learner licence",
+    "licence",
+    "parivahan",
+    "rto",
+    "sarathi",
+    "transport"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Driving Licence (Sarathi / Parivahan)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Driving Licence (Sarathi / Parivahan)"
+  ]
+}

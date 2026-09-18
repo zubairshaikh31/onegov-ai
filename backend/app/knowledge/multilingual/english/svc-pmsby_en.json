@@ -1,0 +1,23 @@
+{
+  "name": "Pradhan Mantri Suraksha Bima Yojana",
+  "description": "Accident insurance cover Rs.2 lakh at Rs.20/year (already captured as RAKSHABANDHAN - duplicate skip)",
+  "benefits": "Accidental death/disablement cover.",
+  "eligibility": "Adults 18-70 with bank account.",
+  "documents": [
+    "Aadhaar",
+    "Bank"
+  ],
+  "steps": [
+    "Enroll via bank."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Suraksha Bima Yojana?",
+    "What is the official website?",
+    "Helpline?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "pmsby"
+  ]
+}

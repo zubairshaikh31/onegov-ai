@@ -1,0 +1,12 @@
+id,name,slug
+CAT-IDENTITY,Identity & Civil Registration,identity
+CAT-AGR,Agriculture,agriculture
+CAT-HEALTH,Healthcare,healthcare
+CAT-LABOUR,Labour & Employment,labour
+CAT-BUSINESS,Business & Entrepreneurship,business
+CAT-FINANCE,Finance & Taxation,finance
+CAT-DIGITAL,Digital Public Infrastructure,digital-services
+CAT-HOUSING,Housing,housing
+CAT-EDUCATION,Education & Scholarships,education
+CAT-TRANSPORT,Transport & Mobility,transport
+CAT-STATE,State Citizen Services (Maharashtra),state-services

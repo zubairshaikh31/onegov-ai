@@ -1,0 +1,85 @@
+{
+  "service_id": "SVC-STARTUP",
+  "name": "Startup India Recognition",
+  "category_id": "CAT-BUSINESS",
+  "sub_category": "Startup Recognition",
+  "department_id": "DEP-DPIIT",
+  "ministry_id": "MIN-DPIIT",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "DPIIT recognition of startups to avail tax benefits, easier compliance, IPR fast-track, and funding access.",
+  "eligibility": "Entity incorporated as Pvt Ltd/LLP/Partnership, <=10 years old, turnover <= Rs. 100 crore, working toward innovation.",
+  "benefits": "Tax exemption (80-IAC/Section 56), faster patents, self-certification, government tenders, Fund of Funds.",
+  "required_documents": [
+    "Incorporation certificate",
+    "PAN",
+    "Description of innovation",
+    "Director/Promoter details"
+  ],
+  "optional_documents": [
+    "Pitch deck",
+    "IPR details"
+  ],
+  "application_mode": "Online (startupindia.gov.in)",
+  "application_steps": [
+    "Incorporate the entity.",
+    "Register on startupindia.gov.in.",
+    "Apply for DPIIT recognition with details.",
+    "Self-certify and submit; get recognition number.",
+    "Avail benefits (tax/patent/tender)."
+  ],
+  "processing_time": "Recognition typically within days of submission.",
+  "fees": "Free for recognition.",
+  "validity": "Recognition valid while entity meets criteria; deregister if not.",
+  "official_portal": "https://www.startupindia.gov.in",
+  "official_apply_link": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-recognition.html",
+  "download_forms": "https://www.startupindia.gov.in",
+  "helpline_number": "1800-115-565",
+  "email": "support@startupindia.gov.in",
+  "office_locator_info": "Startup India hubs; state nodal agencies.",
+  "faq": [
+    {
+      "q": "What is the age/turnover limit for a startup?",
+      "a": "Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity."
+    }
+  ],
+  "related_services": [
+    "SVC-UDYAM",
+    "SVC-GEM"
+  ],
+  "keywords": [
+    "startup india",
+    "dpiit",
+    "startup recognition",
+    "entrepreneur",
+    "tax exemption"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.startupindia.gov.in",
+  "ai_summary": "Startup India gives DPIIT recognition for tax, IP, and tender benefits to eligible young innovative entities.",
+  "ai_explanation": "Eligible Indian startups (<=10 years, turnover <= Rs. 100 crore) self-apply for DPIIT recognition, unlocking income-tax exemptions, faster IP protection, self-certification on labour laws, and easier public procurement. Recognition is free.",
+  "common_questions": [
+    "Am I eligible for Startup India?",
+    "How do I get DPIIT recognition?",
+    "What tax benefits do startups get?",
+    "How do I apply for Startup India?"
+  ],
+  "common_mistakes": [
+    "Applying before incorporation",
+    "Not meeting innovation criterion",
+    "Missing annual compliance"
+  ],
+  "search_keywords": [
+    "startup india registration",
+    "dpiit recognition",
+    "startup tax exemption"
+  ],
+  "suggested_followups": [
+    "How do I claim 80-IAC tax exemption?",
+    "What is the Fund of Funds for startups?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

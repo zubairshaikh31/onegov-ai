@@ -1,0 +1,89 @@
+{
+  "service_id": "SVC-GST",
+  "name": "GST Registration & Returns",
+  "category_id": "CAT-FINANCE",
+  "sub_category": "Indirect Tax",
+  "department_id": "DEP-GST",
+  "ministry_id": "MIN-CBIC",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Goods and Services Tax registration, return filing, and compliance for businesses via the GST portal.",
+  "eligibility": "Businesses with aggregate turnover above threshold (Rs. 20 lakh/10 lakh/40 lakh by category) or mandated (inter-state, e-commerce, casual).",
+  "benefits": "Legal tax identity, input tax credit, interstate trade, compliance certificates.",
+  "required_documents": [
+    "PAN",
+    "Aadhaar (verification)",
+    "Business registration",
+    "Address proof",
+    "Bank account",
+    "Photograph"
+  ],
+  "optional_documents": [
+    "Authorisation letter"
+  ],
+  "application_mode": "Online (gst.gov.in)",
+  "application_steps": [
+    "Apply Part-A (Form GST REG-01) on gst.gov.in.",
+    "Get ARN; complete Part-B with documents.",
+    "Aadhaar authentication / verification.",
+    "GSTIN allotted on approval.",
+    "File returns (GSTR-1/3B) periodically."
+  ],
+  "processing_time": "Registration usually within 7-30 days; returns monthly/quarterly.",
+  "fees": "No government registration fee; late fees for delayed returns.",
+  "validity": "GSTIN valid until cancellation/suspension.",
+  "official_portal": "https://www.gst.gov.in",
+  "official_apply_link": "https://www.gst.gov.in/registration",
+  "download_forms": "https://www.gst.gov.in/help/returns",
+  "helpline_number": "1800-103-4786 / 14444",
+  "email": "webmaster@cgst.gov.in",
+  "office_locator_info": "GST Seva Kendras / state tax offices.",
+  "faq": [
+    {
+      "q": "What is the GST turnover threshold?",
+      "a": "Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states)."
+    }
+  ],
+  "related_services": [
+    "SVC-ITR",
+    "SVC-UDYAM"
+  ],
+  "keywords": [
+    "gst",
+    "gst registration",
+    "gstin",
+    "returns",
+    "gst portal",
+    "indirect tax"
+  ],
+  "languages_available": "Hindi, English",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://www.gst.gov.in",
+  "ai_summary": "GST registration and return filing portal; mandatory above turnover thresholds; input tax credit enabled.",
+  "ai_explanation": "Businesses above the turnover threshold register for GST to get a GSTIN, charge tax, and claim input tax credit. Returns (GSTR-1, GSTR-3B) are filed online. Registration is free but late returns incur fees. Aadhaar authentication is used.",
+  "common_questions": [
+    "Do I need GST registration?",
+    "How do I register for GST?",
+    "What is the GST threshold?",
+    "How do I file GSTR-3B?"
+  ],
+  "common_mistakes": [
+    "Wrong turnover threshold assumption",
+    "Not filing NIL returns",
+    "Mismatch in GSTR-1/3B",
+    "Skipping Aadhaar auth"
+  ],
+  "search_keywords": [
+    "gst registration online",
+    "gst threshold limit",
+    "gstr 3b filing",
+    "gst portal login"
+  ],
+  "suggested_followups": [
+    "What is the difference between GSTR-1 and GSTR-3B?",
+    "How do I cancel GST registration?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-MAH-ANNA",
+  "keywords": [
+    "maha anna",
+    "maharashtra ration",
+    "nfsa maharashtra",
+    "pds"
+  ],
+  "search_keywords": [
+    "maha anna",
+    "maharashtra ration",
+    "nfsa maharashtra",
+    "pds"
+  ],
+  "aliases": [
+    "maha anna",
+    "maharashtra ration",
+    "nfsa maharashtra",
+    "pds"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Maha Anna (Maharashtra Ration / NFSA)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Maha Anna (Maharashtra Ration / NFSA)"
+  ]
+}

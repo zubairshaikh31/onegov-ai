@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-MAH-FOOD",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [
+    "SVC-MAH-AAPLE",
+    "SVC-AADHAAR"
+  ],
+  "alternative": [],
+  "chain_example": "SVC-MAH-FOOD"
+}

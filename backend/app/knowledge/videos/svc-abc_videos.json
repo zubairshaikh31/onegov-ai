@@ -1,0 +1,19 @@
+{
+  "service_id": "SVC-ABC",
+  "videos": [
+    {
+      "title": "Academic Bank of Credits (ABC) - Official Information",
+      "youtube_url": "",
+      "channel": "Refer to official ministry/MeitY/NIC/PIB YouTube channel",
+      "channel_url": "",
+      "duration": "",
+      "language": "en",
+      "type": "official",
+      "department": "MIN-EDU",
+      "thumbnail": "",
+      "description": "Search official MIN-EDU YouTube channel for Academic Bank of Credits (ABC).",
+      "verified": false,
+      "source": "Official Government YouTube (lookup required)"
+    }
+  ]
+}

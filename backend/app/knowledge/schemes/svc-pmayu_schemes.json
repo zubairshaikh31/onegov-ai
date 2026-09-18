@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0019",
+    "service_id": "SVC-PMAYU",
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "category_id": "CAT-HOUSING",
+    "government_level": "Central",
+    "official_portal": "https://pmaymis.gov.in"
+  }
+]

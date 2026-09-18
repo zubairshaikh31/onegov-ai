@@ -1,0 +1,21 @@
+{
+  "name": "मनरेगा",
+  "description": "Mahatma Gandhi NREGA guarantees 100 days wage employment to rural households.",
+  "benefits": "Guaranteed 100 days employment, wage.",
+  "eligibility": "Rural households willing to do unskilled manual work.",
+  "documents": [
+    "Job card (issued on demand)",
+    "Aadhaar"
+  ],
+  "steps": [
+    "Demand work at gram panchayat.",
+    "Get job card.",
+    "Work and get wages."
+  ],
+  "faqs": [],
+  "keywords": [
+    "mgnrega",
+    "nrega",
+    "rural employment"
+  ]
+}

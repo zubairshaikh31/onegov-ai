@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-ENAM",
+  "keywords": [
+    "enam",
+    "e nam",
+    "agri market",
+    "mandi",
+    "farmers trading"
+  ],
+  "search_keywords": [
+    "enam registration",
+    "enam mandi list",
+    "sell crops online"
+  ],
+  "aliases": [
+    "enam",
+    "e nam",
+    "agri market",
+    "mandi",
+    "farmers trading"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want eNAM (National Agriculture Market)",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply eNAM (National Agriculture Market)"
+  ]
+}

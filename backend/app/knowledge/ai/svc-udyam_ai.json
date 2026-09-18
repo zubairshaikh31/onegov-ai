@@ -1,0 +1,39 @@
+{
+  "service_id": "SVC-UDYAM",
+  "ai_summary": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits.",
+  "ai_explanation": "Udyam Registration replaces Udyog Aadhaar. Enterprises self-declare with Aadhaar, PAN, GSTIN, and investment/turnover data to get a Udyam certificate, unlocking credit, subsidies, and tender benefits. It is free and instantaneous.",
+  "eligibility_summary": "Enterprises meeting MSME investment/turnover thresholds (manufacturing/services).",
+  "conversation_examples": [
+    {
+      "user": "I want Udyam Registration (MSME)",
+      "bot": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. Apply: https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm. Helpline: 1800-180-6763."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Udyam Registration (MSME). Use only official info from https://udyamregistration.gov.in.",
+  "follow_up_questions": [
+    "What schemes are available for Udyam enterprises?",
+    "How do I update my Udyam certificate?"
+  ],
+  "intent_examples": [
+    "apply_svc-udyam",
+    "status_svc-udyam",
+    "eligibility_svc-udyam"
+  ],
+  "recommended_services": [
+    "SVC-STARTUP",
+    "SVC-STARTUP",
+    "SVC-GEM",
+    "SVC-GST"
+  ],
+  "document_suggestions": [
+    "Aadhaar of proprietor/partner/director",
+    "PAN & GSTIN (if applicable)",
+    "Business bank account",
+    "Investment/turnover details"
+  ],
+  "suggested_responses": [
+    "Visit https://udyamregistration.gov.in",
+    "Call 1800-180-6763"
+  ],
+  "recommendation_weight": 1.0
+}

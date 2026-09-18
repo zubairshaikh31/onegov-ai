@@ -1,0 +1,85 @@
+{
+  "service_id": "SVC-PMAYU",
+  "name": "Pradhan Mantri Awas Yojana (Urban)",
+  "category_id": "CAT-HOUSING",
+  "sub_category": "Housing for All",
+  "department_id": "DEP-PMAY",
+  "ministry_id": "MIN-HOU",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Credit-linked subsidy and affordable housing support for urban poor/EWS/LIG/MIG to own a pucca house.",
+  "eligibility": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+  "benefits": "Interest subsidy on home loan (CLSS) and support for house construction.",
+  "required_documents": [
+    "Aadhaar",
+    "Income proof",
+    "Address proof",
+    "Bank account",
+    "Property/land documents"
+  ],
+  "optional_documents": [
+    "Caste/category certificate"
+  ],
+  "application_mode": "Online (pmaymis.gov.in) and via urban local bodies",
+  "application_steps": [
+    "Visit pmaymis.gov.in; check eligibility.",
+    "Apply under beneficiary-led / CLSS component.",
+    "Enter Aadhaar, income, bank, property details.",
+    "Verification by ULB/state.",
+    "Subsidy/assistance as per component."
+  ],
+  "processing_time": "Verification and sanction per state/ULB cycle.",
+  "fees": "Free to apply.",
+  "validity": "Benefit once per family.",
+  "official_portal": "https://pmaymis.gov.in",
+  "official_apply_link": "https://pmaymis.gov.in/",
+  "download_forms": "https://pmaymis.gov.in/",
+  "helpline_number": "1800-11-6446 / 011-23063285",
+  "email": "pmaymis-moihua@gov.in",
+  "office_locator_info": "Urban Local Bodies / State Nodal Agencies.",
+  "faq": [
+    {
+      "q": "Who is eligible for PMAY-U?",
+      "a": "EWS/LIG/MIG urban households without a pucca house, meeting income limits."
+    }
+  ],
+  "related_services": [
+    "SVC-AADHAAR"
+  ],
+  "keywords": [
+    "pmay",
+    "pm awas yojana",
+    "housing",
+    "clss",
+    "subsidy"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://pmaymis.gov.in",
+  "ai_summary": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house.",
+  "ai_explanation": "PMAY-U aims 'Housing for All' in urban areas via Credit Linked Subsidy (CLSS) and direct construction support. Eligible households without a pucca house apply online or via ULBs; subsidy is credited to the loan account.",
+  "common_questions": [
+    "Am I eligible for PMAY?",
+    "How do I apply for PMAY subsidy?",
+    "What is CLSS?",
+    "What are PMAY income limits?"
+  ],
+  "common_mistakes": [
+    "Already owning a pucca house",
+    "Mismatch in Aadhaar/bank",
+    "Applying under wrong category"
+  ],
+  "search_keywords": [
+    "pmay apply online",
+    "pmay subsidy status",
+    "pmay eligibility",
+    "clss home loan"
+  ],
+  "suggested_followups": [
+    "What are the PMAY-U income limits?",
+    "How is the CLSS subsidy calculated?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

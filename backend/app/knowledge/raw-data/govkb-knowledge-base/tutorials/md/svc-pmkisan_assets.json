@@ -1,0 +1,14 @@
+[
+  {
+    "format": "md",
+    "path": "tutorials/md/svc-pmkisan_guide.md"
+  },
+  {
+    "format": "html",
+    "path": "tutorials/html/svc-pmkisan_guide.html"
+  },
+  {
+    "format": "pdf",
+    "path": "tutorials/pdf/svc-pmkisan_guide.pdf"
+  }
+]

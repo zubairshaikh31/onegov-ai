@@ -1,0 +1,30 @@
+{
+  "name": "National Apprenticeship (Apprenticeship India)",
+  "description": "National Apprenticeship Training scheme connecting apprentices with establishments for paid on-the-job training.",
+  "benefits": "Stipend during training; industry experience; certification; employment pathway.",
+  "eligibility": "ITI/diploma/degree holders (aged 14+ for certain categories) per Apprentices Act.",
+  "documents": [
+    "Educational certificates",
+    "Aadhaar",
+    "Bank account",
+    "Category certificate (if applicable)"
+  ],
+  "steps": [
+    "Register on apprenticeshipindia.gov.in as candidate.",
+    "Search establishments and apply.",
+    "Sign contract; undergo training with stipend."
+  ],
+  "faqs": [
+    "What is National Apprenticeship (Apprenticeship India)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "apprenticeship",
+    "nats",
+    "skill training",
+    "stipend"
+  ]
+}

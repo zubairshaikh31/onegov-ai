@@ -1,0 +1,23 @@
+{
+  "service_id": "SVC-AAI",
+  "keywords": [
+    "aai",
+    "airport"
+  ],
+  "search_keywords": [
+    "aai",
+    "airport"
+  ],
+  "aliases": [
+    "aai",
+    "airport"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Airport Authority / DigiYatra"
+  ],
+  "nl_queries": [
+    "how to Airport Authority / DigiYatra"
+  ]
+}

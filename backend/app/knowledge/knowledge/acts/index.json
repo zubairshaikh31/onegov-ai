@@ -1,0 +1,68 @@
+{
+  "Aadhaar (Targeted Delivery of Financial and Other Subsidies) Act, 2016": [
+    "svc-aadhaar"
+  ],
+  "Atal Pension Yojana Scheme, 2015": [
+    "svc-atal"
+  ],
+  "Payment and Settlement Systems Act, 2007": [
+    "svc-bhim"
+  ],
+  "Disaster Management Act / Epidemic Diseases Act provisions": [
+    "svc-cowin"
+  ],
+  "Motor Vehicles Act, 1988": [
+    "svc-dl"
+  ],
+  "Employees' Provident Funds & Misc. Provisions Act, 1952": [
+    "svc-epfo"
+  ],
+  "Employees' State Insurance Act, 1948": [
+    "svc-esic"
+  ],
+  "Central Goods and Services Tax Act, 2017": [
+    "svc-gst"
+  ],
+  "National Food Security Act, 2013 (for nutrition)": [
+    "svc-icds"
+  ],
+  "Income Tax Act, 1961": [
+    "svc-itr"
+  ],
+  "Scheme guidelines notified by Dept of Financial Services": [
+    "svc-jdy"
+  ],
+  "Mahatma Gandhi NREGA Act, 2005": [
+    "svc-mgnrega"
+  ],
+  "PFRDA Act, 2013": [
+    "svc-nps"
+  ],
+  "Passports Act, 1967": [
+    "svc-passport"
+  ],
+  "PMGSY guidelines (MoRD)": [
+    "svc-pmgsy"
+  ],
+  "National Health Agency Act, 2018": [
+    "svc-pmjay"
+  ],
+  "Operational guidelines notified by MoAFW": [
+    "svc-pmkisan"
+  ],
+  "Railway Act, 1989": [
+    "svc-rail"
+  ],
+  "Swachh Bharat Mission (Gramin) guidelines": [
+    "svc-sbm"
+  ],
+  "Sukanya Samriddhi Account Rules, 2016 (under GG Act)": [
+    "svc-sukanya"
+  ],
+  "MSME Development Act, 2006": [
+    "svc-udyam"
+  ],
+  "Representation of the People Act, 1950/1951": [
+    "svc-voter"
+  ]
+}

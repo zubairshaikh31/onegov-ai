@@ -1,0 +1,127 @@
+id,service_id,name,mandatory,category
+DOC-0001,SVC-AADHAAR,Proof of Identity (PoI),True,required
+DOC-0002,SVC-AADHAAR,Proof of Address (PoA),True,required
+DOC-0003,SVC-AADHAAR,Date of Birth proof,True,required
+DOC-0004,SVC-AADHAAR,Introducer / Head of Family based enrolment where documents unavailable,False,optional
+DOC-0005,SVC-PASSPORT,Proof of Date of Birth,True,required
+DOC-0006,SVC-PASSPORT,Proof of Address (current),True,required
+DOC-0007,SVC-PASSPORT,Proof of nationality / old passport (if renewing),True,required
+DOC-0008,SVC-PASSPORT,Annexure as applicable,True,required
+DOC-0009,SVC-PASSPORT,Marriage certificate (name change),False,optional
+DOC-0010,SVC-PASSPORT,ECNR eligibility proof,False,optional
+DOC-0011,SVC-VOTER,Age proof (birth certificate / class 10 cert),True,required
+DOC-0012,SVC-VOTER,Address proof,True,required
+DOC-0013,SVC-VOTER,Passport-size photo (online),True,required
+DOC-0014,SVC-VOTER,Declaration of ordinary residence,True,required
+DOC-0015,SVC-VOTER,"Aadhaar (for identity linkage, voluntary)",False,optional
+DOC-0016,SVC-PMKISAN,Aadhaar,True,required
+DOC-0017,SVC-PMKISAN,Bank account (DBT-linked),True,required
+DOC-0018,SVC-PMKISAN,Landholding records / Khatauni,True,required
+DOC-0019,SVC-PMKISAN,Samagra / state ID where integrated,False,optional
+DOC-0020,SVC-ENAM,Bank account,True,required
+DOC-0021,SVC-ENAM,Aadhaar,True,required
+DOC-0022,SVC-ENAM,Trader licence (for traders),True,required
+DOC-0023,SVC-ENAM,GST (traders if applicable),True,required
+DOC-0024,SVC-ENAM,FPO registration,False,optional
+DOC-0025,SVC-PMJAY,Ayushman card / ABHA,True,required
+DOC-0026,SVC-PMJAY,Eligibility confirmation (SECC/Rural-Urban),True,required
+DOC-0027,SVC-PMJAY,ID proof (Aadhaar/Voter/ration),True,required
+DOC-0028,SVC-PMJAY,PMJAY e-card print,False,optional
+DOC-0029,SVC-ABDM,Aadhaar / Driving Licence / any govt ID for ABHA creation,True,required
+DOC-0030,SVC-ABDM,Mobile number for OTP,False,optional
+DOC-0031,SVC-ESHRAM,Aadhaar,True,required
+DOC-0032,SVC-ESHRAM,Bank account,True,required
+DOC-0033,SVC-ESHRAM,Mobile linked to Aadhaar,True,required
+DOC-0034,SVC-ESHRAM,Occupation / skill details,False,optional
+DOC-0035,SVC-EPFO,UAN,True,required
+DOC-0036,SVC-EPFO,Aadhaar (seeded),True,required
+DOC-0037,SVC-EPFO,Bank account,True,required
+DOC-0038,SVC-EPFO,PAN (for certain withdrawals),True,required
+DOC-0039,SVC-EPFO,Form 15G/15H,False,optional
+DOC-0040,SVC-EPFO,Employer certificate,False,optional
+DOC-0041,SVC-ESIC,IP number / UAN,True,required
+DOC-0042,SVC-ESIC,ESIC card / Pehchan card,True,required
+DOC-0043,SVC-ESIC,Aadhaar,True,required
+DOC-0044,SVC-ESIC,Bank account,True,required
+DOC-0045,SVC-ESIC,Employer certificate,False,optional
+DOC-0046,SVC-NCS,Mobile / email for registration,True,required
+DOC-0047,SVC-NCS,Aadhaar (optional for verification),True,required
+DOC-0048,SVC-NCS,Resume,False,optional
+DOC-0049,SVC-NCS,Skill certificates,False,optional
+DOC-0050,SVC-UDYAM,Aadhaar of proprietor/partner/director,True,required
+DOC-0051,SVC-UDYAM,PAN & GSTIN (if applicable),True,required
+DOC-0052,SVC-UDYAM,Business bank account,True,required
+DOC-0053,SVC-UDYAM,Investment/turnover details,True,required
+DOC-0054,SVC-UDYAM,MSME previous registration (EM-II/UAM) for migration,False,optional
+DOC-0055,SVC-STARTUP,Incorporation certificate,True,required
+DOC-0056,SVC-STARTUP,PAN,True,required
+DOC-0057,SVC-STARTUP,Description of innovation,True,required
+DOC-0058,SVC-STARTUP,Director/Promoter details,True,required
+DOC-0059,SVC-STARTUP,Pitch deck,False,optional
+DOC-0060,SVC-STARTUP,IPR details,False,optional
+DOC-0061,SVC-GEM,Business registration / Udyam,True,required
+DOC-0062,SVC-GEM,Bank account,True,required
+DOC-0063,SVC-GEM,PAN/GSTIN,True,required
+DOC-0064,SVC-GEM,Product catalogue,True,required
+DOC-0065,SVC-GEM,Brand authorization,False,optional
+DOC-0066,SVC-ITR,PAN,True,required
+DOC-0067,SVC-ITR,Aadhaar (linked),True,required
+DOC-0068,SVC-ITR,Form 16 / 16A,True,required
+DOC-0069,SVC-ITR,Bank statements,True,required
+DOC-0070,SVC-ITR,Investment proofs,True,required
+DOC-0071,SVC-ITR,Capital gains statements,False,optional
+DOC-0072,SVC-ITR,Donation receipts,False,optional
+DOC-0073,SVC-GST,PAN,True,required
+DOC-0074,SVC-GST,Aadhaar (verification),True,required
+DOC-0075,SVC-GST,Business registration,True,required
+DOC-0076,SVC-GST,Address proof,True,required
+DOC-0077,SVC-GST,Bank account,True,required
+DOC-0078,SVC-GST,Photograph,True,required
+DOC-0079,SVC-GST,Authorisation letter,False,optional
+DOC-0080,SVC-DIGILOCKER,Aadhaar (for sign-up/authentication),True,required
+DOC-0081,SVC-DIGILOCKER,Mobile number,False,optional
+DOC-0082,SVC-UMANG,Mobile number,True,required
+DOC-0083,SVC-UMANG,Service-specific IDs (Aadhaar/PAN/UAN),True,required
+DOC-0084,SVC-UMANG,Bank details for payments,False,optional
+DOC-0085,SVC-PMAYU,Aadhaar,True,required
+DOC-0086,SVC-PMAYU,Income proof,True,required
+DOC-0087,SVC-PMAYU,Address proof,True,required
+DOC-0088,SVC-PMAYU,Bank account,True,required
+DOC-0089,SVC-PMAYU,Property/land documents,True,required
+DOC-0090,SVC-PMAYU,Caste/category certificate,False,optional
+DOC-0091,SVC-NSP,Aadhaar,True,required
+DOC-0092,SVC-NSP,Institution ID,True,required
+DOC-0093,SVC-NSP,Income certificate,True,required
+DOC-0094,SVC-NSP,Bank account,True,required
+DOC-0095,SVC-NSP,Previous marksheets,True,required
+DOC-0096,SVC-NSP,Caste/disability certificate,False,optional
+DOC-0097,SVC-SWAYAM,Email/mobile for sign-up,True,required
+DOC-0098,SVC-SWAYAM,Institution enrollment for credit,False,optional
+DOC-0099,SVC-ABC,Aadhaar / ABC ID,True,required
+DOC-0100,SVC-ABC,Student HEI enrollment,True,required
+DOC-0101,SVC-ABC,Previous credit records,False,optional
+DOC-0102,SVC-PARIVAHAN,Aadhaar (where enabled),True,required
+DOC-0103,SVC-PARIVAHAN,Address/age proof,True,required
+DOC-0104,SVC-PARIVAHAN,Vehicle invoice/insurance (RC),True,required
+DOC-0105,SVC-PARIVAHAN,Passport photo (DL),True,required
+DOC-0106,SVC-PARIVAHAN,Medical certificate (age/transport),False,optional
+DOC-0107,SVC-MAH-AAPLE,Aadhaar,True,required
+DOC-0108,SVC-MAH-AAPLE,Address proof,True,required
+DOC-0109,SVC-MAH-AAPLE,Service-specific documents,True,required
+DOC-0110,SVC-MAH-AAPLE,Earlier certificates,False,optional
+DOC-0111,SVC-MAH-REV,Survey number / village / district details,True,required
+DOC-0112,SVC-MAH-REV,Owner name,False,optional
+DOC-0113,SVC-MAH-FOOD,Aadhaar,True,required
+DOC-0114,SVC-MAH-FOOD,Address proof,True,required
+DOC-0115,SVC-MAH-FOOD,Income proof,True,required
+DOC-0116,SVC-MAH-FOOD,Family details,True,required
+DOC-0117,SVC-MAH-FOOD,Earlier ration card,False,optional
+DOC-0118,SVC-MAH-DBT,Aadhaar,True,required
+DOC-0119,SVC-MAH-DBT,Bank account,True,required
+DOC-0120,SVC-MAH-DBT,Income/caste certificate,True,required
+DOC-0121,SVC-MAH-DBT,Marksheets,True,required
+DOC-0122,SVC-MAH-DBT,Disability/category certificates,False,optional
+DOC-0123,SVC-MAH-RTO,Aadhaar,True,required
+DOC-0124,SVC-MAH-RTO,Address/age proof,True,required
+DOC-0125,SVC-MAH-RTO,Vehicle docs (RC),True,required
+DOC-0126,SVC-MAH-RTO,Medical certificate,False,optional

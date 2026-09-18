@@ -1,0 +1,87 @@
+{
+  "en": {
+    "name": "PM-KISAN Samman Nidhi",
+    "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+    "eligibility": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+    "benefits": "Rs. 6,000 per year direct transfer; supports farm input costs.",
+    "application_steps": [
+      "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+      "Enter Aadhaar and land/account details.",
+      "Verify and submit; note registration number.",
+      "District/State validates land records.",
+      "Instalments credited to bank account; check status online."
+    ],
+    "faqs": [
+      "Why is my instalment pending?",
+      "Are tenant farmers eligible?",
+      "How do I register for PM-KISAN?",
+      "Why is my PM-KISAN payment pending?",
+      "How do I do PM-KISAN e-KYC?"
+    ],
+    "keywords": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture"
+    ]
+  },
+  "hi": {
+    "name": "PM-KISAN Samman Nidhi",
+    "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+    "eligibility": "पात्रता: Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+    "benefits": "लाभ: Rs. 6,000 per year direct transfer; supports farm input costs.",
+    "application_steps": [
+      "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+      "Enter Aadhaar and land/account details.",
+      "Verify and submit; note registration number.",
+      "District/State validates land records.",
+      "Instalments credited to bank account; check status online."
+    ],
+    "faqs": [
+      "Why is my instalment pending?",
+      "Are tenant farmers eligible?",
+      "How do I register for PM-KISAN?",
+      "Why is my PM-KISAN payment pending?",
+      "How do I do PM-KISAN e-KYC?"
+    ],
+    "keywords": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture",
+      "pm kisan",
+      "pmkisan"
+    ]
+  },
+  "mr": {
+    "name": "PM-KISAN Samman Nidhi",
+    "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+    "eligibility": "पात्रता: Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+    "benefits": "फायदे: Rs. 6,000 per year direct transfer; supports farm input costs.",
+    "application_steps": [
+      "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+      "Enter Aadhaar and land/account details.",
+      "Verify and submit; note registration number.",
+      "District/State validates land records.",
+      "Instalments credited to bank account; check status online."
+    ],
+    "faqs": [
+      "Why is my instalment pending?",
+      "Are tenant farmers eligible?",
+      "How do I register for PM-KISAN?",
+      "Why is my PM-KISAN payment pending?",
+      "How do I do PM-KISAN e-KYC?"
+    ],
+    "keywords": [
+      "pm kisan",
+      "pmkisan",
+      "farmer scheme",
+      "income support",
+      "dbt agriculture",
+      "pm kisan",
+      "pmkisan"
+    ]
+  }
+}

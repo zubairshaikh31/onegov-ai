@@ -1,0 +1,19 @@
+{
+  "name": "सुकन्या समृद्धी योजना",
+  "description": "Small-savings scheme for girl children (under 10 at opening) with attractive tax-free returns.",
+  "benefits": "High interest (govt-set), tax-free, partial withdrawal for education/marriage at 18+.",
+  "eligibility": "Parents/guardians of a girl child below age 10; one account per child (max 2 per family).",
+  "documents": [
+    "Birth certificate of girl child",
+    "Parent guardian ID",
+    "Address proof",
+    "Photograph"
+  ],
+  "steps": [
+    "Open at post office or authorised bank.",
+    "Deposit yearly (min Rs. 250).",
+    "Manage until maturity at age 21."
+  ],
+  "faqs": [],
+  "keywords": []
+}

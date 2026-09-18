@@ -1,0 +1,38 @@
+id,service_id,question,answer
+FAQ-0001,SVC-AADHAAR,Is Aadhaar mandatory for all schemes?,Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned.
+FAQ-0002,SVC-AADHAAR,How do I lock/unlock biometrics?,Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app.
+FAQ-0003,SVC-PASSPORT,Can I apply from a different state than my address?,You must apply from your current address jurisdiction; police verification happens at the address given.
+FAQ-0004,SVC-PASSPORT,What is the difference between Normal and Tatkaal?,Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification.
+FAQ-0005,SVC-VOTER,Can NRI citizens enrol?,"Yes, under Form 6A if aged 18+ and not enrolled in India."
+FAQ-0006,SVC-VOTER,Is Aadhaar mandatory for voter enrolment?,"No, Aadhaar is voluntary for identity; other documents are accepted."
+FAQ-0007,SVC-PMKISAN,Why is my instalment pending?,Commonly due to Aadhaar-bank seeding mismatch or pending e-KYC; complete e-KYC on the portal.
+FAQ-0008,SVC-PMKISAN,Are tenant farmers eligible?,Benefit is linked to landholding records in the owner's name; tenant farmers are generally not separate beneficiaries.
+FAQ-0009,SVC-ENAM,Which states are covered?,Most states with APMC integration; check the mandi list on the portal.
+FAQ-0010,SVC-PMJAY,How do I know if I am eligible?,Search your name by state/district/SECC ID on the Beneficiary Portal.
+FAQ-0011,SVC-PMJAY,Is there a premium to pay?,No. The scheme is fully funded by Government; beneficiaries pay nothing at empanelled hospitals.
+FAQ-0012,SVC-ABDM,Is ABHA mandatory?,"No, it is voluntary; you can opt out."
+FAQ-0013,SVC-ABDM,Is my health data safe?,Sharing is consent-based and governed by the ABDM data-sharing framework.
+FAQ-0014,SVC-ESHRAM,Who should register on e-Shram?,"Unorganised workers not covered by EPFO/ESIC, such as gig, migrant, and informal workers."
+FAQ-0015,SVC-EPFO,How do I check my PF balance?,"Via UMANG app, EPFO missed call 9966044425, or member portal."
+FAQ-0016,SVC-ESIC,What is the wage ceiling for ESIC?,"Rs. 21,000/month (Rs. 25,000 for persons with disability)."
+FAQ-0017,SVC-NCS,Is NCS free?,"Yes, registration and job search are free for all."
+FAQ-0018,SVC-UDYAM,Is Aadhaar mandatory for Udyam?,"Yes, Aadhaar of the owner/partner/director is required for registration."
+FAQ-0019,SVC-UDYAM,Is there a fee?,No government fee for Udyam registration.
+FAQ-0020,SVC-STARTUP,What is the age/turnover limit for a startup?,"Incorporated <=10 years, turnover <= Rs. 100 crore, Indian entity."
+FAQ-0021,SVC-GEM,Is GeM only for government buyers?,Buyers are government entities; sellers can be any eligible business/MSME.
+FAQ-0022,SVC-ITR,Which ITR form do I use?,"Depends on income source (salary, business, capital gains); portal helps select."
+FAQ-0023,SVC-ITR,Is Aadhaar-PAN linking mandatory?,"Yes, PAN becomes inoperative if not linked with Aadhaar (with exceptions)."
+FAQ-0024,SVC-GST,What is the GST turnover threshold?,"Generally Rs. 20 lakh (Rs. 10 lakh in special category states, Rs. 40 lakh for goods in some states)."
+FAQ-0025,SVC-DIGILOCKER,Are DigiLocker documents legally valid?,"Yes, e-documents via DigiLocker are recognised under the IT Act as per Gazette notification."
+FAQ-0026,SVC-UMANG,Which services are on UMANG?,"Hundreds across EPFO, tax, passport, education, utilities, and states."
+FAQ-0027,SVC-PMAYU,Who is eligible for PMAY-U?,"EWS/LIG/MIG urban households without a pucca house, meeting income limits."
+FAQ-0028,SVC-NSP,Can I apply to multiple schemes?,Only one central scheme at a time generally; multiple where permitted.
+FAQ-0029,SVC-SWAYAM,Are SWAYAM certificates free?,Courses are free; a fee applies only for the proctored certificate exam.
+FAQ-0030,SVC-ABC,Who can open an ABC account?,Students of ABC-participating higher education institutions.
+FAQ-0031,SVC-PARIVAHAN,Can I get my DL on DigiLocker?,"Yes, issued DL/RC can be fetched in DigiLocker."
+FAQ-0032,SVC-PARIVAHAN,Is a driving test mandatory?,"Yes, for permanent DL after learner licence period."
+FAQ-0033,SVC-MAH-AAPLE,What certificates can I get here?,"Caste, income, residence, birth/death, and many scheme applications."
+FAQ-0034,SVC-MAH-REV,What is 7/12 (Satbara)?,"It is the land record showing ownership, area, crop, and tenure of a plot in Maharashtra."
+FAQ-0035,SVC-MAH-FOOD,How do I add a member to my ration card?,Apply for modification at the rationing office / portal with proof.
+FAQ-0036,SVC-MAH-DBT,Which schemes are on MahaDBT?,Post-matric scholarships (SC/ST/OBC/Minority/EBC) and other state DBT schemes.
+FAQ-0037,SVC-MAH-RTO,Are Maharashtra RTO services on Parivahan?,"Yes, DL/RC services use the national Parivahan/Sarathi platform with state integration."

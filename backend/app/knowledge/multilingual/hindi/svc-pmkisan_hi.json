@@ -1,0 +1,26 @@
+{
+  "name": "पीएम-किसान सम्मान निधि",
+  "description": "Direct income support of Rs. 6,000/year to eligible farmer families, paid in three equal instalments of Rs. 2,000 directly into bank accounts.",
+  "benefits": "Rs. 6,000 per year direct transfer; supports farm input costs.",
+  "eligibility": "Small and marginal farmer families (cultivable landholding) as per land records; excludes institutional landholders, higher-income categories.",
+  "documents": [
+    "Aadhaar",
+    "Bank account (DBT-linked)",
+    "Landholding records / Khatauni"
+  ],
+  "steps": [
+    "Visit pmkisan.gov.in -> 'New Farmer Registration'.",
+    "Enter Aadhaar and land/account details.",
+    "Verify and submit; note registration number.",
+    "District/State validates land records.",
+    "Instalments credited to bank account; check status online."
+  ],
+  "faqs": [],
+  "keywords": [
+    "pm kisan",
+    "pmkisan",
+    "farmer scheme",
+    "income support",
+    "dbt agriculture"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "service_id": "SVC-INDIAPOST",
+  "ai_summary": "India Post offers postal, parcel, and financial services including IPPB digital banking and savings accounts.",
+  "ai_explanation": "Postal, parcel, Speed Post, savings accounts, POSB, IPPB banking, and government agency services.",
+  "eligibility_summary": "Open to all citizens; accounts per India Post schemes.",
+  "conversation_examples": [
+    {
+      "user": "I want India Post Services",
+      "bot": "India Post offers postal, parcel, and financial services including IPPB digital banking and savings accounts. Apply: https://www.indiapost.gov.in. Helpline: 1800-11-2011."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with India Post Services. Use only official info from https://www.indiapost.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-indiapost",
+    "status_svc-indiapost",
+    "eligibility_svc-indiapost"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Identity proof",
+    "Address proof",
+    "Passport-size photo"
+  ],
+  "suggested_responses": [
+    "Visit https://www.indiapost.gov.in",
+    "Call 1800-11-2011"
+  ],
+  "recommendation_weight": 1.0
+}

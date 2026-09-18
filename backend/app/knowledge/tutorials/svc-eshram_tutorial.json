@@ -1,0 +1,11 @@
+{
+  "service_id": "SVC-ESHRAM",
+  "guide_md": "tutorials/md/svc-eshram_guide.md",
+  "guide_html": "tutorials/html/svc-eshram_guide.html",
+  "guide_pdf": "tutorials/pdf/svc-eshram_guide.pdf",
+  "disclaimer": "Unofficial explanatory guide.",
+  "last_updated": "2024-01-01",
+  "official_sources": [
+    "https://eshram.gov.in"
+  ]
+}

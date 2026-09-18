@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MSDE",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+  "category_id": "CAT-LABOUR",
+  "sub_category": "Skill Development",
+  "department_id": "DEP-LAB",
+  "ministry_id": "MIN-LAB",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+  "eligibility": "Indian youth (often 15-45) seeking skill certification.",
+  "benefits": "Free training, certification, placement support, monetary reward on certification.",
+  "required_documents": [
+    "Aadhaar",
+    "Educational proof",
+    "Bank account",
+    "Age proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Find PMKVY training centre (Training Partner).",
+    "Enrol with Aadhaar and documents.",
+    "Complete training; appear for assessment; get certificate."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://www.msde.gov.in",
+  "official_apply_link": "https://www.pmkvyofficial.org",
+  "download_forms": "https://www.msde.gov.in",
+  "helpline_number": "1800-233-7878",
+  "email": "support@pmkvyofficial.org",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://www.msde.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "PMKVY provides free skill training and certification with placement support to Indian youth.",
+  "ai_explanation": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "pmkvy",
+    "skill india",
+    "skill certification",
+    "training"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

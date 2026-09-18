@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Locate nearest Aadhaar enrolment centre / Aadhaar Seva Kendra."
+  },
+  {
+    "step": 2,
+    "description": "Fill enrolment/update form and submit supporting documents."
+  },
+  {
+    "step": 3,
+    "description": "Provide biometric (fingerprints, iris) and photograph."
+  },
+  {
+    "step": 4,
+    "description": "Collect acknowledgement slip with Enrolment ID (EID)."
+  },
+  {
+    "step": 5,
+    "description": "Download e-Aadhaar once UID is generated (verify on uidai.gov.in)."
+  }
+]

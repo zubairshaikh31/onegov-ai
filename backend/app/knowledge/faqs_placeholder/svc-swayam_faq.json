@@ -1,0 +1,61 @@
+[
+  {
+    "question": "Are SWAYAM certificates free?",
+    "answer": "Courses are free; a fee applies only for the proctored certificate exam.",
+    "official": true
+  },
+  {
+    "question": "What is SWAYAM?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Are SWAYAM courses free?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I get a SWAYAM certificate?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Are SWAYAM credits valid?",
+    "answer": "(See official portal https://swayam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://swayam.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-121-9020 / email support@swayam.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Course free; certificate exam fee applicable.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Self-paced; exam per schedule.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (swayam.gov.in)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

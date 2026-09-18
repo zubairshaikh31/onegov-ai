@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-AMRUT",
+  "ai_summary": "AMRUT improves urban water and sewerage infrastructure.",
+  "ai_explanation": "Atal Mission for Rejuvenation and Urban Transformation: water, sewerage, urban transport.",
+  "eligibility_summary": "Urban local bodies / residents.",
+  "conversation_examples": [
+    {
+      "user": "I want AMRUT (Urban Water/Sewerage)",
+      "bot": "AMRUT improves urban water and sewerage infrastructure. Apply: https://amrut.mohua.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with AMRUT (Urban Water/Sewerage). Use only https://amrut.mohua.gov.in.",
+  "follow_up_questions": [
+    "What documents for AMRUT (Urban Water/Sewerage)?",
+    "How long for AMRUT (Urban Water/Sewerage)?"
+  ],
+  "intent_examples": [
+    "apply_svc-amrut",
+    "status_svc-amrut"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://amrut.mohua.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

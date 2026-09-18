@@ -1,0 +1,87 @@
+{
+  "en": {
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+    "eligibility": "Residents of Maharashtra; service-specific criteria.",
+    "benefits": "Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+    "application_steps": [
+      "Register on Aaple Sarkar portal.",
+      "Select department/service (certificate/scheme).",
+      "Fill form and upload documents.",
+      "Submit; track application.",
+      "Collect certificate (online download / SETU centre)."
+    ],
+    "faqs": [
+      "What certificates can I get here?",
+      "How do I apply for a caste certificate in Maharashtra?",
+      "What is Aaple Sarkar?",
+      "How do I track my certificate application?",
+      "Where are SETU centres?"
+    ],
+    "keywords": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate"
+    ]
+  },
+  "hi": {
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+    "eligibility": "पात्रता: Residents of Maharashtra; service-specific criteria.",
+    "benefits": "लाभ: Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+    "application_steps": [
+      "Register on Aaple Sarkar portal.",
+      "Select department/service (certificate/scheme).",
+      "Fill form and upload documents.",
+      "Submit; track application.",
+      "Collect certificate (online download / SETU centre)."
+    ],
+    "faqs": [
+      "What certificates can I get here?",
+      "How do I apply for a caste certificate in Maharashtra?",
+      "What is Aaple Sarkar?",
+      "How do I track my certificate application?",
+      "Where are SETU centres?"
+    ],
+    "keywords": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate",
+      "aaple sarkar",
+      "mahaonline"
+    ]
+  },
+  "mr": {
+    "name": "Aaple Sarkar / MahaOnline Citizen Services",
+    "description": "Maharashtra's integrated online portal (Aaple Sarkar / MahaOnline) for certificates, schemes, and citizen services.",
+    "eligibility": "पात्रता: Residents of Maharashtra; service-specific criteria.",
+    "benefits": "फायदे: Single window for caste/income/residence certificates, scheme applications, grievance redressal.",
+    "application_steps": [
+      "Register on Aaple Sarkar portal.",
+      "Select department/service (certificate/scheme).",
+      "Fill form and upload documents.",
+      "Submit; track application.",
+      "Collect certificate (online download / SETU centre)."
+    ],
+    "faqs": [
+      "What certificates can I get here?",
+      "How do I apply for a caste certificate in Maharashtra?",
+      "What is Aaple Sarkar?",
+      "How do I track my certificate application?",
+      "Where are SETU centres?"
+    ],
+    "keywords": [
+      "aaple sarkar",
+      "mahaonline",
+      "maharashtra certificate",
+      "caste certificate",
+      "income certificate",
+      "aaple sarkar",
+      "mahaonline"
+    ]
+  }
+}

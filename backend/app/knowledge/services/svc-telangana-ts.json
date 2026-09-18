@@ -1,0 +1,48 @@
+{
+  "service_id": "SVC-TELANGANA-TS",
+  "name": "Telangana TS-ePASS / MeeSeva",
+  "category_id": "CAT-STATE",
+  "sub_category": "Citizen (Telangana)",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "TG",
+  "description": "Telangana MeeSeva for certificates and welfare schemes.",
+  "eligibility": "Telangana residents.",
+  "benefits": "Certificates, ration, schemes online.",
+  "required_documents": [
+    "Aadhaar"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Register.",
+    "Apply.",
+    "Track."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://ts.meeseva.telangana.gov.in",
+  "official_apply_link": "https://ts.meeseva.telangana.gov.in",
+  "download_forms": "https://ts.meeseva.telangana.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://ts.meeseva.telangana.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "Telangana MeeSeva citizen services portal.",
+  "ai_explanation": "Telangana MeeSeva for certificates and welfare schemes.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "telangana meeseva",
+    "ts epass"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

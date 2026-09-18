@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-PARIVAHAN",
+  "ai_summary": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments.",
+  "ai_explanation": "Parivahan is the national transport portal where citizens apply for vehicle registration, driving/learner licences, permits, and tax online, then visit the RTO for tests/verification. Issued documents sync to DigiLocker. Fees follow the state MV schedule.",
+  "eligibility_summary": "Vehicle owners and driving licence applicants as per Motor Vehicles Act.",
+  "conversation_examples": [
+    {
+      "user": "I want Parivahan (Vahan & Sarathi)",
+      "bot": "Parivahan's Vahan/Sarathi offers online vehicle registration and driving licence services with RTO appointments. Apply: https://parivahan.gov.in/parivahan//services. Helpline: 0120-4925505."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Parivahan (Vahan & Sarathi). Use only official info from https://parivahan.gov.in.",
+  "follow_up_questions": [
+    "How do I link my DL to DigiLocker?",
+    "What documents are needed for RC transfer?"
+  ],
+  "intent_examples": [
+    "apply_svc-parivahan",
+    "status_svc-parivahan",
+    "eligibility_svc-parivahan"
+  ],
+  "recommended_services": [
+    "SVC-DL",
+    "SVC-DIGILOCKER",
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar (where enabled)",
+    "Address/age proof",
+    "Vehicle invoice/insurance (RC)",
+    "Passport photo (DL)"
+  ],
+  "suggested_responses": [
+    "Visit https://parivahan.gov.in",
+    "Call 0120-4925505"
+  ],
+  "recommendation_weight": 1.0
+}

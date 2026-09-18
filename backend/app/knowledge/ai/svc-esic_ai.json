@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-ESIC",
+  "ai_summary": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment.",
+  "ai_explanation": "ESIC is a contributory social insurance scheme where employer and employee contribute a percentage of wages. Covered workers and their families get cashless medical care plus sickness, maternity, and disability benefits. Enrolment is done by the employer.",
+  "eligibility_summary": "Employees with wage up to Rs. 21,000/month (Rs. 25,000 for persons with disability) in ESIC-covered factories/establishments.",
+  "conversation_examples": [
+    {
+      "user": "I want ESIC (Employees' State Insurance)",
+      "bot": "ESIC provides medical and cash benefits to covered workers (wage <= Rs. 21,000) via employer enrolment. Apply: https://www.esic.gov.in/insured-person. Helpline: 1800-11-2526."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with ESIC (Employees' State Insurance). Use only official info from https://www.esic.gov.in.",
+  "follow_up_questions": [
+    "How do I find my nearest ESIC dispensary?",
+    "Can I avail ESIC after leaving the job?"
+  ],
+  "intent_examples": [
+    "apply_svc-esic",
+    "status_svc-esic",
+    "eligibility_svc-esic"
+  ],
+  "recommended_services": [
+    "SVC-EPFO",
+    "SVC-EPFO",
+    "SVC-ESHRAM"
+  ],
+  "document_suggestions": [
+    "IP number / UAN",
+    "ESIC card / Pehchan card",
+    "Aadhaar",
+    "Bank account"
+  ],
+  "suggested_responses": [
+    "Visit https://www.esic.gov.in",
+    "Call 1800-11-2526"
+  ],
+  "recommendation_weight": 1.0
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Can I apply from a different state than my address?",
+    "answer": "You must apply from your current address jurisdiction; police verification happens at the address given.",
+    "official": true
+  },
+  {
+    "question": "What is the difference between Normal and Tatkaal?",
+    "answer": "Tatkaal is an expedited service with higher fees and pre-verification; Normal follows standard police verification.",
+    "official": true
+  },
+  {
+    "question": "How do I apply for a passport?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What are the passport fees?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How long does a passport take?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I renew my passport?",
+    "answer": "(See official portal https://passportindia.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://passportindia.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-258-1800 / email passport.helpdesk@mea.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Tatkaal: ~1-3 days post verification. Normal: ~30 days (post police verification).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online application + in-person appointment at PSK",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1800-258-1800. Email: passport.helpdesk@mea.gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18).",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

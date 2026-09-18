@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-UDYAM",
+  "ai_summary": "Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits.",
+  "ai_explanation": "Udyam Registration replaces Udyog Aadhaar. Enterprises self-declare with Aadhaar, PAN, GSTIN, and investment/turnover data to get a Udyam certificate, unlocking credit, subsidies, and tender benefits. It is free and instantaneous.",
+  "common_questions": [
+    "How do I register my MSME on Udyam?",
+    "Is Udyam free?",
+    "What documents are needed for Udyam?",
+    "What are MSME limits?"
+  ],
+  "conversation_examples": [
+    {
+      "user": "How do I register my MSME on Udyam?",
+      "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+    },
+    {
+      "user": "Is Udyam free?",
+      "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+    },
+    {
+      "user": "What documents are needed for Udyam?",
+      "bot": "For Udyam Registration (MSME), Udyam is the free online MSME registration giving enterprises a certificate and scheme benefits. You can apply at https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm."
+    }
+  ],
+  "intent_examples": [
+    "apply_svc-udyam",
+    "status_svc-udyam",
+    "eligibility_svc-udyam"
+  ],
+  "user_utterances": [
+    "I want Udyam Registration (MSME)",
+    "Need Udyam Registration (MSME)",
+    "Udyam Registration (MSME) help"
+  ],
+  "follow_up_questions": [
+    "What schemes are available for Udyam enterprises?",
+    "How do I update my Udyam certificate?"
+  ],
+  "recommended_responses": [
+    "Visit https://udyamregistration.gov.in",
+    "Call helpline 1800-180-6763"
+  ],
+  "suggested_actions": [
+    {
+      "action": "open_apply_link",
+      "url": "https://udyamregistration.gov.in/Government-India/Ministry-of-MSME-registration.htm"
+    },
+    {
+      "action": "call_helpline",
+      "number": "1800-180-6763"
+    }
+  ]
+}

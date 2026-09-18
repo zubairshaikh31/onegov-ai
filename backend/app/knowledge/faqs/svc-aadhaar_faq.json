@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Is Aadhaar mandatory for all schemes?",
+    "answer": "Aadhaar is required for subsidies/benefits under Section 7 schemes; alternative ID is permitted where Aadhaar not yet assigned.",
+    "official": true
+  },
+  {
+    "question": "How do I lock/unlock biometrics?",
+    "answer": "Use the TOTP-based lock feature on myAadhaar portal or mAadhaar app.",
+    "official": true
+  },
+  {
+    "question": "How do I enrol for Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I update my address in Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Is Aadhaar mandatory for subsidies?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I download e-Aadhaar?",
+    "answer": "(See official portal https://uidai.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://uidai.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1947 / email help@uidai.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Enrolment: up to 90 days for UID generation (typically sooner). Update: up to 30 days.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Offline (Enrolment Centre) and Online update (SSUP / mAadhaar)",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "What is the official website?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "Is there a fee?",
+    "answer": "Verification Required. Refer to official portal.",
+    "official": false,
+    "note": "Generated explanatory."
+  },
+  {
+    "question": "How do I contact support for this service?",
+    "answer": "Helpline: 1947. Email: help@uidai.gov.in.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  },
+  {
+    "question": "Is there any fee for this service?",
+    "answer": "Enrolment: free. Demographic update: free. Biometric update: Rs. 100 (inclusive of GST) as per UIDAI fee schedule.",
+    "official": false,
+    "note": "Generated explanatory FAQ based on verified official information; verify on official portal."
+  }
+]

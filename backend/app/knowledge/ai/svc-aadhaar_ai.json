@@ -1,0 +1,38 @@
+{
+  "service_id": "SVC-AADHAAR",
+  "ai_summary": "Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery.",
+  "ai_explanation": "Aadhaar links a resident's identity to demographic and biometric data. It is the foundational ID for Direct Benefit Transfer, opening bank accounts, filing taxes, and availing schemes. Enrolment is free; updates may carry a fee. It is not proof of citizenship.",
+  "eligibility_summary": "Any resident of India (including infants) irrespective of citizenship status of parents for enrolment; updates available to existing holders.",
+  "conversation_examples": [
+    {
+      "user": "I want Aadhaar Enrolment & Update",
+      "bot": "Aadhaar is India's 12-digit resident identity number issued by UIDAI, used for KYC and government benefit delivery. Apply: https://myaadhaar.uidai.gov.in. Helpline: 1947."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Aadhaar Enrolment & Update. Use only official info from https://uidai.gov.in.",
+  "follow_up_questions": [
+    "How do I link Aadhaar to my bank account for DBT?",
+    "What documents are valid as Aadhaar PoA/PoI?"
+  ],
+  "intent_examples": [
+    "apply_svc-aadhaar",
+    "status_svc-aadhaar",
+    "eligibility_svc-aadhaar"
+  ],
+  "recommended_services": [
+    "SVC-DIGILOCKER",
+    "SVC-DIGILOCKER",
+    "SVC-ESHRAM",
+    "SVC-PMKISAN"
+  ],
+  "document_suggestions": [
+    "Proof of Identity (PoI)",
+    "Proof of Address (PoA)",
+    "Date of Birth proof"
+  ],
+  "suggested_responses": [
+    "Visit https://uidai.gov.in",
+    "Call 1947"
+  ],
+  "recommendation_weight": 1.0
+}

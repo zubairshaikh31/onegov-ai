@@ -1,0 +1,46 @@
+{
+  "service_id": "SVC-AMRUT",
+  "name": "AMRUT (Urban Water/Sewerage)",
+  "category_id": "CAT-STATE",
+  "sub_category": "Urban Infrastructure",
+  "department_id": "DEP-MAH",
+  "ministry_id": "MIN-MAH",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Atal Mission for Rejuvenation and Urban Transformation: water, sewerage, urban transport.",
+  "eligibility": "Urban local bodies / residents.",
+  "benefits": "Improved water supply and sewerage.",
+  "required_documents": [
+    "Address proof"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Apply via ULB/portal."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://amrut.mohua.gov.in",
+  "official_apply_link": "https://amrut.mohua.gov.in",
+  "download_forms": "https://amrut.mohua.gov.in",
+  "helpline_number": "Not Available",
+  "email": "Not Available",
+  "office_locator_info": "Refer to official portal",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://amrut.mohua.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-07-25T00:00:00Z",
+  "kb_version": "4.1.0",
+  "ai_summary": "AMRUT improves urban water and sewerage infrastructure.",
+  "ai_explanation": "Atal Mission for Rejuvenation and Urban Transformation: water, sewerage, urban transport.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "amrut",
+    "urban water"
+  ],
+  "suggested_followups": [],
+  "_expanded_v5": true
+}

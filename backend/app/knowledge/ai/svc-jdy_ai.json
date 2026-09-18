@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-JDY",
+  "ai_summary": "PMJDY provides every household a zero-balance bank account with RuPay card and insurance cover.",
+  "ai_explanation": "National mission for financial inclusion providing zero-balance bank accounts with RuPay debit card and insurance.",
+  "eligibility_summary": "Any Indian citizen (resident) above 10 years; one account per person.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "bot": "PMJDY provides every household a zero-balance bank account with RuPay card and insurance cover. Apply: https://www.pmjdy.gov.in. Helpline: 1800-11-0001."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Jan Dhan Yojana (PMJDY). Use only official info from https://www.pmjdy.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-jdy",
+    "status_svc-jdy",
+    "eligibility_svc-jdy"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Aadhaar",
+    "Identity proof",
+    "Address proof"
+  ],
+  "suggested_responses": [
+    "Visit https://www.pmjdy.gov.in",
+    "Call 1800-11-0001"
+  ],
+  "recommendation_weight": 1.0
+}

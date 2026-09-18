@@ -1,0 +1,21 @@
+{
+  "name": "Passport Seva (Re-enrich)",
+  "description": "Passport issuance, renewal, miscellaneous services.",
+  "benefits": "Passport for travel.",
+  "eligibility": "Indian citizens.",
+  "documents": [
+    "Birth cert",
+    "Address proof",
+    "Aadhaar"
+  ],
+  "steps": [
+    "Register on Passport Seva.",
+    "Pay & book appointment.",
+    "Visit PSK; police verify; receive passport."
+  ],
+  "faqs": [],
+  "keywords": [
+    "passport",
+    "passport seva"
+  ]
+}

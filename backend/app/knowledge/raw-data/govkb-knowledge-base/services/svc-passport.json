@@ -1,0 +1,40 @@
+{
+  "service_id": "SVC-PASSPORT",
+  "name": "Passport Issuance (Passport Seva)",
+  "category": "CAT-IDENTITY",
+  "sub_category": "Travel Document",
+  "department": "DEP-PSP",
+  "ministry": "MIN-MEA",
+  "central_state": "Central",
+  "state": null,
+  "description": "Issuance/renewal of Indian passports (ordinary, Tatkaal, diplomatic/official) by the Ministry of External Affairs through Passport Seva Kendras (PSK) and Post Office PSKs.",
+  "benefits": "Internationally recognised travel document; enables visa-free/visa-on-arrival access; Tatkaal for urgent issue.",
+  "eligibility": "Indian citizen; must provide proof of date of birth, address, and nationality. Minors require parent consent.",
+  "required_documents": [
+    "Proof of Date of Birth",
+    "Proof of Address (current)",
+    "Proof of nationality / old passport (if renewing)",
+    "Annexure as applicable"
+  ],
+  "optional_documents": [
+    "Marriage certificate (name change)",
+    "ECNR eligibility proof"
+  ],
+  "fees": "Normal 36-page: Rs. 1500. Tatkaal 36-page: Rs. 3500. (10-year validity for adults; minors 5 years / till age 18).",
+  "processing_time": "Tatkaal: ~1-3 days post verification. Normal: ~30 days (post police verification).",
+  "validity": "10 years for adults; 5 years or till age 18 for minors.",
+  "application_mode": "Online application + in-person appointment at PSK",
+  "official_website": "https://passportindia.gov.in",
+  "official_apply_link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+  "download_forms": "https://passportindia.gov.in/AppOnlineProject/online/freshFormSubmission",
+  "helpline": "1800-258-1800",
+  "email": "passport.helpdesk@mea.gov.in",
+  "office_locator": "PSK/PopSK locator at https://passportindia.gov.in -> 'Locate PSK'",
+  "working_hours": "",
+  "languages_available": "English, Hindi",
+  "last_updated": "2024-01-01",
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "2.0.0",
+  "source_url": "https://passportindia.gov.in",
+  "collection_method": "official_portal"
+}

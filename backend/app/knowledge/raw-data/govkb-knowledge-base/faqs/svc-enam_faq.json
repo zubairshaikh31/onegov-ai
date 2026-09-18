@@ -1,0 +1,55 @@
+[
+  {
+    "question": "Which states are covered?",
+    "answer": "Most states with APMC integration; check the mandi list on the portal.",
+    "official": true
+  },
+  {
+    "question": "What is eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "How do I sell on eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "Which mandis are on eNAM?",
+    "answer": "(See official portal https://enam.gov.in for authoritative detail.)",
+    "official": false,
+    "note": "Generated explanatory FAQ based on official information; verify on portal."
+  },
+  {
+    "question": "What is the official website for this service?",
+    "answer": "https://enam.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Helpline 1800-270-0222 / email enam@agtech.gov.in",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Is there any fee?",
+    "answer": "Transaction charges as per APMC bye-laws; platform access free for farmers.",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "How long does it take?",
+    "answer": "Trade settlement as per mandi rules (typically within mandated days).",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  },
+  {
+    "question": "Can I apply online?",
+    "answer": "Online (enam.gov.in) and via mandi terminals",
+    "official": false,
+    "note": "Generated explanatory FAQ."
+  }
+]

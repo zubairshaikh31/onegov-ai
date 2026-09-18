@@ -1,0 +1,8 @@
+{
+  "service_id": "SVC-SUKANYA",
+  "prerequisite": [],
+  "dependent": [],
+  "complementary": [],
+  "alternative": [],
+  "chain_example": "SVC-SUKANYA"
+}

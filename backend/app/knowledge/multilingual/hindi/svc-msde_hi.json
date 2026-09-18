@@ -1,0 +1,19 @@
+{
+  "name": "प्रधानमंत्री कौशल विकास योजना",
+  "description": "Flagship skill-certification scheme offering free short-term training and certification to youth.",
+  "benefits": "Free training, certification, placement support, monetary reward on certification.",
+  "eligibility": "Indian youth (often 15-45) seeking skill certification.",
+  "documents": [
+    "Aadhaar",
+    "Educational proof",
+    "Bank account",
+    "Age proof"
+  ],
+  "steps": [
+    "Find PMKVY training centre (Training Partner).",
+    "Enrol with Aadhaar and documents.",
+    "Complete training; appear for assessment; get certificate."
+  ],
+  "faqs": [],
+  "keywords": []
+}

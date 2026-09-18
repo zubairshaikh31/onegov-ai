@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0018",
+    "service_id": "SVC-UMANG",
+    "name": "UMANG (Unified Mobile App for New-age Governance)",
+    "category_id": "CAT-DIGITAL",
+    "government_level": "Central",
+    "official_portal": "https://umang.gov.in"
+  }
+]

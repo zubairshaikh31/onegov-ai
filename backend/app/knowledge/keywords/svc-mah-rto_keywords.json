@@ -1,0 +1,29 @@
+{
+  "service_id": "SVC-MAH-RTO",
+  "keywords": [
+    "maharashtra rto",
+    "driving licence maharashtra",
+    "transport department",
+    "rc maharashtra"
+  ],
+  "search_keywords": [
+    "maharashtra rto online",
+    "driving licence maharashtra apply",
+    "rc transfer maharashtra"
+  ],
+  "aliases": [
+    "maharashtra rto",
+    "driving licence maharashtra",
+    "transport department",
+    "rc maharashtra"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want Maharashtra Transport (RTO) Services",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply Maharashtra Transport (RTO) Services"
+  ]
+}

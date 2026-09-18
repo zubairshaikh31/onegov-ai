@@ -1,0 +1,10 @@
+{
+  "service_id": "SVC-JDY",
+  "references": [
+    {
+      "act": "Scheme guidelines notified by Dept of Financial Services",
+      "rule": "PMJDY operational guidelines",
+      "authority": "Ministry of Finance"
+    }
+  ]
+}

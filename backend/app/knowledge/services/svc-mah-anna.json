@@ -1,0 +1,53 @@
+{
+  "service_id": "SVC-MAH-ANNA",
+  "name": "Maha Anna (Maharashtra Ration / NFSA)",
+  "category_id": "CAT-STATE",
+  "sub_category": "Food & PDS (Maharashtra)",
+  "department_id": "DEP-MAH-FOOD",
+  "ministry_id": "MIN-MAH",
+  "government_level": "State",
+  "state_id": "MH",
+  "description": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+  "eligibility": "Maharashtra households meeting NFSA/state poverty criteria.",
+  "benefits": "Subsidised rice/wheat/cereals via Fair Price Shops; portability under One Nation One Ration Card.",
+  "required_documents": [
+    "Aadhaar",
+    "Address proof",
+    "Income proof",
+    "Family details"
+  ],
+  "optional_documents": [],
+  "application_mode": "Online (official portal) and designated offices",
+  "application_steps": [
+    "Apply via MahaFood portal / rationing office.",
+    "Verification by authority.",
+    "Issuance; avail PDS."
+  ],
+  "processing_time": "Verification Required",
+  "fees": "Verification Required",
+  "validity": "Verification Required",
+  "official_portal": "https://mahafood.gov.in",
+  "official_apply_link": "https://mahafood.gov.in",
+  "download_forms": "https://mahafood.gov.in",
+  "helpline_number": "1800-222-362",
+  "email": "fcscrti-maha@gov.in",
+  "office_locator_info": "Refer to official portal / nearest office",
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "source_url": "https://mahafood.gov.in",
+  "collection_method": "official_portal",
+  "collected_at": "2026-08-02T09:59:26Z",
+  "kb_version": "4.0.0",
+  "ai_summary": "Maha Anna is Maharashtra's NFSA ration system providing subsidised foodgrains through PDS.",
+  "ai_explanation": "Maharashtra NFSA ration card and Public Distribution System for subsidised foodgrains.",
+  "common_questions": [],
+  "common_mistakes": [],
+  "search_keywords": [
+    "maha anna",
+    "maharashtra ration",
+    "nfsa maharashtra",
+    "pds"
+  ],
+  "suggested_followups": [],
+  "_expanded": true
+}

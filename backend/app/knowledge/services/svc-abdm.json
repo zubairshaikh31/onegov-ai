@@ -1,0 +1,83 @@
+{
+  "service_id": "SVC-ABDM",
+  "name": "Ayushman Bharat Digital Mission (ABHA)",
+  "category_id": "CAT-HEALTH",
+  "sub_category": "Digital Health",
+  "department_id": "DEP-MoHFW",
+  "ministry_id": "MIN-HEA",
+  "government_level": "Central",
+  "state_id": null,
+  "description": "Creates a digital health ecosystem: ABHA ID, Health ID, Personal Health Records (PHR), and interoperable health information exchange.",
+  "eligibility": "Any Indian resident (voluntary opt-in).",
+  "benefits": "Single health ID to link records across providers; consent-based sharing; easier continuity of care.",
+  "required_documents": [
+    "Aadhaar / Driving Licence / any govt ID for ABHA creation"
+  ],
+  "optional_documents": [
+    "Mobile number for OTP"
+  ],
+  "application_mode": "Online (abdm.gov.in / ABHA app) and via health facilities",
+  "application_steps": [
+    "Visit abdm.gov.in or ABHA app.",
+    "Authenticate with Aadhaar OTP or other ID.",
+    "Create 14-digit ABHA number / Health ID.",
+    "Link PHR address and records from providers.",
+    "Manage consent for record sharing."
+  ],
+  "processing_time": "Instant ABHA creation.",
+  "fees": "Free.",
+  "validity": "Until cancelled by user; voluntary.",
+  "official_portal": "https://abdm.gov.in",
+  "official_apply_link": "https://abha.abdm.gov.in",
+  "download_forms": "https://abdm.gov.in",
+  "helpline_number": "1800-11-4477 / 1800-11-6644",
+  "email": "support@abdm.gov.in",
+  "office_locator_info": "ABDM-enabled health facilities and CSCs.",
+  "faq": [
+    {
+      "q": "Is ABHA mandatory?",
+      "a": "No, it is voluntary; you can opt out."
+    },
+    {
+      "q": "Is my health data safe?",
+      "a": "Sharing is consent-based and governed by the ABDM data-sharing framework."
+    }
+  ],
+  "related_services": [
+    "SVC-PMJAY"
+  ],
+  "keywords": [
+    "abdm",
+    "abha",
+    "health id",
+    "digital health",
+    "phr"
+  ],
+  "languages_available": "Hindi, English, regional",
+  "last_updated": "2024-01-01",
+  "collection_method": "official_portal",
+  "source_url": "https://abdm.gov.in",
+  "ai_summary": "ABDM provides a voluntary ABHA health ID to link and consent-share medical records across providers.",
+  "ai_explanation": "ABDM builds a digital health infrastructure where residents create an ABHA ID to consolidate health records and share them with providers on a consent basis. It is free and voluntary, improving continuity of care.",
+  "common_questions": [
+    "What is ABHA ID?",
+    "How do I create a Health ID?",
+    "Is ABHA mandatory?",
+    "How is my data protected?"
+  ],
+  "common_mistakes": [
+    "Confusing ABHA with Ayushman card",
+    "Assuming it is mandatory"
+  ],
+  "search_keywords": [
+    "abha id create",
+    "abdm health record",
+    "health id india"
+  ],
+  "suggested_followups": [
+    "How do I link my hospital records to ABHA?",
+    "How do I revoke data consent?"
+  ],
+  "collected_at": "2026-07-25T17:24:25Z",
+  "kb_version": "3.0.0"
+}

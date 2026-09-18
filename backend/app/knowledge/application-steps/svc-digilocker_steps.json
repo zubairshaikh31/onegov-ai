@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "description": "Sign up at digilocker.gov.in with Aadhaar OTP."
+  },
+  {
+    "step": 2,
+    "description": "Link mobile; set username/password."
+  },
+  {
+    "step": 3,
+    "description": "Fetch issued documents from registered issuers."
+  },
+  {
+    "step": 4,
+    "description": "Upload personal documents; share via URI/QR."
+  }
+]

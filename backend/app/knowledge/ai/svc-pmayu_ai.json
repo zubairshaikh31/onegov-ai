@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-PMAYU",
+  "ai_summary": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house.",
+  "ai_explanation": "PMAY-U aims 'Housing for All' in urban areas via Credit Linked Subsidy (CLSS) and direct construction support. Eligible households without a pucca house apply online or via ULBs; subsidy is credited to the loan account.",
+  "eligibility_summary": "Urban households in EWS/LIG/MIG categories with no pucca house; income and property criteria apply.",
+  "conversation_examples": [
+    {
+      "user": "I want Pradhan Mantri Awas Yojana (Urban)",
+      "bot": "PMAY-U gives urban EWS/LIG/MIG households interest subsidy and support to build/buy a pucca house. Apply: https://pmaymis.gov.in/. Helpline: 1800-11-6446 / 011-23063285."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Pradhan Mantri Awas Yojana (Urban). Use only official info from https://pmaymis.gov.in.",
+  "follow_up_questions": [
+    "What are the PMAY-U income limits?",
+    "How is the CLSS subsidy calculated?"
+  ],
+  "intent_examples": [
+    "apply_svc-pmayu",
+    "status_svc-pmayu",
+    "eligibility_svc-pmayu"
+  ],
+  "recommended_services": [
+    "SVC-AADHAAR"
+  ],
+  "document_suggestions": [
+    "Aadhaar",
+    "Income proof",
+    "Address proof",
+    "Bank account",
+    "Property/land documents"
+  ],
+  "suggested_responses": [
+    "Visit https://pmaymis.gov.in",
+    "Call 1800-11-6446 / 011-23063285"
+  ],
+  "recommendation_weight": 1.0
+}

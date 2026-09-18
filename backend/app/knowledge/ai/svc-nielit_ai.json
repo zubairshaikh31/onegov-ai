@@ -1,0 +1,30 @@
+{
+  "service_id": "SVC-NIELIT",
+  "ai_summary": "NIELIT offers government-recognized electronics and IT certifications and digital literacy courses.",
+  "ai_explanation": "NIELIT provides electronics/IT training, certifications (O/A/B/C level), and digital literacy courses.",
+  "eligibility_summary": "Candidates per course (schooling/diploma as applicable).",
+  "conversation_examples": [
+    {
+      "user": "I want NIELIT Certification & Services",
+      "bot": "NIELIT offers government-recognized electronics and IT certifications and digital literacy courses. Apply: https://www.nielit.gov.in. Helpline: Not Available."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with NIELIT Certification & Services. Use only official info from https://www.nielit.gov.in.",
+  "follow_up_questions": [],
+  "intent_examples": [
+    "apply_svc-nielit",
+    "status_svc-nielit",
+    "eligibility_svc-nielit"
+  ],
+  "recommended_services": [],
+  "document_suggestions": [
+    "Educational certificates",
+    "Aadhaar",
+    "Photo"
+  ],
+  "suggested_responses": [
+    "Visit https://www.nielit.gov.in",
+    "Call Not Available"
+  ],
+  "recommendation_weight": 1.0
+}

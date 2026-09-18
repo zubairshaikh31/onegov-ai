@@ -1,0 +1,27 @@
+{
+  "service_id": "SVC-WB-DUARE",
+  "keywords": [
+    "duare sarkar",
+    "wb edistrict",
+    "west bengal services"
+  ],
+  "search_keywords": [
+    "duare sarkar",
+    "wb edistrict",
+    "west bengal services"
+  ],
+  "aliases": [
+    "duare sarkar",
+    "wb edistrict",
+    "west bengal services"
+  ],
+  "synonyms": [],
+  "common_misspellings": [],
+  "voice_queries": [
+    "I want West Bengal Duare Sarkar / e-District",
+    "Need {s['name']}"
+  ],
+  "nl_queries": [
+    "how to apply West Bengal Duare Sarkar / e-District"
+  ]
+}

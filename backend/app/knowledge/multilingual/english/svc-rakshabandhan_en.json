@@ -1,0 +1,28 @@
+{
+  "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "description": "Government accident insurance scheme with Rs. 2 lakh cover for death/disablement at premium Rs. 20/year.",
+  "benefits": "Low-cost accidental death/disablement cover; auto-debit enrolment.",
+  "eligibility": "Indian citizens aged 18-70 with a linked bank account.",
+  "documents": [
+    "Aadhaar",
+    "Bank account"
+  ],
+  "steps": [
+    "Visit bank or jansuraksha.gov.in.",
+    "Give consent for auto-debit of Rs. 20.",
+    "Get enrolled; download certificate."
+  ],
+  "faqs": [
+    "What is Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+    "What is the official website?",
+    "How do I contact support?",
+    "Is there a fee?",
+    "How long does it take?"
+  ],
+  "keywords": [
+    "pmsby",
+    "accident insurance",
+    "jansuraksha",
+    "suraksha bima"
+  ]
+}

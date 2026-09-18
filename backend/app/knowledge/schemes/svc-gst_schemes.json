@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SCH-0016",
+    "service_id": "SVC-GST",
+    "name": "GST Registration & Returns",
+    "category_id": "CAT-FINANCE",
+    "government_level": "Central",
+    "official_portal": "https://www.gst.gov.in"
+  }
+]

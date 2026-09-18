@@ -1,0 +1,37 @@
+{
+  "service_id": "SVC-DL",
+  "ai_summary": "Driving Licence (Sarathi / Parivahan) is a central government service under Ministry of Road Transport and Highways in the Transport category, available both.",
+  "ai_explanation": "Driving Licence (Sarathi / Parivahan) is Application for learner's licence, driving licence, and renewals through the Parivahan Sarathi portal. Eligibility: Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test.. Benefits: Legal authorisation to drive; valid identity/address proof.. You can apply both via https://parivahan.gov.in. Processing time is typically Learner's licence same day (online test); DL after driving test, ~7-30 days. and fees are Learner's ~Rs.150; DL ~Rs.200+ (varies by state RTO)..",
+  "eligibility_summary": "Minimum age 16 (gearless <50cc) / 18 (LMV); pass driving test.",
+  "conversation_examples": [
+    {
+      "user": "I want Driving Licence (Sarathi / Parivahan)",
+      "bot": "Driving Licence (Sarathi / Parivahan) is a central government service under Ministry of Road Transport and Highways in the Transport category, available both. Apply: https://sarathi.parivahan.gov.in. Helpline: 0120-2459169."
+    }
+  ],
+  "prompt_template": "You are OneGov AI helping with Driving Licence (Sarathi / Parivahan). Use only official info from https://parivahan.gov.in.",
+  "follow_up_questions": [
+    "Do I need to visit an office in person for Driving Licence (Sarathi / Parivahan)?",
+    "Can I track my Driving Licence (Sarathi / Parivahan) application status online?",
+    "What should I do if my Driving Licence (Sarathi / Parivahan) application is rejected?",
+    "Are there any state-specific rules for Driving Licence (Sarathi / Parivahan) in Maharashtra?"
+  ],
+  "intent_examples": [
+    "apply_svc-dl",
+    "status_svc-dl",
+    "eligibility_svc-dl"
+  ],
+  "recommended_services": [
+    "SVC-PARIVAHAN"
+  ],
+  "document_suggestions": [
+    "Proof of Age",
+    "Proof of Address",
+    "Passport photos"
+  ],
+  "suggested_responses": [
+    "Visit https://parivahan.gov.in",
+    "Call 0120-2459169"
+  ],
+  "recommendation_weight": 1.0
+}

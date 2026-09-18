@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "description": "Register on passportindia.gov.in and fill the application form."
+  },
+  {
+    "step": 2,
+    "description": "Pay fee and book appointment at nearest PSK/PopSK."
+  },
+  {
+    "step": 3,
+    "description": "Visit PSK with originals + photocopies for document verification and biometric capture."
+  },
+  {
+    "step": 4,
+    "description": "Police verification (for fresh passports) at registered address."
+  },
+  {
+    "step": 5,
+    "description": "Passport printed and dispatched; track status online."
+  }
+]
